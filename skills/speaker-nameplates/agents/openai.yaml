@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speaker Nameplates"
+  short_description: "Create editable lower thirds with recorded examples"
+  default_prompt: "Use $speaker-nameplates to turn my brief into an original motion piece and deliver the rendered files plus editable inputs."

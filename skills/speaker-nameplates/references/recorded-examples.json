@@ -1,0 +1,434 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $speaker-nameplates to create \"Introduce the conversation\" for the fictional Open Studio. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Include the transparent WebM and check its alpha on bright and dark backgrounds.",
+    "report": {
+      "edition": 2,
+      "mode": "lower",
+      "sourceSha256": "ed7126c272600ca06da5bbcdc3cacf8cf7ad4a70d6205989b0cadcb613e52eda",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "96163c5aaf06f360553b43436c385186f8160d7d7279dcb555b317f196134561",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "alpha-encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "brief.json": {
+          "sha256": "9af7404e8c3c6b436e95cd0503e4196eb01e4830b80af48d45f57fd393415410",
+          "bytes": 260
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "c4994cb7de116ed4611d2afb9a0daa9cb974b212155b17d51cd94149fcd513ca",
+          "bytes": 173422
+        },
+        "overlay.webm": {
+          "sha256": "724805883dc10c1ef1e61d85c2d1210066be1728a1575ab5fd3da19496faa7fa",
+          "bytes": 45503
+        },
+        "poster.png": {
+          "sha256": "e9ce49604c21a098f885770b57ec57cffc5ab6d333eac7c312ea7f8b2b53387e",
+          "bytes": 77656
+        },
+        "preview.html": {
+          "sha256": "c6ce55e3df5bdd1c01ba8de28a1ff24f8171cae03631ef49894e68846f87d770",
+          "bytes": 671
+        },
+        "review-01.png": {
+          "sha256": "4fca3df856f1adef491fdddaf19f50bdd2abb7acd910a9205c2fd6d4cbf26795",
+          "bytes": 66741
+        },
+        "review-02.png": {
+          "sha256": "ce1d051a69e206053bb7135f3cd2d9ec9fdf71322418990d7100463274c261a8",
+          "bytes": 77677
+        },
+        "review-03.png": {
+          "sha256": "23b271e4f5bbfd136599e1c96c9051aad6f2871ceb05c2792fa4f98dfb30717f",
+          "bytes": 77737
+        },
+        "review-04.png": {
+          "sha256": "16cb8410dcdf3b04878b1af8b5d091db7d6883cd780dbb814fa1b72a864ccea2",
+          "bytes": 77536
+        },
+        "review-05.png": {
+          "sha256": "87e90829fd746c17d2fa449cf0c4841d739dd8fc55ecb8c3c479b1b2579fc084",
+          "bytes": 66786
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      },
+      "overlay": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "vp9",
+        "decode": "pass"
+      },
+      "alphaCheck": {
+        "first": {
+          "min": 0,
+          "max": 0
+        },
+        "hold": {
+          "min": 0,
+          "max": 255
+        },
+        "last": {
+          "min": 0,
+          "max": 0
+        }
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $speaker-nameplates to create \"A guest with a point of view\" for the fictional Signal Sessions. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Include the transparent WebM and check its alpha on bright and dark backgrounds.",
+    "report": {
+      "edition": 2,
+      "mode": "lower",
+      "sourceSha256": "aa437b6934f8bca2f9edfd440905356ca557d3e5f096ccb40e4285696018585c",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "96163c5aaf06f360553b43436c385186f8160d7d7279dcb555b317f196134561",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "alpha-encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "brief.json": {
+          "sha256": "365fdf1b6d5d550e9176392e275d5ee43df26f3cb6537ef08adb317f336310b8",
+          "bytes": 292
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "01cdbdee200a8a12831cf3c55125377ac8349ea2bb4549f1f2caa4e8e1f36e11",
+          "bytes": 174081
+        },
+        "overlay.webm": {
+          "sha256": "085b1d2c178406f801c7cde6d080192e0d0b8af9f170c8939fe65933413af5be",
+          "bytes": 53081
+        },
+        "poster.png": {
+          "sha256": "3de0f02fb3b6bdf3d582c363a58dd34aa361b0846f03170bcd3aa893436920ae",
+          "bytes": 85166
+        },
+        "preview.html": {
+          "sha256": "518ec91de33089670f1755dd5daf1171117b34a557d3cd14000d2908ae985cc2",
+          "bytes": 675
+        },
+        "review-01.png": {
+          "sha256": "49905c7a2cac19b24a34ab212a1c1b008ff89131560fcc9ff695fb1734e9e759",
+          "bytes": 72152
+        },
+        "review-02.png": {
+          "sha256": "b22dd5a89c9ca046bdfce22705c5fe79d51df3f993fdceee08f90c2209b9cb4a",
+          "bytes": 85407
+        },
+        "review-03.png": {
+          "sha256": "f89471488099759dd9d054b15ad87d5e90e03a6ca4c30fcc9d3624674569d380",
+          "bytes": 85388
+        },
+        "review-04.png": {
+          "sha256": "09164f950457fd3e2b30a6964f649fa80e24dd1dbf178ab6b31c46e1cbaabc96",
+          "bytes": 85086
+        },
+        "review-05.png": {
+          "sha256": "33d3bef68a8a32b86862492702fb1b6ee7798ca99892f912b27c3e285f76f190",
+          "bytes": 72073
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      },
+      "overlay": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "vp9",
+        "decode": "pass"
+      },
+      "alphaCheck": {
+        "first": {
+          "min": 0,
+          "max": 0
+        },
+        "hold": {
+          "min": 0,
+          "max": 255
+        },
+        "last": {
+          "min": 0,
+          "max": 0
+        }
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $speaker-nameplates to create \"Make the lesson personal\" for the fictional Garden Classroom. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Include the transparent WebM and check its alpha on bright and dark backgrounds.",
+    "report": {
+      "edition": 2,
+      "mode": "lower",
+      "sourceSha256": "84c19ef4f882aa35e5bb86c63a3c7545b186ed4c95312f3ef8aa0df2fbbd2afd",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "96163c5aaf06f360553b43436c385186f8160d7d7279dcb555b317f196134561",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "alpha-encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "brief.json": {
+          "sha256": "7b2887e6cee69adde2c113dc2dcd77b2ea90995919a5288f949c20bf0ac9546a",
+          "bytes": 291
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "44ae2306d79eea39b5303256c2bdcc799f3826187403492e15f038004fe5dafc",
+          "bytes": 157830
+        },
+        "overlay.webm": {
+          "sha256": "69da83b98d71c3546139089dc762812d892e279d5a1e14b95b119227f4d56cf9",
+          "bytes": 50003
+        },
+        "poster.png": {
+          "sha256": "5e87042c58679a1a23d34701c403766d1c87f2a22d224abeb5231d0de923d365",
+          "bytes": 81494
+        },
+        "preview.html": {
+          "sha256": "5c9b86fdc0f0e67420ad34713fb269707569a618172fb4219f101d1f3a02312c",
+          "bytes": 667
+        },
+        "review-01.png": {
+          "sha256": "7697dee3427c4287e5084bd151991bbf0ada254fb854f2b907523d33e1ff6710",
+          "bytes": 66210
+        },
+        "review-02.png": {
+          "sha256": "83fd56e926671ee5a46d7243442f8c34b283cf1ad21168b7aaab337f264c2292",
+          "bytes": 81462
+        },
+        "review-03.png": {
+          "sha256": "70bff46e0b3dbff90e7bea790b9c6374b1e1fa19c3fb5d3967784425de7f7231",
+          "bytes": 81559
+        },
+        "review-04.png": {
+          "sha256": "889d97425e0175594e534b2121f315d9885c408603910b4c9cf6f8034e8fa9e1",
+          "bytes": 81369
+        },
+        "review-05.png": {
+          "sha256": "814855c93be2befa770a75990cbd271497033a935fe11373913d19a7d1a7106d",
+          "bytes": 66104
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      },
+      "overlay": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "vp9",
+        "decode": "pass"
+      },
+      "alphaCheck": {
+        "first": {
+          "min": 0,
+          "max": 0
+        },
+        "hold": {
+          "min": 0,
+          "max": 255
+        },
+        "last": {
+          "min": 0,
+          "max": 0
+        }
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $speaker-nameplates to create \"Give the speaker context\" for the fictional Field Assembly. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Include the transparent WebM and check its alpha on bright and dark backgrounds.",
+    "report": {
+      "edition": 2,
+      "mode": "lower",
+      "sourceSha256": "c83ea802c0a70227c0f7618dd760150c29ea588fa0d271a484a591126a19ce8d",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "96163c5aaf06f360553b43436c385186f8160d7d7279dcb555b317f196134561",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "alpha-encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "brief.json": {
+          "sha256": "8a491c1e1079338abd9feacb7a4ffb14b8c0d131ba10646c0940f052ed837b3f",
+          "bytes": 296
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "63c793a58f0740233ef9a108b859e27f2d18534e56a9c8e41568e7df35e134e9",
+          "bytes": 185830
+        },
+        "overlay.webm": {
+          "sha256": "9fcbacc2646e9189c5f736dace9e4c00db0bead96993f62ed6a51278f15bc28a",
+          "bytes": 56900
+        },
+        "poster.png": {
+          "sha256": "3b3954f369b9fde2094e464f781152603c94f4783c08d013d55172e49ce1c10c",
+          "bytes": 83067
+        },
+        "preview.html": {
+          "sha256": "7465a6aac562af0e2f3942d3155b3b9fd46f24aabfde697fcd628d2148ac7cc5",
+          "bytes": 667
+        },
+        "review-01.png": {
+          "sha256": "b5350368b1345d295d82142aa2e92a84b1fbd6619f64e4b241d5b7809851cb21",
+          "bytes": 67852
+        },
+        "review-02.png": {
+          "sha256": "8e064d875eab836d0884da4f72f768c79315c5f6d865b4eff4cc077c55bf400c",
+          "bytes": 83137
+        },
+        "review-03.png": {
+          "sha256": "f00e911cfd274acf831834fc6db3d39415e86ba826911188933ceeb50281900e",
+          "bytes": 83052
+        },
+        "review-04.png": {
+          "sha256": "4d6f0526aa91d212ba6210343668a005b8d261912d5af507a4f6f6334309c6c1",
+          "bytes": 82976
+        },
+        "review-05.png": {
+          "sha256": "6d6f4c6c2858e08c61ea228d4b3adf5e6e83e6dd7bea9c4a4634324cc8347354",
+          "bytes": 67785
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      },
+      "overlay": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "vp9",
+        "decode": "pass"
+      },
+      "alphaCheck": {
+        "first": {
+          "min": 0,
+          "max": 0
+        },
+        "hold": {
+          "min": 0,
+          "max": 255
+        },
+        "last": {
+          "min": 0,
+          "max": 0
+        }
+      }
+    }
+  }
+]
