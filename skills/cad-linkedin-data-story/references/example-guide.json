@@ -1,0 +1,43 @@
+{
+  "skill": "cad-linkedin-data-story",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Workshop topics",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "123966d7d9326e81ac4e8385d3d597172b3eeb10d907494d78c327a667fba441",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-data-story. Create a new output based on the packaged example \"Workshop topics\". Brief: Explicit synthetic dataset: hypothetical workshop topic preferences, Research 50%, Writing 30%, Design 20%; totals 100%. Not customer research. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A sample time comparison",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "c081cea81819a623516d6f9a3a1ea4f26b604184438d3ba0bdc2656099ce8097",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-data-story. Create a new output based on the packaged example \"A sample time comparison\". Brief: Explicit synthetic dataset: two fictional task durations, Task A 20 minutes, Task B 40 minutes. Difference 20 minutes; no improvement, causation or business result claimed. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A workshop plan",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "68c5dea98c620d0ce70890ef9301a017ab58bf10a65944f97d243f410f26028e",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-data-story. Create a new output based on the packaged example \"A workshop plan\". Brief: Explicit fictional demonstration plan for November 2026: 6 sessions across 3 topics. Distinct units, no performance comparison or customer evidence. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A sample reading log",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "ac849435f8ffa040d1b513890bbc82f9011689a03d774e626cef1c9cb45ac0cf",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-data-story. Create a new output based on the packaged example \"A sample reading log\". Brief: Explicit synthetic October 2026 reading log: 8 nonfiction books and 12 fiction books, total 20. Not a real person\u2019s or company\u2019s result. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

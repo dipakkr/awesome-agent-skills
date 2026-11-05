@@ -1,0 +1,32 @@
+{
+  "fictionalDemonstration": true,
+  "notCustomerEvidence": true,
+  "datasets": [
+    {
+      "title": "Illustrative workshop topic preferences",
+      "period": "No real observation period; synthetic demonstration created 2026-10-28",
+      "unit": "percent",
+      "values": {
+        "Research": 50,
+        "Writing": 30,
+        "Design": 20
+      },
+      "checks": {
+        "total": 100
+      }
+    },
+    {
+      "title": "Illustrative duration comparison",
+      "period": "No real observation period; synthetic demonstration created 2026-10-28",
+      "unit": "minutes",
+      "values": {
+        "Task A": 20,
+        "Task B": 40
+      },
+      "checks": {
+        "difference": 20,
+        "ratio": 2
+      }
+    }
+  ]
+}
