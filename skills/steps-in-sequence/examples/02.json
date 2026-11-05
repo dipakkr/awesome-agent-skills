@@ -1,0 +1,25 @@
+{
+  "brand": "Parcel Club",
+  "title": "A thoughtful delivery",
+  "subtitle": "Four moments in a fictional fulfilment workflow.",
+  "theme": "ink",
+  "source": "Illustrative concept · fictional brand",
+  "steps": [
+    {
+      "label": "Confirm",
+      "detail": "Check the order and delivery details."
+    },
+    {
+      "label": "Prepare",
+      "detail": "Pick the items and inspect the pack."
+    },
+    {
+      "label": "Dispatch",
+      "detail": "Hand the parcel to the carrier."
+    },
+    {
+      "label": "Follow up",
+      "detail": "Make help easy to find after arrival."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "Field Notes",
+  "title": "From question to insight",
+  "subtitle": "A simple four-step interview workflow.",
+  "theme": "chalk",
+  "source": "Illustrative concept · fictional brand",
+  "steps": [
+    {
+      "label": "Frame",
+      "detail": "Choose one question to investigate."
+    },
+    {
+      "label": "Listen",
+      "detail": "Ask for a concrete recent example."
+    },
+    {
+      "label": "Compare",
+      "detail": "Group patterns across the interviews."
+    },
+    {
+      "label": "Decide",
+      "detail": "Choose the next assumption to test."
+    }
+  ]
+}

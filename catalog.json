@@ -796,6 +796,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "steps-in-sequence",
+      "name": "Steps In Sequence",
+      "description": "Reveal a four-step process as numbered cards with a connecting progress rail and short explanations. Use for onboarding, service workflows and teaching a linear sequence.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/steps-in-sequence",
+      "publication": "original-mit"
+    },
+    {
       "package": "talking-models",
       "name": "Talking Models",
       "description": "Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions.",
@@ -2393,6 +2402,24 @@
     "skills/speaker-nameplates/references/recorded-examples.json": "1abc46b75801d749c915d427b13df4eddbf46bf8ed57eae4f07d022a3db17e8f",
     "skills/speaker-nameplates/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
     "skills/speaker-nameplates/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/steps-in-sequence/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/steps-in-sequence/SKILL.md": "44f5c968a383df09014466d9ccb70f5559abad1ddd6bfca6eea36ed885ea8f05",
+    "skills/steps-in-sequence/agents/openai.yaml": "c0d93b8654510ede21822a03ee003f071ace0d7b88acc48d87a156bd4c72fb23",
+    "skills/steps-in-sequence/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/steps-in-sequence/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/steps-in-sequence/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/steps-in-sequence/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/steps-in-sequence/config.json": "269e7a8c56743f8fb7568e4bf08e7526b540402c6101ec0115cf0fea0d053a59",
+    "skills/steps-in-sequence/examples/01.json": "eb9fdd043e5431ac70cb4aade532fd9afac604dbe034b0a56d5796447c527df0",
+    "skills/steps-in-sequence/examples/02.json": "2a1134da968f2a106f593fec6ba6660dd913c2189dd50c0c11ac5a360a9ec5d9",
+    "skills/steps-in-sequence/examples/03.json": "d075986a1ddfcf2a1d5f17fa5b4ad38789075d3d0744f043a1632269effa4fbd",
+    "skills/steps-in-sequence/examples/04.json": "f9d9264ecd67912dd3af0029e22ffe8eac5a5188e6541657ccd07c989a9700aa",
+    "skills/steps-in-sequence/references/examples.md": "0551348c4f0081e7de5eb33a27d34fedb8f3f62ed7fb8266c4283f09aae4ade1",
+    "skills/steps-in-sequence/references/inputs.md": "6c5d37ee8543eb4b9c565f9baf7c52c0fca79a91fb2bf192dc70f2395e750b4a",
+    "skills/steps-in-sequence/references/provenance.md": "6cb053ab9b6f211a8ac4ba5fac69390626b4908f4835382ebf3a4a20ea83ca3d",
+    "skills/steps-in-sequence/references/recorded-examples.json": "b9ce4f35ffbcb5628fc8199c421c293f22eea2845960fa33097e51a9e8149500",
+    "skills/steps-in-sequence/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/steps-in-sequence/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/talking-models/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/talking-models/PROVENANCE.json": "4900350596afad0ca3d0993540d2fa8f425419e581864332213bd31467bfad98",
     "skills/talking-models/SKILL.md": "0b657e427a6bd07ef3de6842cea41a18adfdbab1d053a294d3c0f05ec35fe7c3",
@@ -11547,6 +11574,182 @@
     },
     {
       "path": "skills/speaker-nameplates/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/steps-in-sequence/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

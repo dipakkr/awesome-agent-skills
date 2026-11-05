@@ -1,0 +1,310 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $steps-in-sequence to create \"From question to insight\" for the fictional Field Notes. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "process",
+      "sourceSha256": "eb9fdd043e5431ac70cb4aade532fd9afac604dbe034b0a56d5796447c527df0",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "269e7a8c56743f8fb7568e4bf08e7526b540402c6101ec0115cf0fea0d053a59",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "4bf5ae0281849830e3e6b94eba1317ffe5eedc1943a92d4c6d595a8bfdc8b1fa",
+          "bytes": 589
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "c6c5dd1fd9aaec99d9b6d2f06d8bab763b56fb001c18e2c7b14cc690b12fc32d",
+          "bytes": 313588
+        },
+        "poster.png": {
+          "sha256": "9788e3a71c7efb622d43dcdb2e1ef0bb94d6f3dc60d1af0beec2faab7cd74f9e",
+          "bytes": 88048
+        },
+        "preview.html": {
+          "sha256": "9c5ce68c7ee2721631435438cbe2399a5cbf934380a0df774633039c5a4102c9",
+          "bytes": 558
+        },
+        "review-01.png": {
+          "sha256": "0396347e5f64df4062c4a03d6f503b0ba9da42f603f1b15eb1729725c5a6e9ae",
+          "bytes": 51122
+        },
+        "review-02.png": {
+          "sha256": "bf5b989b05dad0e06503f59589582f8e4ad77a6f7fadd9558c86fc361903d27d",
+          "bytes": 66716
+        },
+        "review-03.png": {
+          "sha256": "29c05594aca93e63ffbec468ce15780bf2ef112a80e832a4cda22169ff2408ed",
+          "bytes": 80415
+        },
+        "review-04.png": {
+          "sha256": "9788e3a71c7efb622d43dcdb2e1ef0bb94d6f3dc60d1af0beec2faab7cd74f9e",
+          "bytes": 88048
+        },
+        "review-05.png": {
+          "sha256": "9788e3a71c7efb622d43dcdb2e1ef0bb94d6f3dc60d1af0beec2faab7cd74f9e",
+          "bytes": 88048
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $steps-in-sequence to create \"A thoughtful delivery\" for the fictional Parcel Club. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "process",
+      "sourceSha256": "2a1134da968f2a106f593fec6ba6660dd913c2189dd50c0c11ac5a360a9ec5d9",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "269e7a8c56743f8fb7568e4bf08e7526b540402c6101ec0115cf0fea0d053a59",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "f31f32b86dee0ab960879a6cb1c3063396fa673bd7f2c033f0799925594fccc3",
+          "bytes": 601
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "6e1ee06a373749bc5aae6f7f89643aca2193a9e94dbb69f2ac2d9ea6b6d5d0b0",
+          "bytes": 309286
+        },
+        "poster.png": {
+          "sha256": "cdc770e16215a8668d31512389a96febbdececc43588ca3f7054bd6779897ddf",
+          "bytes": 84624
+        },
+        "preview.html": {
+          "sha256": "c48f5da16fe3bf34a8b7b55c186612bb15eaf5275b3c185c41847eb64c4205fa",
+          "bytes": 552
+        },
+        "review-01.png": {
+          "sha256": "1585642475aeea0882ac8fb3a2e91ed711391a32a82b28c099f2b7c3ffb007d3",
+          "bytes": 49352
+        },
+        "review-02.png": {
+          "sha256": "9a0f98f3545fe8456a56d7be19dae3eadcb53dba497352cd4f5a9b7876574315",
+          "bytes": 65666
+        },
+        "review-03.png": {
+          "sha256": "5f19d4aeb39e0e117ee4d7dd0b75f135cfd3f52aabc0fd5b3a131acd743daab5",
+          "bytes": 79999
+        },
+        "review-04.png": {
+          "sha256": "cdc770e16215a8668d31512389a96febbdececc43588ca3f7054bd6779897ddf",
+          "bytes": 84624
+        },
+        "review-05.png": {
+          "sha256": "cdc770e16215a8668d31512389a96febbdececc43588ca3f7054bd6779897ddf",
+          "bytes": 84624
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $steps-in-sequence to create \"From brief to first draft\" for the fictional Studio Practice. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "process",
+      "sourceSha256": "d075986a1ddfcf2a1d5f17fa5b4ad38789075d3d0744f043a1632269effa4fbd",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "269e7a8c56743f8fb7568e4bf08e7526b540402c6101ec0115cf0fea0d053a59",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "99d5570a9967f1ebf76ec241d59fcc0a236abfdf90307f29df8db35694e0dada",
+          "bytes": 608
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "eea8dc3505da0e123c513777ae371a093316179a20da6b97b0bb7145068f3ddd",
+          "bytes": 303678
+        },
+        "poster.png": {
+          "sha256": "a80d56e311b58bad7918a8b25e81d8cceef48705afa5f455c0b0f92a82b86a68",
+          "bytes": 88752
+        },
+        "preview.html": {
+          "sha256": "72839cc132e43183ef43310b9e20ed16414ac0cb5d0975e8ab6f50d4bf164db2",
+          "bytes": 560
+        },
+        "review-01.png": {
+          "sha256": "d4d3e53737a38c90dfcf9561b5e9928b48a12ebff475527739cfdc41f414dbd8",
+          "bytes": 50502
+        },
+        "review-02.png": {
+          "sha256": "33bc50a5aef316138e16fa265985ecd743eddca75623d9a5226c401a6870f919",
+          "bytes": 66689
+        },
+        "review-03.png": {
+          "sha256": "cbe1b3d1f4416be4623d9f0618f5740bad52e8d8ea19c25dc580e0404387d679",
+          "bytes": 82000
+        },
+        "review-04.png": {
+          "sha256": "a80d56e311b58bad7918a8b25e81d8cceef48705afa5f455c0b0f92a82b86a68",
+          "bytes": 88752
+        },
+        "review-05.png": {
+          "sha256": "a80d56e311b58bad7918a8b25e81d8cceef48705afa5f455c0b0f92a82b86a68",
+          "bytes": 88752
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $steps-in-sequence to create \"Practice with a purpose\" for the fictional Lesson House. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "process",
+      "sourceSha256": "f9d9264ecd67912dd3af0029e22ffe8eac5a5188e6541657ccd07c989a9700aa",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "269e7a8c56743f8fb7568e4bf08e7526b540402c6101ec0115cf0fea0d053a59",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "8d5812c99ed45b89343f6643fe315f83cbe68adaff2af4340c7128135cfc81b7",
+          "bytes": 573
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "460fe7781eacb354f2b8cef9095c808436cab7041941a3ed41d12a5727be8aa6",
+          "bytes": 310659
+        },
+        "poster.png": {
+          "sha256": "74f528ce04b7eb45cd837fc66733489463361019a8b5c7f2b90c28165d80b116",
+          "bytes": 86690
+        },
+        "preview.html": {
+          "sha256": "11b2a24c4a651fd95cc82fa346ff49f0d6f1b635b4fe7ecaa31a280c3aad4123",
+          "bytes": 556
+        },
+        "review-01.png": {
+          "sha256": "96d577de5e271619afbac98d3fdf093dd5452a1ab25ecd4eb6a8552b3511f9fd",
+          "bytes": 49496
+        },
+        "review-02.png": {
+          "sha256": "21cbfd39da7c2f17e55d2efe357ce62d7fdd0cea9b9448c9477ac4b4777ee591",
+          "bytes": 67025
+        },
+        "review-03.png": {
+          "sha256": "5e04a6dba5ab9bf8473182af918100acc24559748347cff46da31dfe3ce2eab6",
+          "bytes": 79346
+        },
+        "review-04.png": {
+          "sha256": "74f528ce04b7eb45cd837fc66733489463361019a8b5c7f2b90c28165d80b116",
+          "bytes": 86690
+        },
+        "review-05.png": {
+          "sha256": "74f528ce04b7eb45cd837fc66733489463361019a8b5c7f2b90c28165d80b116",
+          "bytes": 86690
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]
