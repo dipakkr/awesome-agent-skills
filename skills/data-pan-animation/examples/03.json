@@ -1,0 +1,36 @@
+{
+  "brand": "Fieldwork",
+  "title": "See the capacity tradeoff",
+  "subtitle": "Illustrative capacity allocation for discussion.",
+  "cta": "Review the scenarios",
+  "theme": "night",
+  "disclosure": "Illustrative data \u00b7 fictional brand \u00b7 stock presenter",
+  "labels": [
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5"
+  ],
+  "series_names": [
+    "Plan A",
+    "Plan B"
+  ],
+  "series": [
+    [
+      83,
+      75,
+      61,
+      52,
+      45
+    ],
+    [
+      35,
+      43,
+      59,
+      66,
+      77
+    ]
+  ],
+  "unit": "Capacity used (%)"
+}

@@ -1,0 +1,232 @@
+{
+  "skill": "data-pan-animation",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "index": "01",
+      "title": "Two paths through checkout",
+      "invocation": "Use $data-pan-animation to make \"Two paths through checkout\" for the fictional brand Cartnote. Use examples/01.json as the exact input, the paper palette and the CTA \"Review checkout\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/01.json",
+      "output": "examples/recorded/01/film.mp4",
+      "render": {
+        "mode": "chart",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "23b6528abeee3091c81cbba5a4bc4f139dc20b660e4508c56ad87d02c9bc1896",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 83,
+        "files": {
+          "brief.json": {
+            "sha256": "23b6528abeee3091c81cbba5a4bc4f139dc20b660e4508c56ad87d02c9bc1896",
+            "bytes": 560
+          },
+          "film.mp4": {
+            "sha256": "d0dddcacf2585845cd9282f0c783d5f89d07763610719ca12b3658d5c17c831d",
+            "bytes": 455721
+          },
+          "poster.png": {
+            "sha256": "560ed074cce8187a166e5fb41317338cd8a960036fed06f368a8cdca1e0d1e58",
+            "bytes": 189728
+          },
+          "review-1.jpg": {
+            "sha256": "cefc27a9140455391615507bbfbb281688fbd9609dbbc1c3f37e592086efc7be",
+            "bytes": 78312
+          },
+          "review-2.jpg": {
+            "sha256": "d92194c68d4a89c8c2e109c6752894d1fde523fb005a476a529e069f3eae6983",
+            "bytes": 83727
+          },
+          "review-3.jpg": {
+            "sha256": "49a2c464af7dca6c2887a7ec6d6e1f291c22ca43b5df7e5e7d4fef5d6c66a1d3",
+            "bytes": 86350
+          },
+          "review-4.jpg": {
+            "sha256": "04608a95c071ed38c032b710ab6bc07b8e49aebfca986a9cf0124bfa44233e1e",
+            "bytes": 87623
+          },
+          "review-5.jpg": {
+            "sha256": "dd44b7af54f43b621e4bb2d2306781e670173ce0b7e4c30e635201fa34788eb1",
+            "bytes": 87747
+          }
+        }
+      }
+    },
+    {
+      "index": "02",
+      "title": "Compare the design rounds",
+      "invocation": "Use $data-pan-animation to make \"Compare the design rounds\" for the fictional brand Margin Studio. Use examples/02.json as the exact input, the lavender palette and the CTA \"Open the review\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/02.json",
+      "output": "examples/recorded/02/film.mp4",
+      "render": {
+        "mode": "chart",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "d53a06d7895821274ed342300336fc0beb33f5a7bdd49c548c7b9b5d60653946",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 83,
+        "files": {
+          "brief.json": {
+            "sha256": "d53a06d7895821274ed342300336fc0beb33f5a7bdd49c548c7b9b5d60653946",
+            "bytes": 576
+          },
+          "film.mp4": {
+            "sha256": "d5a33639826d1dc043b95600802f9a5bc4c8ca93cc86360d15e912304171514b",
+            "bytes": 457379
+          },
+          "poster.png": {
+            "sha256": "30b9445e938e90a7b827e785ab7f6bf02d3e3fc46b1e7d8b9c4fdcacfae5df9b",
+            "bytes": 191436
+          },
+          "review-1.jpg": {
+            "sha256": "f1daa9b72d59b913af3c7204568c4d71abf31a9403832b1b3ba15fc7d8f8663b",
+            "bytes": 79540
+          },
+          "review-2.jpg": {
+            "sha256": "6e2c1c5fcc8993a3e0f67d3771369e84d3d1af378a4ac798f3129f20781ffa2c",
+            "bytes": 85502
+          },
+          "review-3.jpg": {
+            "sha256": "0f51759fe4148c618f0dff48ff542c4cde0f5b6055cc7fb822c9e9a0cd3a5afd",
+            "bytes": 88175
+          },
+          "review-4.jpg": {
+            "sha256": "409f5e7b725b04cf9bca6b8f8620a9bef13d311965f6450a98be632f62c476d7",
+            "bytes": 89834
+          },
+          "review-5.jpg": {
+            "sha256": "22ea63a2fa7d1ee69938346883c2d92ea49a9bd7f8e44eece5f8b1f749491aff",
+            "bytes": 89754
+          }
+        }
+      }
+    },
+    {
+      "index": "03",
+      "title": "See the capacity tradeoff",
+      "invocation": "Use $data-pan-animation to make \"See the capacity tradeoff\" for the fictional brand Fieldwork. Use examples/03.json as the exact input, the night palette and the CTA \"Review the scenarios\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/03.json",
+      "output": "examples/recorded/03/film.mp4",
+      "render": {
+        "mode": "chart",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "288bcd4f7ca6bd4e6ad94ff67945b7d4d152c3c0b31aacd1c3426326e191c1e9",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 83,
+        "files": {
+          "brief.json": {
+            "sha256": "288bcd4f7ca6bd4e6ad94ff67945b7d4d152c3c0b31aacd1c3426326e191c1e9",
+            "bytes": 562
+          },
+          "film.mp4": {
+            "sha256": "6ba34d79e17eec52451f4686aa8d55073592b6ec3517e1a55595fccd5b6a2c35",
+            "bytes": 453830
+          },
+          "poster.png": {
+            "sha256": "6109f8279d4d0a35d9799ff6cfe415b4aaa1fdf09329a297924f887ffaeff76f",
+            "bytes": 189297
+          },
+          "review-1.jpg": {
+            "sha256": "57963ad71965a4d7dedbe4de3174ec04c6ee48708fbc19a6513a1cec98004d9c",
+            "bytes": 78451
+          },
+          "review-2.jpg": {
+            "sha256": "62fd97ef30fef286136882309e8c3fa6cd17b48240883b34944b8bb7393d0b60",
+            "bytes": 83968
+          },
+          "review-3.jpg": {
+            "sha256": "c91619df2298885eb9cecd35ed04535a492a34c209ee2c94718449bce94d46ae",
+            "bytes": 87323
+          },
+          "review-4.jpg": {
+            "sha256": "d3410306779859b5956baa52f6ec23ef9cfb955b8a165268c71441f1b75d75ff",
+            "bytes": 88803
+          },
+          "review-5.jpg": {
+            "sha256": "ca0c417dc0cbaccaa0684202b22689111846d7e6cef7c3fce497f01a6e638f9f",
+            "bytes": 88720
+          }
+        }
+      }
+    },
+    {
+      "index": "04",
+      "title": "Track two practice groups",
+      "invocation": "Use $data-pan-animation to make \"Track two practice groups\" for the fictional brand Lesson Lab. Use examples/04.json as the exact input, the ocean palette and the CTA \"Review the exercise\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/04.json",
+      "output": "examples/recorded/04/film.mp4",
+      "render": {
+        "mode": "chart",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "88832610bb7c67edc00bbc7797d966157eb5a844430cef5ae33fab6769b06e9b",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 83,
+        "files": {
+          "brief.json": {
+            "sha256": "88832610bb7c67edc00bbc7797d966157eb5a844430cef5ae33fab6769b06e9b",
+            "bytes": 579
+          },
+          "film.mp4": {
+            "sha256": "93d51a8e582b7e8ca4596ad9c1c3c1a7bfeae9d9ebb0c537cf7a94c01bedea16",
+            "bytes": 463433
+          },
+          "poster.png": {
+            "sha256": "db3f33b41fcb1224ae74a91ceb26350501daab36e3a2e73b5274e21f92a1be18",
+            "bytes": 190162
+          },
+          "review-1.jpg": {
+            "sha256": "b0a99504d93e0c21b1751fce228e78d9b67261fdc30fa0e593242e6cf3c40eb4",
+            "bytes": 80277
+          },
+          "review-2.jpg": {
+            "sha256": "8c306e7f0e9f87c396ced12a3502d0a6810a714f25e3c349203cba9475fdec7d",
+            "bytes": 86324
+          },
+          "review-3.jpg": {
+            "sha256": "779c57dfae7bd869ee570ca92e9555cca2dff18ccf5fb3eb2e90ae1c40972be9",
+            "bytes": 88921
+          },
+          "review-4.jpg": {
+            "sha256": "d97c5511677548c9551620477327040cf28492853600be9920474524415554b2",
+            "bytes": 90198
+          },
+          "review-5.jpg": {
+            "sha256": "de0254aee1034cc67b1c28e4b83da2bd620dd71d47c70b71b2c1b883e2b36fc7",
+            "bytes": 90162
+          }
+        }
+      }
+    }
+  ],
+  "verification": "Author-executed; no independent agent reuse claimed"
+}

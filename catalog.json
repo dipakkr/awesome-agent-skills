@@ -166,6 +166,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "data-pan-animation",
+      "name": "Data Pan Animation",
+      "description": "Animate two supplied data series while a chart and presenter exchange sides twice. Use for analyst explainers and comparisons with an explicit unit and data disclosure.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/data-pan-animation",
+      "publication": "original-mit"
+    },
+    {
       "package": "drawn-lessons",
       "name": "Drawn Lessons",
       "description": "Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats.",
@@ -735,6 +744,23 @@
     "skills/concept-layers/references/review-record.json": "8d0f65f7dddee574d05e20755dcc928edf55e6bf5058c8c44a28eb5b10a3aa21",
     "skills/concept-layers/references/usage-examples.md": "64888112df887f650f9a823a554f41f40414cab65856e63206a0c7ea7fdb1291",
     "skills/concept-layers/references/worked-examples.md": "2c93eeab55711bcae5dd007117072436b0ef020a8e46c85bed704fe7f4426228",
+    "skills/data-pan-animation/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/data-pan-animation/SKILL.md": "7d96868e50fc797e7033e67698e2167b49a8140e30a630564434335fdb86376f",
+    "skills/data-pan-animation/agents/openai.yaml": "dea13858286737ac8f64ea85157c11645831bf417562a152e368be4ff35dba78",
+    "skills/data-pan-animation/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/data-pan-animation/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/data-pan-animation/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/data-pan-animation/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/data-pan-animation/config.json": "c8b08d8ffb5e5ccc73270d6ce01e1a5356d3b46d2923aa17186e3b8e9894d844",
+    "skills/data-pan-animation/examples/01.json": "23b6528abeee3091c81cbba5a4bc4f139dc20b660e4508c56ad87d02c9bc1896",
+    "skills/data-pan-animation/examples/02.json": "d53a06d7895821274ed342300336fc0beb33f5a7bdd49c548c7b9b5d60653946",
+    "skills/data-pan-animation/examples/03.json": "288bcd4f7ca6bd4e6ad94ff67945b7d4d152c3c0b31aacd1c3426326e191c1e9",
+    "skills/data-pan-animation/examples/04.json": "88832610bb7c67edc00bbc7797d966157eb5a844430cef5ae33fab6769b06e9b",
+    "skills/data-pan-animation/references/credits.md": "b5211e82fc02c439bdea8bb7fc56ee0b2e93313c29ac0a7523f95537fc9224f6",
+    "skills/data-pan-animation/references/example-guide.json": "2a84def9d697c709b10e6bcd446632fbdf23cf54d359e778f144d3cda2a68200",
+    "skills/data-pan-animation/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
+    "skills/data-pan-animation/references/usage-examples.md": "e7bcf0dae51e6f9a8eea895f193551bb44b22e95e973f1931dcb18d8727887c8",
+    "skills/data-pan-animation/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
     "skills/drawn-lessons/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/drawn-lessons/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/drawn-lessons/README.md": "29ee9f303aed765170f877b3c6e0b76da20c6c0958c80edb5b499fcc01146e91",
@@ -2720,6 +2746,182 @@
     },
     {
       "path": "skills/comic-lab-scenes/examples/tiny-change/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/01/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/02/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/03/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/data-pan-animation/examples/recorded/04/review-5.jpg",
       "reason": "rendered example; see website"
     },
     {

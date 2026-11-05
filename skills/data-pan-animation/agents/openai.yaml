@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Pan Animation"
+  short_description: "Render an editable sliding chart reel locally"
+  default_prompt: "Use $data-pan-animation to make a film from my brief and review its motion and copy."
