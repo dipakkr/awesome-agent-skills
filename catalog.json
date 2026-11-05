@@ -355,6 +355,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "launch-clock",
+      "name": "Launch Clock",
+      "description": "Create a branded opening countdown with an exact clock, animated progress ring and a readable ending. Use for video intros, event cues and stream openings.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/launch-clock",
+      "publication": "original-mit"
+    },
+    {
       "package": "listing-copywriter",
       "name": "Listing Copywriter",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -1210,6 +1219,25 @@
     "skills/kit-on-display/references/example-ledger.json": "3a249af33f770d004870b3334880ed2579f4f8558406b43cbb422e769cbdb4f1",
     "skills/kit-on-display/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
     "skills/kit-on-display/references/usage-examples.md": "ca111897ad2ba8a77210f4e7a7ede797aa3cfe200f24471dcfdf15d403027f8b",
+    "skills/launch-clock/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/launch-clock/SKILL.md": "cfe1528c1a0228f032b88acbca4195707346f253ca6e2b19b6b78b718b72c488",
+    "skills/launch-clock/agents/openai.yaml": "d751199b71d09e663a6c81bdc3eff16f1aad04e02b63a7ed6e2b820e42a59a21",
+    "skills/launch-clock/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/launch-clock/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/launch-clock/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/launch-clock/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/launch-clock/config.json": "11d85c0e0c38d41a95fe4efb3aa68a091281d74e4c18bb4947ee921f69d73093",
+    "skills/launch-clock/examples/01.json": "273193dcc0eeaee2aaf8f64936c349709025681a432855affc283a3863d32525",
+    "skills/launch-clock/examples/02.json": "ed53162618ea9984508429902f74a057c755aed8bd94d091b8348a1e3cfd6d75",
+    "skills/launch-clock/examples/03.json": "2a87a05647d11b29ae4d6b263ed10167ca0855dc81be5cd9b35f6e63d97d6b5b",
+    "skills/launch-clock/examples/04.json": "4b403349bba870f9370f83576d950aaa275609acfe4924fa43baa65a4374dddc",
+    "skills/launch-clock/references/examples.md": "9da663c9d0e714d4cd31f06b629e4d63df215ca7f11c8b7030b6bca1acd9ceb8",
+    "skills/launch-clock/references/inputs.md": "2e0494013148c3b85174d9ae4699031d49e51dde6a5c08c3136e3d0ceb0b22c5",
+    "skills/launch-clock/references/provenance.md": "7234ca59a8ee6a64b76c344cf8ee445d2b66f6641250a575a5ef0402279d9c8f",
+    "skills/launch-clock/references/recorded-examples.json": "d3cbd63f3c01eca4c75224297421ce5599763f6e5aab98baf1d4b09b2eb84fb5",
+    "skills/launch-clock/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/launch-clock/scripts/engine.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/launch-clock/scripts/render.py": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
     "skills/listing-copywriter/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/listing-copywriter/SKILL.md": "c6ca637c8869980275bab5a5119eb65a0cacdda4b9ffc91a2729282600df98be",
     "skills/listing-copywriter/agents/openai.yaml": "0eb16b6f926d2c195e4ca8eb647a93cdd23ed56748f033365a53f37551af9aa7",
@@ -4459,6 +4487,182 @@
     },
     {
       "path": "skills/interface-layers/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/launch-clock/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {
