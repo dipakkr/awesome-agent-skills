@@ -400,6 +400,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "looping-shapes",
+      "name": "Looping Shapes",
+      "description": "Create a seamless geometric motion loop with a calm central caption and editable brand colors. Use for branded interludes, video backdrops and event screens.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/looping-shapes",
+      "publication": "original-mit"
+    },
+    {
       "package": "memory-drills",
       "name": "Memory Drills",
       "description": "Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key.",
@@ -1329,6 +1338,24 @@
     "skills/little-team-story/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
     "skills/little-team-story/references/usage-examples.md": "14c74b618ca8fe6dcf6cf992970fc12ec6ae9b8a2975ef0e5bd3061987ff1c1f",
     "skills/little-team-story/scripts/render.py": "0a882728f0413344bf15b499bf32a851bdc901c148781df9643f16e657d1ac6d",
+    "skills/looping-shapes/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/looping-shapes/SKILL.md": "c31cc194dd7b3cd33bc31ffcd87384c4d61cf05a04cfab3602230a1345675631",
+    "skills/looping-shapes/agents/openai.yaml": "ac675d874343634956458ee02f8bc4442cffee3939d48396c8596356997a0feb",
+    "skills/looping-shapes/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/looping-shapes/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/looping-shapes/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/looping-shapes/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/looping-shapes/config.json": "0c82394de26efba9d3913adafdd49b6e5382e0e0da9f7f5622daa035dab1daff",
+    "skills/looping-shapes/examples/01.json": "0fbb13392491a416d48ad27eb6cf7e6198fc745466bca87b040d5d4e4de3804a",
+    "skills/looping-shapes/examples/02.json": "de8e0465fc3975bb6525774149f96ddad7147372e09dc539ca14e51531ecb402",
+    "skills/looping-shapes/examples/03.json": "56867e992a7459eeeb9bdf0e9ff78227e3470663f92c6fa8d2d884502fe89b9c",
+    "skills/looping-shapes/examples/04.json": "e28cc0446feb688443c29cf0bc0680a3d8749ec0cefbc89647c1ec7e43172e23",
+    "skills/looping-shapes/references/examples.md": "8b58f616edc7494d867112bc73ed324bddc07b88e60f6ccbf974b2d507cb491e",
+    "skills/looping-shapes/references/inputs.md": "317b8d3c2fbdad7745e4cc1ae7dfd3fb04023e4ae159315af40659014ede695e",
+    "skills/looping-shapes/references/provenance.md": "ab3aa21bc0c13479cbf04e00aec104781898014816c63ab4226932813d813648",
+    "skills/looping-shapes/references/recorded-examples.json": "ac5087252cae042fe52ad5a4eb93b1fcfdf90fba61aa3cbe3887772087b5ecba",
+    "skills/looping-shapes/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/looping-shapes/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/memory-drills/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/memory-drills/SKILL.md": "fa4b3cf111de94c48c2129b7239b71554aca9341089033c3973ac4967e6382f4",
     "skills/memory-drills/agents/openai.yaml": "82e8ea04083ee765d6e7f6937fa627319a03d158c628f0f159d80fc0d1f45ab9",
@@ -5707,6 +5734,182 @@
     },
     {
       "path": "skills/little-team-story/examples/recorded/04/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/looping-shapes/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

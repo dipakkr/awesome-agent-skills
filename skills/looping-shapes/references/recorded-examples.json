@@ -1,0 +1,314 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $looping-shapes to create \"A field of slow orbits\" for the fictional Orbit Journal. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Confirm that frame zero and the exact eight-second wrap match.",
+    "report": {
+      "edition": 2,
+      "mode": "pattern",
+      "sourceSha256": "0fbb13392491a416d48ad27eb6cf7e6198fc745466bca87b040d5d4e4de3804a",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "0c82394de26efba9d3913adafdd49b6e5382e0e0da9f7f5622daa035dab1daff",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "db4607cbc12d42d7398a709c4e06cb0c2df915ff187a7e1e640249b743e1697c",
+          "bytes": 263
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "d9cfc7b9e4b0f8f0fff96ee044023118c675c33755cb86a61b4cd00869e6a6c9",
+          "bytes": 2383738
+        },
+        "poster.png": {
+          "sha256": "bfd5816abefc41fdcfaf489d43280ba39cfb0848931832d579c68a81219e7d84",
+          "bytes": 68292
+        },
+        "preview.html": {
+          "sha256": "a779d0123165d15de738e475e1fc347d10fb2c5a6d1898d82ba3d0b0195ab7fa",
+          "bytes": 554
+        },
+        "review-01.png": {
+          "sha256": "04f8b09f7f6cb4709400d717ee7e581cc5733b093dae5e4454a451397c1a8edb",
+          "bytes": 69379
+        },
+        "review-02.png": {
+          "sha256": "6ec81338e610280f9ca82dfbac219773f77ad898912a794ed75820e04e1692bc",
+          "bytes": 69279
+        },
+        "review-03.png": {
+          "sha256": "9ce9615be8513638d5c2c9222e17c891c681ce7a9eb27e7bee3f466dc02531e3",
+          "bytes": 65267
+        },
+        "review-04.png": {
+          "sha256": "8b967fb00c6f00712718dc40a7f17be14a531254cc1e24ec1facc5925aae25c9",
+          "bytes": 69123
+        },
+        "review-05.png": {
+          "sha256": "db9d2d4811f82f32d35b2a9add4603add80d22afe02bd5b65c30792498233777",
+          "bytes": 69352
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $looping-shapes to create \"A rhythm of moving tiles\" for the fictional Index Radio. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Confirm that frame zero and the exact eight-second wrap match.",
+    "report": {
+      "edition": 2,
+      "mode": "pattern",
+      "sourceSha256": "de8e0465fc3975bb6525774149f96ddad7147372e09dc539ca14e51531ecb402",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "0c82394de26efba9d3913adafdd49b6e5382e0e0da9f7f5622daa035dab1daff",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "c54497454873017aedd400bde9bd3eee3c48d8aa73cf2b2398f606738b87d5e8",
+          "bytes": 261
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "f18d9897daadeb36f099e438f64127889c30f2796f7f0fd1b5d05ad6d59e2070",
+          "bytes": 588556
+        },
+        "poster.png": {
+          "sha256": "ebe26e50486cb7219e5c2d2c3878deab32f484741b8bbe56e4df62302656fe75",
+          "bytes": 44111
+        },
+        "preview.html": {
+          "sha256": "26150e27cdbbb1e34ae27aea098a20b5bd2a1b9ff6e95c378d00aacd29934ee5",
+          "bytes": 558
+        },
+        "review-01.png": {
+          "sha256": "bf3ea2b0e01674fa0f47158a0094fce7014e714766e2cab089cbc58b7be82291",
+          "bytes": 44634
+        },
+        "review-02.png": {
+          "sha256": "74b03197bc66fd0fa79f9a39faace709e1c71c5347caeaec88fda10ffe8bdca5",
+          "bytes": 44291
+        },
+        "review-03.png": {
+          "sha256": "7c138d9620d4b6587c9e23e4612b07fc4371c58ea9e17a5310d58562af1f297e",
+          "bytes": 43842
+        },
+        "review-04.png": {
+          "sha256": "c94984b9e2c9669f0c6b8a1b93e3d60573fd9e73c2a5ae277a9a2079c136a360",
+          "bytes": 43982
+        },
+        "review-05.png": {
+          "sha256": "55a77ebf1bc47da3c48f5986cedd0ddc187d62c8bd14579d01cb1a398826571e",
+          "bytes": 44575
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $looping-shapes to create \"A pattern in bloom\" for the fictional Petal Club. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Confirm that frame zero and the exact eight-second wrap match.",
+    "report": {
+      "edition": 2,
+      "mode": "pattern",
+      "sourceSha256": "56867e992a7459eeeb9bdf0e9ff78227e3470663f92c6fa8d2d884502fe89b9c",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "0c82394de26efba9d3913adafdd49b6e5382e0e0da9f7f5622daa035dab1daff",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "276f7fc744a31e286f2766d8ba4b765f96926be4aae602fdee9975f7a8a8220a",
+          "bytes": 263
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "fa650f2632b6db3c5951db232207dd575482fca4cf3bb5954406b2f0911c94d1",
+          "bytes": 1466765
+        },
+        "poster.png": {
+          "sha256": "0eb5ab36300d0f3250950f91d915bab8bcc06ba1ff403f5eb7aeeb718a802f13",
+          "bytes": 63375
+        },
+        "preview.html": {
+          "sha256": "84f806c8f6314b47ac71dc0f2d42c585367c717389fb05c2039dc56d0f84d01b",
+          "bytes": 546
+        },
+        "review-01.png": {
+          "sha256": "9ef193152382889d1e7fc741c1a896f0c4f4c599f63a71f4e29b503d93ac6e17",
+          "bytes": 63572
+        },
+        "review-02.png": {
+          "sha256": "8f9c99d4242cdaef481b08c67c356e5bf3c76b1b62af822f790dc63a8ea28da2",
+          "bytes": 62841
+        },
+        "review-03.png": {
+          "sha256": "2090702b357582029fb2d8f9133451f1dba0660b3285ccd3744dcf9125c0e028",
+          "bytes": 60366
+        },
+        "review-04.png": {
+          "sha256": "ca38932262aeac1462849301986994532dc7d8a0217fac9e8e8ee43701a7371b",
+          "bytes": 63536
+        },
+        "review-05.png": {
+          "sha256": "d431bd4342fe9fcd80162d9ddb9ce5221de8a25a6f1df0081939d0e8cec4cb00",
+          "bytes": 63833
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $looping-shapes to create \"A steady forward rhythm\" for the fictional Relay Week. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending. Confirm that frame zero and the exact eight-second wrap match.",
+    "report": {
+      "edition": 2,
+      "mode": "pattern",
+      "sourceSha256": "e28cc0446feb688443c29cf0bc0680a3d8749ec0cefbc89647c1ec7e43172e23",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "0c82394de26efba9d3913adafdd49b6e5382e0e0da9f7f5622daa035dab1daff",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "12fe3126e3c9b26153e038fe935b52ee023a2c8d12ae01231f5798eba5c890ae",
+          "bytes": 266
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "cd28c040f26b540a5f9a0d3d33a362222941af508e7b6c139bdd02da2b61a50e",
+          "bytes": 1515658
+        },
+        "poster.png": {
+          "sha256": "9d03c1c209b20733ef410cf5ad787ad6ef3dd654f75d8a494936fc1ff06ca805",
+          "bytes": 44996
+        },
+        "preview.html": {
+          "sha256": "bd333249d20b8e1999411eab0995e8f292460c85995e1365ded4b15353752e1d",
+          "bytes": 556
+        },
+        "review-01.png": {
+          "sha256": "4c1381d9d654de8f9c6bd381bb1332fd7c82897593b667ad8d2b9b193f134325",
+          "bytes": 45144
+        },
+        "review-02.png": {
+          "sha256": "05ebff3c471572b5c8f0533149a105fd0482febaa4c131ed3b47db28d2be2ec6",
+          "bytes": 44821
+        },
+        "review-03.png": {
+          "sha256": "9250a73ab5b4b610917cac3254fc665e402425d8751d053a2c39821f7d91695d",
+          "bytes": 44621
+        },
+        "review-04.png": {
+          "sha256": "07d28a00b159ef7f0d469e328dfca6169b9a16bccdd9e3160983d59c238284a4",
+          "bytes": 45315
+        },
+        "review-05.png": {
+          "sha256": "bbf9dda4a856f47b7162e69d43fc9b7ae2f0a6636ff8d6dff2da25e45b20c1b5",
+          "bytes": 45461
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]
