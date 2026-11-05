@@ -402,6 +402,16 @@
       "original": true,
       "path": "skills/cad-linkedin-data-story",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-linkedin-document-cover",
+      "name": "LinkedIn Document Cover",
+      "description": "Create the opening cover graphic for a useful LinkedIn document, guide or carousel using a clear reader promise.",
+      "site": "https://claudeai.directory/skills/linkedin-document-cover",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-linkedin-document-cover",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -1038,7 +1048,18 @@
     "skills/cad-linkedin-data-story/references/example-guide.json": "846887ab894abab9c15ed7fb3247083a077c4c7a44b31fbaacced90ba8d9d03f",
     "skills/cad-linkedin-data-story/references/research.md": "c844086ad74a334cd30edcb361314787b20f1b5edcdbdf4a378943512d9280a0",
     "skills/cad-linkedin-data-story/references/runtime-brief.json": "843da44acc1ec11b70d6344123b17ad90b1c6777c43d7f9c80d71f8b435615f3",
-    "skills/cad-linkedin-data-story/references/usage-examples.md": "bf330f8793b1a14de378e9d86758408b569418d3c77a33da90e738b6584ebb78"
+    "skills/cad-linkedin-data-story/references/usage-examples.md": "bf330f8793b1a14de378e9d86758408b569418d3c77a33da90e738b6584ebb78",
+    "skills/cad-linkedin-document-cover/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-linkedin-document-cover/SKILL.md": "d113dd49aa703dcc368e90ebb6e600a7f6e51228b06a2c747f9a94d542b37137",
+    "skills/cad-linkedin-document-cover/examples/gallery/01.webp": "6a61aa41bf1a2ae80ee0c0e7a36948fdf1d2ab3612a5a907db5eb1240e655d78",
+    "skills/cad-linkedin-document-cover/examples/gallery/02.webp": "0dd7e1e25f47fb5799b971c5c8843957cd11d3adfc4140eb41c204c82e440478",
+    "skills/cad-linkedin-document-cover/examples/gallery/03.webp": "215d0cadc126821bfab8f961ecfbccb10e3778b94fd172238dfffa64a22ca36e",
+    "skills/cad-linkedin-document-cover/examples/gallery/04.webp": "44fc7ecea03923b8eb7fdb0dc7f6d7208c6027e64ba4bf9fc61821e706ea646e",
+    "skills/cad-linkedin-document-cover/references/example-briefs.json": "ef37f3c5367847dc5c6e244df471e7e891a4972d6fc94c08320b86823e942d0c",
+    "skills/cad-linkedin-document-cover/references/example-guide.json": "757b12db0ced1525e17394445cae685a143bff04b86a591891cb9895eb51e728",
+    "skills/cad-linkedin-document-cover/references/research.md": "353998853ea1ba1a34ab735f1cc9d76f8863201cd364c69631bd82ec5f1209a7",
+    "skills/cad-linkedin-document-cover/references/runtime-brief.json": "b4d6480d67cf8486c5c4940414177a967095d0646f4dcd1f20df8b137bf83c13",
+    "skills/cad-linkedin-document-cover/references/usage-examples.md": "ff62ce3313619d8c0672753354ca9c9e8df43bf308c8d89cb7e2591174e045cf"
   },
   "omitted": [
     {
