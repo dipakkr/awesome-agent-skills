@@ -352,6 +352,16 @@
       "original": true,
       "path": "skills/cad-isometric-workflow-scene",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-kinetic-headline-reel",
+      "name": "Motion · Kinetic Typography",
+      "description": "Turn three short teaching points into a typographic reel with staggered words, a highlight wipe and a drawn underline. Use for creator lessons, launch teasers and concise social tips.",
+      "site": "https://claudeai.directory/skills/kinetic-headline-reel",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-kinetic-headline-reel",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -919,7 +929,24 @@
     "skills/cad-isometric-workflow-scene/examples/gallery/04.webp": "079076bd760a61b14996711875707534983d94d7abc6f8cd34c1ed4235ee1799",
     "skills/cad-isometric-workflow-scene/references/example-guide.json": "fa1a6ccb0922070876462727cf90e1a8b50e014d0d49241f48e83fc0e3cc90ad",
     "skills/cad-isometric-workflow-scene/references/examples.json": "1c474e43f76a8ac78554f42207ca9b0bac37555e22b256163cc52f9d575ff85d",
-    "skills/cad-isometric-workflow-scene/references/usage-examples.md": "8cfe88acd2f8fbd15c52f091150a7349dc3cced7c91575a4b61b63e7273055bd"
+    "skills/cad-isometric-workflow-scene/references/usage-examples.md": "8cfe88acd2f8fbd15c52f091150a7349dc3cced7c91575a4b61b63e7273055bd",
+    "skills/cad-kinetic-headline-reel/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-kinetic-headline-reel/SKILL.md": "063eb31e483ba262003b96b60e74e2811681408c76dd165b105e13d98fd7b33e",
+    "skills/cad-kinetic-headline-reel/agents/openai.yaml": "61ca6abe53dbbde54fa0e56a670307d216815d72d1a3f807064a544baf6c29b2",
+    "skills/cad-kinetic-headline-reel/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/cad-kinetic-headline-reel/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/cad-kinetic-headline-reel/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/cad-kinetic-headline-reel/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/cad-kinetic-headline-reel/config.json": "104be24f48f3135024ca1d38ea7edd28e9d3ea39c57539203e4c975b374cfc5a",
+    "skills/cad-kinetic-headline-reel/examples/01.json": "9c04a330b2fd9c527ef349cc13ddf654c7e97002fb3330f902278b07ac73bbde",
+    "skills/cad-kinetic-headline-reel/examples/02.json": "5deaeb8ea613bfd610b1ee1144d3f3df1ae07b50ac1891c88d7570a2e0c0f157",
+    "skills/cad-kinetic-headline-reel/examples/03.json": "7eb79d2e9af068874a0b9934c2f4e30f8df9e2b72b3d4e23393e997e21b2c477",
+    "skills/cad-kinetic-headline-reel/examples/04.json": "aa891999518b94e3db1feed4fc0d7fe5b335075237d6c33fc67931bf54ff8cde",
+    "skills/cad-kinetic-headline-reel/references/credits.md": "b5211e82fc02c439bdea8bb7fc56ee0b2e93313c29ac0a7523f95537fc9224f6",
+    "skills/cad-kinetic-headline-reel/references/example-guide.json": "8fc85b56cade7e410709d8cee6d586fc5927a70d9a468b7de2e53ed74cc8d62e",
+    "skills/cad-kinetic-headline-reel/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
+    "skills/cad-kinetic-headline-reel/references/usage-examples.md": "0829989429c4ff081dd1f93b2492663a4910c9689ec143254555c1064fff644e",
+    "skills/cad-kinetic-headline-reel/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51"
   },
   "omitted": [
     {
@@ -2764,6 +2791,182 @@
     },
     {
       "path": "skills/cad-investor-pitch-deck/examples/loop/loop.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/01/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/02/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/03/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-kinetic-headline-reel/examples/recorded/04/review-5.jpg",
       "reason": "rendered example; see website"
     }
   ]

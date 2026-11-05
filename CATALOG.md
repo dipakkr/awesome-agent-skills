@@ -39,3 +39,4 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Illustrated Study Notes | [Files](skills/cad-illustrated-study-notes/SKILL.md) | [Preview and download](https://claudeai.directory/skills/illustrated-study-notes) | Original / MIT |
 | Investor Pitch Deck | [Files](skills/cad-investor-pitch-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/investor-pitch-deck) | Original / MIT |
 | Isometric Workflow Scene | [Files](skills/cad-isometric-workflow-scene/SKILL.md) | [Preview and download](https://claudeai.directory/skills/isometric-workflow-scene) | Original / MIT |
+| Motion · Kinetic Typography | [Files](skills/cad-kinetic-headline-reel/SKILL.md) | [Preview and download](https://claudeai.directory/skills/kinetic-headline-reel) | Original / MIT |
