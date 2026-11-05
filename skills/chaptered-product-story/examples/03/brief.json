@@ -1,0 +1,49 @@
+{
+  "brand": "Lessonroom",
+  "theme": "plum",
+  "title": "teach one useful idea.",
+  "promise": "A learning goal becomes a lesson people can use.",
+  "cta": "Make the lesson make sense.",
+  "domain": "lessonroom.example / Fictional concept",
+  "kind": "concept",
+  "audio": "original-pulse",
+  "disclosure": "Fictional product concept. Original interfaces and music. No live integration.",
+  "chapters": [
+    {
+      "label": "Plan",
+      "headline": "Choose the learning goal.",
+      "detail": "Keep the lesson centered on a practical learner action.",
+      "proof": "One goal keeps the lesson focused.",
+      "screen": "screen-1.png",
+      "source": "Original authored Lessonroom concept interface, screen 1; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Explain",
+      "headline": "Show a concrete example.",
+      "detail": "Connect the explanation to something a learner can inspect.",
+      "proof": "Show the difference, then explain it.",
+      "screen": "screen-2.png",
+      "source": "Original authored Lessonroom concept interface, screen 2; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Practice",
+      "headline": "Give the idea a test.",
+      "detail": "Let the learner try the method and explain their choice.",
+      "proof": "Practice turns the lesson into action.",
+      "screen": "screen-3.png",
+      "source": "Original authored Lessonroom concept interface, screen 3; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Use $chaptered-product-story to create a complete launch film for the fictional Trailcase concept. Use this folder's brief.json and three original screen captures. Render all 40 seconds at 1920 x 1080, 30fps with the original-pulse soundtrack. Keep the concept disclosure visible, inspect the encoded transitions and return the MP4 with editable source.

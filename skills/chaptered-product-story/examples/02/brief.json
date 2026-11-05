@@ -1,0 +1,49 @@
+{
+  "brand": "Framehouse",
+  "theme": "paper",
+  "title": "bring a direction to life.",
+  "promise": "One brief. A direction everyone can see.",
+  "cta": "Put the direction in focus.",
+  "domain": "framehouse.example / Fictional concept",
+  "kind": "concept",
+  "audio": "original-pulse",
+  "disclosure": "Fictional product concept. Original interfaces and music. No live integration.",
+  "chapters": [
+    {
+      "label": "Collect",
+      "headline": "Start with the intent.",
+      "detail": "Keep the references connected to the problem they address.",
+      "proof": "A shared brief before the first draft.",
+      "screen": "screen-1.png",
+      "source": "Original authored Framehouse concept interface, screen 1; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Compose",
+      "headline": "Make the idea visible.",
+      "detail": "Arrange the headline, evidence and visual direction.",
+      "proof": "Give every element a reason to stay.",
+      "screen": "screen-2.png",
+      "source": "Original authored Framehouse concept interface, screen 2; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Present",
+      "headline": "Invite a useful review.",
+      "detail": "Show the direction together with the decisions still open.",
+      "proof": "Specific feedback starts with context.",
+      "screen": "screen-3.png",
+      "source": "Original authored Framehouse concept interface, screen 3; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    }
+  ]
+}
