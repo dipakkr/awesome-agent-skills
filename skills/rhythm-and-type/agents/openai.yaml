@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rhythm And Type"
+  short_description: "Create original kinetic promo videos"
+  default_prompt: "Use $rhythm-and-type to create an original film from my brief, render the requested formats, and inspect the actual outputs."

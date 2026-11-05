@@ -1,0 +1,31 @@
+{
+  "mode": "promo",
+  "format": "landscape",
+  "brand": "BEAT",
+  "category": "An independent audio concept",
+  "hook": "Sound\nlike yourself.",
+  "promise": "Your sound.\nYour signature.",
+  "words": [
+    "Play",
+    "Layer",
+    "Feel"
+  ],
+  "steps": [
+    "Capture a riff",
+    "Find the groove",
+    "Release your sound"
+  ],
+  "projects": [
+    "Play",
+    "Layer",
+    "Feel"
+  ],
+  "task": "Create a campaign for an independent audio studio",
+  "cta": "Find your frequency",
+  "url": "beat.example",
+  "accent": "#78d9ff",
+  "theme": "white",
+  "motif": "ribbons",
+  "seed": 51,
+  "concept": true
+}

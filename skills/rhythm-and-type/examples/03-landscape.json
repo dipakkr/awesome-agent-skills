@@ -1,0 +1,31 @@
+{
+  "mode": "promo",
+  "format": "landscape",
+  "brand": "FORM",
+  "category": "An object design concept",
+  "hook": "Everyday.\nExtraordinary.",
+  "promise": "Objects with\na point of view.",
+  "words": [
+    "Shape",
+    "Touch",
+    "Keep"
+  ],
+  "steps": [
+    "Explore forms",
+    "Choose a finish",
+    "Make it yours"
+  ],
+  "projects": [
+    "Shape",
+    "Touch",
+    "Keep"
+  ],
+  "task": "Introduce a collection of original desk objects",
+  "cta": "Explore the collection",
+  "url": "form.example",
+  "accent": "#ffc27a",
+  "theme": "black",
+  "motif": "grid",
+  "seed": 74,
+  "concept": true
+}

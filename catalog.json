@@ -670,6 +670,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "rhythm-and-type",
+      "name": "Rhythm And Type",
+      "description": "Make a short promotional film with oversized type, graphic ribbons and a rhythmic finish.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/rhythm-and-type",
+      "publication": "original-mit"
+    },
+    {
       "package": "shape-and-type",
       "name": "Shape And Type",
       "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
@@ -2031,6 +2040,25 @@
     "skills/retail-calendar-creative/references/examples.json": "aea64518594f7a1709c9e00502b4a48d0d4c5796718093b1ffdb73856f7b47eb",
     "skills/retail-calendar-creative/references/research.md": "deccfa1f39c26c3dc889d886507b6145896db52a3a5894e88525500911eb67f2",
     "skills/retail-calendar-creative/references/usage-examples.md": "fb00c5797725fc1247beeb1f103e14babd2a1b04abd39aca05f3ec7c8486c73f",
+    "skills/rhythm-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/rhythm-and-type/SKILL.md": "0459c474ffd663c814fc7d374b19f96ecc16e0428507b8c7bdf7d26246d369b1",
+    "skills/rhythm-and-type/agents/openai.yaml": "7c1d1d4ed8221ea29f70e74f61d0734c9dd4590a5e2d32f2f6836eb1e752aed5",
+    "skills/rhythm-and-type/examples/01-landscape.json": "b8679224415f7ed5b7c6966eb15609cc6271cb629ba627f5bd0234a2ec2848d3",
+    "skills/rhythm-and-type/examples/01-portrait.json": "9e1eb71d8f3e22043acb1f786dd3e01f9478617a5f070cb5d1111a38253124ef",
+    "skills/rhythm-and-type/examples/01-square.json": "2515f4cba4f1250bc760a847dca3b6a4e0b56e7e4954c960816131edcfe2ba00",
+    "skills/rhythm-and-type/examples/02-landscape.json": "84cb708359be9f9e8c6bd694b176163c83fba7bd86d423a2847a75d09cffb89f",
+    "skills/rhythm-and-type/examples/03-landscape.json": "56bd623eda2d52c925b3b4f05b10ebc44fd4a671f45796bf8e2a40fce6aa84ad",
+    "skills/rhythm-and-type/references/input.md": "1846e7227ca446f5e0eaf5a04e6e791d9f5f5d03326ae083d2126ee498d16274",
+    "skills/rhythm-and-type/references/provenance.md": "a785c79f5ae9b86e1fcae263387ec8ce7e45169951f9318f898bfb10d1884064",
+    "skills/rhythm-and-type/renderer/compose-score.mjs": "036bd4190c8727642c7ef6d72801181c2bcf1de32ce760d76658fb86eb2e590e",
+    "skills/rhythm-and-type/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/rhythm-and-type/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/rhythm-and-type/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/rhythm-and-type/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/rhythm-and-type/renderer/render.mjs": "a82199812888e40e47494168483ef78cdb63a56a4d2c1fd117bd9f96f5a6df92",
+    "skills/rhythm-and-type/renderer/src/Film.jsx": "682b39abc9ee41eefed881f62fdf653dcbf4fde37e2d31135fc69b72d4beaff0",
+    "skills/rhythm-and-type/renderer/src/index.jsx": "4309949e91babe9751fe9e00d4720a940e91a0e7c78f6f8f7009a0497ab8753f",
+    "skills/rhythm-and-type/renderer/src/model.mjs": "955af1fffa78822ab5209c61a77975173a82527cde4567e25a5742b7f57a17c4",
     "skills/shape-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/shape-and-type/SKILL.md": "04cb5c211c6d3b9d7352eefb051e068894ab47c2aeead54fb1605650daa55052",
     "skills/shape-and-type/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
@@ -9382,6 +9410,286 @@
     },
     {
       "path": "skills/release-story-deck/examples/tide/tide.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/review/00-punch.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/review/01-relay.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/review/02-ribbons.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/review/03-tiles.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/review/04-manifesto.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/review/00-punch.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/review/01-relay.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/review/02-ribbons.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/review/03-tiles.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/review/04-manifesto.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/review/00-punch.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/review/01-relay.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/review/02-ribbons.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/review/03-tiles.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/review/04-manifesto.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/review/00-punch.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/review/01-relay.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/review/02-ribbons.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/review/03-tiles.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/review/04-manifesto.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/review/00-punch.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/review/01-relay.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/review/02-ribbons.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/review/03-tiles.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/review/04-manifesto.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/rhythm-and-type/examples/recorded/03-landscape/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
