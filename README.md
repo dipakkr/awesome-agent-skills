@@ -9,6 +9,13 @@ A skill gives your agent a repeatable way to handle a particular job. Each folde
 contains its instructions, supporting references and any scripts, templates or
 editable examples needed for that workflow. The full reusable source is public.
 
+## Sponsor
+
+**[ToolJunction](https://tooljunction.io)** supports this collection.
+Discover AI tools, startup credits and perks for your next project.
+
+[Explore ToolJunction →](https://tooljunction.io)
+
 ## What would you like to make?
 
 | Make something | Start with |
