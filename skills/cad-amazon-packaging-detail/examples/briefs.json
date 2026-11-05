@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Notebook set contents",
+    "brief": "Fictional stationery set. Included inventory: one navy A5 notebook, one brass-colour metal pen, one plain kraft presentation box with fitted insert. No other accessories.",
+    "prompt": "Square 1:1 premium ecommerce secondary packaging-detail image. Fictional stationery set on warm pale ivory studio background. Exact inventory only: one closed navy cloth A5 notebook, one slender brass-colour metal pen, and one plain kraft rectangular presentation box with its attached hinged lid open. Box has a fitted kraft insert showing ONE notebook-sized recess and ONE narrow pen recess, both empty because the notebook and pen are placed neatly in front of the box. High three-quarter camera angle, all pieces fully visible, believable proportions, polished soft side lighting, elegant generous margins. The notebook is blank with no printed writing. No extra pens, cards, papers, ribbon, filler, stickers, logos, badges, text, watermarks or props. Clear honest what-is-in-the-box composition; conceptual product, not an existing brand.",
+    "id": "01",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  },
+  {
+    "title": "Two-cup package",
+    "brief": "Fictional ceramic pair. Included inventory: two identical cobalt ceramic cups, one unprinted ivory presentation box with attached lid and two fitted cup recesses. No spoon, saucer or other accessory.",
+    "prompt": "Square 1:1 premium ecommerce secondary packaging-detail photograph aesthetic. Fictional ceramic cup pair on a soft powder-blue studio surface. Exactly TWO identical small cobalt blue handleless ceramic cups positioned upright in front of ONE unprinted ivory presentation box with attached hinged lid fully open. Inside box a fitted ivory insert has exactly TWO round empty cup recesses, correctly scaled to the cups displayed outside. Front three-quarter view with whole objects visible, tidy symmetrical composition and realistic ceramic glaze, gentle cool daylight, roomy margins. No extra cup, spoon, saucer, paper, flowers, food, filler, printed brand, writing, logo, watermark or decorative prop. Make count and box construction unambiguous. Concept product scene only.",
+    "id": "02",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  }
+]

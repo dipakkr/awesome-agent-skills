@@ -64,6 +64,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-amazon-packaging-detail",
+      "name": "Amazon Packaging Detail",
+      "description": "Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts.",
+      "site": "https://claudeai.directory/skills/amazon-packaging-detail",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-amazon-packaging-detail",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -169,6 +179,16 @@
     "skills/cad-amazon-feature-infographic/references/example-guide.json": "3c5521e203c9aff86279ff6058f1230bd800cfa4a6edd9bd1ff9b9db52fc53ba",
     "skills/cad-amazon-feature-infographic/references/placement.md": "90bb8419f181803046ff0a60db352b2d9745bf3f978fc91876fbc7ee381c4897",
     "skills/cad-amazon-feature-infographic/references/usage-examples.md": "3b2c3df8254b2ee6eba11eeb2083a76da3c2e665359c07eef0122353215f0907",
+    "skills/cad-amazon-packaging-detail/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-amazon-packaging-detail/SKILL.md": "0626a28414aef3e4e66bf61c9c622e869a104ceae93155c3d486daa621c344aa",
+    "skills/cad-amazon-packaging-detail/examples/briefs.json": "35f58d1b4bd2ecc2f2bb99830764d84e2338f57049026a194bac85c3b759766d",
+    "skills/cad-amazon-packaging-detail/examples/gallery/01.webp": "da73715991798e02b1273040d8e1094856b04fb2625c968d6d205e5d99665434",
+    "skills/cad-amazon-packaging-detail/examples/gallery/02.webp": "bdaf34731bb6d5eebb64b94b5a0b915f41dd40bbb271a8f4d07bdceda3c65644",
+    "skills/cad-amazon-packaging-detail/examples/gallery/03.webp": "c5b509dd1e0d82c6e38ee7d08081d695452ec34f2edd03a1901c6069c0d5bfa8",
+    "skills/cad-amazon-packaging-detail/examples/gallery/04.webp": "f500b19d4a25c0d0c230ff07cc23304aeeedd27f018e51ae1bffc4a07d4259df",
+    "skills/cad-amazon-packaging-detail/references/example-guide.json": "25038b6cbc5c59242bf335da0636be6a5e79f822d97ec9056ecc60b0f5331d11",
+    "skills/cad-amazon-packaging-detail/references/placement.md": "1ea15e2a28d73412d293f95eb8a0c48b06dfc0c64d7ed85cd3c4b1214cbaa3bb",
+    "skills/cad-amazon-packaging-detail/references/usage-examples.md": "2c0c0661056a7b94a8c6864a81badd10ad0e29c7150883d60d52295aff6740ae",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
