@@ -24,6 +24,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-ad-motion-export",
+      "name": "Ad Motion Export",
+      "description": "Turn approved artwork and clips into a short MP4 and optional GIF with an editable timeline and measured export report.",
+      "site": "https://claudeai.directory/skills/ad-motion-export",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-ad-motion-export",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -90,6 +100,14 @@
     "skills/cad-active-recall-sheets/examples/water-cycle/prompt.txt": "d5751948a1f04288a4d9f31c39b80c60b9f3591aac08b79b2f30e09bb7a50b8b",
     "skills/cad-active-recall-sheets/examples/water-cycle/receipt.json": "30276f6c7d125ddc617da5bf0a9c702878f128f2f68f5eefb9ffc75bfc41bb59",
     "skills/cad-active-recall-sheets/references/usage.md": "81da6c07cd7811c7cdfd5557a6766860b48316ccffa7402cec1a808c3b83aa75",
+    "skills/cad-ad-motion-export/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-ad-motion-export/SKILL.md": "7d1830b5bc11cd324c7369a8abb61ebd96f120b1e403fa6855c658ff448c7c8e",
+    "skills/cad-ad-motion-export/agents/openai.yaml": "10f96422d37d1622655d91970ccb7812867b21f68d66334027d07bd04a6ef5a7",
+    "skills/cad-ad-motion-export/examples/gallery/01.webp": "55839e5eeb71ab234929f0dbf821456789c75ba82d1148e1c7a8b0521d260175",
+    "skills/cad-ad-motion-export/references/example-guide.json": "c685c12dd61a5e818524a928922c2a36691b86701204737730900497ec35db4c",
+    "skills/cad-ad-motion-export/references/export.md": "7bde49e6a33669d1c34fba42d5cc7e6cd982dc7f6b4b4af95e39803c8a5de519",
+    "skills/cad-ad-motion-export/references/usage-examples.md": "d5ba85537874b3a66ccc06b2e3096b9a767ff4a7a3763b5377bfa2f32c2bf438",
+    "skills/cad-ad-motion-export/scripts/render.py": "ef33dbd9bdb27b117f2158f3bcf2e878300b1064b59003eccc587f031f9e286c",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
