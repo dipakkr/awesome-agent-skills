@@ -553,6 +553,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "parametric-desk-cup",
+      "name": "Parametric Desk Cup",
+      "description": "Create fluted or twisted desk cups and decorative pots as real STL and 3MF models with editable dimensions and an interactive preview.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/parametric-desk-cup",
+      "publication": "original-mit"
+    },
+    {
       "package": "pen-and-page",
       "name": "Pen And Page",
       "description": "Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request.",
@@ -1709,6 +1718,16 @@
     "skills/parallel-task-film/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
     "skills/parallel-task-film/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/parallel-task-film/renderer/src/model.mjs": "2ac54514591c9de330f635e2ff076df633b3a981a520c1d0ca0671309cc06408",
+    "skills/parametric-desk-cup/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/parametric-desk-cup/SKILL.md": "a5207c79d3f10876b586615931dda1d84d7bb3fefd08025a07407fdbafa94983",
+    "skills/parametric-desk-cup/assets/preview.html": "6f7d580ee27096661c0e75fc8eb4ba7f9cabf0ea1fd7e1861d69cfd54b95c131",
+    "skills/parametric-desk-cup/assets/scalloped-pot.json": "d8ad3bf853ef275e5cef261b193d5438352b557d50ab030b2065f23489a2cd43",
+    "skills/parametric-desk-cup/assets/twist-cup.json": "cba3041933c1a8f01056e6dd625721892e5adac800538316447d1536de0757ec",
+    "skills/parametric-desk-cup/examples/gallery/01.webp": "9bc77dd0f32d7286c8e4b3a576988ae44471804b966f7ff9366350b6c5377876",
+    "skills/parametric-desk-cup/examples/gallery/02.webp": "13aa8c15f7b33b8a6ba7cbabbfcae2351f01e329ecdb9e559dc4a5b9b50c2f03",
+    "skills/parametric-desk-cup/references/example-guide.json": "a06a56a543651d189cd59e4d56d3b3a730eed6d7a65efd0dc4f8bc2cdd04da84",
+    "skills/parametric-desk-cup/references/usage-examples.md": "84e80642983f898120be187830537bf9ddb9648f1f2c490bd66685b0bfb25c9e",
+    "skills/parametric-desk-cup/scripts/make_vessel.py": "50ba0f57d9f5166fece1d413fd57e87901931ea4baf3111e4d9f348a67f27b29",
     "skills/pen-and-page/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/pen-and-page/SKILL.md": "22fd59ac9637a5926cf0e90b133a7da003f98e5db8fa5e7fd714a651e535d9a1",
     "skills/pen-and-page/examples/gallery/01.webp": "2d652c9b6858fa79ae5ef5d4a135927ee2d7a74378a9a8c8d759a3dbd68e75f4",

@@ -1,0 +1,5 @@
+{
+  "name": "Twist pen cup", "height": 90, "diameter": 64,
+  "wall": 3, "base": 3, "flutes": 16, "amplitude": 1.5,
+  "twist": 55, "taper": 0.08, "color": "#cf7655"
+}
