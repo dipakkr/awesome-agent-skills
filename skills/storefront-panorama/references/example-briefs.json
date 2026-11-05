@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-01",
+    "title": "Slow table collection",
+    "brief": "Fictional demonstration brand Hearthline: collection of conceptual tableware and textiles.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      2400,
+      1200
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 2400x1200 pixels. Wide landscape collection campaign still life. On the RIGHT half: a low cream ceramic pitcher, two small sage bowls, a neatly folded ivory linen napkin and a single olive branch, on warm limestone against a pale sage plaster wall. Arrange with elegant overlapping depth without hiding object silhouettes. LEFT45percent is quiet pale sage negative space for separate website text, no writing in image. Soft late morning window light, gentle long shadows, refined editorial product photography, tactile linen and ceramic. Products concentrated near right-center, not at extreme edges. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create a text-free collection banner with a planned focal region and usable space for theme-rendered headings; adapt composition to the actual Shopify section."
+  },
+  {
+    "id": "example-02",
+    "title": "Evening ritual collection",
+    "brief": "Fictional demonstration brand Nook Ritual: conceptual bathroom accessories without skincare or efficacy claims.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      2400,
+      1200
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 2400x1200 pixels. Wide landscape editorial collection image, a dark midnight-blue tiled shelf with THREE unlabeled amber glass vessels of different silhouettes grouped at center-right: tall pump dispenser, short round lidded jar, and slender capped bottle. A folded charcoal hand towel beneath the jar. Warm side lighting and delicate reflections, deep teal background. LEFT40percent stays calm dark teal empty space for separate website heading. No text, no logos, no flowers, no claims, no other bottles. Cinematic but readable product silhouettes, realistic straight tile grout. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create a text-free collection banner with a planned focal region and usable space for theme-rendered headings; adapt composition to the actual Shopify section."
+  }
+]

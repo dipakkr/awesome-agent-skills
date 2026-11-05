@@ -805,6 +805,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "storefront-panorama",
+      "name": "Storefront Panorama",
+      "description": "Create a text-free collection banner with a planned focal region and usable space for theme-rendered headings; adapt composition to the actual Shopify section.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/storefront-panorama",
+      "publication": "original-mit"
+    },
+    {
       "package": "talking-models",
       "name": "Talking Models",
       "description": "Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions.",
@@ -2420,6 +2429,16 @@
     "skills/steps-in-sequence/references/recorded-examples.json": "b9ce4f35ffbcb5628fc8199c421c293f22eea2845960fa33097e51a9e8149500",
     "skills/steps-in-sequence/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
     "skills/steps-in-sequence/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/storefront-panorama/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/storefront-panorama/SKILL.md": "1ae6ae55bc14adb58d8af9c4d1eec6ea43e451a179ac00ca89766ee0b1749ed5",
+    "skills/storefront-panorama/examples/gallery/01.webp": "f9aa64fc9d74278134815238fbd3ab63eae488f8a04049bc279a50a512a925fd",
+    "skills/storefront-panorama/examples/gallery/02.webp": "447c08c254f61c289b247025e113b0a426b1da3581ca69f9bedadd512f766b65",
+    "skills/storefront-panorama/examples/gallery/03.webp": "aaca02ebe896b9e9c9500a92b834fb6307e90ba9ba99709371062cda8ab4d725",
+    "skills/storefront-panorama/examples/gallery/04.webp": "345ef2f3583888d5940971a07d28654725663b6a362c7d3e0f52d9ce0873b18c",
+    "skills/storefront-panorama/references/example-briefs.json": "0d79aa020f36af20f59e4b5199dd4bcef528fabdfad210767a565b21d38eb4b3",
+    "skills/storefront-panorama/references/example-guide.json": "7eed3132f69b322a0958b6ef5ba1b084978adb47380f448a36cea1d62b997d07",
+    "skills/storefront-panorama/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
+    "skills/storefront-panorama/references/usage-examples.md": "3c6ca4cd9ae28b39f4ee2790c1ef21c15d69d3d592824b21f464fac3284d88f7",
     "skills/talking-models/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/talking-models/PROVENANCE.json": "4900350596afad0ca3d0993540d2fa8f425419e581864332213bd31467bfad98",
     "skills/talking-models/SKILL.md": "0b657e427a6bd07ef3de6842cea41a18adfdbab1d053a294d3c0f05ec35fe7c3",
