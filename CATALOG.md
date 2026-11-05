@@ -49,6 +49,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Listing Copywriter](skills/listing-copywriter/SKILL.md) | Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger. |
 | [Little Team Story](skills/little-team-story/SKILL.md) | Create a character-led product launch with three original geometric helpers, editable interface tasks and a final human-review message. Use for team workflows and assistant concepts. |
 | [Looping Shapes](skills/looping-shapes/SKILL.md) | Create a seamless geometric motion loop with a calm central caption and editable brand colors. Use for branded interludes, video backdrops and event screens. |
+| [Magazine In Motion](skills/magazine-in-motion/SKILL.md) | Build a product promo from photographic cutouts, printed frames, expressive typography and layered editorial compositions. |
 | [Memory Drills](skills/memory-drills/SKILL.md) | Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key. |
 | [Merchant Intake](skills/merchant-intake/SKILL.md) | Turn an ecommerce founder's conversation and supplied product information into a reusable store brief, sourced product facts, missing-input list and next steps for preparing listings and launch work. |
 | [Numbers To Narrative](skills/numbers-to-narrative/SKILL.md) | Turn a small supplied dataset into an accurate, clearly labelled feed graphic with units, source and an honest takeaway. |

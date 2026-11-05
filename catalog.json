@@ -409,6 +409,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "magazine-in-motion",
+      "name": "Magazine In Motion",
+      "description": "Build a product promo from photographic cutouts, printed frames, expressive typography and layered editorial compositions.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/magazine-in-motion",
+      "publication": "original-mit"
+    },
+    {
       "package": "memory-drills",
       "name": "Memory Drills",
       "description": "Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key.",
@@ -1356,6 +1365,28 @@
     "skills/looping-shapes/references/recorded-examples.json": "ac5087252cae042fe52ad5a4eb93b1fcfdf90fba61aa3cbe3887772087b5ecba",
     "skills/looping-shapes/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
     "skills/looping-shapes/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/magazine-in-motion/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/magazine-in-motion/SKILL.md": "76ee71a0f3a9e8b0f6fbf905bb7a8b34f009e88e3b0192c19aab7ab9c9803d8a",
+    "skills/magazine-in-motion/examples/01-landscape.json": "b0badc84d726f5185ec7251141e4134a8af35b4f65ef871e09a0b1b9c2a1cec4",
+    "skills/magazine-in-motion/examples/01-portrait.json": "667bd6c85cfaf6eae8b1574a42122897116c18e97f7c382607d1ae0ce5496684",
+    "skills/magazine-in-motion/examples/01-square.json": "e4450ece9716fed03022a26a854f3b09423492b04984fe13fd05e176d070b907",
+    "skills/magazine-in-motion/examples/02-landscape.json": "d8d3a3de1b26189217d7e1d78b56765e4e92bace72484e98783bfee98e912b5e",
+    "skills/magazine-in-motion/references/input.md": "da60f60f470be129a73d9eabfc89786ffe7c65b712eaaaf26cdee513fa942a8d",
+    "skills/magazine-in-motion/references/music.md": "8e1491f8822a37ec4509d712e9cbdf53bc289ec1cd8606ebab659e4a906b83ce",
+    "skills/magazine-in-motion/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/magazine-in-motion/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/magazine-in-motion/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/magazine-in-motion/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/magazine-in-motion/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/magazine-in-motion/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/magazine-in-motion/renderer/public/headphones.png": "5d2c414e92ccd10f6e920c574b2510c1b1624c124dd62c854867a7f05c4f71fd",
+    "skills/magazine-in-motion/renderer/public/shoe.png": "aa081cfbcfda4bf16cd60fd90ee86d2ec5c10f5b96407339d1908950a6353677",
+    "skills/magazine-in-motion/renderer/render.mjs": "26766900516244b1f3ccee7e8ff1e8408e5944bca456ffacc625e7c5d85b7190",
+    "skills/magazine-in-motion/renderer/src/Collage.jsx": "085dd78558decd412afb814607f75d4cba52234cd7ea00755be3311cdeea2b99",
+    "skills/magazine-in-motion/renderer/src/Film.jsx": "94c135e8c501f1790aa92c17fce08b7112e2bb479c9e22be1f286061edce6427",
+    "skills/magazine-in-motion/renderer/src/Handoff.jsx": "d6c7ee77f61acd65beae7a20efd342af5c1d61f6ce3003e34c01f4e2d7ae5905",
+    "skills/magazine-in-motion/renderer/src/index.jsx": "b0ae03484d7eedc0fbcb96124b1642a8ad32b973103537a88ee018de241e9eb5",
+    "skills/magazine-in-motion/renderer/src/model.mjs": "440128c787515fdb7d508d9b12815db89fa0f7f0d7be9232fd73453b346d8435",
     "skills/memory-drills/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/memory-drills/SKILL.md": "fa4b3cf111de94c48c2129b7239b71554aca9341089033c3973ac4967e6382f4",
     "skills/memory-drills/agents/openai.yaml": "82e8ea04083ee765d6e7f6937fa627319a03d158c628f0f159d80fc0d1f45ab9",
@@ -5910,6 +5941,454 @@
     },
     {
       "path": "skills/looping-shapes/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/review/00-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/review/01-specimen.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/review/02-contact-sheet.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/review/03-cut-and-paste.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/review/04-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/review/00-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/review/01-specimen.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/review/02-contact-sheet.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/review/03-cut-and-paste.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/review/04-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-portrait/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/review/00-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/review/01-specimen.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/review/02-contact-sheet.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/review/03-cut-and-paste.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/review/04-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/01-square/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/review/00-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/review/01-specimen.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/review/02-contact-sheet.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/review/03-cut-and-paste.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/review/04-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/14.jpg",
       "reason": "rendered example; see website"
     },
     {

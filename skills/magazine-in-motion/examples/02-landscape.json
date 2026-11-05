@@ -1,0 +1,19 @@
+{
+  "brand": "OFFGRID",
+  "headline": "Take a different route.",
+  "ending": "Good things happen outside.",
+  "cta": "Go find your outside",
+  "url": "offgrid.example",
+  "item": "Move your own way",
+  "chapters": [
+    "Follow your own feet.",
+    "Every angle. New energy.",
+    "Leave the usual behind."
+  ],
+  "accent": "#d9ff4b",
+  "subject": "sport",
+  "image": "shoe.png",
+  "mode": "collage",
+  "format": "landscape",
+  "concept": true
+}
