@@ -74,6 +74,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-amazon-product-comparison",
+      "name": "Amazon Product Comparison",
+      "description": "Build a neutral same-brand comparison from supplied specifications without unsupported superiority claims.",
+      "site": "https://claudeai.directory/skills/amazon-product-comparison",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-amazon-product-comparison",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -189,6 +199,16 @@
     "skills/cad-amazon-packaging-detail/references/example-guide.json": "25038b6cbc5c59242bf335da0636be6a5e79f822d97ec9056ecc60b0f5331d11",
     "skills/cad-amazon-packaging-detail/references/placement.md": "1ea15e2a28d73412d293f95eb8a0c48b06dfc0c64d7ed85cd3c4b1214cbaa3bb",
     "skills/cad-amazon-packaging-detail/references/usage-examples.md": "2c0c0661056a7b94a8c6864a81badd10ad0e29c7150883d60d52295aff6740ae",
+    "skills/cad-amazon-product-comparison/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-amazon-product-comparison/SKILL.md": "ab463c2f101c2e917db3eb8a22ad78c0647d1816a44944974134b6b74d3b0603",
+    "skills/cad-amazon-product-comparison/examples/briefs.json": "e59de884798a71b94733383129f5af5befb67c0dd51d9d746c96431b6774e144",
+    "skills/cad-amazon-product-comparison/examples/gallery/01.webp": "2be53325dd27d3905a3d5d00ba390e4f6a14525ceedf914bd985a8c3653094ee",
+    "skills/cad-amazon-product-comparison/examples/gallery/02.webp": "cf0fad6f60eff3d04a962ec9b325a4a95216b185707b3e489aca49cac28281d6",
+    "skills/cad-amazon-product-comparison/examples/gallery/03.webp": "7667f699306aa8eb14665c295ed7d738b539b0e763e8da483bff69d0b9afd78b",
+    "skills/cad-amazon-product-comparison/examples/gallery/04.webp": "1c36847ef6f9dff1306a45791ac5291e7327e5b3357dc778059af395de6a7e7e",
+    "skills/cad-amazon-product-comparison/references/example-guide.json": "7daba9f70919a927c2aaa3620afa3e30ecdd86d85f43eb723aa88285e36ae0f7",
+    "skills/cad-amazon-product-comparison/references/placement.md": "6fd8f71b42b7b7e372eb69e338f9a7a8244b41fb69e131a1d02703674f4094da",
+    "skills/cad-amazon-product-comparison/references/usage-examples.md": "cd58b0d9c7dd6597a464b26a9d8fee8fce31dfda6c988c3ed45cdd30df3fdd96",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",

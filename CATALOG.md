@@ -11,5 +11,6 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Amazon A+ Brand Story | [Files](skills/cad-amazon-aplus-brand-story/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-aplus-brand-story) | Original / MIT |
 | Amazon Feature Infographic | [Files](skills/cad-amazon-feature-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-feature-infographic) | Original / MIT |
 | Amazon Packaging Detail | [Files](skills/cad-amazon-packaging-detail/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-packaging-detail) | Original / MIT |
+| Amazon Product Comparison | [Files](skills/cad-amazon-product-comparison/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-product-comparison) | Original / MIT |
 | Ecommerce Product Listing | [Files](skills/cad-ecommerce-product-listing/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
 | Ecommerce Store Brief | [Files](skills/cad-ecommerce-store-brief/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |

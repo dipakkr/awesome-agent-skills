@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "title": "Two notebook formats",
+    "brief": "Fictional same-brand notebook line. Pocket: A6, 80 pages, plain. Desk: A5, 160 pages, dot grid.",
+    "prompt": "Square 2048 x 2048 elegant ecommerce comparison graphic for a fictional same-brand notebook collection. Warm ivory ground, charcoal typography, subtle fine rules, no winner highlight. Exact headline \"Find your format\". Two equal-width product columns with conceptual notebook images above: small terracotta notebook labeled \"Pocket\", larger navy notebook labeled \"Desk\". Below, accurate perfectly aligned table with row labels on left and exactly these cells: \"Size\" | \"A6\" | \"A5\"; \"Pages\" | \"80\" | \"160\"; \"Paper\" | \"Plain\" | \"Dot grid\". The images are closed notebooks, unequal physical sizes but equal visual attention. Clean highly readable sans serif, large type, generous margins. No logo, star ratings, prices, check marks, medical or superiority claims, badges, watermark or extra text. All specs are explicitly fictional demonstration input.",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  },
+  {
+    "id": "02",
+    "title": "Two storage sizes",
+    "brief": "Fictional same-brand storage jars. Small: 350 ml, 9 cm height, ceramic. Large: 700 ml, 13 cm height, ceramic.",
+    "prompt": "Square 2048 x 2048 modern product selection comparison graphic, light powder-blue background, dark navy typography. Exact headline \"Two sizes. One collection.\" Two conceptual matte ceramic lidded jars, pale yellow smaller jar on left labeled \"Small\" and cobalt blue taller jar on right labeled \"Large\". Equal prominence without winner or quality hierarchy. Crisp aligned lower table has exact row labels and values: \"Capacity\" | \"350 ml\" | \"700 ml\"; \"Height\" | \"9 cm\" | \"13 cm\"; \"Material\" | \"Ceramic\" | \"Ceramic\". Large clear sans serif text, generous white space, subtle dividers and premium soft studio light, complete jars not cropped. No logos, competitor names, prices, stars, badges, superiority or extra text. Both belong to one fictional concept collection, all numbers are supplied fictional specs.",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  }
+]

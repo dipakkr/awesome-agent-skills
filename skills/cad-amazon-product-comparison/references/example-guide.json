@@ -1,0 +1,43 @@
+{
+  "skill": "cad-amazon-product-comparison",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Two notebook formats",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "2be53325dd27d3905a3d5d00ba390e4f6a14525ceedf914bd985a8c3653094ee",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-product-comparison. Create a new output based on the packaged example \"Two notebook formats\". Brief: Fictional same-brand notebook line. Pocket: A6, 80 pages, plain. Desk: A5, 160 pages, dot grid. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Two storage sizes",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "cf0fad6f60eff3d04a962ec9b325a4a95216b185707b3e489aca49cac28281d6",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-product-comparison. Create a new output based on the packaged example \"Two storage sizes\". Brief: Fictional same-brand storage jars. Small: 350 ml, 9 cm height, ceramic. Large: 700 ml, 13 cm height, ceramic. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Two everyday mug sizes",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "7667f699306aa8eb14665c295ed7d738b539b0e763e8da483bff69d0b9afd78b",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-product-comparison. Create a new output based on the packaged example \"Two everyday mug sizes\". Brief: Fictional same-brand ceramic mugs: Short 250 ml, Tall 400 ml. Both have a handle and are ceramic. Equal neutral treatment; no superiority claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Two candle formats",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "1c36847ef6f9dff1306a45791ac5291e7327e5b3357dc778059af395de6a7e7e",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-product-comparison. Create a new output based on the packaged example \"Two candle formats\". Brief: Fictional same-brand candle line: Small 120 g, Large 240 g. Both use plain glass jars and a single wick. No burn-time, scent or safety claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
