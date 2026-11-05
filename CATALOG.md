@@ -88,6 +88,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Shape And Type](skills/shape-and-type/SKILL.md) | Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy. |
 | [Shape Shift Cuts](skills/shape-shift-cuts/SKILL.md) | Join three typographic compositions with a diagonal polygon reveal and staggered perspective tile flips. |
 | [Share Of Circle](skills/share-of-circle/SKILL.md) | Animate a three-part percentage breakdown as a segmented ring with an explicit total, legend and source. Use for shares of one whole, not unrelated metrics. |
+| [Single Take Tour](skills/single-take-tour/SKILL.md) | Travel continuously through three connected product stations and pull back to reveal the whole journey. |
 | [Sketch To Sell](skills/sketch-to-sell/SKILL.md) | Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request. |
 | [Soft Object Cards](skills/soft-object-cards/SKILL.md) | Build gentle product and habit graphics with soft clay characters, tactile objects and spacious editorial type. |
 | [Talking Models](skills/talking-models/SKILL.md) | Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions. |

@@ -1,0 +1,25 @@
+{
+  "mode": "journey",
+  "format": "landscape",
+  "brand": "ATLAS",
+  "headline": "One idea. A connected journey.",
+  "ending": "See how it all connects.",
+  "cta": "Start your next journey",
+  "item": "A new project",
+  "labels": [
+    "Capture",
+    "Develop",
+    "Share"
+  ],
+  "details": [
+    "Start with the thing that matters",
+    "Give your idea room to grow",
+    "Bring the whole story together"
+  ],
+  "accent": "#3e5cb5",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}

@@ -760,6 +760,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "single-take-tour",
+      "name": "Single Take Tour",
+      "description": "Travel continuously through three connected product stations and pull back to reveal the whole journey.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/single-take-tour",
+      "publication": "original-mit"
+    },
+    {
       "package": "sketch-to-sell",
       "name": "Sketch To Sell",
       "description": "Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request.",
@@ -2301,6 +2310,26 @@
     "skills/share-of-circle/references/recorded-examples.json": "d2edc3a6f219551b269b74a046e91f339fc9fc634c4b57f59490d2e46f7acfe3",
     "skills/share-of-circle/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
     "skills/share-of-circle/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/single-take-tour/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/single-take-tour/SKILL.md": "6b210f33de27122eebbc6a54b1de7671be685eba924ec9e08fb7a5f4316d7426",
+    "skills/single-take-tour/examples/01-landscape.json": "44eb24ac99954d4a28127849df47364c1094e8142d04570bb1ea292c5a9ca070",
+    "skills/single-take-tour/examples/02-square.json": "05520aa2786134a5750e2c6f3a5dd25c83113c3b2abacf773fda2bcd048d8b70",
+    "skills/single-take-tour/references/art-direction.md": "ce6d7d948c699790068e3aa809e54c399c382396831150af5929d67e7f7d2f70",
+    "skills/single-take-tour/references/input.md": "ec7df0a221ee779984eed3234f8990ef8ca2ff941f295864acd64061a528b4c8",
+    "skills/single-take-tour/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/single-take-tour/references/quickstart.md": "3fdf3d5ada7d773b1dae9a1ca3ecdcb0cd10a3a5cb879ae82eb48d7d874e1c32",
+    "skills/single-take-tour/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/single-take-tour/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/single-take-tour/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/single-take-tour/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/single-take-tour/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/single-take-tour/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/single-take-tour/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/single-take-tour/renderer/src/Film.jsx": "e71efab41510f49bc32dc623b7b8929b439248dc60c2f0ecb415a6cd76d9d352",
+    "skills/single-take-tour/renderer/src/Journey.jsx": "44208bd787cd8a37f0ab2a1b8531c3f1baed180ae75752eaacbde277313efc05",
+    "skills/single-take-tour/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/single-take-tour/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/single-take-tour/renderer/src/model.mjs": "a076dcd94532115f0ae87fe78e6cac1aa06f06975a858bf817940db3cd495211",
     "skills/sketch-to-sell/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/sketch-to-sell/SKILL.md": "0743d9c94223a5792d36a91d8104893d381cae3c332d8d5357525b8e7183f40d",
     "skills/sketch-to-sell/examples/gallery/01.webp": "e534ad73523ba8ec39c1dd72304e0ccbb7f7be882ab3503cedbe9dd631aefb89",
@@ -11227,6 +11256,62 @@
     },
     {
       "path": "skills/share-of-circle/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/single-take-tour/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {

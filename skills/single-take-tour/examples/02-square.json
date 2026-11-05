@@ -1,0 +1,25 @@
+{
+  "mode": "journey",
+  "format": "square",
+  "brand": "PATH",
+  "headline": "Follow the thought forward.",
+  "ending": "Every step belongs to the story.",
+  "cta": "Take the next step",
+  "item": "Your next question",
+  "labels": [
+    "Ask",
+    "Explore",
+    "Create"
+  ],
+  "details": [
+    "Find a useful starting point",
+    "Follow the possibilities",
+    "Make something you can share"
+  ],
+  "accent": "#a44724",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}
