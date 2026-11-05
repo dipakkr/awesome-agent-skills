@@ -274,6 +274,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "gadget-in-action",
+      "name": "Gadget In Action",
+      "description": "Create tech-accessory ads around a real use case or supported feature, with clear devices and concise copy.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/gadget-in-action",
+      "publication": "original-mit"
+    },
+    {
       "package": "gathering-announcement",
       "name": "Gathering Announcement",
       "description": "Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials.",
@@ -1007,6 +1016,17 @@
     "skills/funding-story/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/funding-story/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
     "skills/funding-story/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/gadget-in-action/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/gadget-in-action/SKILL.md": "48d4897411587ca650bfb87d84bf0638f102b8657e6495e18182a3eae79b8c85",
+    "skills/gadget-in-action/agents/openai.yaml": "03877f0cf73b807e2e686a6ebf9ef94c6a492603eb14dafdfa7a7381d3de3543",
+    "skills/gadget-in-action/examples/gallery/01.webp": "d75082b39b18454f6429a038edc9c33fc99cb5324c35c265d3a8fc555f1daa6a",
+    "skills/gadget-in-action/examples/gallery/02.webp": "edd33ffbda74b86a239fbd74c9feef37bf991aa81c9960b8a512359b26d24e73",
+    "skills/gadget-in-action/examples/gallery/03.webp": "077f42e28043163033cc50a732376628cd4c0f56476079acdb6e55d5f454e8d3",
+    "skills/gadget-in-action/examples/gallery/04.webp": "f12085d62400d4cb7230b8433b53f49e27fbacc900f2a33137dadf70ba644451",
+    "skills/gadget-in-action/references/example-guide.json": "b33146b0da66dc0f9f904657f6857221e5b4ff1ae17b98a269fb77dec03e79eb",
+    "skills/gadget-in-action/references/examples.json": "d69d8a846420cf350a8dd6733e2787d0362c2a0a53c91bd70b49dbe8b1b1137a",
+    "skills/gadget-in-action/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
+    "skills/gadget-in-action/references/usage-examples.md": "836612bfd88a5d1356b756aa7edcee725de1b211dcff0bb56587e1e174970143",
     "skills/gathering-announcement/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/gathering-announcement/SKILL.md": "977b4a714e98d8a9f4b5735d2f947bf93a6ac0e80e34dfb2bbb0fa10c553d51f",
     "skills/gathering-announcement/examples/gallery/01.webp": "41c531e3323e7dff718231f04dc663bd4fc5c17b72a03bf00ea40d8a30ba0cfa",
