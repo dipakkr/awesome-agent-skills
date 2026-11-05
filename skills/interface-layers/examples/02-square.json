@@ -1,0 +1,25 @@
+{
+  "mode": "exploded",
+  "format": "square",
+  "brand": "STRATA",
+  "headline": "From the inside, out.",
+  "ending": "Complexity, made understandable.",
+  "cta": "Inspect your product",
+  "item": "The complete system",
+  "labels": [
+    "Inputs",
+    "Processing",
+    "Experience"
+  ],
+  "details": [
+    "The material you bring",
+    "The connections you make",
+    "The result you can use"
+  ],
+  "accent": "#287064",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}

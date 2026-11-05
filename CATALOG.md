@@ -41,6 +41,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Identity Playbook](skills/identity-playbook/SKILL.md) | Present positioning, visual principles, voice and applications as one coherent brand direction with editable guidance. |
 | [Impossible Product Scenes](skills/impossible-product-scenes/SKILL.md) | Build a playful campaign around one impossible scene while keeping the product legible and believable. |
 | [Ink Cut Covers](skills/ink-cut-covers/SKILL.md) | Turn a story or article into an original ink engraving with a strong metaphor, detailed hatching and room for editorial typography. |
+| [Interface Layers](skills/interface-layers/SKILL.md) | Separate interface layers in perspective, explain their roles and reassemble the product. |
 | [Listing Copywriter](skills/listing-copywriter/SKILL.md) | Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger. |
 | [Memory Drills](skills/memory-drills/SKILL.md) | Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key. |
 | [Merchant Intake](skills/merchant-intake/SKILL.md) | Turn an ecommerce founder's conversation and supplied product information into a reusable store brief, sourced product facts, missing-input list and next steps for preparing listings and launch work. |
