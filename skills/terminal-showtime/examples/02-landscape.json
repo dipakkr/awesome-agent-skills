@@ -1,0 +1,22 @@
+{
+  "brand": "PATCH",
+  "headline": "Give your update a voice.",
+  "ending": "Make every release count.",
+  "cta": "Write your next chapter",
+  "url": "patch.example",
+  "chapters": [
+    "Start with what changed.",
+    "Put the pieces in order.",
+    "A release worth opening."
+  ],
+  "accent": "#9eedb5",
+  "subject": "release",
+  "files": [
+    "changes.md",
+    "highlights.md",
+    "release.json"
+  ],
+  "mode": "pixel",
+  "format": "landscape",
+  "concept": true
+}
