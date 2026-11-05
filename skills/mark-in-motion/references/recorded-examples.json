@@ -1,0 +1,310 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $mark-in-motion to create \"An identity in orbit\" for the fictional Northline. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "logo",
+      "sourceSha256": "2507ed57e222fdc7d82bc54e3bb2d3e16fdec7b5ffcb8c91b7ba9b70cb9ecc4b",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7c09ac0e0d78e77f858ec2e526823c6e949841956ebe735165a44a1f83d8135",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "c36d753a0358773755e1efa7c4f27d56481af567dcb4f3157afb537a20d2ad9f",
+          "bytes": 261
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "9fbd8b235c5ce30c2aea061cbccc65c65bb0a683047efe91ab7392c4b44090c4",
+          "bytes": 203231
+        },
+        "poster.png": {
+          "sha256": "7061cf1595542f837c14b124aeec5fed7111a158b92e50237ee11f4c92dcc5a9",
+          "bytes": 60499
+        },
+        "preview.html": {
+          "sha256": "bb29f385f822bbb76dee07da951f196c7ee4868cc2705b0cda2d4d35ca36d322",
+          "bytes": 550
+        },
+        "review-01.png": {
+          "sha256": "54b621809e12646b81985642241b96964f395af1c730d9fc7c1a8d3ad3ad75c5",
+          "bytes": 43020
+        },
+        "review-02.png": {
+          "sha256": "31e0e5f01cbd12ac1aa29c11672fb48de3da6bac830f3ea2d52778ffaa3ba271",
+          "bytes": 43298
+        },
+        "review-03.png": {
+          "sha256": "7061cf1595542f837c14b124aeec5fed7111a158b92e50237ee11f4c92dcc5a9",
+          "bytes": 60499
+        },
+        "review-04.png": {
+          "sha256": "7061cf1595542f837c14b124aeec5fed7111a158b92e50237ee11f4c92dcc5a9",
+          "bytes": 60499
+        },
+        "review-05.png": {
+          "sha256": "7061cf1595542f837c14b124aeec5fed7111a158b92e50237ee11f4c92dcc5a9",
+          "bytes": 60499
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $mark-in-motion to create \"A modular identity\" for the fictional Index Studio. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "logo",
+      "sourceSha256": "7566100626eec7f19053bc231659354fe46baf156721dc7ef2856835c1500e2b",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7c09ac0e0d78e77f858ec2e526823c6e949841956ebe735165a44a1f83d8135",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "e0676a92b78b40cd5073b520dcf256841391cb63dcca8b775a81894fb33daad1",
+          "bytes": 272
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "f9f55a18875908e3a9247093b901b297bda14b5ce44bae73cfe229542e208822",
+          "bytes": 171824
+        },
+        "poster.png": {
+          "sha256": "6ea85a4bbf652a473cf7ee718ec68c2e8297e066e0a2160f22f6248abb16d2df",
+          "bytes": 62077
+        },
+        "preview.html": {
+          "sha256": "100c71302e9ab1558698ae735a536aa55c7faa42396918774fcf02dc0965eb50",
+          "bytes": 546
+        },
+        "review-01.png": {
+          "sha256": "d102278956f8c7d71ea0e60371698128754a96ec883aa69fa7af9730fda78169",
+          "bytes": 40615
+        },
+        "review-02.png": {
+          "sha256": "9addf9868238304e3506667f738dde31e90b802276c97f394c333f80b724d52e",
+          "bytes": 37826
+        },
+        "review-03.png": {
+          "sha256": "6ea85a4bbf652a473cf7ee718ec68c2e8297e066e0a2160f22f6248abb16d2df",
+          "bytes": 62077
+        },
+        "review-04.png": {
+          "sha256": "6ea85a4bbf652a473cf7ee718ec68c2e8297e066e0a2160f22f6248abb16d2df",
+          "bytes": 62077
+        },
+        "review-05.png": {
+          "sha256": "6ea85a4bbf652a473cf7ee718ec68c2e8297e066e0a2160f22f6248abb16d2df",
+          "bytes": 62077
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $mark-in-motion to create \"A softer first impression\" for the fictional Bloom House. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "logo",
+      "sourceSha256": "c3230f99b97a623fa1280b0ce448d45de3af9d0de8b5ee2627c5e7c4fae38d30",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7c09ac0e0d78e77f858ec2e526823c6e949841956ebe735165a44a1f83d8135",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "f7b1daf51f57129b90c22896a757bb5174e3f98a7b89255de7fe24b4d16a4ab6",
+          "bytes": 279
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "cad1445b2e029f5dc278a07087efde2772e07df45d8a30892467de600e33ab95",
+          "bytes": 195057
+        },
+        "poster.png": {
+          "sha256": "e914a487d98f5ee945496cdd2d5043be9f52525b79a51efde7ab2082e800e04b",
+          "bytes": 60154
+        },
+        "preview.html": {
+          "sha256": "9bc1c25f2b1b3fc71876bd76e8ff11289f07e200f83be9cb631aa7c0f5443bd8",
+          "bytes": 560
+        },
+        "review-01.png": {
+          "sha256": "af3c895789d364bb944ac9259f619cf8561aea2344544be265ee543978135293",
+          "bytes": 39756
+        },
+        "review-02.png": {
+          "sha256": "a97ce8718384c979e09dcfbcc11ab2b0aa0b41ff3d95472fdc84274f7e10f970",
+          "bytes": 40066
+        },
+        "review-03.png": {
+          "sha256": "e914a487d98f5ee945496cdd2d5043be9f52525b79a51efde7ab2082e800e04b",
+          "bytes": 60154
+        },
+        "review-04.png": {
+          "sha256": "e914a487d98f5ee945496cdd2d5043be9f52525b79a51efde7ab2082e800e04b",
+          "bytes": 60154
+        },
+        "review-05.png": {
+          "sha256": "e914a487d98f5ee945496cdd2d5043be9f52525b79a51efde7ab2082e800e04b",
+          "bytes": 60154
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $mark-in-motion to create \"Forward, together\" for the fictional Relay Works. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "logo",
+      "sourceSha256": "cf26c1839732d66aaa0c7056d45d1ad3a7833da6a7a66e9d34e38c135e3900ff",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7c09ac0e0d78e77f858ec2e526823c6e949841956ebe735165a44a1f83d8135",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        4.96,
+        7.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "a1089aab9c7307b86a5d31d70e49190d9dd0b2b364ecea9d692a2926dd122987",
+          "bytes": 281
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "7f56ff98f6c172aedfcf2b5113f9fb96051798b72ed8fde80904d7efc9aee787",
+          "bytes": 211611
+        },
+        "poster.png": {
+          "sha256": "2a61cf4c2cf4dd7d8b2bbf8ca69f5ded827e655a98258b7ef37dc53bae56ddec",
+          "bytes": 68822
+        },
+        "preview.html": {
+          "sha256": "b2ce8c3c2da5b63944b56d262dcdbec0a417c2ca3a04629dfc50f69fcc144752",
+          "bytes": 544
+        },
+        "review-01.png": {
+          "sha256": "6110ad40b5ccf20bb4908422be4585fcb8c55e13df3ca4cc8d18befed2ee7e16",
+          "bytes": 43750
+        },
+        "review-02.png": {
+          "sha256": "7ab93c5dbbf17711b62fe22bd886a291055d99b7d50103ea89f96e6390710593",
+          "bytes": 41714
+        },
+        "review-03.png": {
+          "sha256": "2a61cf4c2cf4dd7d8b2bbf8ca69f5ded827e655a98258b7ef37dc53bae56ddec",
+          "bytes": 68822
+        },
+        "review-04.png": {
+          "sha256": "2a61cf4c2cf4dd7d8b2bbf8ca69f5ded827e655a98258b7ef37dc53bae56ddec",
+          "bytes": 68822
+        },
+        "review-05.png": {
+          "sha256": "2a61cf4c2cf4dd7d8b2bbf8ca69f5ded827e655a98258b7ef37dc53bae56ddec",
+          "bytes": 68822
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]

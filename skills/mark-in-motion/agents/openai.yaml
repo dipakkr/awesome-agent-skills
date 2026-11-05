@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mark In Motion"
+  short_description: "Create editable logo reveal with recorded examples"
+  default_prompt: "Use $mark-in-motion to turn my brief into an original motion piece and deliver the rendered files plus editable inputs."

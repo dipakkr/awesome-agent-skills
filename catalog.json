@@ -418,6 +418,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "mark-in-motion",
+      "name": "Mark In Motion",
+      "description": "Create a restrained logo reveal with an intact supplied mark or an original geometric concept mark, followed by a clear wordmark and tagline. Use for silent brand intros and sign-offs.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/mark-in-motion",
+      "publication": "original-mit"
+    },
+    {
       "package": "memory-drills",
       "name": "Memory Drills",
       "description": "Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key.",
@@ -1387,6 +1396,24 @@
     "skills/magazine-in-motion/renderer/src/Handoff.jsx": "d6c7ee77f61acd65beae7a20efd342af5c1d61f6ce3003e34c01f4e2d7ae5905",
     "skills/magazine-in-motion/renderer/src/index.jsx": "b0ae03484d7eedc0fbcb96124b1642a8ad32b973103537a88ee018de241e9eb5",
     "skills/magazine-in-motion/renderer/src/model.mjs": "440128c787515fdb7d508d9b12815db89fa0f7f0d7be9232fd73453b346d8435",
+    "skills/mark-in-motion/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/mark-in-motion/SKILL.md": "b417798247187f0c7573722feb8abf6172cec1a0715b60f9e9a0174058572cc2",
+    "skills/mark-in-motion/agents/openai.yaml": "6e38ea63154335e605a3d81782dae0507eb1c2e5fb3f0a2a4ee0d49b8db01b1b",
+    "skills/mark-in-motion/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/mark-in-motion/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/mark-in-motion/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/mark-in-motion/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/mark-in-motion/config.json": "b7c09ac0e0d78e77f858ec2e526823c6e949841956ebe735165a44a1f83d8135",
+    "skills/mark-in-motion/examples/01.json": "2507ed57e222fdc7d82bc54e3bb2d3e16fdec7b5ffcb8c91b7ba9b70cb9ecc4b",
+    "skills/mark-in-motion/examples/02.json": "7566100626eec7f19053bc231659354fe46baf156721dc7ef2856835c1500e2b",
+    "skills/mark-in-motion/examples/03.json": "c3230f99b97a623fa1280b0ce448d45de3af9d0de8b5ee2627c5e7c4fae38d30",
+    "skills/mark-in-motion/examples/04.json": "cf26c1839732d66aaa0c7056d45d1ad3a7833da6a7a66e9d34e38c135e3900ff",
+    "skills/mark-in-motion/references/examples.md": "2cae4a6c892965d8d15d10f398a1d8ec1040f522ef00b50514d5fe582d3156a1",
+    "skills/mark-in-motion/references/inputs.md": "c52508f520532086b7e18bb4d4cd8faa9020715dedbd61d2ee8815a33d970d3d",
+    "skills/mark-in-motion/references/provenance.md": "63a7630510e283ab600665319643c9d3b223be31af0ba25feda30ad9687ba97e",
+    "skills/mark-in-motion/references/recorded-examples.json": "e14187d25a711fcd7b18e48728ffaf70691aa08e31a2ff1bfcd88cafb981c5d6",
+    "skills/mark-in-motion/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/mark-in-motion/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/memory-drills/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/memory-drills/SKILL.md": "fa4b3cf111de94c48c2129b7239b71554aca9341089033c3973ac4967e6382f4",
     "skills/memory-drills/agents/openai.yaml": "82e8ea04083ee765d6e7f6937fa627319a03d158c628f0f159d80fc0d1f45ab9",
@@ -6389,6 +6416,182 @@
     },
     {
       "path": "skills/magazine-in-motion/examples/recorded/02-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/mark-in-motion/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {
