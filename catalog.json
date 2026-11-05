@@ -422,6 +422,16 @@
       "original": true,
       "path": "skills/cad-linkedin-event-promo",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-linkedin-insight-card",
+      "name": "LinkedIn Insight Card",
+      "description": "Turn one defensible professional insight into a concise feed graphic with a memorable visual metaphor.",
+      "site": "https://claudeai.directory/skills/linkedin-insight-card",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-linkedin-insight-card",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -1080,7 +1090,18 @@
     "skills/cad-linkedin-event-promo/references/example-guide.json": "b31e89a9cbfa5a4ac5a2e8d6532a279d049f887eb841533aee7f7affdf0c5d2a",
     "skills/cad-linkedin-event-promo/references/research.md": "50e048a83bbad5c2ae868c2af5c294fe4c1e618c46304d3cbf6e69ba427a7ca1",
     "skills/cad-linkedin-event-promo/references/runtime-brief.json": "1abc678cccc752d11c09ac4933197a46458630117b1f69bc16ddc0069e79b432",
-    "skills/cad-linkedin-event-promo/references/usage-examples.md": "1b66df4d7c4ab1a3f796b9d613b6dd5072872ebfc7c29dc5b1d11312fe2a61b0"
+    "skills/cad-linkedin-event-promo/references/usage-examples.md": "1b66df4d7c4ab1a3f796b9d613b6dd5072872ebfc7c29dc5b1d11312fe2a61b0",
+    "skills/cad-linkedin-insight-card/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-linkedin-insight-card/SKILL.md": "f9cf81948058d3a64ba99d1e2fde110ca42772fef2303adf88553b1af7153054",
+    "skills/cad-linkedin-insight-card/examples/gallery/01.webp": "c90dec6b01578e2a65a71a8b468e4862e4b65e11daf8a05112f58066ed8935ab",
+    "skills/cad-linkedin-insight-card/examples/gallery/02.webp": "184dcb49f10ba36c0438433f9727c499dca8ba5271612ad464c8ca3fcd91080e",
+    "skills/cad-linkedin-insight-card/examples/gallery/03.webp": "6d48d43fef140a0d291a07def380d004bdb4c6c3c216baad6548add5d1eb3e82",
+    "skills/cad-linkedin-insight-card/examples/gallery/04.webp": "0e9a227e7691a411dd4b36c6e390536a574522fadbcb4aab9d8f65b5c831a489",
+    "skills/cad-linkedin-insight-card/references/example-briefs.json": "ce61f33c76c24bcf62ffe2e5e970aec913fa6404782e14841598cf5bbbe98c24",
+    "skills/cad-linkedin-insight-card/references/example-guide.json": "ef5dc05da44d1bd75d4d0504050159b55bc81be1b7a6a576bdce4b03ce73a6c4",
+    "skills/cad-linkedin-insight-card/references/research.md": "ebd3ae2e094c31bf5cc99bf486a78667cbf94afd9e660b2225626c61128ec9e9",
+    "skills/cad-linkedin-insight-card/references/runtime-brief.json": "b23b6148f4a65c4adc626a206c6a6d02137747a8c59fd9209ddc0349344a4c3c",
+    "skills/cad-linkedin-insight-card/references/usage-examples.md": "ce2d9154b559c388ca0c2cf20316c93873b86a4cde64161d8b1a627c556fbcbd"
   },
   "omitted": [
     {
