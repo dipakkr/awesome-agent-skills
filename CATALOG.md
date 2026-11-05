@@ -10,6 +10,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Buyer Choice Table](skills/buyer-choice-table/SKILL.md) | Build a neutral same-brand comparison from supplied specifications without unsupported superiority claims. |
 | [Campaign Shotplan](skills/campaign-shotplan/SKILL.md) | Translate a supported creative idea and real asset inventory into a production handoff with shot beats, missing assets and acceptance checks. |
 | [Campaign Testbench](skills/campaign-testbench/SKILL.md) | Turn a creative question into a controlled test backlog with explicit variables, measurement rules and inconclusive outcomes. |
+| [Change In Numbers](skills/change-in-numbers/SKILL.md) | Regroup quantified tokens and reconcile before-and-after values into an exact time-saving calculation. |
 | [Client Offer Builder](skills/client-offer-builder/SKILL.md) | Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions. |
 | [Clip Assembler](skills/clip-assembler/SKILL.md) | Turn approved artwork and clips into a short MP4 and optional GIF with an editable timeline and measured export report. |
 | [Collection Thumbnails](skills/collection-thumbnails/SKILL.md) | Create a text-free square collection image for a small Amazon Store tile, with a clear product family and space for native link text. |
