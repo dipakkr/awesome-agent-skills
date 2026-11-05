@@ -1,0 +1,19 @@
+{
+  "brand": "COMMON",
+  "headline": "Make space for good work.",
+  "ending": "A place for your next idea.",
+  "cta": "Find your corner",
+  "url": "common.example",
+  "chapters": [
+    "Good work needs room.",
+    "Ideas live here.",
+    "Bring your curiosity."
+  ],
+  "accent": "#c3a3ef",
+  "subject": "studio",
+  "image": "studio.png",
+  "stroke": "diagonal",
+  "mode": "brush",
+  "format": "landscape",
+  "concept": true
+}

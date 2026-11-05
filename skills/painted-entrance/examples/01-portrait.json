@@ -1,0 +1,19 @@
+{
+  "brand": "ROAM",
+  "headline": "Find a different rhythm.",
+  "ending": "More room to wander.",
+  "cta": "Take the scenic route",
+  "url": "roam.example",
+  "chapters": [
+    "A step beyond ordinary.",
+    "Collect moments.",
+    "Leave room for discovery."
+  ],
+  "accent": "#ffb735",
+  "subject": "coast",
+  "image": "coast.png",
+  "stroke": "horizontal",
+  "mode": "brush",
+  "format": "portrait",
+  "concept": true
+}

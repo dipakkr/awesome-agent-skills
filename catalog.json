@@ -508,6 +508,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "painted-entrance",
+      "name": "Painted Entrance",
+      "description": "Introduce a brand through photographic imagery, dry-brush transitions and a tactile postcard.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/painted-entrance",
+      "publication": "original-mit"
+    },
+    {
       "package": "paper-depth-covers",
       "name": "Paper Depth Covers",
       "description": "Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline.",
@@ -1590,6 +1599,30 @@
     "skills/pages-coming-together/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
     "skills/pages-coming-together/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/pages-coming-together/renderer/src/model.mjs": "40923997bb2d2621762cf325acaeb6febb327df1c32c4de37705e343532a0cbd",
+    "skills/painted-entrance/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/painted-entrance/SKILL.md": "59985191fc46cd71fc32360b7b24989f598e3686a531604ad0d595a833a3e17e",
+    "skills/painted-entrance/examples/01-landscape.json": "c5c21183f39c301187bc3ceab1cab07f5bc6bcd6310adebd87d7b3ccb44037d7",
+    "skills/painted-entrance/examples/01-portrait.json": "63999b6f8bc73a880c0a6ed93c52de103d9553f81e736db5f7797e7b1d267859",
+    "skills/painted-entrance/examples/01-square.json": "9d31f1444b66a70942894c1cd89308d8625cf4b733562c453244bdad240503c6",
+    "skills/painted-entrance/examples/02-landscape.json": "1b6eacc415c45a1477ab4d74539ed7514b91905c8a04c045cc5cf00f6d957723",
+    "skills/painted-entrance/references/audio.md": "bc8e9382a15f3f81052e514aac2f4734ae7330fbaeabd7dbc75e8b4f2e697a61",
+    "skills/painted-entrance/references/direction.md": "8c5be7b7ce72dd3d56e212c08f82dc10a3595f9e28f03fb06a881894fa0e7101",
+    "skills/painted-entrance/references/input.md": "a6c77f57efb3f335b6f0c080410c43f7731abe0b7ec96e04ca72c6e27c9f7e7b",
+    "skills/painted-entrance/renderer/compose-score.mjs": "87d40f710baa0e6e596e4a2300ece3823475daf30ab91695851df43f24293695",
+    "skills/painted-entrance/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/painted-entrance/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/painted-entrance/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/painted-entrance/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/painted-entrance/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/painted-entrance/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/painted-entrance/renderer/public/coast.png": "86ff37face51418b69298862b53d7b242761857c3c366a3c85ccbdb19c2a7a1e",
+    "skills/painted-entrance/renderer/public/studio.png": "125eb1025e6a9699873dfaa13e25e05b6da9f7b05428221575617c23d14627ac",
+    "skills/painted-entrance/renderer/render.mjs": "3c99aafa4fc92024b36d77670c150180a0cac7eb7669a47101890fcc8914774d",
+    "skills/painted-entrance/renderer/src/Brush.jsx": "e73805f6a6f615471dd8429464976de5a7ce6c0f584bb8942319d12e52f5bf74",
+    "skills/painted-entrance/renderer/src/Film.jsx": "5dbb3de4953bb74e609e25e426b6416fdf589b57aa89531cbec2355a8a5a0357",
+    "skills/painted-entrance/renderer/src/Pixel.jsx": "34a93c326031ff2448a29283ac5c8f2d68a42fc8604f473681465256dd8a5ca4",
+    "skills/painted-entrance/renderer/src/index.jsx": "adfc0080af2f45dde7300439b43e35f27b83a7ce0a551816b97b701d2c5b47bc",
+    "skills/painted-entrance/renderer/src/model.mjs": "2cd2f0718c70a763b46256729513ad39a1d6c6c62bc7f3adbc3f2952339ac107",
     "skills/paper-depth-covers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/paper-depth-covers/SKILL.md": "5be52ee3292b6a31b39162485222fd2fa2b25da0943134ecd872a716a8344718",
     "skills/paper-depth-covers/examples/gallery/01.webp": "78c52e724014e925b5e6e2acc46591831e47fc0b024838c671824b5317577ea1",
@@ -7136,6 +7169,406 @@
     },
     {
       "path": "skills/pages-coming-together/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/review/00-uncover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/review/01-title.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/review/02-postcard.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/review/03-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/review/00-uncover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/review/01-title.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/review/02-postcard.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/review/03-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-portrait/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/review/00-uncover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/review/01-title.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/review/02-postcard.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/review/03-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/01-square/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/review/00-uncover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/review/01-title.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/review/02-postcard.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/review/03-signature.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/11.jpg",
       "reason": "rendered example; see website"
     },
     {
