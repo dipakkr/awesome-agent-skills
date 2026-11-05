@@ -312,6 +312,16 @@
       "original": true,
       "path": "skills/cad-home-product-ads",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-hook-proof-lab",
+      "name": "Hook & Proof Lab",
+      "description": "Develop ad openings together with the evidence and first scene needed to support each promise, in an editable comparison workbook.",
+      "site": "https://claudeai.directory/skills/hook-proof-lab",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-hook-proof-lab",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -811,7 +821,18 @@
     "skills/cad-home-product-ads/references/example-guide.json": "0b925b5178bfa1a3615040ae60507220cf3ebda1e51379089abfce78ab916658",
     "skills/cad-home-product-ads/references/examples.json": "9b7ba8d3d0f13b9af7b12f8b435aa19e7e08f793915fdabf4ee307e13984c2a1",
     "skills/cad-home-product-ads/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
-    "skills/cad-home-product-ads/references/usage-examples.md": "f5d749d38bd2f1eddf83e73d3d167cef8391672c2cc5680585ff14418c975309"
+    "skills/cad-home-product-ads/references/usage-examples.md": "f5d749d38bd2f1eddf83e73d3d167cef8391672c2cc5680585ff14418c975309",
+    "skills/cad-hook-proof-lab/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-hook-proof-lab/SKILL.md": "9a946f6c39b08fc7ffe86672b31f9221ae4a81743887319f5cf4e133f2cbac13",
+    "skills/cad-hook-proof-lab/examples/foldwell.json": "d510f1954f4ce21cd07e901995004eeebf7fb411932c21c371694af0a1cd6f20",
+    "skills/cad-hook-proof-lab/examples/foldwell/decisions.csv": "1a5fe1f3972d96574389f5a2a1a2c4f009a4ae488de3f5a1849aa5dc614d52b4",
+    "skills/cad-hook-proof-lab/examples/foldwell/workbook.json": "d510f1954f4ce21cd07e901995004eeebf7fb411932c21c371694af0a1cd6f20",
+    "skills/cad-hook-proof-lab/examples/relaydesk.json": "0bf5b3167f85776a104bedce953e6740ef35946db8693d8878ed3a3475642a60",
+    "skills/cad-hook-proof-lab/examples/relaydesk/decisions.csv": "b08ebc4dec481a14fd93c6e2422988e1fe24038278116c088babf6ba8f022490",
+    "skills/cad-hook-proof-lab/examples/relaydesk/workbook.json": "0bf5b3167f85776a104bedce953e6740ef35946db8693d8878ed3a3475642a60",
+    "skills/cad-hook-proof-lab/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
+    "skills/cad-hook-proof-lab/references/origin.md": "ea3853b92cbffdcef0d32abb3891b28cdd6d092821531c0c1b1776c8f44b3599",
+    "skills/cad-hook-proof-lab/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e"
   },
   "omitted": [
     {
@@ -2625,6 +2646,14 @@
     {
       "path": "skills/cad-handwritten-notes-document/validation.json",
       "reason": "runtime/cache"
+    },
+    {
+      "path": "skills/cad-hook-proof-lab/examples/foldwell/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-hook-proof-lab/examples/relaydesk/index.html",
+      "reason": "rendered example; see website"
     }
   ]
 }
