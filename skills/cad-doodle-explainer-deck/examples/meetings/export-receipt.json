@@ -1,0 +1,21 @@
+{
+  "title": "Make room for fewer meetings",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "502ae4b2fe3ef85d2d87953d7d406a2b46bd4fddb821825ada5605301df6b12f",
+  "outputs": [
+    {
+      "file": "meetings.html",
+      "sha256": "12583041b8f458614f52a34ef8fa3d37c5dca7c648a32a087e8cad7199e8ba37",
+      "bytes": 6160620
+    },
+    {
+      "file": "meetings.pptx",
+      "sha256": "c59da9892e10f090c094a493acdcdbb1dac7cd9b7a9ddff156d01b4769081bca",
+      "bytes": 2198122
+    }
+  ]
+}

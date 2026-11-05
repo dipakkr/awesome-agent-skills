@@ -214,6 +214,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-doodle-explainer-deck",
+      "name": "Doodle Explainer Deck",
+      "description": "Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats.",
+      "site": "https://claudeai.directory/skills/doodle-explainer-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-doodle-explainer-deck",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -599,6 +609,33 @@
     "skills/cad-department-map-infographic/references/review-record.json": "6cdb3e24ff91baa0182eba7e1842034beffe421144b308810793068afde5b5f8",
     "skills/cad-department-map-infographic/references/usage-examples.md": "7eef000c610ec6d5dbeb2249da0d44780cd57234fa8fa9a512308a28e0745561",
     "skills/cad-department-map-infographic/references/worked-examples.md": "8bb84e7b8753686fab3fe888c855822c2ce1abd4499f449203af6ee9d08dfcfa",
+    "skills/cad-doodle-explainer-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-doodle-explainer-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-doodle-explainer-deck/README.md": "fb5059b08a35e8747ed441403bd867dfed1d12eebb4ad6edf469dbafa745edae",
+    "skills/cad-doodle-explainer-deck/SKILL.md": "050bbf3137752240d57ce109add78daf0dcf489bf9c7dbc6f2ca099481dba41e",
+    "skills/cad-doodle-explainer-deck/agents/openai.yaml": "dbe85c5f3b1e8ae9964ac9a936a449c6fd9c8b2c1d51d5609961a9b817d778a7",
+    "skills/cad-doodle-explainer-deck/examples/feedback/assets/doodle-feedback.png": "9f5bb97d007c49252cd609ddb42b1372ceed2572b42cdf34bc26d4b7cc45727e",
+    "skills/cad-doodle-explainer-deck/examples/feedback/brief.md": "aa9cb22e57308d28d9323eb14e0a17670f17e19392ead25cdad6ffeca7377c54",
+    "skills/cad-doodle-explainer-deck/examples/feedback/deck.json": "e3c17e89da4dea6d6ddbd33cc15cabf958e23864f1cdbd8f771b786fef77f63e",
+    "skills/cad-doodle-explainer-deck/examples/feedback/export-receipt.json": "44c5e34aab2a9cf012c8dee56b9782b060a3a2f155b42a560638fec66684b7b7",
+    "skills/cad-doodle-explainer-deck/examples/focus/assets/doodle-focus.png": "c5413d19fc452a7786683185718d99123f17ea4f58fb974febcab414e5bca992",
+    "skills/cad-doodle-explainer-deck/examples/focus/brief.md": "c3a27effd8b99dcc20ecbc718bb79d83ad917475baba831afe57ecb50298c5e1",
+    "skills/cad-doodle-explainer-deck/examples/focus/deck.json": "4ebc54d96d1434136c14907fb5ad3e1e0da1dfd305b8ce0b464cd2c7e08ebbd9",
+    "skills/cad-doodle-explainer-deck/examples/focus/export-receipt.json": "09c4327679fb5d7582c6104b4e605f9ddf02303504686a7cea9e5e5bf56d2365",
+    "skills/cad-doodle-explainer-deck/examples/gallery/01.webp": "06a7c8849927a5adf07d6edfddae56c11f984e534ef1a18cdaa2696368de553d",
+    "skills/cad-doodle-explainer-deck/examples/gallery/02.webp": "0d746d7e33c1b4c81ea96026736a6255445fcd061458e11c65b3a03f66bdd7e2",
+    "skills/cad-doodle-explainer-deck/examples/gallery/03.webp": "71932b7e2d2a7ba63a734229a896b1de7cefc3a9d98cc0ab4c0504b654d58f49",
+    "skills/cad-doodle-explainer-deck/examples/meetings/assets/doodle-meetings.png": "f43a6ee7dc49669d568b4466f694a6a93259dc52a9df2edfb476b996db149431",
+    "skills/cad-doodle-explainer-deck/examples/meetings/brief.md": "e209199f2e6d30689e285a97bde9f6d64f28377ae57c040448943588196e2b5b",
+    "skills/cad-doodle-explainer-deck/examples/meetings/deck.json": "502ae4b2fe3ef85d2d87953d7d406a2b46bd4fddb821825ada5605301df6b12f",
+    "skills/cad-doodle-explainer-deck/examples/meetings/export-receipt.json": "84e3ce1989dc3b40e95307d84891dc7a0044c92a190bb0bc40487303e99afe37",
+    "skills/cad-doodle-explainer-deck/references/design.md": "bb41175371f843d1a884709867c3b3ef30c75304076d2a1b4083f304440f8454",
+    "skills/cad-doodle-explainer-deck/references/example-guide.json": "1cc774c1dbd1fd971feed09a37c9e968ee75e7f04ae9507d621e338a64de4900",
+    "skills/cad-doodle-explainer-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-doodle-explainer-deck/references/usage-examples.md": "64f9fbf4f8e29a90b5e6db87d39215c14b14452ccd6ebe962363ea4aefce8aed",
+    "skills/cad-doodle-explainer-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-doodle-explainer-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-doodle-explainer-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -2371,6 +2408,30 @@
     },
     {
       "path": "skills/cad-customer-evidence-board/examples/relaydesk/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-doodle-explainer-deck/examples/feedback/feedback.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-doodle-explainer-deck/examples/feedback/feedback.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-doodle-explainer-deck/examples/focus/focus.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-doodle-explainer-deck/examples/focus/focus.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-doodle-explainer-deck/examples/meetings/meetings.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-doodle-explainer-deck/examples/meetings/meetings.pptx",
       "reason": "rendered example; see website"
     }
   ]

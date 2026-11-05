@@ -1,0 +1,34 @@
+{
+  "skill": "cad-doodle-explainer-deck",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "Make room for fewer meetings",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "06a7c8849927a5adf07d6edfddae56c11f984e534ef1a18cdaa2696368de553d",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-doodle-explainer-deck. Create a new output based on the packaged example \"Make room for fewer meetings\". Brief: Fieldbook Workshop \u00b7 A short workshop on clearer decisions. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Feedback that gives a direction",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "0d746d7e33c1b4c81ea96026736a6255445fcd061458e11c65b3a03f66bdd7e2",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-doodle-explainer-deck. Create a new output based on the packaged example \"Feedback that gives a direction\". Brief: Feedback Playground \u00b7 A practical critique session for creative teams. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Protect a little focus",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "71932b7e2d2a7ba63a734229a896b1de7cefc3a9d98cc0ab4c0504b654d58f49",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-doodle-explainer-deck. Create a new output based on the packaged example \"Protect a little focus\". Brief: Red Ink Manifesto \u00b7 A tiny experiment in working with fewer interruptions. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

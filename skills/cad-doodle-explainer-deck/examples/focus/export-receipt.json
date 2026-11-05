@@ -1,0 +1,21 @@
+{
+  "title": "Protect a little focus",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "4ebc54d96d1434136c14907fb5ad3e1e0da1dfd305b8ce0b464cd2c7e08ebbd9",
+  "outputs": [
+    {
+      "file": "focus.html",
+      "sha256": "f4f06ec6eb0e7fd08978f84ac87444bc329ea44d19bbb7e83fc0a6f5d3a5ec2d",
+      "bytes": 4043670
+    },
+    {
+      "file": "focus.pptx",
+      "sha256": "ad45da0c344dd840518059070a777d16fb36c8821172ddd5233b8fb33977afbd",
+      "bytes": 3012959
+    }
+  ]
+}
