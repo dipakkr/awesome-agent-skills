@@ -1,0 +1,25 @@
+{
+  "mode": "endcards",
+  "format": "square",
+  "brand": "JOIN",
+  "headline": "Good work starts with a hello.",
+  "ending": "Bring your people together.",
+  "cta": "Join the studio",
+  "item": "Your next collaboration",
+  "labels": [
+    "Connect",
+    "Collaborate",
+    "Welcome in"
+  ],
+  "details": [
+    "Find your team",
+    "Share the first idea",
+    "Make the next move"
+  ],
+  "accent": "#8c3a82",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}

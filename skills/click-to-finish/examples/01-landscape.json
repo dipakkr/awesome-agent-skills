@@ -1,0 +1,25 @@
+{
+  "mode": "endcards",
+  "format": "landscape",
+  "brand": "OPEN",
+  "headline": "Your next chapter starts here.",
+  "ending": "A clear way forward.",
+  "cta": "Open your workspace",
+  "item": "A place for your next idea",
+  "labels": [
+    "Set up",
+    "Make it yours",
+    "You are ready"
+  ],
+  "details": [
+    "Choose your direction",
+    "Start a new project",
+    "Keep your momentum"
+  ],
+  "accent": "#2753bf",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}
