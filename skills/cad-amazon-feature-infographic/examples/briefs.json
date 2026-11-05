@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "title": "Desk tray details",
+    "brief": "Fictional desk tray specs supplied for this demonstration: powder-coated metal, 22 cm width, raised edge.",
+    "prompt": "Square 2048 x 2048 polished secondary ecommerce product infographic. Fictional unbranded sage green rectangular metal desk tray, empty, centered large in three-quarter overhead view on warm ivory background. Spacious editorial layout with dark charcoal typography and three elegant thin leader lines pointing to correct features. Exact title at top: \"A place for the everyday\". Exact three labels only: \"Powder-coated metal\", \"22 cm wide\", \"Raised edge\". Position labels around product with clear ample space, one line measures width along front edge. Product looks plausible and each leader clearly terminates on relevant material, width or raised rim. Clean contemporary sans serif, excellent legibility. No logo, review stars, certification, performance promises, watermark or extra text. These are fictional concept specifications.",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  },
+  {
+    "id": "02",
+    "title": "Notebook details",
+    "brief": "Fictional notebook supplied specs: A5 size, dot-grid pages, lay-flat binding.",
+    "prompt": "Square 2048 x 2048 premium secondary ecommerce infographic, dark navy background with warm ivory typography. Large open ochre cloth notebook in oblique overhead view, visible subtle evenly spaced dot-grid pages and plausible flat central binding. Exact heading: \"Room for your ideas\". Three exact labels in balanced separate callouts: \"A5 format\", \"Dot-grid pages\", \"Lay-flat binding\". Fine gold leader lines accurately point to page format edge, dot grid and center binding. Refined spacious typographic composition, realistic paper texture, no writing on notebook pages except regular small dots. No logos, stars, invented performance metrics, certification seals, watermark or extra text. Fictional concept product with supplied fictional specs.",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  }
+]

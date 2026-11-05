@@ -1,0 +1,43 @@
+{
+  "skill": "cad-amazon-feature-infographic",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Desk tray details",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "b720132d283dc78ce22b4e04a2b05e9101cb02e7bb06c440822fe99f5905209c",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-feature-infographic. Create a new output based on the packaged example \"Desk tray details\". Brief: Fictional desk tray specs supplied for this demonstration: powder-coated metal, 22 cm width, raised edge. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Notebook details",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "5e09a78b10a99731757484ea591766cd878239d8a23a8661718ee1e3a2a57f4d",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-feature-infographic. Create a new output based on the packaged example \"Notebook details\". Brief: Fictional notebook supplied specs: A5 size, dot-grid pages, lay-flat binding. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Task lamp details",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "038ca58c92fcce27b764a408377413816a4c0b805d61aaad36add0dc424531de",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-feature-infographic. Create a new output based on the packaged example \"Task lamp details\". Brief: Fictional lamp specifications: metal shade, adjustable arm and round base. These are supplied concept attributes, not verified real-product specs. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Travel pouch details",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "032a2744d746ee5a97c1fc254f4b84a1d0715cf6a4a8854be6a16e4d41459323",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-amazon-feature-infographic. Create a new output based on the packaged example \"Travel pouch details\". Brief: Fictional pouch specifications: zip closure, inner pocket, carry loop. No waterproofing, durability or materials certification claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

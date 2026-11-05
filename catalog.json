@@ -54,6 +54,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-amazon-feature-infographic",
+      "name": "Amazon Feature Infographic",
+      "description": "Turn verified product attributes into a readable secondary listing graphic with concise callouts.",
+      "site": "https://claudeai.directory/skills/amazon-feature-infographic",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-amazon-feature-infographic",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -149,6 +159,16 @@
     "skills/cad-amazon-aplus-brand-story/references/example-guide.json": "a86953f83ed04dc54c6c7527e374789dec9055b7f1cc71eac4f1c76e6adfe195",
     "skills/cad-amazon-aplus-brand-story/references/placement.md": "ceeefed3e6360f833cce9e86ec7780fa0d6319bc2ab243856921506e0659eedf",
     "skills/cad-amazon-aplus-brand-story/references/usage-examples.md": "d7465efba398a6045f79d18fd913bb4c1388151eb4a78f77f19b2d2c7637a702",
+    "skills/cad-amazon-feature-infographic/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-amazon-feature-infographic/SKILL.md": "439cb82b2d6972ba0e20dfd819797874c7b6486a47ab959f8654008a6de3be6b",
+    "skills/cad-amazon-feature-infographic/examples/briefs.json": "4054bc61fd65bf29b1cb9cd6d3a3d956f68a68e2fc65f421e61ad781a94c0223",
+    "skills/cad-amazon-feature-infographic/examples/gallery/01.webp": "b720132d283dc78ce22b4e04a2b05e9101cb02e7bb06c440822fe99f5905209c",
+    "skills/cad-amazon-feature-infographic/examples/gallery/02.webp": "5e09a78b10a99731757484ea591766cd878239d8a23a8661718ee1e3a2a57f4d",
+    "skills/cad-amazon-feature-infographic/examples/gallery/03.webp": "038ca58c92fcce27b764a408377413816a4c0b805d61aaad36add0dc424531de",
+    "skills/cad-amazon-feature-infographic/examples/gallery/04.webp": "032a2744d746ee5a97c1fc254f4b84a1d0715cf6a4a8854be6a16e4d41459323",
+    "skills/cad-amazon-feature-infographic/references/example-guide.json": "3c5521e203c9aff86279ff6058f1230bd800cfa4a6edd9bd1ff9b9db52fc53ba",
+    "skills/cad-amazon-feature-infographic/references/placement.md": "90bb8419f181803046ff0a60db352b2d9745bf3f978fc91876fbc7ee381c4897",
+    "skills/cad-amazon-feature-infographic/references/usage-examples.md": "3b2c3df8254b2ee6eba11eeb2083a76da3c2e665359c07eef0122353215f0907",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
