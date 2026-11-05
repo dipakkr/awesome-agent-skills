@@ -895,6 +895,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "two-paths-film",
+      "name": "Two Paths Film",
+      "description": "Present two options in an animated side-by-side comparison with three aligned criteria. Use for explaining tradeoffs without inventing a winner or unsupported claims.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/two-paths-film",
+      "publication": "original-mit"
+    },
+    {
       "package": "unboxing-inventory",
       "name": "Unboxing Inventory",
       "description": "Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts.",
@@ -2658,6 +2667,24 @@
     "skills/transform-a-control/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
     "skills/transform-a-control/references/usage-examples.md": "a991636dd885e69cbe7897e61359caabafedda7b88e1b2f7a1d7e68b1918ceb6",
     "skills/transform-a-control/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+    "skills/two-paths-film/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/two-paths-film/SKILL.md": "b24411924915b163366b37a1e860700fb4e64720d4fc9ef98326d4ccfe6d4004",
+    "skills/two-paths-film/agents/openai.yaml": "276bd142f8b7e4655542f4ce3a5bdb0c037ab016d6e7d63a6e17674e52b4bfe6",
+    "skills/two-paths-film/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/two-paths-film/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/two-paths-film/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/two-paths-film/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/two-paths-film/config.json": "ff3334fb73b45d5ff0fc6525482ac64600f42723c374cdcdd1e43021ba6acbb8",
+    "skills/two-paths-film/examples/01.json": "1434b0b688d5ec01d9b82b3759df4e49b54752ebfc5e349462a2f9a7a634069f",
+    "skills/two-paths-film/examples/02.json": "7030554251d267ccb5730f84bf5c4932a4351349a92db9e5469f56e98508173c",
+    "skills/two-paths-film/examples/03.json": "3556752d733b73b0a53800aa96cdee5b723c412d5217f8b44951cdbd4f24dee4",
+    "skills/two-paths-film/examples/04.json": "aac0f629e6eabf1d6cdd63e47e4a01ad94dd700cb55c362cf5d19e850ff1068a",
+    "skills/two-paths-film/references/examples.md": "c3c2b4f21242ea3c6e8b0df7cfc8298b98ac0ff0d122b89a59b86ee3b9b3068f",
+    "skills/two-paths-film/references/inputs.md": "3820c8e3c2343319532594b9a47ee14e1ed0517eaa9b451f72d0f6543f4e7b0f",
+    "skills/two-paths-film/references/provenance.md": "c77aaa5711411ed508c00bb07072da23a7981a1d0b45dbfce3ba35dd75b731b6",
+    "skills/two-paths-film/references/recorded-examples.json": "8227e92e7763954876fa26dabc6a60f211de43e2b4b49c71584b746bd90599c3",
+    "skills/two-paths-film/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/two-paths-film/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/unboxing-inventory/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/unboxing-inventory/SKILL.md": "59dc55676de78a27399f3c837660ac3a3667e8840048860d2af490ccb70dba00",
     "skills/unboxing-inventory/examples/briefs.json": "35f58d1b4bd2ecc2f2bb99830764d84e2338f57049026a194bac85c3b759766d",
@@ -13428,6 +13455,182 @@
     },
     {
       "path": "skills/transform-a-control/examples/recorded/04/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/two-paths-film/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

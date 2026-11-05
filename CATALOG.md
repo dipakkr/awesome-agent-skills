@@ -103,6 +103,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Texture And Detail](skills/texture-and-detail/SKILL.md) | Create close-up product campaigns built around texture, light and a credible sensory cue. |
 | [Tiny Workspaces](skills/tiny-workspaces/SKILL.md) | Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts. |
 | [Transform A Control](skills/transform-a-control/SKILL.md) | Build a square handoff film in which one button grows into a prompt, options and a result before a session-wall pullback. Use for a short integration or workflow announcement. |
+| [Two Paths Film](skills/two-paths-film/SKILL.md) | Present two options in an animated side-by-side comparison with three aligned criteria. Use for explaining tradeoffs without inventing a winner or unsupported claims. |
 | [Unboxing Inventory](skills/unboxing-inventory/SKILL.md) | Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts. |
 | [Visual Learning Pages](skills/visual-learning-pages/SKILL.md) | Create illustrated handwritten study sheets from your chapters, class notes or topics. |
 | [Voice Of Buyer](skills/voice-of-buyer/SKILL.md) | Turn mixed customer feedback and product facts into a source-linked browser board of supported messages, contradictions and research gaps. |

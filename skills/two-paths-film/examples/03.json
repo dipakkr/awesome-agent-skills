@@ -1,0 +1,34 @@
+{
+  "brand": "Studio Ledger",
+  "title": "Two routes to a first draft",
+  "subtitle": "Fictional service options with transparent scope.",
+  "theme": "rose",
+  "source": "Illustrative concept · fictional brand",
+  "options": [
+    {
+      "name": "Focused sprint",
+      "summary": "A bounded problem and deliverable"
+    },
+    {
+      "name": "Ongoing studio",
+      "summary": "A continuing design relationship"
+    }
+  ],
+  "criteria": [
+    {
+      "label": "Scope",
+      "left": "Defined at the start",
+      "right": "Reviewed each cycle"
+    },
+    {
+      "label": "Cadence",
+      "left": "One project window",
+      "right": "Recurring sessions"
+    },
+    {
+      "label": "Handoff",
+      "left": "Final project pack",
+      "right": "Living working files"
+    }
+  ]
+}

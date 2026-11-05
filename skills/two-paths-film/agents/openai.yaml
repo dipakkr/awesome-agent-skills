@@ -1,0 +1,4 @@
+interface:
+  display_name: "Two Paths Film"
+  short_description: "Create editable comparison cards with recorded examples"
+  default_prompt: "Use $two-paths-film to turn my brief into an original motion piece and deliver the rendered files plus editable inputs."
