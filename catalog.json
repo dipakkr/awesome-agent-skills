@@ -373,6 +373,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "line-trace-animation",
+      "name": "Line Trace Animation",
+      "description": "Draw an original curved path progressively, followed by a moving endpoint and a clear final hold. Use for abstract route illustrations, brand gestures and visual explainers.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/line-trace-animation",
+      "publication": "original-mit"
+    },
+    {
       "package": "listing-copywriter",
       "name": "Listing Copywriter",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -1268,6 +1277,25 @@
     "skills/liftoff-sequence/renderer/src/Rocket.jsx": "c57ae4bafba81a503bf21c13a0a07607ccad226ad665c96217ef96d8f04451e0",
     "skills/liftoff-sequence/renderer/src/index.jsx": "2376ba32de0e4fa58899a919062f6f04128f5f09ee465e8d477e03c01b68084f",
     "skills/liftoff-sequence/renderer/src/model.mjs": "d83ac95c4a581d2b557fd33e2d857d332a4e2eff6b7af9785898e0d2e7841939",
+    "skills/line-trace-animation/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/line-trace-animation/SKILL.md": "e2aa40f213b5b4a31751f350c691f77f6f0c7f5cbae79f55eb802b81d5bdb119",
+    "skills/line-trace-animation/agents/openai.yaml": "46d15a52a1bac24b1a81e7c1f4b9c92c8dd556fc72e1db6a1c7cd7f37c9b4b50",
+    "skills/line-trace-animation/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/line-trace-animation/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/line-trace-animation/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/line-trace-animation/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/line-trace-animation/config.json": "4cea23a4d9671ce741a293cad822b438ba4d34eac9a03cb4da8586f72ae63fe5",
+    "skills/line-trace-animation/examples/01.json": "73dabe7f83879f0fa3f441fc69227db1a2e533524a27fe18cdac82444a04ffed",
+    "skills/line-trace-animation/examples/02.json": "67e906f57cbd90bcd9971e648d638ea3b84d99003efcb8f45aa56bcc75259ccd",
+    "skills/line-trace-animation/examples/03.json": "905359757ea2f71fae04c312550f278501a07f53fd8549737965a983c83cb28c",
+    "skills/line-trace-animation/examples/04.json": "b35cbf1f69978b84c2cde6fea4364c31f57085b216926d20bd196e53afe99672",
+    "skills/line-trace-animation/references/examples.md": "3a0efd28f75fc4eeaeaa9afa51eff5df2ee20f04f8728dfb6f8359ed3f443aec",
+    "skills/line-trace-animation/references/inputs.md": "dc831a52524fc741628f8b8ce02a29299bb458d7e963dd9ea4dfcc7bfd6ac998",
+    "skills/line-trace-animation/references/provenance.md": "681d9b57b9c45e87b198ca316b74075a7ff4c617b52a938211e52ae8ad7af932",
+    "skills/line-trace-animation/references/recorded-examples.json": "978cca161fef9ba804d60062de71906206f696e4604d1512bb3beb77ec948872",
+    "skills/line-trace-animation/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/line-trace-animation/scripts/engine.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/line-trace-animation/scripts/render.py": "3daf0bfd12266a289e9f48d063ebb46e7a342021e56abff9e9c695a71774ed23",
     "skills/listing-copywriter/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/listing-copywriter/SKILL.md": "c6ca637c8869980275bab5a5119eb65a0cacdda4b9ffc91a2729282600df98be",
     "skills/listing-copywriter/agents/openai.yaml": "0eb16b6f926d2c195e4ca8eb647a93cdd23ed56748f033365a53f37551af9aa7",
@@ -5285,6 +5313,198 @@
     },
     {
       "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/20.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/path.svg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/path.svg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/path.svg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/path.svg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/line-trace-animation/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

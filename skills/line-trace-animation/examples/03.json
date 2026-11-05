@@ -1,0 +1,46 @@
+{
+  "brand": "Tide Journal",
+  "title": "A rhythm worth following",
+  "subtitle": "A quiet wave drawn across an editorial field.",
+  "theme": "rose",
+  "source": "Illustrative concept · fictional brand",
+  "caption": "Let the story move.",
+  "segments": [
+    [
+      [
+        0.05,
+        0.67
+      ],
+      [
+        0.2,
+        0.05
+      ],
+      [
+        0.36,
+        0.05
+      ],
+      [
+        0.5,
+        0.5
+      ]
+    ],
+    [
+      [
+        0.5,
+        0.5
+      ],
+      [
+        0.65,
+        0.95
+      ],
+      [
+        0.8,
+        0.95
+      ],
+      [
+        0.95,
+        0.2
+      ]
+    ]
+  ]
+}
