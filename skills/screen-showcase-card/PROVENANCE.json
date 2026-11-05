@@ -1,0 +1,83 @@
+{
+  "original": true,
+  "reference": "User-supplied catalogue screenshots used for broad composition patterns only; none of their assets bundled.",
+  "generationTool": "built-in image_gen",
+  "underlyingModel": "not exposed",
+  "crossModelTests": false,
+  "reviewedAt": "2026-10-29",
+  "outputs": [
+    {
+      "id": "project-progress",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b0ae01b58c494f949ce9648a594956b301b32bb54b03c50d94f11e91a41c1436",
+      "bytes": 1532704,
+      "reviewed": true,
+      "review": "Corrected version removes unrequested A-like symbols; four labelled columns and exact copy remain.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand PATHWAY.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional project-planning interface concept.\nArt direction: Warm ivory backdrop. Right two-thirds shows one premium white desktop interface window in mild perspective with a simple cobalt vertical sidebar and four wide kanban columns labeled exactly Plan, Draft, Review, Ship. A few pastel blank task cards, no tiny body text. One floating cobalt checkmark tile foreground. Left third exact dark charcoal bold sans headline and small PATHWAY wordmark. Clean 3D UI illustration, realistic rounded corners and contact shadows, original concept.\nExact headline (preserve intentional line breaks): \"Turn plans\ninto progress.\"\nExact small wordmark: \"PATHWAY\"\nExact supporting line: \"A clearer next step for every project\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        },
+        {
+          "action": "edit",
+          "prompt": "Edit this image only to remove the two unrequested brand symbols: remove the blue abstract A-like emblem immediately left of the PATHWAY wordmark and remove the white matching A-like emblem at the top of the blue app sidebar. Leave the sidebar space empty where the symbol was. Retain PATHWAY as a text-only wordmark. Preserve the headline, supporting line, Plan/Draft/Review/Ship labels, all layout, colours, scene, cards, checkmark tile and dimensions exactly. Do not add replacement symbols or new text.\n",
+          "input": "initial generated image; retained in local review run"
+        }
+      ]
+    },
+    {
+      "id": "creative-space",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0768e5f8bfd3017e88acda02f9c2952e5e5b29029fb9414c59d4a5e6beebed9e",
+      "bytes": 1531194,
+      "reviewed": true,
+      "review": "Readable Shape/Colour/Share labels, original sculptural canvas, clear headline; concept UI only.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand FORMKIT.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional collaborative design workspace concept.\nArt direction: Pale lavender background with one oversized angled white creative-canvas window on right. On the canvas: an original composition of coral sphere, cobalt arch and yellow stepped blocks. Three small floating tool chips labeled exactly Shape, Colour, Share. A neat black cursor arrow beside a corner. Large black condensed headline left and small FORMKIT wordmark. Premium product art, tactile clay meets crisp interface, no unreadable microtext.\nExact headline (preserve intentional line breaks): \"Give ideas\na place.\"\nExact small wordmark: \"FORMKIT\"\nExact supporting line: \"Sketch. Arrange. Share.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        }
+      ]
+    },
+    {
+      "id": "day-booking",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0135fb584e4e8482f9f283768668c82b76742eb8fee4f6427b5da7d61f0572de",
+      "bytes": 1732955,
+      "reviewed": true,
+      "review": "Readable Today/10:00 and MON/TUE/WED, grounded device composition, warm editorial type.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand DAYLIGHT.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional scheduling-app interface concept.\nArt direction: Warm pale peach backdrop, strong burgundy editorial serif headline occupying upper-left. A realistically rendered unbranded cream smartphone tilts at lower-right beside a single flat white calendar card. Phone has simple clear text Today and 10:00, card has exactly MON TUE WED with three abstract colour blocks, no other microtext. One soft orange halo, gentle warm sunlight and grounded shadows. Carefully layered visual hierarchy.\nExact headline (preserve intentional line breaks): \"Make space\nfor your day.\"\nExact small wordmark: \"DAYLIGHT\"\nExact supporting line: \"Simple plans, thoughtfully arranged\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        }
+      ]
+    },
+    {
+      "id": "inbox-next",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c2979657ca30eaa0ef784d18c296de77af89bf8a1763350428c8c14466a9f5b0",
+      "bytes": 1676028,
+      "reviewed": true,
+      "review": "Readable New/Assigned/Resolved labels, coherent device scene and message emphasis; fictional faces/UI.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand RELAY.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional shared-inbox product concept.\nArt direction: Deep slate navy scene. Right half has one glossy dark desktop inbox window with three clearly separated message cards labelled exactly New, Assigned, Resolved; use simple avatar circles and horizontal lines instead of gibberish text. A small tilted phone repeats one cyan message bubble in foreground. Large white sans headline left, small cyan RELAY wordmark. Cool rim light, restrained cyan-green highlights, polished product staging with no invented metrics.\nExact headline (preserve intentional line breaks): \"Every message.\nA next step.\"\nExact small wordmark: \"RELAY\"\nExact supporting line: \"Give conversations a clear direction\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        }
+      ]
+    }
+  ]
+}

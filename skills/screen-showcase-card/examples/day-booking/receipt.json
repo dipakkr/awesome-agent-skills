@@ -1,0 +1,17 @@
+{
+  "id": "day-booking",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "0135fb584e4e8482f9f283768668c82b76742eb8fee4f6427b5da7d61f0572de",
+  "bytes": 1732955,
+  "reviewed": true,
+  "review": "Readable Today/10:00 and MON/TUE/WED, grounded device composition, warm editorial type.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand DAYLIGHT.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional scheduling-app interface concept.\nArt direction: Warm pale peach backdrop, strong burgundy editorial serif headline occupying upper-left. A realistically rendered unbranded cream smartphone tilts at lower-right beside a single flat white calendar card. Phone has simple clear text Today and 10:00, card has exactly MON TUE WED with three abstract colour blocks, no other microtext. One soft orange halo, gentle warm sunlight and grounded shadows. Carefully layered visual hierarchy.\nExact headline (preserve intentional line breaks): \"Make space\nfor your day.\"\nExact small wordmark: \"DAYLIGHT\"\nExact supporting line: \"Simple plans, thoughtfully arranged\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

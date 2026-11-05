@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screen Showcase Card"
+  short_description: "Create original product interface og images from your brief"
+  default_prompt: "Use $screen-showcase-card to create an original social-share image for my subject. Use my exact headline, audience and optional brand assets. Choose a fresh composition within this visual style. Generate the image with my connected image tool, review it at thumbnail size, and deliver the image, editable brief and exact prompt."

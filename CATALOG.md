@@ -81,6 +81,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Rhythm And Type](skills/rhythm-and-type/SKILL.md) | Make a short promotional film with oversized type, graphic ribbons and a rhythmic finish. |
 | [Schedule Shuffle](skills/schedule-shuffle/SKILL.md) | Move appointments between calendar columns and reveal a protected focus-time block. |
 | [Scope And Offer](skills/scope-and-offer/SKILL.md) | Turn a client brief into a scoped service offer with outcomes, deliverables, milestones and a clear next decision. |
+| [Screen Showcase Card](skills/screen-showcase-card/SKILL.md) | Show a product idea through polished device and interface compositions with concise copy and believable visual hierarchy. |
 | [Shape And Type](skills/shape-and-type/SKILL.md) | Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy. |
 | [Sketch To Sell](skills/sketch-to-sell/SKILL.md) | Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request. |
 | [Soft Object Cards](skills/soft-object-cards/SKILL.md) | Build gentle product and habit graphics with soft clay characters, tactile objects and spacious editorial type. |

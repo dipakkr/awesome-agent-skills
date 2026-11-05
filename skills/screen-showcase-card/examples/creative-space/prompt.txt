@@ -1,0 +1,9 @@
+Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand FORMKIT.
+Use case: ads-marketing; Screen Showcase Card.
+Context: A fictional collaborative design workspace concept.
+Art direction: Pale lavender background with one oversized angled white creative-canvas window on right. On the canvas: an original composition of coral sphere, cobalt arch and yellow stepped blocks. Three small floating tool chips labeled exactly Shape, Colour, Share. A neat black cursor arrow beside a corner. Large black condensed headline left and small FORMKIT wordmark. Premium product art, tactile clay meets crisp interface, no unreadable microtext.
+Exact headline (preserve intentional line breaks): "Give ideas
+a place."
+Exact small wordmark: "FORMKIT"
+Exact supporting line: "Sketch. Arrange. Share."
+Use only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot.

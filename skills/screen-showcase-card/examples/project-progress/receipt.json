@@ -1,0 +1,22 @@
+{
+  "id": "project-progress",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "b0ae01b58c494f949ce9648a594956b301b32bb54b03c50d94f11e91a41c1436",
+  "bytes": 1532704,
+  "reviewed": true,
+  "review": "Corrected version removes unrequested A-like symbols; four labelled columns and exact copy remain.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand PATHWAY.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional project-planning interface concept.\nArt direction: Warm ivory backdrop. Right two-thirds shows one premium white desktop interface window in mild perspective with a simple cobalt vertical sidebar and four wide kanban columns labeled exactly Plan, Draft, Review, Ship. A few pastel blank task cards, no tiny body text. One floating cobalt checkmark tile foreground. Left third exact dark charcoal bold sans headline and small PATHWAY wordmark. Clean 3D UI illustration, realistic rounded corners and contact shadows, original concept.\nExact headline (preserve intentional line breaks): \"Turn plans\ninto progress.\"\nExact small wordmark: \"PATHWAY\"\nExact supporting line: \"A clearer next step for every project\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    },
+    {
+      "action": "edit",
+      "prompt": "Edit this image only to remove the two unrequested brand symbols: remove the blue abstract A-like emblem immediately left of the PATHWAY wordmark and remove the white matching A-like emblem at the top of the blue app sidebar. Leave the sidebar space empty where the symbol was. Retain PATHWAY as a text-only wordmark. Preserve the headline, supporting line, Plan/Draft/Review/Ship labels, all layout, colours, scene, cards, checkmark tile and dimensions exactly. Do not add replacement symbols or new text.\n",
+      "input": "initial generated image; retained in local review run"
+    }
+  ]
+}
