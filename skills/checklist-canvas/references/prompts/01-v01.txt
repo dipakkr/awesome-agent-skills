@@ -1,0 +1,13 @@
+Create a polished finished LinkedIn editorial infographic.
+VISUAL CONTRACT:
+Tall 2:3 editorial infographic. Warm ivory paper background, generous margins, black elegant high-contrast serif title and item labels. A precise 3-column by 4-row grid separated by thin pale gray rules. Each of 12 cells contains a large original black line icon with a small accent-color stroke above a centered numbered short label. Consistent icon weight and cell spacing. Large title, one restrained subtitle, optional short bottom takeaway separated by a thin accent rule. No logos or fake author headshot. All twelve items equally legible.
+
+EXACT USER REQUEST:
+Use $checklist-canvas. Create one infographic titled "12 better meeting habits" with subtitle "Small changes for clearer conversations". Use this exact content map:
+1. Name the decision | 2. Share context early | 3. Invite with purpose
+4. Set a time limit | 5. Start on time | 6. Make space to speak
+7. Capture open questions | 8. Separate facts and guesses | 9. Record the decision
+10. Assign one owner | 11. Agree the next step | 12. Close the loop
+Palette: Warm ivory, black ink and coral accents. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.
+
+Render all supplied text accurately. No extra content. Use original topic-specific icons. Match the supplied visual contract closely. Large portrait canvas, requested 1024 by 1536 pixels for tall layouts, or 1200 by 1500 for the department map. At least 5% edge padding. The text is the primary content, not decoration.

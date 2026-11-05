@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01",
+    "title": "12 better meeting habits",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "79030116b68ce4ac5108e8e3cf7c8ff238361a9a49d34cac0c926f5710f10656",
+    "briefsSha256": "09d5c340a64ee8238c17d4917ac1ef1517e5607e1463153ac560483987fda0d3",
+    "output": "examples/outputs/01-v01.png",
+    "sha256": "59f75c2669c2d41d9d10818745fb55071d789c684c1e26cbac97d20d7357ea25",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/01-v01.txt",
+    "promptSha256": "785cb02889c693a388f1fb90641c21ff7ccfa2eb0e9397faa3795e27565e7729",
+    "review": {
+      "id": "01",
+      "path": "outputs/01-v01.png",
+      "outcome": "accepted",
+      "notes": "Twelve meeting habits numbered 1\u201312 in a three-column/four-row grid; exact labels are readable.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "02",
+    "title": "12 checks before a trip",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "79030116b68ce4ac5108e8e3cf7c8ff238361a9a49d34cac0c926f5710f10656",
+    "briefsSha256": "09d5c340a64ee8238c17d4917ac1ef1517e5607e1463153ac560483987fda0d3",
+    "output": "examples/outputs/02-v01.png",
+    "sha256": "24eff22f992fd7b0ab9680572e9afa2c336c5da8034efb804b081ea1263d2d32",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/02-v01.txt",
+    "promptSha256": "f0e3e47743aa27e68d36cdb9a292d2b9597bf351e892c35ea2026c44daeee911",
+    "review": {
+      "id": "02",
+      "path": "outputs/02-v01.png",
+      "outcome": "accepted",
+      "notes": "Twelve travel checks numbered 1\u201312 in order; labels and icon associations readable.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "03",
+    "title": "12 ways to waste less food",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "79030116b68ce4ac5108e8e3cf7c8ff238361a9a49d34cac0c926f5710f10656",
+    "briefsSha256": "09d5c340a64ee8238c17d4917ac1ef1517e5607e1463153ac560483987fda0d3",
+    "output": "examples/outputs/03-v01.png",
+    "sha256": "9e45d33ea53015b8253db7780ac974f9104b9ea1b25691e93fc19ac3a2b8572c",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/03-v01.txt",
+    "promptSha256": "d2f7510cc23accd6744b46adb3b20be80c79133e76fef2642e05900c9e7e7481",
+    "review": {
+      "id": "03",
+      "path": "outputs/03-v01.png",
+      "outcome": "accepted",
+      "notes": "Twelve food-waste habits in order; icons are more detailed than the reference but the grid and hierarchy are preserved.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "04",
+    "title": "12 steps to start a newsletter",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "79030116b68ce4ac5108e8e3cf7c8ff238361a9a49d34cac0c926f5710f10656",
+    "briefsSha256": "09d5c340a64ee8238c17d4917ac1ef1517e5607e1463153ac560483987fda0d3",
+    "output": "examples/outputs/04-v01.png",
+    "sha256": "425bd526480b21e63cb63e1f4f18497349eb05a1cacdcce82334737240953572",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/04-v01.txt",
+    "promptSha256": "1044af8c8399a2ba8383a32ba46bb47cc9c91fcc7ae81713808c52b4bb739766",
+    "review": {
+      "id": "04",
+      "path": "outputs/04-v01.png",
+      "outcome": "accepted",
+      "notes": "Twelve newsletter steps in order, thin grid lines, consistent purple accent and readable copy.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  }
+]

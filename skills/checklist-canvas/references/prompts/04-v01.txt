@@ -1,0 +1,13 @@
+Create a polished finished LinkedIn editorial infographic.
+VISUAL CONTRACT:
+Tall 2:3 editorial infographic. Warm ivory paper background, generous margins, black elegant high-contrast serif title and item labels. A precise 3-column by 4-row grid separated by thin pale gray rules. Each of 12 cells contains a large original black line icon with a small accent-color stroke above a centered numbered short label. Consistent icon weight and cell spacing. Large title, one restrained subtitle, optional short bottom takeaway separated by a thin accent rule. No logos or fake author headshot. All twelve items equally legible.
+
+EXACT USER REQUEST:
+Use $checklist-canvas. Create one infographic titled "12 steps to start a newsletter" with subtitle "From an idea to your first issue". Use this exact content map:
+1. Choose your reader | 2. Define your promise | 3. Pick a useful theme
+4. Choose a cadence | 5. Plan three issues | 6. Draft the first edition
+7. Write a clear subject | 8. Add one next step | 9. Check every link
+10. Send a test | 11. Publish your issue | 12. Ask for feedback
+Palette: Warm parchment, black ink and violet accents. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.
+
+Render all supplied text accurately. No extra content. Use original topic-specific icons. Match the supplied visual contract closely. Large portrait canvas, requested 1024 by 1536 pixels for tall layouts, or 1200 by 1500 for the department map. At least 5% edge padding. The text is the primary content, not decoration.
