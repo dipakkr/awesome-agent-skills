@@ -607,6 +607,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "question-answer-reel",
+      "name": "Question Answer Reel",
+      "description": "Show a question becoming a useful answer while source notes and a circular presenter remain visible. Use for support explainers, knowledge assistants and product education with supplied presenter footage.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/question-answer-reel",
+      "publication": "original-mit"
+    },
+    {
       "package": "reading-room-brief",
       "name": "Reading Room Brief",
       "description": "Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes.",
@@ -1860,6 +1869,23 @@
     "skills/punchy-photo-cards/references/examples.json": "6fec298499f563efcb10b5c6ce8b1d043f24f625433fee44c66d48f5d464b1c7",
     "skills/punchy-photo-cards/references/image-tools.md": "16b6fc1b7fd5d3595f7e577f29ecc659dfbc2d0efacc0c95716e26ec2a591318",
     "skills/punchy-photo-cards/references/usage-examples.md": "9e77fe20268c2c1ba1da992014ab46259d8cbed3d67df80ef2dca9a04bba1bda",
+    "skills/question-answer-reel/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/question-answer-reel/SKILL.md": "02aa95e1a72276f694744002357e7e38d9ec26b5097a2c58dc34b4a7ccd0a13f",
+    "skills/question-answer-reel/agents/openai.yaml": "3840e8dddd358cfaa4b5188ae9ed4140ea3a58b09bb68cca92f115fb77c384e6",
+    "skills/question-answer-reel/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/question-answer-reel/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/question-answer-reel/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/question-answer-reel/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/question-answer-reel/config.json": "5ff0ccd4dabfebeb726e9591d58c5c9aabd6d0225980277b58626b2082646276",
+    "skills/question-answer-reel/examples/01.json": "cbaa89d790c91fe5b6d94678b99d8b3a5eb253949faeb930e8e42456e93fe46b",
+    "skills/question-answer-reel/examples/02.json": "7771a41e9b8485832a792f655211b0528ab85ed1142fe0f28f55a4a7c3523ce5",
+    "skills/question-answer-reel/examples/03.json": "588d5ba05e0c590b4a4c4c238b3f02d432d637296632a7a05b07a2cc2cef4383",
+    "skills/question-answer-reel/examples/04.json": "53cab05a010056f124dcfb07fdddd31bee6c90d1f6d20ee9c9a5216685ed8063",
+    "skills/question-answer-reel/references/credits.md": "b5211e82fc02c439bdea8bb7fc56ee0b2e93313c29ac0a7523f95537fc9224f6",
+    "skills/question-answer-reel/references/example-guide.json": "562aeb3ebab51dc17adefe01a64b698c758f1cf72832b135d096777960b9c147",
+    "skills/question-answer-reel/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
+    "skills/question-answer-reel/references/usage-examples.md": "07ab22e84b55d3f4b89c1562658f16a072ffd463630167b3104d5f4528e14a77",
+    "skills/question-answer-reel/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
     "skills/reading-room-brief/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/reading-room-brief/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/reading-room-brief/README.md": "740a8b46ff636a801c9a7b54afeb636a9da4fdffb26d6d98c4a8ef278b6a6024",
@@ -8851,6 +8877,182 @@
     },
     {
       "path": "skills/project-reel/examples/recorded/03-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/01/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/02/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/03/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/question-answer-reel/examples/recorded/04/review-5.jpg",
       "reason": "rendered example; see website"
     },
     {
