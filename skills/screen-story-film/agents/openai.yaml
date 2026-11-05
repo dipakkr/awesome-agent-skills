@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screen Story Film"
+  short_description: "Create original product demo film videos"
+  default_prompt: "Use $screen-story-film to create an original film from my brief, render the requested formats, and inspect the actual outputs."

@@ -1,0 +1,31 @@
+{
+  "mode": "demo",
+  "format": "square",
+  "brand": "FORMA",
+  "category": "A project planning concept",
+  "hook": "Big idea.\nClear next step.",
+  "promise": "A plan you\ncan move with.",
+  "words": [
+    "Capture",
+    "Organize",
+    "Act"
+  ],
+  "steps": [
+    "Write the brief",
+    "Shape the plan",
+    "Start the project"
+  ],
+  "projects": [
+    "Capture",
+    "Organize",
+    "Act"
+  ],
+  "task": "Plan a new independent magazine launch",
+  "cta": "Make your next move",
+  "url": "forma.example",
+  "accent": "#d7ff3f",
+  "theme": "white",
+  "motif": "grid",
+  "seed": 27,
+  "concept": true
+}

@@ -706,6 +706,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "screen-story-film",
+      "name": "Screen Story Film",
+      "description": "Turn a product workflow into a focused film with a visible input, transformation and result.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/screen-story-film",
+      "publication": "original-mit"
+    },
+    {
       "package": "shape-and-type",
       "name": "Shape And Type",
       "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
@@ -2157,6 +2166,25 @@
     "skills/screen-showcase-card/references/examples.json": "b483a80453eca83f77d015dd7ba12db8f8e4a76150b4fe2caeff05c4e44689dc",
     "skills/screen-showcase-card/references/image-tools.md": "16b6fc1b7fd5d3595f7e577f29ecc659dfbc2d0efacc0c95716e26ec2a591318",
     "skills/screen-showcase-card/references/usage-examples.md": "0a8840828c151f018de167219b1bba1b9cf00ac7d6ce8844113163bec43bb205",
+    "skills/screen-story-film/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/screen-story-film/SKILL.md": "9225622d3bf702e7a0e39dd2434f7c15ac998db7e012abcfe69362c45262d3bc",
+    "skills/screen-story-film/agents/openai.yaml": "dfdbf808970ca0b4767c633df9f8193addec5cb5f5744be4712e42f41aaa7f03",
+    "skills/screen-story-film/examples/01-landscape.json": "91ad8a0f70dabd378082c84de0677f7c7864099e3c67ae579af3787e42cea080",
+    "skills/screen-story-film/examples/01-portrait.json": "9ae7f0a4485141a6890a2917eecc1f02524d4be82b92c69da13ecab708e6e0ec",
+    "skills/screen-story-film/examples/01-square.json": "134b336bc72cafdf557524a3525d10e383a9aa2a030e1b0a750acca2a91163ac",
+    "skills/screen-story-film/examples/02-landscape.json": "54e5bd6b7c809ce2f8e2ad76314772fd1e08994c090dca9483ab6704f453e55b",
+    "skills/screen-story-film/examples/03-landscape.json": "4af5d890a758b3f024ef8a520f7db722fb9c647d18bbbb16c0682a22636450ab",
+    "skills/screen-story-film/references/input.md": "1846e7227ca446f5e0eaf5a04e6e791d9f5f5d03326ae083d2126ee498d16274",
+    "skills/screen-story-film/references/provenance.md": "a785c79f5ae9b86e1fcae263387ec8ce7e45169951f9318f898bfb10d1884064",
+    "skills/screen-story-film/renderer/compose-score.mjs": "036bd4190c8727642c7ef6d72801181c2bcf1de32ce760d76658fb86eb2e590e",
+    "skills/screen-story-film/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/screen-story-film/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/screen-story-film/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/screen-story-film/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/screen-story-film/renderer/render.mjs": "a82199812888e40e47494168483ef78cdb63a56a4d2c1fd117bd9f96f5a6df92",
+    "skills/screen-story-film/renderer/src/Film.jsx": "beaf42bbc6ba2f39b551f0a615b5ed2c3e7a8ee41314cb38f700896f23549a9e",
+    "skills/screen-story-film/renderer/src/index.jsx": "4309949e91babe9751fe9e00d4720a940e91a0e7c78f6f8f7009a0497ab8753f",
+    "skills/screen-story-film/renderer/src/model.mjs": "955af1fffa78822ab5209c61a77975173a82527cde4567e25a5742b7f57a17c4",
     "skills/shape-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/shape-and-type/SKILL.md": "04cb5c211c6d3b9d7352eefb051e068894ab47c2aeead54fb1605650daa55052",
     "skills/shape-and-type/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
@@ -9868,6 +9896,286 @@
     },
     {
       "path": "skills/scope-and-offer/examples/signal/signal.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/review/00-demoHook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/review/01-input.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/review/02-organize.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/review/03-focus.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/review/04-ready.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/review/00-demoHook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/review/01-input.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/review/02-organize.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/review/03-focus.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/review/04-ready.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/review/00-demoHook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/review/01-input.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/review/02-organize.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/review/03-focus.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/review/04-ready.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/review/00-demoHook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/review/01-input.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/review/02-organize.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/review/03-focus.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/review/04-ready.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/review/00-demoHook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/review/01-input.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/review/02-organize.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/review/03-focus.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/review/04-ready.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/review/05-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/screen-story-film/examples/recorded/03-landscape/storyboard.json",
       "reason": "rendered example; see website"
     },
     {

@@ -1,0 +1,31 @@
+{
+  "mode": "demo",
+  "format": "landscape",
+  "brand": "FRAME",
+  "category": "A review workspace concept",
+  "hook": "Bring feedback\ninto focus.",
+  "promise": "From feedback\nto a clear action.",
+  "words": [
+    "Collect",
+    "Review",
+    "Resolve"
+  ],
+  "steps": [
+    "Add the brief",
+    "Group the notes",
+    "Share next steps"
+  ],
+  "projects": [
+    "Collect",
+    "Review",
+    "Resolve"
+  ],
+  "task": "Review the first cut of our launch film",
+  "cta": "Start a clearer review",
+  "url": "frame.example",
+  "accent": "#ffaecc",
+  "theme": "black",
+  "motif": "rings",
+  "seed": 50,
+  "concept": true
+}
