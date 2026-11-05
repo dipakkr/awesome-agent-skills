@@ -193,6 +193,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "detail-annotation",
+      "name": "Detail Annotation",
+      "description": "Create a product-detail image with short factual feature labels and unambiguous leader lines, using supplied facts or clearly labeled conceptual examples.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/detail-annotation",
+      "publication": "original-mit"
+    },
+    {
       "package": "drawn-lessons",
       "name": "Drawn Lessons",
       "description": "Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats.",
@@ -797,6 +806,17 @@
     "skills/desktop-figurines/requirements.txt": "38410d214d0006a6c3c33746864e51560efdd8d5b5f8d99165373efde3d5f10a",
     "skills/desktop-figurines/scripts/allowed-modes.json": "eee1a7f92bbb370351ebcaffe06b8a0f90ce056d5052896d2cee220cec59b965",
     "skills/desktop-figurines/scripts/model_engine.py": "3086620459f57cd12ff61f594636ab29b8d0ad1adb13aebf4e2145c0c81583fc",
+    "skills/detail-annotation/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/detail-annotation/SKILL.md": "c2a31c849a50e3c3a5139bffdc859560679ab713e1c22b1d3846eded3a16110b",
+    "skills/detail-annotation/examples/gallery/01.webp": "27a45d1a74cdb45f0fedcd39535c6a2dc4ec21b84ad973dfe56c23917d6089c7",
+    "skills/detail-annotation/examples/gallery/02.webp": "93b94d6f774cc61260d13ac3e9786032bb4fa18c4eb59b4458d1926e11c70d31",
+    "skills/detail-annotation/examples/gallery/03.webp": "bc2fb7c81bb61300f40083820b35d55ab60e0e957d28a84926982e6c5b923fb0",
+    "skills/detail-annotation/examples/gallery/04.webp": "deb63be7c0b100ca60cd7763158f32307f42e0a25483d709ead4f68e04652080",
+    "skills/detail-annotation/references/example-briefs.json": "59f90f09412235d2b3b654c231ee2966a2b4d11e53b68a649ea0d045f0b4f67e",
+    "skills/detail-annotation/references/example-guide.json": "e8c3224af288b0d3e1b089f9cd7ad295e6618ec1b3ecca25ddf44513ea325d26",
+    "skills/detail-annotation/references/example-ledger.json": "3ed41eb0fbd334cfe468d955d5616d13cf67c85c4bfc8698ded2a7f87b3dc3db",
+    "skills/detail-annotation/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
+    "skills/detail-annotation/references/usage-examples.md": "a16a8376c34582e4bba77f383b8c8bead5b28aaa72d9d52b1aa18c4f5b908da8",
     "skills/drawn-lessons/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/drawn-lessons/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/drawn-lessons/README.md": "29ee9f303aed765170f877b3c6e0b76da20c6c0958c80edb5b499fcc01146e91",
