@@ -93,6 +93,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Soft Object Cards](skills/soft-object-cards/SKILL.md) | Build gentle product and habit graphics with soft clay characters, tactile objects and spacious editorial type. |
 | [Speaker Nameplates](skills/speaker-nameplates/SKILL.md) | Render a name-and-role lower third as a transparent WebM plus a solid-background MP4 preview. Use for speaker identification in videos and livestreams. |
 | [Steps In Sequence](skills/steps-in-sequence/SKILL.md) | Reveal a four-step process as numbered cards with a connecting progress rail and short explanations. Use for onboarding, service workflows and teaching a linear sequence. |
+| [Storefront Panorama](skills/storefront-panorama/SKILL.md) | Create a text-free collection banner with a planned focal region and usable space for theme-rendered headings; adapt composition to the actual Shopify section. |
 | [Talking Models](skills/talking-models/SKILL.md) | Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions. |
 | [Team Atlas](skills/team-atlas/SKILL.md) | Create a LinkedIn department or capability map with six grouped role cards arranged around a central topic symbol and color-coded connectors. |
 | [Team Values Card](skills/team-values-card/SKILL.md) | Create a square company-culture post from an approved value, working habit or team story. |

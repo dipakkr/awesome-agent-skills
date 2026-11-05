@@ -1,0 +1,43 @@
+{
+  "skill": "storefront-panorama",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Slow table collection",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "f9aa64fc9d74278134815238fbd3ab63eae488f8a04049bc279a50a512a925fd",
+      "width": 1774,
+      "height": 887,
+      "invocation": "Use $storefront-panorama. Create a new output based on the packaged example \"Slow table collection\". Brief: Fictional demonstration brand Hearthline: collection of conceptual tableware and textiles. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Evening ritual collection",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "447c08c254f61c289b247025e113b0a426b1da3581ca69f9bedadd512f766b65",
+      "width": 1774,
+      "height": 887,
+      "invocation": "Use $storefront-panorama. Create a new output based on the packaged example \"Evening ritual collection\". Brief: Fictional demonstration brand Nook Ritual: conceptual bathroom accessories without skincare or efficacy claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Objects for the desk",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "aaca02ebe896b9e9c9500a92b834fb6307e90ba9ba99709371062cda8ab4d725",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $storefront-panorama. Create a new output based on the packaged example \"Objects for the desk\". Brief: Fictional desk collection: one charcoal pen cup, one ivory document tray and one ochre notebook. Landscape 3:2 section, heading space on left; no theme integration claimed. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Soft layers collection",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "345ef2f3583888d5940971a07d28654725663b6a362c7d3e0f52d9ce0873b18c",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $storefront-panorama. Create a new output based on the packaged example \"Soft layers collection\". Brief: Fictional textile collection: one folded sage throw, one cream cushion and one rust cushion. Landscape 3:2 source, heading space on right; decorative background not included. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
