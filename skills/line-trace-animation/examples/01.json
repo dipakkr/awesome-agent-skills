@@ -1,0 +1,64 @@
+{
+  "brand": "Fieldwork",
+  "title": "Ideas take their own shape",
+  "subtitle": "A continuous curve from a first thought to a new direction.",
+  "theme": "chalk",
+  "source": "Illustrative concept · fictional brand",
+  "caption": "Follow the possibility.",
+  "segments": [
+    [
+      [
+        0.08,
+        0.82
+      ],
+      [
+        0.02,
+        0.38
+      ],
+      [
+        0.32,
+        0.02
+      ],
+      [
+        0.48,
+        0.18
+      ]
+    ],
+    [
+      [
+        0.48,
+        0.18
+      ],
+      [
+        0.75,
+        0.4
+      ],
+      [
+        0.28,
+        0.96
+      ],
+      [
+        0.68,
+        0.8
+      ]
+    ],
+    [
+      [
+        0.68,
+        0.8
+      ],
+      [
+        0.92,
+        0.7
+      ],
+      [
+        0.99,
+        0.32
+      ],
+      [
+        0.83,
+        0.08
+      ]
+    ]
+  ]
+}

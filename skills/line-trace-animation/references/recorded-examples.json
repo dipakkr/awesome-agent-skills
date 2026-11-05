@@ -1,0 +1,310 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $line-trace-animation to create \"Ideas take their own shape\" for the fictional Fieldwork. Use examples/01.json as the exact content brief. Follow the chalk palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "vector",
+      "sourceSha256": "73dabe7f83879f0fa3f441fc69227db1a2e533524a27fe18cdac82444a04ffed",
+      "rendererSha256": "3daf0bfd12266a289e9f48d063ebb46e7a342021e56abff9e9c695a71774ed23",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "4cea23a4d9671ce741a293cad822b438ba4d34eac9a03cb4da8586f72ae63fe5",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        6.5,
+        9.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "8eae531399bdf28950785fcdc6fa0443eafc611233fc924d42823cab36ebad6a",
+          "bytes": 844
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "cc25e31352001d5c748d6655025b6a15d388199827d76278cd0c9b440e0a01e4",
+          "bytes": 170633
+        },
+        "path.svg": {
+          "sha256": "635bc658fd3587fe2080a8c43d8a33e3917bee90aa4beb2fa12fb55db249eea6",
+          "bytes": 352
+        },
+        "poster.png": {
+          "sha256": "46d44ed3268a67363d527b6fa53a246f0b8fec8e3f3be3eefbfc00f129b7d67f",
+          "bytes": 79879
+        },
+        "preview.html": {
+          "sha256": "942997631a815d8af67c4dd98665f99c06d5d6ff464addb80b8437a0d36bb725",
+          "bytes": 591
+        },
+        "review-01.png": {
+          "sha256": "d4631803785e343d079bfd12f9e3cb34f3fc429c242727b61a264a1145010560",
+          "bytes": 78280
+        },
+        "review-02.png": {
+          "sha256": "cacb3d67b50a62bbc3d8f66d581068f41964ef6ffc9fbf2115cbc2739edeb2ce",
+          "bytes": 78343
+        },
+        "review-03.png": {
+          "sha256": "e60922f0665470abdb182e57ed7ca47422425e2373df23bce12e241c82c36b1b",
+          "bytes": 79641
+        },
+        "review-04.png": {
+          "sha256": "46d44ed3268a67363d527b6fa53a246f0b8fec8e3f3be3eefbfc00f129b7d67f",
+          "bytes": 79879
+        },
+        "review-05.png": {
+          "sha256": "46d44ed3268a67363d527b6fa53a246f0b8fec8e3f3be3eefbfc00f129b7d67f",
+          "bytes": 79879
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $line-trace-animation to create \"A gesture becomes an identity\" for the fictional Arc Studio. Use examples/02.json as the exact content brief. Follow the ink palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "vector",
+      "sourceSha256": "67e906f57cbd90bcd9971e648d638ea3b84d99003efcb8f45aa56bcc75259ccd",
+      "rendererSha256": "3daf0bfd12266a289e9f48d063ebb46e7a342021e56abff9e9c695a71774ed23",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "4cea23a4d9671ce741a293cad822b438ba4d34eac9a03cb4da8586f72ae63fe5",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        6.5,
+        9.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "7f18cc5cb5000e5ddf81ed18a83a18b1acc0ac4f950b4a8c5aff7097d9c415d2",
+          "bytes": 649
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "7ed6a71964f4c686be2cda7f009129bdc437598d7e3dd9f6fd0fdc1370dd36f3",
+          "bytes": 166756
+        },
+        "path.svg": {
+          "sha256": "0c110190a1ee93a4c70c13652864affcf6056116707a9919c022b438f2215b1b",
+          "bytes": 311
+        },
+        "poster.png": {
+          "sha256": "57ec1f76241a974aa5969238286c13acd4c1897c81729c4116b66bd829b0a918",
+          "bytes": 83154
+        },
+        "preview.html": {
+          "sha256": "08ef6b4d7a0d22d3db03ded5eac24b13b4e3fd367743c6ed8c2557f8b8ad20ad",
+          "bytes": 597
+        },
+        "review-01.png": {
+          "sha256": "4526770eb51b49c735686fcf4c14b527e372bc4fb1fcd4f2402ddcf267d2551a",
+          "bytes": 79855
+        },
+        "review-02.png": {
+          "sha256": "0aa43aa8a2a66af7a251ea6d7942362998e330d190fe49ec049dda6de64dcda8",
+          "bytes": 79823
+        },
+        "review-03.png": {
+          "sha256": "8ec6d29f24b0e3237c4521ed4bb229cb2679b271ceca85dcd935c2d4b5cc9bde",
+          "bytes": 82672
+        },
+        "review-04.png": {
+          "sha256": "57ec1f76241a974aa5969238286c13acd4c1897c81729c4116b66bd829b0a918",
+          "bytes": 83154
+        },
+        "review-05.png": {
+          "sha256": "57ec1f76241a974aa5969238286c13acd4c1897c81729c4116b66bd829b0a918",
+          "bytes": 83154
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $line-trace-animation to create \"A rhythm worth following\" for the fictional Tide Journal. Use examples/03.json as the exact content brief. Follow the rose palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "vector",
+      "sourceSha256": "905359757ea2f71fae04c312550f278501a07f53fd8549737965a983c83cb28c",
+      "rendererSha256": "3daf0bfd12266a289e9f48d063ebb46e7a342021e56abff9e9c695a71774ed23",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "4cea23a4d9671ce741a293cad822b438ba4d34eac9a03cb4da8586f72ae63fe5",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        6.5,
+        9.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "8f848c29ae39a1be2c46882bc2970318158a9820d554f399230f0a8f80eeac7d",
+          "bytes": 635
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "9f05a0d2b78eee831f7a2fa052ddb0c91a17e60d817eb99015b5b3a9bd1cc806",
+          "bytes": 149546
+        },
+        "path.svg": {
+          "sha256": "bd2afcc2a424a0aa87de4364e1c0551ed424d6543e88f05f558e882937fd8f43",
+          "bytes": 310
+        },
+        "poster.png": {
+          "sha256": "dfac51ef0ac45b8ee45b2185a593516f7b6bc16240bd746a699bccc6908843fc",
+          "bytes": 69928
+        },
+        "preview.html": {
+          "sha256": "05e0eea144f642135393bf16b7f80849b4a4cca119fcb018c098a0b0506fe6d2",
+          "bytes": 587
+        },
+        "review-01.png": {
+          "sha256": "c6e42186390397da5c7d2417a3d9b4f325e9e929d82d9b9e6f3a1ed1b95ef03b",
+          "bytes": 67380
+        },
+        "review-02.png": {
+          "sha256": "ab5b235b1c63834ff144a96a745977db590e1594c872bcc3b94b742a86c2d419",
+          "bytes": 67509
+        },
+        "review-03.png": {
+          "sha256": "2372d00fef582f69e49d20990a9685c0d8c0e88c9c1893964d41888465eda3ef",
+          "bytes": 69758
+        },
+        "review-04.png": {
+          "sha256": "dfac51ef0ac45b8ee45b2185a593516f7b6bc16240bd746a699bccc6908843fc",
+          "bytes": 69928
+        },
+        "review-05.png": {
+          "sha256": "dfac51ef0ac45b8ee45b2185a593516f7b6bc16240bd746a699bccc6908843fc",
+          "bytes": 69928
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $line-trace-animation to create \"A different way forward\" for the fictional Relay Lab. Use examples/04.json as the exact content brief. Follow the cobalt palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "vector",
+      "sourceSha256": "b35cbf1f69978b84c2cde6fea4364c31f57085b216926d20bd196e53afe99672",
+      "rendererSha256": "3daf0bfd12266a289e9f48d063ebb46e7a342021e56abff9e9c695a71774ed23",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "4cea23a4d9671ce741a293cad822b438ba4d34eac9a03cb4da8586f72ae63fe5",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        6.5,
+        9.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "5618cb8add2444e8f852fcd6a699b94b04408471f0500e1b2dc5bce075ec5b11",
+          "bytes": 649
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "f8136e41226399d2eebce299370c934d5aacea42029207067c0029f28a41ca5c",
+          "bytes": 169102
+        },
+        "path.svg": {
+          "sha256": "b884a5f4813124d0b3564ae6ddfcfb49ce344d3fce20e688af1040a72f3f7315",
+          "bytes": 310
+        },
+        "poster.png": {
+          "sha256": "ce14d74c652a4cbb3b37c5d60d3df7b3f761ef7e2e213b497a7574902f92ae6e",
+          "bytes": 73358
+        },
+        "preview.html": {
+          "sha256": "a1dd35ddd5b4b4a318ab85edafc216e9a7091d45c368b676076539b0e8cee7c1",
+          "bytes": 585
+        },
+        "review-01.png": {
+          "sha256": "9b37f6090585908217ea86c0098afe2b19f2d4205680d60ee9818dd1c4d872d0",
+          "bytes": 72303
+        },
+        "review-02.png": {
+          "sha256": "2b33ff205bc6b41d3990847026fb85a793e1e5039dd306d8654d1b3f491439c8",
+          "bytes": 72369
+        },
+        "review-03.png": {
+          "sha256": "83e66a30278794bb3337cc852eb88165b339e1a6e9702784c31c69b4559e2030",
+          "bytes": 73162
+        },
+        "review-04.png": {
+          "sha256": "ce14d74c652a4cbb3b37c5d60d3df7b3f761ef7e2e213b497a7574902f92ae6e",
+          "bytes": 73358
+        },
+        "review-05.png": {
+          "sha256": "ce14d74c652a4cbb3b37c5d60d3df7b3f761ef7e2e213b497a7574902f92ae6e",
+          "bytes": 73358
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]
