@@ -184,6 +184,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-creative-experiment-planner",
+      "name": "Creative Experiment Planner",
+      "description": "Turn a creative question into a controlled test backlog with explicit variables, measurement rules and inconclusive outcomes.",
+      "site": "https://claudeai.directory/skills/creative-experiment-planner",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-creative-experiment-planner",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -528,6 +538,17 @@
     "skills/cad-consulting-decision-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/cad-consulting-decision-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
     "skills/cad-consulting-decision-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/cad-creative-experiment-planner/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-creative-experiment-planner/SKILL.md": "df0d4801078e342c4e1774580644b55e16400bace0b92de866bd9800623cf891",
+    "skills/cad-creative-experiment-planner/examples/foldwell.json": "f9eedac84a795b1d4959d33087b0c49af4eb1b75bcc0eb13b7ab8ccde1f4f3e8",
+    "skills/cad-creative-experiment-planner/examples/foldwell/decisions.csv": "2d4dae1b74c15e3e6d0d4ffd71ef97a8c8a4447b3dfcce49c65fba03381c3b81",
+    "skills/cad-creative-experiment-planner/examples/foldwell/workbook.json": "f9eedac84a795b1d4959d33087b0c49af4eb1b75bcc0eb13b7ab8ccde1f4f3e8",
+    "skills/cad-creative-experiment-planner/examples/relaydesk.json": "0568bfa72e5531e9d6627f531e4c955963c1d5b6f2f59fa1e3980791b7a9edaa",
+    "skills/cad-creative-experiment-planner/examples/relaydesk/decisions.csv": "87d453fd65eb58e13d8beebb1ddd87e70a98448c27eec44cfe432aba091703a8",
+    "skills/cad-creative-experiment-planner/examples/relaydesk/workbook.json": "0568bfa72e5531e9d6627f531e4c955963c1d5b6f2f59fa1e3980791b7a9edaa",
+    "skills/cad-creative-experiment-planner/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
+    "skills/cad-creative-experiment-planner/references/origin.md": "0e3da412bcd62f6a141945b24c5126428ccbf55c12f20a65b8eb8c41ee078801",
+    "skills/cad-creative-experiment-planner/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -2284,6 +2305,14 @@
     },
     {
       "path": "skills/cad-consulting-decision-deck/examples/support/support.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-creative-experiment-planner/examples/foldwell/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-creative-experiment-planner/examples/relaydesk/index.html",
       "reason": "rendered example; see website"
     }
   ]
