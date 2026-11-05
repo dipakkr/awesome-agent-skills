@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Ceramic colour collection",
+    "brief": "Fictional ceramic collection: one coral pitcher, one cobalt small vase, one cream shallow bowl. A category image, not a three-piece bundle offer.",
+    "prompt": "Square 1:1 premium editorial ecommerce collection image for a SMALL Amazon Store image tile. Fictional ceramic product family: exactly one coral pink pitcher, one small cobalt blue vase, and one cream shallow bowl arranged in a balanced compact group on warm sand studio background. All whole objects entirely above the bottom 18 percent of canvas; bottom band remains uninterrupted plain sand surface for native interface title outside the artwork. All objects have clear silhouettes, no overlap hiding their identity, tactile ceramic surfaces, warm directional light and restrained shadows, generous margins. No text, logos, navigation, buttons, badges, plants, people, watermarks or extra products. Not an implied bundle: simple category collection scene. Requested square format with at least 1000 pixels per side.",
+    "id": "01",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  },
+  {
+    "title": "Paper essentials collection",
+    "brief": "Fictional paper collection: one ochre notebook, one navy notebook and one ivory sketchpad. Collection/category visual, not a bundle offer.",
+    "prompt": "Square 1:1 elegant overhead editorial ecommerce collection image for a SMALL Amazon Store image tile. Fictional paper-goods family: exactly one ochre cloth notebook, one navy cloth notebook and one ivory spiral sketchpad. Closed blank covers with no visible writing. Arrange them as a staggered rhythmic flat lay in the upper central portion of a muted sage green studio ground, keeping each item separately legible and entirely above the bottom 18 percent of the canvas. The bottom band is clear sage green surface reserved for a native Store link title outside the artwork. Warm directional light, crisp natural shadows, tactile cloth and paper, generous quiet margins. No pens, loose pages, logos, lettering, labels, badges, navigation, buttons, watermark or other props. Category collection, not a bundle claim. Requested square format with at least 1000 pixels per side.",
+    "id": "02",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  }
+]

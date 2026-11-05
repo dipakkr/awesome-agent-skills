@@ -84,6 +84,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-amazon-store-collection-tile",
+      "name": "Amazon Store Collection Tile",
+      "description": "Create a text-free square collection image for a small Amazon Store tile, with a clear product family and space for native link text.",
+      "site": "https://claudeai.directory/skills/amazon-store-collection-tile",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-amazon-store-collection-tile",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -209,6 +219,16 @@
     "skills/cad-amazon-product-comparison/references/example-guide.json": "7daba9f70919a927c2aaa3620afa3e30ecdd86d85f43eb723aa88285e36ae0f7",
     "skills/cad-amazon-product-comparison/references/placement.md": "6fd8f71b42b7b7e372eb69e338f9a7a8244b41fb69e131a1d02703674f4094da",
     "skills/cad-amazon-product-comparison/references/usage-examples.md": "cd58b0d9c7dd6597a464b26a9d8fee8fce31dfda6c988c3ed45cdd30df3fdd96",
+    "skills/cad-amazon-store-collection-tile/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-amazon-store-collection-tile/SKILL.md": "c84254fa1ff90b78dea7d2ae7f3d6f025eec92a33e35ff4b7d8b6cb5fe98d7e6",
+    "skills/cad-amazon-store-collection-tile/examples/briefs.json": "7483336704054c64075bf73ab09c974c4593287667bb15d695bd58d7199c5b36",
+    "skills/cad-amazon-store-collection-tile/examples/gallery/01.webp": "be26087bed05229df5290d7f01333b6e4e8ea1df9c1e35eaece3c7a01dc8539c",
+    "skills/cad-amazon-store-collection-tile/examples/gallery/02.webp": "c2ea53e51b8b705456c8331272401bd1f543b80e87147056994f968490248a09",
+    "skills/cad-amazon-store-collection-tile/examples/gallery/03.webp": "2ae4d3055ff9719eec3bf8c2793c2cfce18deb08e8a2e0b89e7d734d87924208",
+    "skills/cad-amazon-store-collection-tile/examples/gallery/04.webp": "acd9d977e9f39cd8578ababdb6d252dd08511d2c375e0568f5db0ea459740120",
+    "skills/cad-amazon-store-collection-tile/references/example-guide.json": "55260093584c4a1cb3c1f886d4155905da65b59cb969bc4acc308c76465a4587",
+    "skills/cad-amazon-store-collection-tile/references/placement.md": "ef7bd74136bba7afc9594e51530f30ebc1bd1d3811ab2f9b5688b766a8b5f2dc",
+    "skills/cad-amazon-store-collection-tile/references/usage-examples.md": "098a3f7e9db696fac0000748f6e1202f5453481fcab885bdb0653164ef55954e",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
