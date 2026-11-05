@@ -1,0 +1,43 @@
+{
+  "skill": "checklist-canvas",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "12 better meeting habits",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "184dcb635185f1f73fbf93c9afc949ccece75eb58cedde57426d5ed3d9930f79",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $checklist-canvas. Create one infographic titled \"12 better meeting habits\" with subtitle \"Small changes for clearer conversations\". Use this exact content map:\n1. Name the decision | 2. Share context early | 3. Invite with purpose\n4. Set a time limit | 5. Start on time | 6. Make space to speak\n7. Capture open questions | 8. Separate facts and guesses | 9. Record the decision\n10. Assign one owner | 11. Agree the next step | 12. Close the loop\nPalette: Warm ivory, black ink and coral accents. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "12 checks before a trip",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "f6e5f239d3abd2023b2e619df78749417c5349b57663fcbc101a64479375a2cc",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $checklist-canvas. Create one infographic titled \"12 checks before a trip\" with subtitle \"A calm departure starts here\". Use this exact content map:\n1. Confirm your dates | 2. Check documents | 3. Review reservations\n4. Plan the first journey | 5. Pack essentials | 6. Check the weather\n7. Save key addresses | 8. Charge your devices | 9. Share your itinerary\n10. Prepare your home | 11. Leave time to spare | 12. Do a final check\nPalette: Soft cream, black ink and cobalt accents. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "12 ways to waste less food",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "9e9201e112545d77e05011715e719be22bb0467ee84c66af96b1b83b9be2d540",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $checklist-canvas. Create one infographic titled \"12 ways to waste less food\" with subtitle \"Practical habits for the kitchen\". Use this exact content map:\n1. Check what you have | 2. Plan a few meals | 3. Write a shopping list\n4. Buy what you need | 5. Store with care | 6. Label opened packs\n7. Use older food first | 8. Serve smaller portions | 9. Save suitable leftovers\n10. Freeze what you can | 11. Track what gets wasted | 12. Adjust next week\nPalette: Pale ivory, charcoal ink and leaf green accents. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "12 steps to start a newsletter",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "9f369bf52cf6f1141e2d8b7f586cbf08f15f925849349fd0abfe90c241e10153",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $checklist-canvas. Create one infographic titled \"12 steps to start a newsletter\" with subtitle \"From an idea to your first issue\". Use this exact content map:\n1. Choose your reader | 2. Define your promise | 3. Pick a useful theme\n4. Choose a cadence | 5. Plan three issues | 6. Draft the first edition\n7. Write a clear subject | 8. Add one next step | 9. Check every link\n10. Send a test | 11. Publish your issue | 12. Ask for feedback\nPalette: Warm parchment, black ink and violet accents. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    }
+  ]
+}
