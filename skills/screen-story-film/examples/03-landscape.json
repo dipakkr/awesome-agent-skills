@@ -1,0 +1,31 @@
+{
+  "mode": "demo",
+  "format": "landscape",
+  "brand": "FIELD",
+  "category": "A research workspace concept",
+  "hook": "Turn notes\ninto direction.",
+  "promise": "See the pattern.\nChoose the next step.",
+  "words": [
+    "Observe",
+    "Connect",
+    "Decide"
+  ],
+  "steps": [
+    "Gather notes",
+    "Find the themes",
+    "Choose an action"
+  ],
+  "projects": [
+    "Observe",
+    "Connect",
+    "Decide"
+  ],
+  "task": "Group interviews for a new community space",
+  "cta": "Start with a question",
+  "url": "field.example",
+  "accent": "#7fe8d0",
+  "theme": "white",
+  "motif": "ribbons",
+  "seed": 73,
+  "concept": true
+}
