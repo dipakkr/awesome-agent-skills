@@ -392,6 +392,16 @@
       "original": true,
       "path": "skills/cad-linkedin-company-culture-image",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-linkedin-data-story",
+      "name": "LinkedIn Data Story",
+      "description": "Turn a small supplied dataset into an accurate, clearly labelled feed graphic with units, source and an honest takeaway.",
+      "site": "https://claudeai.directory/skills/linkedin-data-story",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-linkedin-data-story",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -1016,7 +1026,19 @@
     "skills/cad-linkedin-company-culture-image/references/example-guide.json": "f1a98e66e6162160bdef52985aba81c82c9400533001781844bfe85826aed825",
     "skills/cad-linkedin-company-culture-image/references/research.md": "55d1c5258be294b234611296b36dc9b0e28bea15647dc865a160089dca8a278a",
     "skills/cad-linkedin-company-culture-image/references/runtime-brief.json": "76b8cfb97901d96767725d22af63a335fb2587eef3d8d7cf12ff4aa28a95c0bf",
-    "skills/cad-linkedin-company-culture-image/references/usage-examples.md": "9566038e5452a57e39df3399d60ef85abe0083b57ec313eca96a91240ec407a3"
+    "skills/cad-linkedin-company-culture-image/references/usage-examples.md": "9566038e5452a57e39df3399d60ef85abe0083b57ec313eca96a91240ec407a3",
+    "skills/cad-linkedin-data-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-linkedin-data-story/SKILL.md": "c1d3b188e85f0814bddfddc0b62628637b056110a30202860dea0803f99c6ef9",
+    "skills/cad-linkedin-data-story/examples/gallery/01.webp": "123966d7d9326e81ac4e8385d3d597172b3eeb10d907494d78c327a667fba441",
+    "skills/cad-linkedin-data-story/examples/gallery/02.webp": "c081cea81819a623516d6f9a3a1ea4f26b604184438d3ba0bdc2656099ce8097",
+    "skills/cad-linkedin-data-story/examples/gallery/03.webp": "68c5dea98c620d0ce70890ef9301a017ab58bf10a65944f97d243f410f26028e",
+    "skills/cad-linkedin-data-story/examples/gallery/04.webp": "ac849435f8ffa040d1b513890bbc82f9011689a03d774e626cef1c9cb45ac0cf",
+    "skills/cad-linkedin-data-story/references/demo-data.json": "743d709be59fe623bc32381d13b0d653671b65285b9c3f372cbecbffd158a4ec",
+    "skills/cad-linkedin-data-story/references/example-briefs.json": "528c1177ee97d4928deba9500330f558b23d4e27907ae154ef01700434d08c45",
+    "skills/cad-linkedin-data-story/references/example-guide.json": "846887ab894abab9c15ed7fb3247083a077c4c7a44b31fbaacced90ba8d9d03f",
+    "skills/cad-linkedin-data-story/references/research.md": "c844086ad74a334cd30edcb361314787b20f1b5edcdbdf4a378943512d9280a0",
+    "skills/cad-linkedin-data-story/references/runtime-brief.json": "843da44acc1ec11b70d6344123b17ad90b1c6777c43d7f9c80d71f8b435615f3",
+    "skills/cad-linkedin-data-story/references/usage-examples.md": "bf330f8793b1a14de378e9d86758408b569418d3c77a33da90e738b6584ebb78"
   },
   "omitted": [
     {
