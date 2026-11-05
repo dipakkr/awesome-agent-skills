@@ -1,0 +1,31 @@
+{
+  "mode": "portfolio",
+  "format": "landscape",
+  "brand": "MIRA",
+  "category": "Independent motion designer",
+  "hook": "Ideas,\nin good motion.",
+  "promise": "From a small spark\nto a strong signal.",
+  "words": [
+    "Orbit",
+    "Rhythm",
+    "Structure"
+  ],
+  "steps": [
+    "Explore a concept",
+    "Find the rhythm",
+    "Make it move"
+  ],
+  "projects": [
+    "Orbit",
+    "Rhythm",
+    "Structure"
+  ],
+  "task": "Present three original motion design experiments",
+  "cta": "Start a conversation",
+  "url": "mira.example",
+  "accent": "#ffaecc",
+  "theme": "white",
+  "motif": "ribbons",
+  "seed": 55,
+  "concept": true
+}
