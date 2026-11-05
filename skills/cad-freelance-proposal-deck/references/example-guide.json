@@ -1,0 +1,34 @@
+{
+  "skill": "cad-freelance-proposal-deck",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "A landing page proposal",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "0c50d6a94393db750be4ad2e58056ea5a8343660831f2144fbedff7efd2f4cfc",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-freelance-proposal-deck. Create a new output based on the packaged example \"A landing page proposal\". Brief: Digital Atelier \u00b7 Example reply to a brief for a B2B landing page redesign. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "An automation project proposal",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "c8da92f9f8154dad416d2773b1ac59deeaa9888c7491d0d0d9519b4bd1c46d7e",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-freelance-proposal-deck. Create a new output based on the packaged example \"An automation project proposal\". Brief: Workflow Terminal \u00b7 Example reply to a brief for automating weekly reports. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A website copy proposal",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "867f5012e908054000c78e3a05a18c77344da0aa3c1ba24bb5aed61c77def45d",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-freelance-proposal-deck. Create a new output based on the packaged example \"A website copy proposal\". Brief: Editorial Letters \u00b7 Example reply to a brief for a consultant's website copy. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

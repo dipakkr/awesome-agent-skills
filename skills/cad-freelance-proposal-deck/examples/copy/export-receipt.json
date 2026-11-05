@@ -1,0 +1,21 @@
+{
+  "title": "A website copy proposal",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "d23e26556af40eeb690dd185ba86d20eec3de7dd22ba7e3403fde93c16e3bb01",
+  "outputs": [
+    {
+      "file": "copy.html",
+      "sha256": "11b163a7892ae6e5ae418f8dffdec93a9b510e0304c57fa02af78242decdaa7d",
+      "bytes": 27745
+    },
+    {
+      "file": "copy.pptx",
+      "sha256": "b44ca39c10aabed94181e2eb4822f35b9f2fc8bf161a2e2eb8f908a85d568999",
+      "bytes": 42984
+    }
+  ]
+}

@@ -31,3 +31,4 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Engraved Story Cover | [Files](skills/cad-engraved-story-cover/SKILL.md) | [Preview and download](https://claudeai.directory/skills/engraved-story-cover) | Original / MIT |
 | Fashion Product Ads | [Files](skills/cad-fashion-product-ads/SKILL.md) | [Preview and download](https://claudeai.directory/skills/fashion-product-ads) | Original / MIT |
 | Folder Workflow Infographic | [Files](skills/cad-folder-workflow-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/folder-workflow-infographic) | Original / MIT |
+| Freelance Proposal Deck | [Files](skills/cad-freelance-proposal-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/freelance-proposal-deck) | Original / MIT |

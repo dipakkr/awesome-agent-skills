@@ -1,0 +1,21 @@
+{
+  "title": "A landing page proposal",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "902d8df0135c28220bf4cc50ded5e3c1ec359d0c9216c9fbb5a75e31d20f5fd7",
+  "outputs": [
+    {
+      "file": "landing.html",
+      "sha256": "5c417ad87b4606ef5a76fa94bda17f25ae5ff7814947e1478afc02a25fe05cb2",
+      "bytes": 28299
+    },
+    {
+      "file": "landing.pptx",
+      "sha256": "8ff30103972667abc11ecd0d3fcc588d5ab467d3bf19e5ad3ef07a3f86b18e12",
+      "bytes": 43197
+    }
+  ]
+}
