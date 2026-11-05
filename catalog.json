@@ -412,6 +412,16 @@
       "original": true,
       "path": "skills/cad-linkedin-document-cover",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-linkedin-event-promo",
+      "name": "LinkedIn Event Promo",
+      "description": "Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials.",
+      "site": "https://claudeai.directory/skills/linkedin-event-promo",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-linkedin-event-promo",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -1059,7 +1069,18 @@
     "skills/cad-linkedin-document-cover/references/example-guide.json": "757b12db0ced1525e17394445cae685a143bff04b86a591891cb9895eb51e728",
     "skills/cad-linkedin-document-cover/references/research.md": "353998853ea1ba1a34ab735f1cc9d76f8863201cd364c69631bd82ec5f1209a7",
     "skills/cad-linkedin-document-cover/references/runtime-brief.json": "b4d6480d67cf8486c5c4940414177a967095d0646f4dcd1f20df8b137bf83c13",
-    "skills/cad-linkedin-document-cover/references/usage-examples.md": "ff62ce3313619d8c0672753354ca9c9e8df43bf308c8d89cb7e2591174e045cf"
+    "skills/cad-linkedin-document-cover/references/usage-examples.md": "ff62ce3313619d8c0672753354ca9c9e8df43bf308c8d89cb7e2591174e045cf",
+    "skills/cad-linkedin-event-promo/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-linkedin-event-promo/SKILL.md": "87508aa4c292a35bf5e82506866a3f2fa428ccf543678af2fa9ee1be277f09d9",
+    "skills/cad-linkedin-event-promo/examples/gallery/01.webp": "41c531e3323e7dff718231f04dc663bd4fc5c17b72a03bf00ea40d8a30ba0cfa",
+    "skills/cad-linkedin-event-promo/examples/gallery/02.webp": "d7cff9f9ad7fb64497775aa1fc8faa2ed1f8d7ab793692075543e18bd7f3f5ae",
+    "skills/cad-linkedin-event-promo/examples/gallery/03.webp": "5e048c9d33c9f554b40f95d03439962218123b20a2834ace1cf88df4e70b3a3a",
+    "skills/cad-linkedin-event-promo/examples/gallery/04.webp": "952fd2e913932a04c1a5484f173bf580c8298069bc90487c298b73cae5fb34c8",
+    "skills/cad-linkedin-event-promo/references/example-briefs.json": "122b1128c9318f294fca331a9740f03eb43ece6ec36ccc203a7f5f5843da2853",
+    "skills/cad-linkedin-event-promo/references/example-guide.json": "b31e89a9cbfa5a4ac5a2e8d6532a279d049f887eb841533aee7f7affdf0c5d2a",
+    "skills/cad-linkedin-event-promo/references/research.md": "50e048a83bbad5c2ae868c2af5c294fe4c1e618c46304d3cbf6e69ba427a7ca1",
+    "skills/cad-linkedin-event-promo/references/runtime-brief.json": "1abc678cccc752d11c09ac4933197a46458630117b1f69bc16ddc0069e79b432",
+    "skills/cad-linkedin-event-promo/references/usage-examples.md": "1b66df4d7c4ab1a3f796b9d613b6dd5072872ebfc7c29dc5b1d11312fe2a61b0"
   },
   "omitted": [
     {

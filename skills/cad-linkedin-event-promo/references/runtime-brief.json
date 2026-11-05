@@ -1,0 +1,14 @@
+{
+  "text": "",
+  "brand": {
+    "name": null,
+    "palette": [],
+    "typography": null
+  },
+  "logo": null,
+  "image": null,
+  "product": null,
+  "audience": null,
+  "placement": "16:9 LinkedIn Event cover",
+  "notes": "Supply this brief at runtime; no skill-file edits required. Omit optional assets cleanly."
+}
