@@ -1,0 +1,19 @@
+{
+  "brand": "FREQUENCY",
+  "headline": "Make room for your sound.",
+  "ending": "Your world. Your frequency.",
+  "cta": "Find your frequency",
+  "url": "frequency.example",
+  "item": "Listen differently",
+  "chapters": [
+    "Turn the everyday up.",
+    "A different point of view.",
+    "Make some room for play."
+  ],
+  "accent": "#ff6a35",
+  "subject": "audio",
+  "image": "headphones.png",
+  "mode": "collage",
+  "format": "square",
+  "concept": true
+}
