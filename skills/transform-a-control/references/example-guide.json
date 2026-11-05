@@ -1,0 +1,224 @@
+{
+  "skill": "transform-a-control",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "index": "01",
+      "title": "From note to listing",
+      "invocation": "Use $transform-a-control to make \"From note to listing\" for the fictional brand Cartnote. Use examples/01.json as the exact input, the paper palette and the CTA \"Review your listing\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/01.json",
+      "output": "examples/recorded/01/film.mp4",
+      "render": {
+        "mode": "morph",
+        "width": 1080,
+        "height": 1080,
+        "fps": 24,
+        "duration": 20.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "79f11e4015632d1f6fd62313e90cea7c82aef9a384268372892f522345fe43c0",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 243,
+        "files": {
+          "brief.json": {
+            "sha256": "79f11e4015632d1f6fd62313e90cea7c82aef9a384268372892f522345fe43c0",
+            "bytes": 513
+          },
+          "film.mp4": {
+            "sha256": "92ad52925ddcd6a2c46d442e0b86531bc3510e1476fe4ed493876cfbc61d46bf",
+            "bytes": 258841
+          },
+          "poster.png": {
+            "sha256": "4f397f36c128e313c7ab1192fdbeb32954d6671d43e454f939ed6e99ac77e10a",
+            "bytes": 43424
+          },
+          "review-1.jpg": {
+            "sha256": "b9f19b599bb68c58c942f7e0e5910e34726b0a1610b67aa988735d1ecedfba39",
+            "bytes": 52155
+          },
+          "review-2.jpg": {
+            "sha256": "a46b724c48b3c76530dbf3d7ec6815266d74cac0c6073f65884688c3157a747c",
+            "bytes": 62046
+          },
+          "review-3.jpg": {
+            "sha256": "00cfd6d7cb8906607621c262d60b7ee2a028e0e9266dc3cb84ca0ca241173d10",
+            "bytes": 72299
+          },
+          "review-4.jpg": {
+            "sha256": "87dc044e9f022537a59475aa5cbdd65a0366bee5a86b7ed435739edbe3000f78",
+            "bytes": 61976
+          },
+          "review-5.jpg": {
+            "sha256": "f375948a47eb33f1451a7de5fc5d813c49f4b3a807493e234a719d3747040dea",
+            "bytes": 61973
+          }
+        }
+      }
+    },
+    {
+      "index": "02",
+      "title": "From idea to direction",
+      "invocation": "Use $transform-a-control to make \"From idea to direction\" for the fictional brand Margin Studio. Use examples/02.json as the exact input, the lavender palette and the CTA \"Review the direction\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/02.json",
+      "output": "examples/recorded/02/film.mp4",
+      "render": {
+        "mode": "morph",
+        "width": 1080,
+        "height": 1080,
+        "fps": 24,
+        "duration": 20.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "eebab04d20d841cac4f669b0d567a48d78b3c51a0ece51673d417c00b09fd72e",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 239,
+        "files": {
+          "brief.json": {
+            "sha256": "eebab04d20d841cac4f669b0d567a48d78b3c51a0ece51673d417c00b09fd72e",
+            "bytes": 524
+          },
+          "film.mp4": {
+            "sha256": "236034ca0bda4b274c35095da83c5731ac41d428f0e31b05e86ef39d820a61f3",
+            "bytes": 261297
+          },
+          "poster.png": {
+            "sha256": "76c73bd90a490e3dd02907af352d4ace7eb0a293b7e1e437eec45729760da148",
+            "bytes": 43727
+          },
+          "review-1.jpg": {
+            "sha256": "385a9d652d64d34cc366fe136b79aeaf39788640349441327ae4c247aea94aee",
+            "bytes": 54361
+          },
+          "review-2.jpg": {
+            "sha256": "ce114cd0543aed0434c731933f7354c71f7b7e65c58e0097e9229be0913b760e",
+            "bytes": 64181
+          },
+          "review-3.jpg": {
+            "sha256": "5c6e49ad1a03b1677dc5daead8248b010f4b3e5f29d091cfe38974f711bd6817",
+            "bytes": 74687
+          },
+          "review-4.jpg": {
+            "sha256": "0c21f0076946a48de7cd879735697a3762621d7ca8cc0fa29e3e728e0d22dbfd",
+            "bytes": 64954
+          },
+          "review-5.jpg": {
+            "sha256": "652ddb897cd6d6477295e6cc8429bc1a3abe316b2a1ec23b350af47eef86b8c3",
+            "bytes": 64948
+          }
+        }
+      }
+    },
+    {
+      "index": "03",
+      "title": "From notes to proposal",
+      "invocation": "Use $transform-a-control to make \"From notes to proposal\" for the fictional brand Fieldwork. Use examples/03.json as the exact input, the night palette and the CTA \"Review the proposal\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/03.json",
+      "output": "examples/recorded/03/film.mp4",
+      "render": {
+        "mode": "morph",
+        "width": 1080,
+        "height": 1080,
+        "fps": 24,
+        "duration": 20.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "8a0fd45d4ecbd4f5856b72492288347dce14d64aab102d418e5efe7a2e4470ee",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 244,
+        "files": {
+          "brief.json": {
+            "sha256": "8a0fd45d4ecbd4f5856b72492288347dce14d64aab102d418e5efe7a2e4470ee",
+            "bytes": 517
+          },
+          "film.mp4": {
+            "sha256": "77f0bf05362e7528b10ea4e14d9da5856d80b2eefec37f8e56a8cd6a416387e7",
+            "bytes": 266291
+          },
+          "poster.png": {
+            "sha256": "ec546972f40ab6d50039d13fe7ee16fefcd7a28d19722a7b862c58bf5672bf13",
+            "bytes": 41702
+          },
+          "review-1.jpg": {
+            "sha256": "ef39b85f017502aa365783bf00f1aa714afa0dffb838935b8ef6e7b4129444cd",
+            "bytes": 57202
+          },
+          "review-2.jpg": {
+            "sha256": "9753496a5514bf9008c944c193d951abf38cb8374488ba123e9c1f3afb14be17",
+            "bytes": 67111
+          },
+          "review-3.jpg": {
+            "sha256": "264d52d3fe237513770217775f8afcc033fceb3331a8b3c9c747afa678da42bd",
+            "bytes": 77495
+          },
+          "review-4.jpg": {
+            "sha256": "f967b25e820f527e1b38f32763a4ad7a96c665025160d14f16ecb3c998638c47",
+            "bytes": 68138
+          },
+          "review-5.jpg": {
+            "sha256": "c74575f8b1730e6a1fbe5acf9862b571dc428ade6666aaa1f382292dff5b9081",
+            "bytes": 68130
+          }
+        }
+      }
+    },
+    {
+      "index": "04",
+      "title": "From question to lesson",
+      "invocation": "Use $transform-a-control to make \"From question to lesson\" for the fictional brand Lesson Lab. Use examples/04.json as the exact input, the ocean palette and the CTA \"Review the lesson\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/04.json",
+      "output": "examples/recorded/04/film.mp4",
+      "render": {
+        "mode": "morph",
+        "width": 1080,
+        "height": 1080,
+        "fps": 24,
+        "duration": 20.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "cd7e12e505a0f8819dc8400c1d3b79926cac550db8906faa9512a367278a9774",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 243,
+        "files": {
+          "brief.json": {
+            "sha256": "cd7e12e505a0f8819dc8400c1d3b79926cac550db8906faa9512a367278a9774",
+            "bytes": 514
+          },
+          "film.mp4": {
+            "sha256": "803a5a2f8729542bcf19e029506b658250f469ff5df970074e69e524ba10c39b",
+            "bytes": 269016
+          },
+          "poster.png": {
+            "sha256": "6accdbcf842388806f26049778cdee8c356bc8a16e1e7834efca446bb6aca0fe",
+            "bytes": 42570
+          },
+          "review-1.jpg": {
+            "sha256": "76b64fde356a0323a603507c0597613c7fdc32016b91b715f61dd653259f4670",
+            "bytes": 55246
+          },
+          "review-2.jpg": {
+            "sha256": "a81b8f18573eb29df379053292791f42fb70774c90e7f5a3fa31177097aaea7b",
+            "bytes": 66109
+          },
+          "review-3.jpg": {
+            "sha256": "21cd2c2a3c3396ddd703768c18dab219fc1c2c399fd71dc00720150557796c86",
+            "bytes": 76965
+          },
+          "review-4.jpg": {
+            "sha256": "e191bbd7ced6fa5ef922e4548ad20921d7665ca131ea54eb277087555330e906",
+            "bytes": 65404
+          },
+          "review-5.jpg": {
+            "sha256": "f0473ce0691b8b7e610d2f0e773918544f8c96d638b23f12ae7cd1ae336f5c41",
+            "bytes": 65398
+          }
+        }
+      }
+    }
+  ],
+  "verification": "Author-executed; no independent agent reuse claimed"
+}

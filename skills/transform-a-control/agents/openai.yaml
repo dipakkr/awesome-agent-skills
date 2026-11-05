@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transform A Control"
+  short_description: "Render an editable square morph reel locally"
+  default_prompt: "Use $transform-a-control to make a film from my brief and review its motion and copy."
