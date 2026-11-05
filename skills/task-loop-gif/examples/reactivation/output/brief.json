@@ -1,0 +1,41 @@
+{
+  "brand": "Rekindle",
+  "eyebrow": "EMAIL / REACTIVATION",
+  "headline": [
+    "Make room for",
+    "a fresh start."
+  ],
+  "subtitle": "Plan a respectful check-in for subscribers who have gone quiet.",
+  "panel_title": "YOUR REACTIVATION WORKFLOW",
+  "beats": [
+    {
+      "request": "Choose an eligible subscriber segment",
+      "result": "Use the consent and activity data you supplied."
+    },
+    {
+      "request": "Draft a helpful check-in",
+      "result": "Give readers a reason to return or update needs."
+    },
+    {
+      "request": "Offer a clear preference choice",
+      "result": "Keep unsubscribe and preference options visible."
+    },
+    {
+      "request": "Review the follow-up rules",
+      "result": "Prepare the campaign for your approval."
+    }
+  ],
+  "chips": [
+    "Segment with care",
+    "Preferences",
+    "Clear choices"
+  ],
+  "cta": "Explore the reactivation flow",
+  "alt": "Reconnect with inactive subscribers. Plan a respectful check-in for subscribers who have gone quiet.",
+  "disclosure": "Illustrative workflow. Fictional brand; no messages sent.",
+  "theme": "plum",
+  "duration": 12,
+  "width": 720,
+  "fps": 24,
+  "cta_url": ""
+}

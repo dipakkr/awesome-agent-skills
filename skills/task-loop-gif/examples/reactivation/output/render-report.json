@@ -1,0 +1,77 @@
+{
+  "renderer": "task-loop-gif 1.0",
+  "layoutPassed": true,
+  "width": 720,
+  "height": 900,
+  "durationSeconds": 12.0,
+  "fps": 24,
+  "silent": true,
+  "gif": {
+    "workflow.gif": {
+      "frames": 120,
+      "width": 720,
+      "height": 900,
+      "durationSeconds": 12.0,
+      "loop": 0
+    },
+    "email.gif": {
+      "frames": 120,
+      "width": 600,
+      "height": 750,
+      "durationSeconds": 12.0,
+      "loop": 0
+    }
+  },
+  "emailTargetBytes": 1000000,
+  "emailTargetMet": true,
+  "files": {
+    "preview.html": {
+      "bytes": 1029,
+      "sha256": "ba88d9b53ca2c1d1c3bfc61bae51b4551369fa47aa21ce4617f67086f65e5dae"
+    },
+    "workflow.mp4": {
+      "bytes": 122619,
+      "sha256": "5eef1dbfe6939cf6d475dc038114b24ace13a597454388e971d43e0dc6026e15"
+    },
+    "brief.json": {
+      "bytes": 1180,
+      "sha256": "a910955078fd6d46dee83165ad5915e8c15b5025f0da09285403e7e0ce3681f0"
+    },
+    "email.html": {
+      "bytes": 660,
+      "sha256": "a48a5df4998e901a4e02be1b7ac8a0e718888b0a4001aa15ed0122314b6c6a4f"
+    },
+    "poster.png": {
+      "bytes": 63904,
+      "sha256": "fb56cc88301d23e49314e1767b7adce542510127e6de57af6b20889ff2b610fb"
+    },
+    "workflow.gif": {
+      "bytes": 203974,
+      "sha256": "e0d39f7c8a3f455e4881ef9f897b13922ab1326e73eb4e0a25e78884cdc19a81"
+    },
+    "first-frame.png": {
+      "bytes": 43794,
+      "sha256": "d51f6a923b6e27bff6d3b7463cfb2c6841c99733134b40f9fe62572430541fc2"
+    },
+    "email.gif": {
+      "bytes": 159959,
+      "sha256": "0ab6156da6235f487c466994da88a0f69824d6a1f81a93a3f64460cc750724f7"
+    },
+    "review-end.png": {
+      "bytes": 63904,
+      "sha256": "fb56cc88301d23e49314e1767b7adce542510127e6de57af6b20889ff2b610fb"
+    },
+    "review-start.png": {
+      "bytes": 43794,
+      "sha256": "d51f6a923b6e27bff6d3b7463cfb2c6841c99733134b40f9fe62572430541fc2"
+    },
+    "review-middle.png": {
+      "bytes": 57954,
+      "sha256": "7c25e349c0c82e3d135152c487bb0f9d9f83a526b710c700ad9e87ae66e79a35"
+    },
+    "encoder.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

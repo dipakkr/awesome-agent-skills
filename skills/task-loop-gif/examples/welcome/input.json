@@ -1,0 +1,40 @@
+{
+  "brand": "Letterwell",
+  "eyebrow": "EMAIL / WELCOME SERIES",
+  "headline": [
+    "Make the first",
+    "hello count."
+  ],
+  "subtitle": "Turn a new signup into a useful, well-paced welcome sequence.",
+  "panel_title": "YOUR WELCOME WORKFLOW",
+  "beats": [
+    {
+      "request": "Start with a new newsletter signup",
+      "result": "Trigger captured. Preferences stay attached."
+    },
+    {
+      "request": "Draft the welcome email",
+      "result": "Introduce one useful idea and a clear next step."
+    },
+    {
+      "request": "Plan the next two messages",
+      "result": "Space the sequence around learning, not pressure."
+    },
+    {
+      "request": "Review before scheduling",
+      "result": "Copy and timing ready for your approval."
+    }
+  ],
+  "chips": [
+    "Welcome flows",
+    "Useful content",
+    "Human review"
+  ],
+  "cta": "Explore the welcome flow",
+  "alt": "A welcome sequence with a purpose. Turn a new signup into a useful, well-paced welcome sequence.",
+  "disclosure": "Illustrative workflow. Fictional brand; no messages sent.",
+  "theme": "paper",
+  "duration": 12,
+  "width": 720,
+  "fps": 24
+}

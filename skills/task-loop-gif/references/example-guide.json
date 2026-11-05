@@ -1,0 +1,335 @@
+{
+  "skill": "task-loop-gif",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "id": "welcome",
+      "command": "python3 <installed-skill>/scripts/render.py <installed-skill>/examples/welcome/input.json --out output/welcome",
+      "invocation": "Use $task-loop-gif to create a 12-second looping a welcome sequence with a purpose demo for the fictional brand Letterwell. Use the supplied input.json, the paper palette and the CTA \"Explore the welcome flow\". Export the 720 x 900 GIF/MP4, a 600px email GIF and a static fallback. Keep it labelled illustrative; do not send any messages.",
+      "report": {
+        "renderer": "task-loop-gif 1.0",
+        "layoutPassed": true,
+        "width": 720,
+        "height": 900,
+        "durationSeconds": 12.0,
+        "fps": 24,
+        "silent": true,
+        "gif": {
+          "workflow.gif": {
+            "frames": 120,
+            "width": 720,
+            "height": 900,
+            "durationSeconds": 12.0,
+            "loop": 0
+          },
+          "email.gif": {
+            "frames": 120,
+            "width": 600,
+            "height": 750,
+            "durationSeconds": 12.0,
+            "loop": 0
+          }
+        },
+        "emailTargetBytes": 1000000,
+        "emailTargetMet": true,
+        "files": {
+          "preview.html": {
+            "bytes": 1027,
+            "sha256": "f782944a5b9a24d279ea37c038fdb3b7eab8e18091137e69716b2383be73c0e2"
+          },
+          "workflow.mp4": {
+            "bytes": 126750,
+            "sha256": "ac4cb3c6c4ea06ea5938605bd6e662603d70d8d64be46a254ff2e13548c7f224"
+          },
+          "brief.json": {
+            "bytes": 1154,
+            "sha256": "0b3ca96ce1143de97c3ac85dcd61520aedaac5f6c9ffa6b7109a9bb2f09c79d8"
+          },
+          "email.html": {
+            "bytes": 651,
+            "sha256": "13206721382e0d3117ac51ff207325c752e30ab7fcee0670f565115188d34096"
+          },
+          "poster.png": {
+            "bytes": 63833,
+            "sha256": "34abc90a35397bf0392a038762b76c9256a7b0a19251dafe4b6ea27a83f0f967"
+          },
+          "workflow.gif": {
+            "bytes": 227873,
+            "sha256": "c961ddf73f802bc07cfc5ba2b1f51f79d846729d0fcca7d8b9b28eb5dea44441"
+          },
+          "first-frame.png": {
+            "bytes": 41948,
+            "sha256": "38bc3a75dfcd1f11d94087f40422b9e41931b967ab65ca3b6123a4e36f14e18a"
+          },
+          "email.gif": {
+            "bytes": 176470,
+            "sha256": "a6a00725132d7d770f8e76168d835ba2f1a9284ec8d6caf4ae48ea8ed48e4f96"
+          },
+          "review-end.png": {
+            "bytes": 63833,
+            "sha256": "34abc90a35397bf0392a038762b76c9256a7b0a19251dafe4b6ea27a83f0f967"
+          },
+          "review-start.png": {
+            "bytes": 41948,
+            "sha256": "38bc3a75dfcd1f11d94087f40422b9e41931b967ab65ca3b6123a4e36f14e18a"
+          },
+          "review-middle.png": {
+            "bytes": 57028,
+            "sha256": "5c31785149fa065e589ab9f31fbdcb67f71fff459607f2ff27d5f5fa9c438a03"
+          },
+          "encoder.log": {
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        }
+      }
+    },
+    {
+      "id": "inbound",
+      "command": "python3 <installed-skill>/scripts/render.py <installed-skill>/examples/inbound/input.json --out output/inbound",
+      "invocation": "Use $task-loop-gif to create a 12-second looping from a demo request to the right owner demo for the fictional brand Frontdoor. Use the supplied input.json, the forest palette and the CTA \"See the inbound playbook\". Export the 720 x 900 GIF/MP4, a 600px email GIF and a static fallback. Keep it labelled illustrative; do not send any messages.",
+      "report": {
+        "renderer": "task-loop-gif 1.0",
+        "layoutPassed": true,
+        "width": 720,
+        "height": 900,
+        "durationSeconds": 12.0,
+        "fps": 24,
+        "silent": true,
+        "gif": {
+          "workflow.gif": {
+            "frames": 120,
+            "width": 720,
+            "height": 900,
+            "durationSeconds": 12.0,
+            "loop": 0
+          },
+          "email.gif": {
+            "frames": 120,
+            "width": 600,
+            "height": 750,
+            "durationSeconds": 12.0,
+            "loop": 0
+          }
+        },
+        "emailTargetBytes": 1000000,
+        "emailTargetMet": true,
+        "files": {
+          "preview.html": {
+            "bytes": 1031,
+            "sha256": "e8f64011062f922ab28caf3c6f7e4a4cc7b58da91e84d316e162ad600cc8fae3"
+          },
+          "workflow.mp4": {
+            "bytes": 129132,
+            "sha256": "6b7793e049511c1a274d19992d28ed2054b06586f5ced1f914bb102fcfd44813"
+          },
+          "brief.json": {
+            "bytes": 1146,
+            "sha256": "0b0798991aa968d0dab98bbb21f94d5c9c7178aa58b3d64cfef172046fe2910d"
+          },
+          "email.html": {
+            "bytes": 655,
+            "sha256": "34af73a39570a6b3e4c4c78dbc958422206836205ce53622513db5ea5b7aa54d"
+          },
+          "poster.png": {
+            "bytes": 64205,
+            "sha256": "a9b090ca47b0904a604e3a62e82693faa17ef6ccc5d025bfecd768a103348e14"
+          },
+          "workflow.gif": {
+            "bytes": 238451,
+            "sha256": "e2905a48d22972c9b02a101e0de444ce61184f7345687b3c068b014babfe373b"
+          },
+          "first-frame.png": {
+            "bytes": 44360,
+            "sha256": "67dbbedf73a86ee9f9a1560e70d99b17537198453b4daa1a0555b16e06df766f"
+          },
+          "email.gif": {
+            "bytes": 182680,
+            "sha256": "623d4f6cd16d77f437bc97007b16c3a9d1ca49b90df4535b296e16db99eb0f20"
+          },
+          "review-end.png": {
+            "bytes": 64205,
+            "sha256": "a9b090ca47b0904a604e3a62e82693faa17ef6ccc5d025bfecd768a103348e14"
+          },
+          "review-start.png": {
+            "bytes": 44360,
+            "sha256": "67dbbedf73a86ee9f9a1560e70d99b17537198453b4daa1a0555b16e06df766f"
+          },
+          "review-middle.png": {
+            "bytes": 59058,
+            "sha256": "e3bcd221bf63c1baf11e2fdee78ec3056fcac6f336fb273b21bd7f9cd14666bf"
+          },
+          "encoder.log": {
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        }
+      }
+    },
+    {
+      "id": "outbound",
+      "command": "python3 <installed-skill>/scripts/render.py <installed-skill>/examples/outbound/input.json --out output/outbound",
+      "invocation": "Use $task-loop-gif to create a 12-second looping research before reaching out demo for the fictional brand Signaldesk. Use the supplied input.json, the midnight palette and the CTA \"Get the research workflow\". Export the 720 x 900 GIF/MP4, a 600px email GIF and a static fallback. Keep it labelled illustrative; do not send any messages.",
+      "report": {
+        "renderer": "task-loop-gif 1.0",
+        "layoutPassed": true,
+        "width": 720,
+        "height": 900,
+        "durationSeconds": 12.0,
+        "fps": 24,
+        "silent": true,
+        "gif": {
+          "workflow.gif": {
+            "frames": 120,
+            "width": 720,
+            "height": 900,
+            "durationSeconds": 12.0,
+            "loop": 0
+          },
+          "email.gif": {
+            "frames": 120,
+            "width": 600,
+            "height": 750,
+            "durationSeconds": 12.0,
+            "loop": 0
+          }
+        },
+        "emailTargetBytes": 1000000,
+        "emailTargetMet": true,
+        "files": {
+          "preview.html": {
+            "bytes": 1023,
+            "sha256": "bff1021d0bd94cb6e2ddb22a20a984bf38bc05457708e3080939a5f1aa9973c1"
+          },
+          "workflow.mp4": {
+            "bytes": 132876,
+            "sha256": "c70a72bfefc6b92249ff3f8f75dda0760693d4911b03abc7014d88825150a536"
+          },
+          "brief.json": {
+            "bytes": 1189,
+            "sha256": "d716f93eee67e1e42e6bb2fece176103f79cf06d97403f4c9237b5bd134be27e"
+          },
+          "email.html": {
+            "bytes": 649,
+            "sha256": "fbcc054f5f7f2d0d9f8c3fb7fb44b6a9b9be088151737f6b27d8d1dbad86d8d2"
+          },
+          "poster.png": {
+            "bytes": 69616,
+            "sha256": "ed83feaef55f47d46b00aa67f143be9b32caa4aca162dfa4f5cbdb0cb8bb4afb"
+          },
+          "workflow.gif": {
+            "bytes": 210193,
+            "sha256": "d0e06abef40bbf3f27e2880ea98d43028999cd9b817a59c011842d73fd8af26e"
+          },
+          "first-frame.png": {
+            "bytes": 46357,
+            "sha256": "78b7d6441663e88b48b82437d72b1fc1c4005d71acb8cdacb51e4c7a14463a82"
+          },
+          "email.gif": {
+            "bytes": 170255,
+            "sha256": "79bdd05410502a9469106fab26b22fcbf9321da513fd7fab1f9a5fe75bfde2d5"
+          },
+          "review-end.png": {
+            "bytes": 69616,
+            "sha256": "ed83feaef55f47d46b00aa67f143be9b32caa4aca162dfa4f5cbdb0cb8bb4afb"
+          },
+          "review-start.png": {
+            "bytes": 46357,
+            "sha256": "78b7d6441663e88b48b82437d72b1fc1c4005d71acb8cdacb51e4c7a14463a82"
+          },
+          "review-middle.png": {
+            "bytes": 62408,
+            "sha256": "5d257623ef8d7985552a738c07bbeaff796fa54def5a49461faed7776be3e1b2"
+          },
+          "encoder.log": {
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        }
+      }
+    },
+    {
+      "id": "reactivation",
+      "command": "python3 <installed-skill>/scripts/render.py <installed-skill>/examples/reactivation/input.json --out output/reactivation",
+      "invocation": "Use $task-loop-gif to create a 12-second looping reconnect with inactive subscribers demo for the fictional brand Rekindle. Use the supplied input.json, the plum palette and the CTA \"Explore the reactivation flow\". Export the 720 x 900 GIF/MP4, a 600px email GIF and a static fallback. Keep it labelled illustrative; do not send any messages.",
+      "report": {
+        "renderer": "task-loop-gif 1.0",
+        "layoutPassed": true,
+        "width": 720,
+        "height": 900,
+        "durationSeconds": 12.0,
+        "fps": 24,
+        "silent": true,
+        "gif": {
+          "workflow.gif": {
+            "frames": 120,
+            "width": 720,
+            "height": 900,
+            "durationSeconds": 12.0,
+            "loop": 0
+          },
+          "email.gif": {
+            "frames": 120,
+            "width": 600,
+            "height": 750,
+            "durationSeconds": 12.0,
+            "loop": 0
+          }
+        },
+        "emailTargetBytes": 1000000,
+        "emailTargetMet": true,
+        "files": {
+          "preview.html": {
+            "bytes": 1029,
+            "sha256": "ba88d9b53ca2c1d1c3bfc61bae51b4551369fa47aa21ce4617f67086f65e5dae"
+          },
+          "workflow.mp4": {
+            "bytes": 122619,
+            "sha256": "5eef1dbfe6939cf6d475dc038114b24ace13a597454388e971d43e0dc6026e15"
+          },
+          "brief.json": {
+            "bytes": 1180,
+            "sha256": "a910955078fd6d46dee83165ad5915e8c15b5025f0da09285403e7e0ce3681f0"
+          },
+          "email.html": {
+            "bytes": 660,
+            "sha256": "a48a5df4998e901a4e02be1b7ac8a0e718888b0a4001aa15ed0122314b6c6a4f"
+          },
+          "poster.png": {
+            "bytes": 63904,
+            "sha256": "fb56cc88301d23e49314e1767b7adce542510127e6de57af6b20889ff2b610fb"
+          },
+          "workflow.gif": {
+            "bytes": 203974,
+            "sha256": "e0d39f7c8a3f455e4881ef9f897b13922ab1326e73eb4e0a25e78884cdc19a81"
+          },
+          "first-frame.png": {
+            "bytes": 43794,
+            "sha256": "d51f6a923b6e27bff6d3b7463cfb2c6841c99733134b40f9fe62572430541fc2"
+          },
+          "email.gif": {
+            "bytes": 159959,
+            "sha256": "0ab6156da6235f487c466994da88a0f69824d6a1f81a93a3f64460cc750724f7"
+          },
+          "review-end.png": {
+            "bytes": 63904,
+            "sha256": "fb56cc88301d23e49314e1767b7adce542510127e6de57af6b20889ff2b610fb"
+          },
+          "review-start.png": {
+            "bytes": 43794,
+            "sha256": "d51f6a923b6e27bff6d3b7463cfb2c6841c99733134b40f9fe62572430541fc2"
+          },
+          "review-middle.png": {
+            "bytes": 57954,
+            "sha256": "7c25e349c0c82e3d135152c487bb0f9d9f83a526b710c700ad9e87ae66e79a35"
+          },
+          "encoder.log": {
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        }
+      }
+    }
+  ]
+}

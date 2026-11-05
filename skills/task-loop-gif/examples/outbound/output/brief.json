@@ -1,0 +1,41 @@
+{
+  "brand": "Signaldesk",
+  "eyebrow": "OUTBOUND / RESEARCH FIRST",
+  "headline": [
+    "Less guesswork.",
+    "More relevance."
+  ],
+  "subtitle": "Build a thoughtful first touch from supplied account research.",
+  "panel_title": "YOUR OUTBOUND WORKFLOW",
+  "beats": [
+    {
+      "request": "Start with the accounts you selected",
+      "result": "Keep the brief focused on your target customer."
+    },
+    {
+      "request": "Review the supplied company notes",
+      "result": "Find a relevant need with a traceable source."
+    },
+    {
+      "request": "Draft a personal first touch",
+      "result": "Connect one useful observation to your offer."
+    },
+    {
+      "request": "Check relevance before sending",
+      "result": "Keep the message in draft for your review."
+    }
+  ],
+  "chips": [
+    "Account research",
+    "Clear relevance",
+    "Drafts to review"
+  ],
+  "cta": "Get the research workflow",
+  "alt": "Research before reaching out. Build a thoughtful first touch from supplied account research.",
+  "disclosure": "Illustrative workflow. Fictional brand; no messages sent.",
+  "theme": "midnight",
+  "duration": 12,
+  "width": 720,
+  "fps": 24,
+  "cta_url": ""
+}
