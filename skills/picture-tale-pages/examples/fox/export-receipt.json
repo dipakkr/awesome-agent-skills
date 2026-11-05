@@ -1,0 +1,21 @@
+{
+  "title": "Finch and the little light",
+  "slideCount": 5,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "485c996f5e034bccb77cc3185073fff0e3beedf17aaf87dfd36857939bd77f47",
+  "outputs": [
+    {
+      "file": "fox.html",
+      "sha256": "06b77c7ca685a70746d42b7dedc4b555ae56e93bc3c034a35a043558b65a85a7",
+      "bytes": 21284440
+    },
+    {
+      "file": "fox.pptx",
+      "sha256": "fb9cc023d74d5fd9abb66f7aca49ffa3abb283b986f9931f1a35df2db874d703",
+      "bytes": 9288584
+    }
+  ]
+}

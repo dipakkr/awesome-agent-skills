@@ -1,0 +1,4 @@
+interface:
+  display_name: "Picture Tale Pages"
+  short_description: "Create editable story presentations from your brief"
+  default_prompt: "Use $picture-tale-pages to make a presentation for my audience using my brief and optional assets."
