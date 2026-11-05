@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01",
+    "title": "The community garden team",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "b8c799d1435fc903e672293736ea8f362c8064738febe364733c23c78d9f535e",
+    "briefsSha256": "8c93d7e5200ef9ac40862673c67481a76c610036b5b9d3736395d789498ad364",
+    "output": "examples/outputs/01-v01.png",
+    "sha256": "c16a9de300aa9d4e28eb1c9549534d8c4be8ab1dc63fd067273e50c41f394f69",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/01-v01.txt",
+    "promptSha256": "a4ba1b4e5cea3054ab5d3a1918038ecc01d58aff62e0730b53ac8fd1603afdf1",
+    "review": {
+      "id": "01",
+      "path": "outputs/01-v01.png",
+      "outcome": "accepted",
+      "notes": "Six coloured cards and 18 garden roles, all connected to the centre; title and role labels readable.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "02",
+    "title": "The indie film crew",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "b8c799d1435fc903e672293736ea8f362c8064738febe364733c23c78d9f535e",
+    "briefsSha256": "8c93d7e5200ef9ac40862673c67481a76c610036b5b9d3736395d789498ad364",
+    "output": "examples/outputs/02-v01.png",
+    "sha256": "4e2be36bbefcfd3daa4a577ad776d16ee16d4dc22243bd4fbf382044f9c04ddd",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/02-v01.txt",
+    "promptSha256": "9d82b207a8388bd5da4264b23e9006909a8f0f61c8209f822c7c1d707085cdf9",
+    "review": {
+      "id": "02",
+      "path": "outputs/02-v01.png",
+      "outcome": "accepted",
+      "notes": "Six film departments and 18 roles, with correct membership and six central connectors.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "03",
+    "title": "The online course team",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "b8c799d1435fc903e672293736ea8f362c8064738febe364733c23c78d9f535e",
+    "briefsSha256": "8c93d7e5200ef9ac40862673c67481a76c610036b5b9d3736395d789498ad364",
+    "output": "examples/outputs/03-v01.png",
+    "sha256": "30ea74562d011b6cc5d73b751644b251fff3cc570527460adf66d44e5aca3139",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/03-v01.txt",
+    "promptSha256": "01b600b3168a618a6f782ccd69d311aa761132538cf66272143843267ddfd059",
+    "review": {
+      "id": "03",
+      "path": "outputs/03-v01.png",
+      "outcome": "accepted",
+      "notes": "Six course workstreams and 18 readable roles, with central laptop and six connectors.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "04",
+    "title": "The small shop team",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "b8c799d1435fc903e672293736ea8f362c8064738febe364733c23c78d9f535e",
+    "briefsSha256": "8c93d7e5200ef9ac40862673c67481a76c610036b5b9d3736395d789498ad364",
+    "output": "examples/outputs/04-v01.png",
+    "sha256": "c27008fe87dfd79a7777246a6a571bf86c6efa8046d8e83c80022df506a7efbe",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/04-v01.txt",
+    "promptSha256": "fdc366d6b877f84445923bfe63ae6100b174ba3a86da3c06f77232c6afba6224",
+    "review": {
+      "id": "04",
+      "path": "outputs/04-v01.png",
+      "outcome": "accepted",
+      "notes": "Six shop business areas and 18 readable roles, with a central storefront and clear group membership.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  }
+]
