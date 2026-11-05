@@ -1,0 +1,31 @@
+{
+  "mode": "portfolio",
+  "format": "landscape",
+  "brand": "OBJECT OFFICE",
+  "category": "Visual design practice",
+  "hook": "Form meets\nfeeling.",
+  "promise": "Simple shapes.\nLasting impressions.",
+  "words": [
+    "Sculpture",
+    "Pattern",
+    "System"
+  ],
+  "steps": [
+    "Study the shape",
+    "Create the system",
+    "Build the world"
+  ],
+  "projects": [
+    "Sculpture",
+    "Pattern",
+    "System"
+  ],
+  "task": "Present three original abstract visual systems",
+  "cta": "Make space for an idea",
+  "url": "objectoffice.example",
+  "accent": "#78d9ff",
+  "theme": "black",
+  "motif": "grid",
+  "seed": 78,
+  "concept": true
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Reel"
+  short_description: "Create original portfolio showcase videos"
+  default_prompt: "Use $project-reel to create an original film from my brief, render the requested formats, and inspect the actual outputs."

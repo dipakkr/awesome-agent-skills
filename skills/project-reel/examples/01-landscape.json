@@ -1,0 +1,31 @@
+{
+  "mode": "portfolio",
+  "format": "landscape",
+  "brand": "STUDIO NORTH",
+  "category": "Independent design practice",
+  "hook": "A different\npoint of view.",
+  "promise": "Thoughtful work.\nDistinct character.",
+  "words": [
+    "Identity",
+    "Digital",
+    "Motion"
+  ],
+  "steps": [
+    "Meet the brief",
+    "Explore the form",
+    "Build the system"
+  ],
+  "projects": [
+    "Identity",
+    "Digital",
+    "Motion"
+  ],
+  "task": "Present three original graphic design studies",
+  "cta": "Let\u2019s make something",
+  "url": "studionorth.example",
+  "accent": "#d7ff3f",
+  "theme": "black",
+  "motif": "rings",
+  "seed": 32,
+  "concept": true
+}
