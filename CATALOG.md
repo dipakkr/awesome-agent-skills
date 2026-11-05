@@ -100,6 +100,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Team Atlas](skills/team-atlas/SKILL.md) | Create a LinkedIn department or capability map with six grouped role cards arranged around a central topic symbol and color-coded connectors. |
 | [Team Values Card](skills/team-values-card/SKILL.md) | Create a square company-culture post from an approved value, working habit or team story. |
 | [Terminal Showtime](skills/terminal-showtime/SKILL.md) | Turn a short product idea into a pixel terminal promo with typed input, file assembly and a visual result. |
+| [Texture And Detail](skills/texture-and-detail/SKILL.md) | Create close-up product campaigns built around texture, light and a credible sensory cue. |
 | [Tiny Workspaces](skills/tiny-workspaces/SKILL.md) | Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts. |
 | [Unboxing Inventory](skills/unboxing-inventory/SKILL.md) | Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts. |
 | [Visual Learning Pages](skills/visual-learning-pages/SKILL.md) | Create illustrated handwritten study sheets from your chapters, class notes or topics. |
