@@ -85,6 +85,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "clean-sku-shot",
+      "name": "Clean Sku Shot",
+      "description": "Create clean, consistent product-gallery hero images for a Shopify store from a supplied SKU photo or an explicitly conceptual product brief.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/clean-sku-shot",
+      "publication": "original-mit"
+    },
+    {
       "package": "client-offer-builder",
       "name": "Client Offer Builder",
       "description": "Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions.",
@@ -540,6 +549,16 @@
     "skills/checklist-canvas/references/review-record.json": "d3338e6b2e3c78f40cedcb018a335725161408acbcc6e1ad1585c84b1e15d9f2",
     "skills/checklist-canvas/references/usage-examples.md": "6854f2367213a19a9e678ad6ceb83dd1a04752e1a5d8c8210a9aa43f5e1deb6d",
     "skills/checklist-canvas/references/worked-examples.md": "d156b0e23b6fbea4e81ed99c054773515456b303ec60819ba22e1558205358d4",
+    "skills/clean-sku-shot/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/clean-sku-shot/SKILL.md": "697ba31797af319f25cd2aa0094953f419c3fed0f90b8eca049e2d78c680cd8b",
+    "skills/clean-sku-shot/examples/gallery/01.webp": "5bdec5a1877002e88d9fa69ad824d8a385dd1a76c4f7d8fe5043246056053880",
+    "skills/clean-sku-shot/examples/gallery/02.webp": "9f7e4c864a04a2830370364737dc50f40318e84f31054542b1027a6ff3fd4954",
+    "skills/clean-sku-shot/examples/gallery/03.webp": "ed013f90a5daf404fdc9d9d277804cef2807bc352226f2a14fb38b87014e572a",
+    "skills/clean-sku-shot/examples/gallery/04.webp": "22eab28aece0a6981f9c25d5dab21da4edb9cc24875b5f53fc976ead910af54e",
+    "skills/clean-sku-shot/references/example-briefs.json": "c0be548ba5c1d0da9eebba641c9f0f0c2cff8199166ade53b014e1d19f3e8213",
+    "skills/clean-sku-shot/references/example-guide.json": "4f18c73df87d4ba59295e88db8b484cad8cde28c0937a799108dfaca4eb099bc",
+    "skills/clean-sku-shot/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
+    "skills/clean-sku-shot/references/usage-examples.md": "94af79d6a1b5fe0cf570bb70f8d35d23cdba53651d5f37a3b16f8298b24cd616",
     "skills/client-offer-builder/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/client-offer-builder/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/client-offer-builder/README.md": "c6b1935b024d2b767d260a5fedb7b46be02a98882a5436880e5e9536650cebc5",
