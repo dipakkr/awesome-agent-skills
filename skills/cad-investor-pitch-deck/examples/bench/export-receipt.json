@@ -1,0 +1,21 @@
+{
+  "title": "Bench: shared lab booking",
+  "slideCount": 6,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "5e36e7bbdfb93b3576a2316e77972ad98f8a598bb8745988504e20f25c9ca8d0",
+  "outputs": [
+    {
+      "file": "bench.html",
+      "sha256": "a8d92f927961e534327ad504f0b43e4160df3d7d87c14c29fc02113f1b084aec",
+      "bytes": 2379126
+    },
+    {
+      "file": "bench.pptx",
+      "sha256": "365c1acf5748c32fb2f1fabfea98686a394b2266ee5c8f1b41cacce9d5f8785c",
+      "bytes": 1642773
+    }
+  ]
+}
