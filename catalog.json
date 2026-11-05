@@ -1,8 +1,25 @@
 {
   "schemaVersion": 1,
-  "source": "Skills are imported individually from the website catalogue and profile downloads.",
+  "source": "Site catalogue and profile downloads; authoring sources in .agents/skills",
   "publicReleaseReady": true,
-  "skills": [],
-  "files": {},
+  "skills": [
+    {
+      "package": "cad-ecommerce-store-brief",
+      "name": "Ecommerce Store Brief",
+      "description": "Turn an ecommerce founder's conversation and supplied product information into a reusable store brief, sourced product facts, missing-input list and next steps for preparing listings and launch work.",
+      "site": "https://claudeai.directory/skills/for/ecommerce-founders",
+      "kind": "profile",
+      "original": true,
+      "path": "skills/cad-ecommerce-store-brief",
+      "publication": "original-mit"
+    }
+  ],
+  "files": {
+    "skills/cad-ecommerce-store-brief/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-ecommerce-store-brief/SKILL.md": "7667a96719c42598989fec64816f0690148facd01e5eea25d095c1d612f2df9f",
+    "skills/cad-ecommerce-store-brief/agents/openai.yaml": "c175a81de4154b010518541e1d984869b9a410eb7aa7c42374bc7be939784453",
+    "skills/cad-ecommerce-store-brief/references/example-briefs.md": "7a211388fee002088f21401e11c7cb20f69cb81099298447b91d207c5dc394d5",
+    "skills/cad-ecommerce-store-brief/references/workspace.md": "3ea6cf723d54e0b9d61cfa1015ba5412ee42ac49451c46bf51cc40079e827ae0"
+  },
   "omitted": []
 }
