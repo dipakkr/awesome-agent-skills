@@ -174,6 +174,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-consulting-decision-deck",
+      "name": "Consulting Decision Deck",
+      "description": "Build a recommendation-first decision deck with a clear issue, supported analysis, tradeoffs and an owned next step.",
+      "site": "https://claudeai.directory/skills/consulting-decision-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-consulting-decision-deck",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -494,6 +504,30 @@
     "skills/cad-commercial-doodle-ad/references/usage-examples.md": "ad0babcf6df4e4c01c1f2a7fca8b1fe412df3bd54cdd26ccbd9c0d28702eb1ed",
     "skills/cad-commercial-doodle-ad/requirements.txt": "6ab81a090bf98b550e46c9841944255f245fd3b2c5cf25997c609836cc5b18c7",
     "skills/cad-commercial-doodle-ad/scripts/export_notes.py": "1d2e2d5caf8e293277a6ae47f054083d05b49f4381513a13ad26f673978a84d2",
+    "skills/cad-consulting-decision-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-consulting-decision-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-consulting-decision-deck/README.md": "58289b69fa5b4d44a63a014cb5872ee56c07aebea86c644fa654169c470a8d6d",
+    "skills/cad-consulting-decision-deck/SKILL.md": "ed3fc14e842143f90e59dfc1cbabce49805721840c44fda5fd0064c1923d5594",
+    "skills/cad-consulting-decision-deck/agents/openai.yaml": "22a237be98629d18cecffa20bea1ae6e226ee7f487fc8192441fedcdddfc5320",
+    "skills/cad-consulting-decision-deck/examples/gallery/01.webp": "fd65ef9b0ec54e9f0fda44a17dea7df46396be4dec4c32c1ba6969e202666ee4",
+    "skills/cad-consulting-decision-deck/examples/gallery/02.webp": "7711d2a3dfd25ac28c4a4ed30add0df5ecd9e3d9d6f1666b2e37b2f4681a86e1",
+    "skills/cad-consulting-decision-deck/examples/gallery/03.webp": "4c97aa7fd0dc617227a7ac51895ad760898eaa8cd8c487e71049e4a10c2469c5",
+    "skills/cad-consulting-decision-deck/examples/inventory/brief.md": "3af97a473397ae52fec8729c8fef70a503b1b4f2a391ad3bf469be646e5f2717",
+    "skills/cad-consulting-decision-deck/examples/inventory/deck.json": "eb1ba3e493240555786982615b8c946dd35b176a57c888e7a46533e499da7289",
+    "skills/cad-consulting-decision-deck/examples/inventory/export-receipt.json": "f97a774e5877da09535d5eeacab006c68cdfa2c5739b961f168e73980ace8b43",
+    "skills/cad-consulting-decision-deck/examples/onboarding/brief.md": "d517972e1d4117b0743671b7844c4a06696b63a904c76fd889457b56a82d30df",
+    "skills/cad-consulting-decision-deck/examples/onboarding/deck.json": "bb3c4cdb91324f4b8adffd00aeff1764ec64b47402161d8f8d1759d11febd5fa",
+    "skills/cad-consulting-decision-deck/examples/onboarding/export-receipt.json": "84e3c6e977d280ad7455982ace26b5d4ce79dc73da33aee5c6e48a771afa7908",
+    "skills/cad-consulting-decision-deck/examples/support/brief.md": "3f58f66a78992aed67f35126a2ffcf09c39c71bbf225e2cc8996ee6a7e280484",
+    "skills/cad-consulting-decision-deck/examples/support/deck.json": "a2aef8d920eaed0227adccfc821938d3bf2c483a19c916d85856b658e65c5912",
+    "skills/cad-consulting-decision-deck/examples/support/export-receipt.json": "1b89ae15b603e87b6a71cf05f73f3b8626a8cf5ce1776adf3497af08f06c8e02",
+    "skills/cad-consulting-decision-deck/references/design.md": "f21de34b2aba037719e29049d2dc116affc3b7fa306ca423637f05a803c6cae9",
+    "skills/cad-consulting-decision-deck/references/example-guide.json": "50397e6249161c00a3f829e747050b872685df4d3bcc4edc91ddfa7f17865acc",
+    "skills/cad-consulting-decision-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-consulting-decision-deck/references/usage-examples.md": "818fc39e9c53a9db24db6531fe105520c7eac9c68148a10ebd12d77349d1f1fe",
+    "skills/cad-consulting-decision-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-consulting-decision-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-consulting-decision-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -2226,6 +2260,30 @@
     },
     {
       "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-consulting-decision-deck/examples/inventory/inventory.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-consulting-decision-deck/examples/inventory/inventory.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-consulting-decision-deck/examples/onboarding/onboarding.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-consulting-decision-deck/examples/onboarding/onboarding.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-consulting-decision-deck/examples/support/support.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-consulting-decision-deck/examples/support/support.pptx",
       "reason": "rendered example; see website"
     }
   ]

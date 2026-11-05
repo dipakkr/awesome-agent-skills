@@ -1,0 +1,21 @@
+{
+  "title": "A smaller queue, a clearer owner",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "a2aef8d920eaed0227adccfc821938d3bf2c483a19c916d85856b658e65c5912",
+  "outputs": [
+    {
+      "file": "support.html",
+      "sha256": "4227a52cd188cdcb42c9f9ff21ea75b49672abc8940cc554a087684f34ac383b",
+      "bytes": 29976
+    },
+    {
+      "file": "support.pptx",
+      "sha256": "980c10cd42a5f74aa55cce9207283a99882b3dfac53f1b08d94076e1dfe6e62c",
+      "bytes": 43327
+    }
+  ]
+}
