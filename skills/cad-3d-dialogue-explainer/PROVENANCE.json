@@ -1,0 +1,13 @@
+{
+  "original": true,
+  "reference": "Private user-supplied video inspected for teaching structure only; no reference assets bundled.",
+  "source": "Original geometry, scenes, icons, dialogue and implementation.",
+  "voiceProviderTested": "OpenAI Speech",
+  "unverifiedLiveProviders": [
+    "ElevenLabs",
+    "Fish Audio"
+  ],
+  "reviewedAt": "2026-10-29",
+  "thirdPartyRuntime": "Pinned npm dependencies installed separately; see respective licenses.",
+  "verification": "Author-executed, not independent customer testing."
+}

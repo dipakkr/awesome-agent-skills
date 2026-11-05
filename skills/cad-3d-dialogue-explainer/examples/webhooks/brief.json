@@ -1,0 +1,161 @@
+{
+  "id": "webhooks",
+  "title": "What is a webhook?",
+  "subtitle": "A doorbell for your software.",
+  "theme": "peach",
+  "takeaway": "A webhook sends a message when an event happens.",
+  "boards": [
+    {
+      "heading": "Any news yet?",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "APP"
+        },
+        {
+          "icon": "shop",
+          "label": "STORE"
+        }
+      ],
+      "note": "Repeated checking is called polling.",
+      "kind": "cycle"
+    },
+    {
+      "heading": "Ring when it happens",
+      "nodes": [
+        {
+          "icon": "shop",
+          "label": "NEW ORDER"
+        },
+        {
+          "icon": "bell",
+          "label": "MESSAGE"
+        },
+        {
+          "icon": "phone",
+          "label": "YOUR APP"
+        }
+      ],
+      "note": "An event triggers a request.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Check. Then process.",
+      "nodes": [
+        {
+          "icon": "bell",
+          "label": "MESSAGE"
+        },
+        {
+          "icon": "gate",
+          "label": "VERIFY"
+        },
+        {
+          "icon": "ticket",
+          "label": "ORDER ID"
+        }
+      ],
+      "note": "Verify the sender. Handle repeats safely.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Events, delivered",
+      "nodes": [
+        {
+          "icon": "shop",
+          "label": "EVENT"
+        },
+        {
+          "icon": "bell",
+          "label": "WEBHOOK"
+        },
+        {
+          "icon": "worker",
+          "label": "ACTION"
+        }
+      ],
+      "note": "Useful updates without constant checking.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "Pip, my app keeps asking the store if a new order arrived.",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "That is polling. Like opening your front door every minute to check for a parcel.",
+      "board": 0,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "My neighbours would have questions.",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "A webhook is more like a doorbell. When the order happens, the store sends a message.",
+      "board": 1,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "So my app waits for the bell instead of checking all day?",
+      "board": 1,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Exactly. The message goes to an address your app provides.",
+      "board": 1,
+      "shot": "board"
+    },
+    {
+      "speaker": "student",
+      "text": "And I trust every person who rings?",
+      "board": 2,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "No. Verify the sender. Someone else can knock too.",
+      "board": 2,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "student",
+      "text": "What if the same delivery rings twice?",
+      "board": 2,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Use the event ID to avoid processing it twice. Retries can happen.",
+      "board": 2,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "So an event, a message, then the right action.",
+      "board": 3,
+      "shot": "wide"
+    },
+    {
+      "speaker": "tutor",
+      "text": "That is the idea. Your software gets a doorbell.",
+      "board": 3,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "student",
+      "text": "Please tell it not to ring during dinner.",
+      "board": 3,
+      "shot": "student"
+    }
+  ]
+}

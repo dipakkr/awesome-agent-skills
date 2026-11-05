@@ -1,0 +1,167 @@
+{
+  "id": "caching",
+  "title": "What is a cache?",
+  "subtitle": "A bookshelf beats a long walk.",
+  "theme": "mint",
+  "takeaway": "A cache keeps useful copies nearby. Freshness still matters.",
+  "boards": [
+    {
+      "heading": "The long way",
+      "nodes": [
+        {
+          "icon": "book",
+          "label": "YOU"
+        },
+        {
+          "icon": "shelf",
+          "label": "LIBRARY"
+        }
+      ],
+      "note": "Fetch it from the original source.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Keep a copy nearby",
+      "nodes": [
+        {
+          "icon": "book",
+          "label": "YOU"
+        },
+        {
+          "icon": "tray",
+          "label": "DESK COPY"
+        },
+        {
+          "icon": "shelf",
+          "label": "LIBRARY"
+        }
+      ],
+      "note": "Check nearby before making the trip.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Fast is not always fresh",
+      "nodes": [
+        {
+          "icon": "tray",
+          "label": "OLD COPY"
+        },
+        {
+          "icon": "clock",
+          "label": "CHECK AGE"
+        },
+        {
+          "icon": "shelf",
+          "label": "REFRESH"
+        }
+      ],
+      "note": "Copies can become out of date.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Caching, in one picture",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "APP"
+        },
+        {
+          "icon": "lightning",
+          "label": "CACHE"
+        },
+        {
+          "icon": "database",
+          "label": "SOURCE"
+        }
+      ],
+      "note": "Nearby copies. Fewer repeated fetches.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "Pip, why does this page load faster the second time?",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "It remembered something useful. That is caching.",
+      "board": 0,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "student",
+      "text": "Give me the version without computer words.",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Imagine walking to the library every time you need the same book.",
+      "board": 0,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "Even if I only forgot one sentence?",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Exactly. So you keep a copy on your desk. The next lookup is much quicker.",
+      "board": 1,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "The desk copy is the cache?",
+      "board": 1,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Yes. An app can keep a nearby copy instead of fetching the same thing again.",
+      "board": 1,
+      "shot": "board"
+    },
+    {
+      "speaker": "student",
+      "text": "Then why not keep that copy forever?",
+      "board": 2,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "The original might change. A quick answer can still be an old answer.",
+      "board": 2,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "So check the age, or replace it when something changes.",
+      "board": 2,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Right. Fast access, with a plan for keeping copies fresh.",
+      "board": 3,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "My desk has a caching system. It is called a very large pile.",
+      "board": 3,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Your next lesson is cache eviction.",
+      "board": 3,
+      "shot": "tutor"
+    }
+  ]
+}
