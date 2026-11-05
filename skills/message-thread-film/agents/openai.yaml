@@ -1,0 +1,4 @@
+interface:
+  display_name: "Message Thread Film"
+  short_description: "Render original chat stories with editable inputs"
+  default_prompt: "Use $message-thread-film to turn my brief into a polished motion piece and deliver the actual film plus editable source."

@@ -1,0 +1,30 @@
+{
+  "brand": "Quiet Team",
+  "title": "Give the work a clearer handoff",
+  "subtitle": "A fictional team turns a vague handoff into a useful one.",
+  "theme": "ink",
+  "source": "Illustrative concept · fictional brand",
+  "people": [
+    "Mina",
+    "Noah"
+  ],
+  "messages": [
+    {
+      "from": 0,
+      "text": "The draft is ready for a look."
+    },
+    {
+      "from": 1,
+      "text": "What decision do you need from me?"
+    },
+    {
+      "from": 0,
+      "text": "Choose the opening and flag any gaps."
+    },
+    {
+      "from": 1,
+      "text": "Clear. I will focus on those two things."
+    }
+  ],
+  "closing": "A clear ask makes room."
+}

@@ -445,6 +445,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "message-thread-film",
+      "name": "Message Thread Film",
+      "description": "Turn a four-message script into a paced conversation film with typing beats, directional bubbles and a closing takeaway. Use for fictional scenarios, lessons and product explanations.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/message-thread-film",
+      "publication": "original-mit"
+    },
+    {
       "package": "numbers-to-narrative",
       "name": "Numbers To Narrative",
       "description": "Turn a small supplied dataset into an accurate, clearly labelled feed graphic with units, source and an honest takeaway.",
@@ -1439,6 +1448,25 @@
     "skills/merchant-intake/agents/openai.yaml": "c8ce07b1e51236bc77991df56b41a3e634c1e30b578c1f76452e61ba43e60613",
     "skills/merchant-intake/references/example-briefs.md": "7a211388fee002088f21401e11c7cb20f69cb81099298447b91d207c5dc394d5",
     "skills/merchant-intake/references/workspace.md": "3ea6cf723d54e0b9d61cfa1015ba5412ee42ac49451c46bf51cc40079e827ae0",
+    "skills/message-thread-film/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/message-thread-film/SKILL.md": "504c4f666b041a803f735fddf8f9ba8bdd61274d4400b16114527defefec24f8",
+    "skills/message-thread-film/agents/openai.yaml": "e458ff8b11ecfa982aafa6201cc4622f719d00a3155e86cdb2a6a50ed783007c",
+    "skills/message-thread-film/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/message-thread-film/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/message-thread-film/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/message-thread-film/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/message-thread-film/config.json": "5ff0ccd4dabfebeb726e9591d58c5c9aabd6d0225980277b58626b2082646276",
+    "skills/message-thread-film/examples/01.json": "bd3c1be019d7a462820c997f984c61caa542681ec963f9f0c06a4c03a686c95f",
+    "skills/message-thread-film/examples/02.json": "a7a13eeffc338ef258336d59f9a292d935554926936a1ac025c37311f4327804",
+    "skills/message-thread-film/examples/03.json": "db97bc16809af89acd62ee4debdece19b14d8071b020c970cdff019fd4caddb4",
+    "skills/message-thread-film/examples/04.json": "d715282ee12675a04170a6bc53dafb74d94e1e5e251391ed41bd59fee1012f63",
+    "skills/message-thread-film/references/examples.md": "6985af57950c2236e0b838a6ce97f0cfcbddfec5e7756a66e4b0a07a09527fd6",
+    "skills/message-thread-film/references/inputs.md": "1542513c7bff44134d4aad3910087b04eafe9086376e678fb2782db82b20fc99",
+    "skills/message-thread-film/references/provenance.md": "8549c9acfa127fb4c06aa773406a0381a7dc6464c1f14ffb7d0db0ee40c65716",
+    "skills/message-thread-film/references/recorded-examples.json": "ba94a86249562238fdd94e555f1cf4bd5c45efd4944497c105b058378e27b17a",
+    "skills/message-thread-film/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/message-thread-film/scripts/engine.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/message-thread-film/scripts/render.py": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
     "skills/numbers-to-narrative/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/numbers-to-narrative/SKILL.md": "c21d1dc917921d986dfa33b59cb3085f9bb5cb1ffdf1959bf6668a05648f522b",
     "skills/numbers-to-narrative/examples/gallery/01.webp": "123966d7d9326e81ac4e8385d3d597172b3eeb10d907494d78c327a667fba441",
@@ -6592,6 +6620,182 @@
     },
     {
       "path": "skills/mark-in-motion/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/message-thread-film/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

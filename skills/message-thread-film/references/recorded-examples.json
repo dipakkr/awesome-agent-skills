@@ -1,0 +1,294 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $message-thread-film to create \"A better question changes the brief\" for the fictional Better Briefs. Use examples/01.json as the exact content brief. Follow the chalk palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "chat",
+      "sourceSha256": "bd3c1be019d7a462820c997f984c61caa542681ec963f9f0c06a4c03a686c95f",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "5ff0ccd4dabfebeb726e9591d58c5c9aabd6d0225980277b58626b2082646276",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        10.4,
+        15.966666666666667
+      ],
+      "posterTime": 13,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "fc8e79526bed2e70d7ae780895915d595cf27afd970adb65e962b48db4daff1c",
+          "bytes": 661
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "0beef4c5860907af83a70823799460a6b039e93e3cce75f206033ae2a8f5d55d",
+          "bytes": 249632
+        },
+        "poster.png": {
+          "sha256": "f4d1bfdb3d1068c1301194f7bd037650736fda8585120108a56e329c827079f7",
+          "bytes": 95760
+        },
+        "preview.html": {
+          "sha256": "b00efc896035327d22ac7f869559f588e575df11c452a33d41f94e611a055ac7",
+          "bytes": 566
+        },
+        "review-01.png": {
+          "sha256": "1fb78ce1d111751923f6a53fa2acee6b776b669253782cb17ba27c9dc29d7fa2",
+          "bytes": 63864
+        },
+        "review-02.png": {
+          "sha256": "b7480fa207f371330f7678a621d6374be1841ab84ac115460a081694236fa128",
+          "bytes": 64269
+        },
+        "review-03.png": {
+          "sha256": "c23e45a6909dbfa208e68aa54234510b9218fbe6c7625088d1db729c3a49837b",
+          "bytes": 70847
+        },
+        "review-04.png": {
+          "sha256": "e0b7cfddcd1530c087ea4e84be39879491140be67fb4ed88ca8c358bd533792c",
+          "bytes": 83370
+        },
+        "review-05.png": {
+          "sha256": "f4d1bfdb3d1068c1301194f7bd037650736fda8585120108a56e329c827079f7",
+          "bytes": 95760
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 480,
+        "seconds": 16,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $message-thread-film to create \"Give the work a clearer handoff\" for the fictional Quiet Team. Use examples/02.json as the exact content brief. Follow the ink palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "chat",
+      "sourceSha256": "a7a13eeffc338ef258336d59f9a292d935554926936a1ac025c37311f4327804",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "5ff0ccd4dabfebeb726e9591d58c5c9aabd6d0225980277b58626b2082646276",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        10.4,
+        15.966666666666667
+      ],
+      "posterTime": 13,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "5582d95418046159f341ebbdeef2b37bb2a8a2dd67c1abccd3466d1d0eda3c1f",
+          "bytes": 657
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "f43b93023f9f12b865702181294c6fb7fbf458430899411f6ea0d469c3478113",
+          "bytes": 242988
+        },
+        "poster.png": {
+          "sha256": "69a1b5d41d161d6b5529eb6992c32cdaeff84004effc6bebaa8d2b71cb41ced9",
+          "bytes": 94891
+        },
+        "preview.html": {
+          "sha256": "29d405c4e210da9366ce31d3737eb7b79a4f0396015c8773eabda69d31e338a5",
+          "bytes": 558
+        },
+        "review-01.png": {
+          "sha256": "8be5e5e60b8a8b69e9ccec6905e1ab5e3f3179ca70f90439861db8b9703a8098",
+          "bytes": 59997
+        },
+        "review-02.png": {
+          "sha256": "c08275bccc8b5cefadce2081201208421badd17f52cf81d11ded43394692b283",
+          "bytes": 60355
+        },
+        "review-03.png": {
+          "sha256": "85cba6505c18d4c1b5e812f97059241dc016c04f05e7975593825e3bebe12943",
+          "bytes": 65392
+        },
+        "review-04.png": {
+          "sha256": "f468cb8a1a0ff0a6ccb7c9830393de9d7b830f7ac5cf3f7931c5db21903e3a92",
+          "bytes": 81224
+        },
+        "review-05.png": {
+          "sha256": "69a1b5d41d161d6b5529eb6992c32cdaeff84004effc6bebaa8d2b71cb41ced9",
+          "bytes": 94891
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 480,
+        "seconds": 16,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $message-thread-film to create \"Small questions open a lesson\" for the fictional Garden Class. Use examples/03.json as the exact content brief. Follow the rose palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "chat",
+      "sourceSha256": "db97bc16809af89acd62ee4debdece19b14d8071b020c970cdff019fd4caddb4",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "5ff0ccd4dabfebeb726e9591d58c5c9aabd6d0225980277b58626b2082646276",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        10.4,
+        15.966666666666667
+      ],
+      "posterTime": 13,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "1d79535f08a736e4b1b04cefd0dc99292e153ff520ec4228dd703ad91dfe38ec",
+          "bytes": 645
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "e90c84ee9b85bc416a96b6382323047a72edaf1b10190d0cea91324635c4110b",
+          "bytes": 222296
+        },
+        "poster.png": {
+          "sha256": "166fb2abed5b3a42e1f8e5fb2618d3e94a3ec54065f2dbd901eba1a691c128d3",
+          "bytes": 90870
+        },
+        "preview.html": {
+          "sha256": "77a16727c00d1f92c75fbd22a69fbd0885f799103de30eca5d8257f6abdeae02",
+          "bytes": 554
+        },
+        "review-01.png": {
+          "sha256": "fa5f9617e9dc38a68938e6628dd929345a32beddf6173967dee97b4563d8fecf",
+          "bytes": 58698
+        },
+        "review-02.png": {
+          "sha256": "cd805242ff9d4253870bf7358614fa83fe3542e96c80fecdde8d5b20d682bad9",
+          "bytes": 59058
+        },
+        "review-03.png": {
+          "sha256": "b9dfe1350856ba3133dae82c675c9ffcb8efe0b0817e553335d09282faadbf8b",
+          "bytes": 63495
+        },
+        "review-04.png": {
+          "sha256": "010c8e194e89a50708afe93756dd27220d6226015ba8e4270a13dc86ecc4408b",
+          "bytes": 78342
+        },
+        "review-05.png": {
+          "sha256": "166fb2abed5b3a42e1f8e5fb2618d3e94a3ec54065f2dbd901eba1a691c128d3",
+          "bytes": 90870
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 480,
+        "seconds": 16,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $message-thread-film to create \"Make the next step easy to find\" for the fictional Service Notes. Use examples/04.json as the exact content brief. Follow the cobalt palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "chat",
+      "sourceSha256": "d715282ee12675a04170a6bc53dafb74d94e1e5e251391ed41bd59fee1012f63",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "5ff0ccd4dabfebeb726e9591d58c5c9aabd6d0225980277b58626b2082646276",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        10.4,
+        15.966666666666667
+      ],
+      "posterTime": 13,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "54fdbed16a3ec4d2d8ea84340ba94dac3c3d314e010ad03f7a6923d67a141fdf",
+          "bytes": 668
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "3ead4ce40ba772248ad6a8166a4c93704b4a9af3cc78ef4bf1a15a08caa56540",
+          "bytes": 265489
+        },
+        "poster.png": {
+          "sha256": "4df1b5a6709e5db2821c492974846aa11b395c973ba9c877e0cfc107715a20c4",
+          "bytes": 98376
+        },
+        "preview.html": {
+          "sha256": "efc8c1bcbcbcfb7442b88fe0481b3bd5d50a9b95ef4c18e7c95bc04938023627",
+          "bytes": 558
+        },
+        "review-01.png": {
+          "sha256": "c342a5f08dd2ae091ab13d9898600f1a89d466e75add4e4a2a5b3e1e341fd9f5",
+          "bytes": 62776
+        },
+        "review-02.png": {
+          "sha256": "ab3b19cfb8586df3845eec6c7eeb3aba137d40ede2f189b7dc2640c94931295b",
+          "bytes": 63118
+        },
+        "review-03.png": {
+          "sha256": "2741ce7a48eff9b3441403e1e6aa53b9dc8b137000898a99d8456077a78b4f85",
+          "bytes": 69746
+        },
+        "review-04.png": {
+          "sha256": "483a9b24da67d568932e8aadc58188852621e25747a0362ed914ad7be659fd2c",
+          "bytes": 84850
+        },
+        "review-05.png": {
+          "sha256": "4df1b5a6709e5db2821c492974846aa11b395c973ba9c877e0cfc107715a20c4",
+          "bytes": 98376
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 480,
+        "seconds": 16,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]
