@@ -1,0 +1,43 @@
+{
+  "skill": "field-gear-campaign",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "A trail daypack",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "8aea988d7e98bc02e9abdc9cf6c601e05e95fbaf34d926968c647dca35516a7d",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $field-gear-campaign. Create a new output based on the packaged example \"A trail daypack\". Brief: Create an occasion-led ad for a concept 12 litre daypack, slate blue with two side pockets. Audience: casual walkers on easy marked trails. Headline: Take the afternoon outside. CTA: Meet your daypack. No logo. Do not claim waterproofing or climbing suitability. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A cork yoga block",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "1fedda09339239f1a52fb7862372f2bdbc78a84b1baaf3f446ccf660b15bbd15",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $field-gear-campaign. Create a new output based on the packaged example \"A cork yoga block\". Brief: Create a ready-to-go image for a concept single cork yoga block, 23 by 15 by 8 cm. Calm indoor studio, no people, no logo. Headline: Make space to move. CTA: Explore the block. Mat is a styling prop, not included. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Court basketball",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "5f2336a18a988b3d6046622e100781ef5a098089a5d9094b038f2f85679447d7",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $field-gear-campaign. Create a new output based on the packaged example \"Court basketball\". Brief: Concept unbranded orange basketball, occasion-led still life, no performance claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Picnic mat",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "22ce72501c0c1277d778a3b8d5e312317c10e5d95705065330a9773074c41ade",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $field-gear-campaign. Create a new output based on the packaged example \"Picnic mat\". Brief: Concept rolled plaid picnic mat with simple carry straps; no waterproof or terrain rating. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

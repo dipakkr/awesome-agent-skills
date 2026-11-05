@@ -1,0 +1,4 @@
+interface:
+  display_name: "Field Gear Campaign"
+  short_description: "Sports and outdoor ads with credible product use"
+  default_prompt: "Use $field-gear-campaign to create fresh ad concepts from my product, audience and brand inputs."
