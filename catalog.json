@@ -832,6 +832,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "task-loop-gif",
+      "name": "Task Loop Gif",
+      "description": "Create looping GIFs that show your email, inbound or outbound workflow unfolding, with a clear headline, animated steps and a persistent call to action.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/task-loop-gif",
+      "publication": "original-mit"
+    },
+    {
       "package": "team-atlas",
       "name": "Team Atlas",
       "description": "Create a LinkedIn department or capability map with six grouped role cards arranged around a central topic symbol and color-coded connectors.",
@@ -2483,6 +2492,55 @@
     "skills/tall-product-story/references/examples.json": "e41ab330a62f6170b964d466ce150be99135aa524e3b57b6e3f88b964ed237cd",
     "skills/tall-product-story/references/research.md": "19e9ed8209e24936aa57dbf77d56abf0413ee110c206542a24c7f3d2f5b88a9a",
     "skills/tall-product-story/references/usage-examples.md": "9e2e694164b98f00096042bc4ceeab8baab90a002149e9d9b6e6764f13bfcb2e",
+    "skills/task-loop-gif/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/task-loop-gif/SKILL.md": "ffcc40bb7fdc8a9071390a68ac11d97b5b8e48fc6a2bd5767ff82801f03090ab",
+    "skills/task-loop-gif/agents/openai.yaml": "48f390d1c9651c25e808c39636eaae11fecaca74e14200a1dd9039851df686ce",
+    "skills/task-loop-gif/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/task-loop-gif/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/task-loop-gif/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/task-loop-gif/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/task-loop-gif/examples/inbound/input.json": "e7a3643ad81b6d7aeab55a26ad3daf78d80119e683892da57c9820e47c3230f4",
+    "skills/task-loop-gif/examples/inbound/output/brief.json": "0b0798991aa968d0dab98bbb21f94d5c9c7178aa58b3d64cfef172046fe2910d",
+    "skills/task-loop-gif/examples/inbound/output/encoder.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "skills/task-loop-gif/examples/inbound/output/first-frame.png": "67dbbedf73a86ee9f9a1560e70d99b17537198453b4daa1a0555b16e06df766f",
+    "skills/task-loop-gif/examples/inbound/output/poster.png": "a9b090ca47b0904a604e3a62e82693faa17ef6ccc5d025bfecd768a103348e14",
+    "skills/task-loop-gif/examples/inbound/output/render-report.json": "9f671a26866de100861d07d5e86d621536ad583fe06f84720ca78afc34ff13d4",
+    "skills/task-loop-gif/examples/inbound/output/review-end.png": "a9b090ca47b0904a604e3a62e82693faa17ef6ccc5d025bfecd768a103348e14",
+    "skills/task-loop-gif/examples/inbound/output/review-middle.png": "e3bcd221bf63c1baf11e2fdee78ec3056fcac6f336fb273b21bd7f9cd14666bf",
+    "skills/task-loop-gif/examples/inbound/output/review-start.png": "67dbbedf73a86ee9f9a1560e70d99b17537198453b4daa1a0555b16e06df766f",
+    "skills/task-loop-gif/examples/outbound/input.json": "8a0ceb2cfaf701d9ae7dbf30e47842be118f0c20ba08278201a02708d49895cf",
+    "skills/task-loop-gif/examples/outbound/output/brief.json": "d716f93eee67e1e42e6bb2fece176103f79cf06d97403f4c9237b5bd134be27e",
+    "skills/task-loop-gif/examples/outbound/output/encoder.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "skills/task-loop-gif/examples/outbound/output/first-frame.png": "78b7d6441663e88b48b82437d72b1fc1c4005d71acb8cdacb51e4c7a14463a82",
+    "skills/task-loop-gif/examples/outbound/output/poster.png": "ed83feaef55f47d46b00aa67f143be9b32caa4aca162dfa4f5cbdb0cb8bb4afb",
+    "skills/task-loop-gif/examples/outbound/output/render-report.json": "4e2608952d18d6882f54b39e3a462839c22fb0ead64deef1bfa9e7b81932e2d9",
+    "skills/task-loop-gif/examples/outbound/output/review-end.png": "ed83feaef55f47d46b00aa67f143be9b32caa4aca162dfa4f5cbdb0cb8bb4afb",
+    "skills/task-loop-gif/examples/outbound/output/review-middle.png": "5d257623ef8d7985552a738c07bbeaff796fa54def5a49461faed7776be3e1b2",
+    "skills/task-loop-gif/examples/outbound/output/review-start.png": "78b7d6441663e88b48b82437d72b1fc1c4005d71acb8cdacb51e4c7a14463a82",
+    "skills/task-loop-gif/examples/reactivation/input.json": "367e7aba53d8d99e54a7cff845eff16f64f887317d5abf371f464421ad101c7b",
+    "skills/task-loop-gif/examples/reactivation/output/brief.json": "a910955078fd6d46dee83165ad5915e8c15b5025f0da09285403e7e0ce3681f0",
+    "skills/task-loop-gif/examples/reactivation/output/encoder.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "skills/task-loop-gif/examples/reactivation/output/first-frame.png": "d51f6a923b6e27bff6d3b7463cfb2c6841c99733134b40f9fe62572430541fc2",
+    "skills/task-loop-gif/examples/reactivation/output/poster.png": "fb56cc88301d23e49314e1767b7adce542510127e6de57af6b20889ff2b610fb",
+    "skills/task-loop-gif/examples/reactivation/output/render-report.json": "213f1f0564c20b7c251bbcf322d00d28035eba826a4f211d0305dbbb3ca4563d",
+    "skills/task-loop-gif/examples/reactivation/output/review-end.png": "fb56cc88301d23e49314e1767b7adce542510127e6de57af6b20889ff2b610fb",
+    "skills/task-loop-gif/examples/reactivation/output/review-middle.png": "7c25e349c0c82e3d135152c487bb0f9d9f83a526b710c700ad9e87ae66e79a35",
+    "skills/task-loop-gif/examples/reactivation/output/review-start.png": "d51f6a923b6e27bff6d3b7463cfb2c6841c99733134b40f9fe62572430541fc2",
+    "skills/task-loop-gif/examples/welcome/input.json": "69a7910145e21f562399c99e17767d04dc113800a2c82b2d2b04ac56598dfaf2",
+    "skills/task-loop-gif/examples/welcome/output/brief.json": "0b3ca96ce1143de97c3ac85dcd61520aedaac5f6c9ffa6b7109a9bb2f09c79d8",
+    "skills/task-loop-gif/examples/welcome/output/encoder.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "skills/task-loop-gif/examples/welcome/output/first-frame.png": "38bc3a75dfcd1f11d94087f40422b9e41931b967ab65ca3b6123a4e36f14e18a",
+    "skills/task-loop-gif/examples/welcome/output/poster.png": "34abc90a35397bf0392a038762b76c9256a7b0a19251dafe4b6ea27a83f0f967",
+    "skills/task-loop-gif/examples/welcome/output/render-report.json": "6553564ca5a34c4aed1e9188bb2bee020626b1f12afaf1221b91db8f8e7e48cb",
+    "skills/task-loop-gif/examples/welcome/output/review-end.png": "34abc90a35397bf0392a038762b76c9256a7b0a19251dafe4b6ea27a83f0f967",
+    "skills/task-loop-gif/examples/welcome/output/review-middle.png": "5c31785149fa065e589ab9f31fbdcb67f71fff459607f2ff27d5f5fa9c438a03",
+    "skills/task-loop-gif/examples/welcome/output/review-start.png": "38bc3a75dfcd1f11d94087f40422b9e41931b967ab65ca3b6123a4e36f14e18a",
+    "skills/task-loop-gif/references/email.md": "4d11f2a9edba197c61971a18d78ca39693b200f0a851de7c85716f2ad2bd0d05",
+    "skills/task-loop-gif/references/example-guide.json": "d3feaeaa7d904b002222592f4ce7c0201b3565d0e4c111032a69c38997fb96b9",
+    "skills/task-loop-gif/references/font-credits.md": "99bd24d275fc87b21222e0201ab78134db6500e4a0578a019d43896b3518e8ff",
+    "skills/task-loop-gif/references/schema.md": "2db2cd1d47a2185df45f65cbff76035d48f50ebc77a4fd9d239a4737139bd2fa",
+    "skills/task-loop-gif/references/usage-examples.md": "019f5f4e0a430a5d329c3b188272aa6b36aa42b6cfda17336b7a2f1f134b7a02",
+    "skills/task-loop-gif/scripts/render.py": "ad3e6b1ac1d453eda19ae5b35c2da7fe25d1866816112c52dacd513aaac6179c",
     "skills/team-atlas/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/team-atlas/SKILL.md": "9380d7b5a5e868ca6677897b0867cd9bb6b8b661bfe494dd029630ad7803577a",
     "skills/team-atlas/examples/gallery/01.webp": "552bf79d0d9fe0ddd3e67d4a61a08c495d69f5b9227ececc2d4327ac5bec4f9e",
@@ -12572,6 +12630,86 @@
     },
     {
       "path": "skills/talking-models/examples/webhooks/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/inbound/output/email.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/inbound/output/email.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/inbound/output/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/inbound/output/workflow.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/inbound/output/workflow.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/outbound/output/email.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/outbound/output/email.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/outbound/output/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/outbound/output/workflow.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/outbound/output/workflow.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/reactivation/output/email.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/reactivation/output/email.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/reactivation/output/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/reactivation/output/workflow.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/reactivation/output/workflow.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/welcome/output/email.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/welcome/output/email.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/welcome/output/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/welcome/output/workflow.gif",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/task-loop-gif/examples/welcome/output/workflow.mp4",
       "reason": "rendered example; see website"
     },
     {

@@ -1,0 +1,40 @@
+{
+  "brand": "Frontdoor",
+  "eyebrow": "INBOUND / DEMO REQUESTS",
+  "headline": [
+    "A better next step",
+    "for every lead."
+  ],
+  "subtitle": "Give each demo request context, an owner and a clear handoff.",
+  "panel_title": "YOUR INBOUND WORKFLOW",
+  "beats": [
+    {
+      "request": "A demo request arrives",
+      "result": "Capture the question and the requested use case."
+    },
+    {
+      "request": "Summarize the fit",
+      "result": "Compare the brief with your supplied criteria."
+    },
+    {
+      "request": "Choose the right owner",
+      "result": "Route by team, region and product interest."
+    },
+    {
+      "request": "Prepare a useful reply",
+      "result": "Draft the next step for a person to review."
+    }
+  ],
+  "chips": [
+    "Capture context",
+    "Route clearly",
+    "Reply with care"
+  ],
+  "cta": "See the inbound playbook",
+  "alt": "From a demo request to the right owner. Give each demo request context, an owner and a clear handoff.",
+  "disclosure": "Illustrative workflow. Fictional brand; no messages sent.",
+  "theme": "forest",
+  "duration": 12,
+  "width": 720,
+  "fps": 24
+}

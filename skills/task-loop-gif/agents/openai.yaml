@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Loop Gif"
+  short_description: "Animated email, inbound and outbound workflow demos"
+  default_prompt: "Use $task-loop-gif to turn my marketing workflow into a looping GIF and MP4 with editable copy and a clear CTA."

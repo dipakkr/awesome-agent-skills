@@ -96,6 +96,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Storefront Panorama](skills/storefront-panorama/SKILL.md) | Create a text-free collection banner with a planned focal region and usable space for theme-rendered headings; adapt composition to the actual Shopify section. |
 | [Talking Models](skills/talking-models/SKILL.md) | Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions. |
 | [Tall Product Story](skills/tall-product-story/SKILL.md) | Create a vertical shopping Pin with a useful visual hook, a clear product and legible text. |
+| [Task Loop Gif](skills/task-loop-gif/SKILL.md) | Create looping GIFs that show your email, inbound or outbound workflow unfolding, with a clear headline, animated steps and a persistent call to action. |
 | [Team Atlas](skills/team-atlas/SKILL.md) | Create a LinkedIn department or capability map with six grouped role cards arranged around a central topic symbol and color-coded connectors. |
 | [Team Values Card](skills/team-values-card/SKILL.md) | Create a square company-culture post from an approved value, working habit or team story. |
 | [Tiny Workspaces](skills/tiny-workspaces/SKILL.md) | Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts. |
