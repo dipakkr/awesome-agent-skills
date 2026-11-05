@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-01",
+    "title": "Tea preparation set",
+    "brief": "Fictional demonstration brand Quiet Whisk: four-piece concept tea preparation set, all four items shown are intended demo inclusions.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      2048,
+      2048
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 2048x2048 pixels. True overhead product bundle flatlay on pale warm cream paper, exact FOUR separate items: one empty sage-green ceramic tea bowl at upper left, one upright bamboo whisk at upper right viewed from above with tines visible, one slender bamboo scoop lying diagonally at bottom center, one closed short ivory cylindrical tea tin at lower left. Clear generous gaps; objects do not touch, no leaves or powder, no cup, no extra lids, no hands, no text or logos. Ordered yet asymmetrical premium ecommerce styling, one soft directional light and coherent faint shadows. Square composition. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create a top-down bundle image that accurately shows the item list, quantities and relative scale, without implying decorative props are included."
+  },
+  {
+    "id": "example-02",
+    "title": "Weekend carry kit",
+    "brief": "Fictional demonstration brand Dayfold: five-piece concept travel kit with pouch, three bottles and a brush.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      2048,
+      2048
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 2048x2048 pixels. True overhead flatlay on muted dusty blue backdrop. EXACT FIVE objects in a precise airy arrangement: one folded-open coral fabric toiletry pouch occupying left half, THREE small closed unlabeled cylindrical travel bottles with rounded caps arranged in a row on upper right in ivory, sage and terracotta, and ONE short wooden hairbrush below them at lower right with black bristles facing camera. All objects fully visible with clear gaps, no duplicates or loose caps, no towel, no hands, no writing, no logos. Commercial studio photograph with tactile fabrics, realistic product scale and coherent soft upper-left light. Square composition. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create a top-down bundle image that accurately shows the item list, quantities and relative scale, without implying decorative props are included."
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "fictionalDemonstration": true,
+  "examples": {
+    "example-01": {
+      "included": [
+        {
+          "item": "sage bowl",
+          "quantity": 1
+        },
+        {
+          "item": "bamboo whisk",
+          "quantity": 1
+        },
+        {
+          "item": "bamboo scoop",
+          "quantity": 1
+        },
+        {
+          "item": "closed ivory tin",
+          "quantity": 1
+        }
+      ],
+      "decorativeProps": []
+    },
+    "example-02": {
+      "included": [
+        {
+          "item": "coral pouch",
+          "quantity": 1
+        },
+        {
+          "item": "capped bottle",
+          "quantity": 3
+        },
+        {
+          "item": "wooden hairbrush",
+          "quantity": 1
+        }
+      ],
+      "decorativeProps": []
+    }
+  }
+}

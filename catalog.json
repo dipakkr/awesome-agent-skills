@@ -346,6 +346,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "kit-on-display",
+      "name": "Kit On Display",
+      "description": "Create a top-down bundle image that accurately shows the item list, quantities and relative scale, without implying decorative props are included.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/kit-on-display",
+      "publication": "original-mit"
+    },
+    {
       "package": "listing-copywriter",
       "name": "Listing Copywriter",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -1190,6 +1199,17 @@
     "skills/interface-layers/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
     "skills/interface-layers/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/interface-layers/renderer/src/model.mjs": "4aca08eea89922d4d6554ba53496cb544d44d4d22c838f42b27c62a741daf447",
+    "skills/kit-on-display/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/kit-on-display/SKILL.md": "ee05fdaeb0894f44fab5260de085b5954010697cb2dbfb0870fe357cf53a6a10",
+    "skills/kit-on-display/examples/gallery/01.webp": "fc8b3e185d2e2dd80e3b32e471afdd169a7b10b4ddd433ac1cbc98cf6f55303f",
+    "skills/kit-on-display/examples/gallery/02.webp": "2ee5b4efcf5182eda702a853d018ac802dd3db9259e8016b28ced260fce5c0a8",
+    "skills/kit-on-display/examples/gallery/03.webp": "9cfc4c08987dd68e3e4cc896d176003151338fe492692a5530f6dcd8a9ac0d13",
+    "skills/kit-on-display/examples/gallery/04.webp": "a7750b1084054f71ff9348b3d7d0b9912c0f5f3d5cd33406b82652983a187932",
+    "skills/kit-on-display/references/example-briefs.json": "32455a30b5114a5f543df861d8dea9c7a4d5039103899b0d3d41fc7ba61e6aa9",
+    "skills/kit-on-display/references/example-guide.json": "4bbbe4264d6cf86651b69782382b08601919ee917930f19891220a48df72dfcc",
+    "skills/kit-on-display/references/example-ledger.json": "3a249af33f770d004870b3334880ed2579f4f8558406b43cbb422e769cbdb4f1",
+    "skills/kit-on-display/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
+    "skills/kit-on-display/references/usage-examples.md": "ca111897ad2ba8a77210f4e7a7ede797aa3cfe200f24471dcfdf15d403027f8b",
     "skills/listing-copywriter/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/listing-copywriter/SKILL.md": "c6ca637c8869980275bab5a5119eb65a0cacdda4b9ffc91a2729282600df98be",
     "skills/listing-copywriter/agents/openai.yaml": "0eb16b6f926d2c195e4ca8eb647a93cdd23ed56748f033365a53f37551af9aa7",
