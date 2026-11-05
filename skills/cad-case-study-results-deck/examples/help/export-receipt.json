@@ -1,0 +1,21 @@
+{
+  "title": "A clearer help center",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "01ce97c295de34d6d09366e18d03bfc3391f2ac320e649a08cc1aab1ef90869e",
+  "outputs": [
+    {
+      "file": "help.html",
+      "sha256": "0e2221d092b4aaed8a35863e305f8e8a805b9a665a973f9a4d74109b2786b54c",
+      "bytes": 26254
+    },
+    {
+      "file": "help.pptx",
+      "sha256": "6e3d1f7c5c66d3813ce3d9c702648bf0e65d08e532476f4486d5d7ea5ca2be73",
+      "bytes": 42855
+    }
+  ]
+}

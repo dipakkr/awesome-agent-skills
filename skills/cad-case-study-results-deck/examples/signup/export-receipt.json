@@ -1,0 +1,21 @@
+{
+  "title": "A shorter signup path",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "2fb8fd4ede254f8ac94405d0b2ccb884fb66cd0855a7404da338f1e3a363cd69",
+  "outputs": [
+    {
+      "file": "signup.html",
+      "sha256": "d45d63e8e16cc32ced482c46dd8306e4b8f8523c870e48bd08ba3a1a309a9477",
+      "bytes": 26048
+    },
+    {
+      "file": "signup.pptx",
+      "sha256": "2550df2f47dec520db962571f575c9d0ac6e3f2603c7cfd950aa9d8384728633",
+      "bytes": 42919
+    }
+  ]
+}

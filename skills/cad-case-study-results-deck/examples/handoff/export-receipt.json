@@ -1,0 +1,21 @@
+{
+  "title": "A more complete client handoff",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "9665b165852a7d49e3178aa6360524f569a3102940a449f6e1c7450a4bf1aa31",
+  "outputs": [
+    {
+      "file": "handoff.html",
+      "sha256": "7ee1efdd3ccd38556c0e3b213dfd2285a71fc4cf8b05159d2211e658eb21b49f",
+      "bytes": 26207
+    },
+    {
+      "file": "handoff.pptx",
+      "sha256": "93247d3001c12502b33feb3d9ecec21d425c8dfa113f6b40db19b78d3faad125",
+      "bytes": 42967
+    }
+  ]
+}
