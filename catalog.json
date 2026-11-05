@@ -544,6 +544,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "parallel-task-film",
+      "name": "Parallel Task Film",
+      "description": "Route a brief through three parallel agents, animate data handoffs and converge their work into one result.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/parallel-task-film",
+      "publication": "original-mit"
+    },
+    {
       "package": "pen-and-page",
       "name": "Pen And Page",
       "description": "Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request.",
@@ -1680,6 +1689,26 @@
     "skills/paper-stage-story/renderer/src/Rocket.jsx": "c58d38271ccd31812081548c7d0155a328e865d45ee766209dd2dab4eb5ebb31",
     "skills/paper-stage-story/renderer/src/index.jsx": "2376ba32de0e4fa58899a919062f6f04128f5f09ee465e8d477e03c01b68084f",
     "skills/paper-stage-story/renderer/src/model.mjs": "d83ac95c4a581d2b557fd33e2d857d332a4e2eff6b7af9785898e0d2e7841939",
+    "skills/parallel-task-film/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/parallel-task-film/SKILL.md": "2bcdbd456532d984cefdacb8a4dd2566268b854da3ac7399882125348f09a6ab",
+    "skills/parallel-task-film/examples/01-landscape.json": "6bf39af82378bfef419795a735ade5a0097e2d0c876093cc5efda1a7161da0af",
+    "skills/parallel-task-film/examples/02-square.json": "4cc2abbaf63708adb4a32107bde805f2c01ac5f4e45b14c8f4b5f3a9808a5108",
+    "skills/parallel-task-film/references/art-direction.md": "8f2216692304f4ded965abddb3e571ff244dcc12d04e371f14b34150e42f6156",
+    "skills/parallel-task-film/references/input.md": "189f08386a84d919895554cd3535143599d5f9a5c4dcd4f1a81b49466075310b",
+    "skills/parallel-task-film/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/parallel-task-film/references/quickstart.md": "edc3400246db99608ffecef756b298a29d318b44343bacde31c274f53c46fa59",
+    "skills/parallel-task-film/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/parallel-task-film/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/parallel-task-film/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/parallel-task-film/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/parallel-task-film/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/parallel-task-film/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/parallel-task-film/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/parallel-task-film/renderer/src/Film.jsx": "c2f73542ea9df44b50513bda51c4437393db92ba3de4d4686de7a58db5426ca8",
+    "skills/parallel-task-film/renderer/src/Orchestration.jsx": "1bfae1d9b0077cd8eefec4dcb0d8aaf4b3b7d669ee60144a5c4aa226ec2089dc",
+    "skills/parallel-task-film/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/parallel-task-film/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/parallel-task-film/renderer/src/model.mjs": "2ac54514591c9de330f635e2ff076df633b3a981a520c1d0ca0671309cc06408",
     "skills/pen-and-page/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/pen-and-page/SKILL.md": "22fd59ac9637a5926cf0e90b133a7da003f98e5db8fa5e7fd714a651e535d9a1",
     "skills/pen-and-page/examples/gallery/01.webp": "2d652c9b6858fa79ae5ef5d4a135927ee2d7a74378a9a8c8d759a3dbd68e75f4",
@@ -8145,6 +8174,62 @@
     },
     {
       "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/parallel-task-film/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {

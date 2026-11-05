@@ -64,6 +64,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Painted Steps](skills/painted-steps/SKILL.md) | Explain a supplied process with translucent colour washes, fine ink drawings and short accurate labels in a clear reading order. |
 | [Paper Depth Covers](skills/paper-depth-covers/SKILL.md) | Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline. |
 | [Paper Stage Story](skills/paper-stage-story/SKILL.md) | Tell a short brand story with an original paper courier, tactile scenery and a visible transformation. |
+| [Parallel Task Film](skills/parallel-task-film/SKILL.md) | Route a brief through three parallel agents, animate data handoffs and converge their work into one result. |
 | [Pen And Page](skills/pen-and-page/SKILL.md) | Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request. |
 | [Punchy Photo Cards](skills/punchy-photo-cards/SKILL.md) | Create expressive social-share artwork with photographic cutouts, oversized type and confident graphic shapes. |
 | [Reading Room Brief](skills/reading-room-brief/SKILL.md) | Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes. |
