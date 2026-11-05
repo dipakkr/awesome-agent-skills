@@ -1,0 +1,27 @@
+{
+  "mode": "results",
+  "format": "square",
+  "brand": "MERIDIAN",
+  "headline": "Show where the time goes.",
+  "ending": "Turn a number into a story.",
+  "cta": "Review the calculation",
+  "item": "Weekly review",
+  "labels": [
+    "Original process",
+    "Revised process",
+    "Minutes required"
+  ],
+  "details": [
+    "Count the work",
+    "Remove repetition",
+    "Verify the difference"
+  ],
+  "accent": "#a04b20",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance.",
+  "before": 90,
+  "after": 30
+}

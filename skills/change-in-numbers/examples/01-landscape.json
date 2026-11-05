@@ -1,0 +1,27 @@
+{
+  "mode": "results",
+  "format": "landscape",
+  "brand": "PACE",
+  "headline": "Make the difference visible.",
+  "ending": "More room for meaningful work.",
+  "cta": "Explore the example",
+  "item": "A lighter workflow",
+  "labels": [
+    "Before the change",
+    "After the change",
+    "Time per task"
+  ],
+  "details": [
+    "Observe",
+    "Compare",
+    "Explain"
+  ],
+  "accent": "#235fbd",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance.",
+  "before": 120,
+  "after": 45
+}

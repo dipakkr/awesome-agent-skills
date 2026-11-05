@@ -58,6 +58,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "change-in-numbers",
+      "name": "Change In Numbers",
+      "description": "Regroup quantified tokens and reconcile before-and-after values into an exact time-saving calculation.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/change-in-numbers",
+      "publication": "original-mit"
+    },
+    {
       "package": "client-offer-builder",
       "name": "Client Offer Builder",
       "description": "Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions.",
@@ -446,6 +455,26 @@
     "skills/campaign-testbench/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
     "skills/campaign-testbench/references/origin.md": "0e3da412bcd62f6a141945b24c5126428ccbf55c12f20a65b8eb8c41ee078801",
     "skills/campaign-testbench/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
+    "skills/change-in-numbers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/change-in-numbers/SKILL.md": "c84da6f3e9c9c8dc1eaed7ca0f200f98a412dff9a7f75de6def7ac309a6d9999",
+    "skills/change-in-numbers/examples/01-landscape.json": "4fca4cae75b1956245eb74be08e589da5c5e0fe3a82633b98cbdce0c55860b4e",
+    "skills/change-in-numbers/examples/02-square.json": "e122084eaf88c961acd1e0e20d112161edc72c50f51e8e521f86268291b83ad9",
+    "skills/change-in-numbers/references/art-direction.md": "0eb97eff1a9f0beacc57ac157a8ced76057bae1aba27cc9541b22ae1fbfd6933",
+    "skills/change-in-numbers/references/input.md": "fcc438198722c7650b301ce45e1dba1bd4859e345d3eedd8e06671fb07782314",
+    "skills/change-in-numbers/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/change-in-numbers/references/quickstart.md": "4a8839c4168550fa943cd22d31548eea9d49ce07003677e89d28a0832804ecc7",
+    "skills/change-in-numbers/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/change-in-numbers/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/change-in-numbers/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/change-in-numbers/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/change-in-numbers/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/change-in-numbers/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/change-in-numbers/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/change-in-numbers/renderer/src/Film.jsx": "ce13f0370825e2030ebb93f1245e9e248f4077821b382b6c4767d43f7fc4fa38",
+    "skills/change-in-numbers/renderer/src/Results.jsx": "3afb4ac1ee1834767a21c6dd45f931e7289a1b4d7dcd3fb02d2d47a9a3724cbe",
+    "skills/change-in-numbers/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/change-in-numbers/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/change-in-numbers/renderer/src/model.mjs": "5edf7bec6ecd77083afeba7af47f9f8aa12f8fd917f8ab92ade627d7e43bf632",
     "skills/client-offer-builder/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/client-offer-builder/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/client-offer-builder/README.md": "c6b1935b024d2b767d260a5fedb7b46be02a98882a5436880e5e9536650cebc5",
@@ -1055,6 +1084,62 @@
     },
     {
       "path": "skills/campaign-testbench/examples/relaydesk/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/change-in-numbers/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
