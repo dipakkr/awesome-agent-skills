@@ -194,6 +194,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-customer-evidence-board",
+      "name": "Customer Evidence Board",
+      "description": "Turn mixed customer feedback and product facts into a source-linked browser board of supported messages, contradictions and research gaps.",
+      "site": "https://claudeai.directory/skills/customer-evidence-board",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-customer-evidence-board",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -549,6 +559,17 @@
     "skills/cad-creative-experiment-planner/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
     "skills/cad-creative-experiment-planner/references/origin.md": "0e3da412bcd62f6a141945b24c5126428ccbf55c12f20a65b8eb8c41ee078801",
     "skills/cad-creative-experiment-planner/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
+    "skills/cad-customer-evidence-board/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-customer-evidence-board/SKILL.md": "fb81570980761946420375216537e8010f7eb8ad3c5a72a99ba5150e06230148",
+    "skills/cad-customer-evidence-board/examples/foldwell.json": "03e3ccc1b48bfdbc86f19767dc6d0e253213e2a4a1a22511f1a95635d98c6070",
+    "skills/cad-customer-evidence-board/examples/foldwell/decisions.csv": "e7b4cf492b8945dfd056e5befc8fc68c9303a08ff30c7b7a6a91132ee57b6f30",
+    "skills/cad-customer-evidence-board/examples/foldwell/workbook.json": "03e3ccc1b48bfdbc86f19767dc6d0e253213e2a4a1a22511f1a95635d98c6070",
+    "skills/cad-customer-evidence-board/examples/relaydesk.json": "6093f97f086685caa771948e82ef136519cb6a1d61f95f9622ff5d44fdd1672e",
+    "skills/cad-customer-evidence-board/examples/relaydesk/decisions.csv": "47e2256dacfd471300363031f2ad2b3028c17e92ca45d497b6c85fd90ee5c168",
+    "skills/cad-customer-evidence-board/examples/relaydesk/workbook.json": "6093f97f086685caa771948e82ef136519cb6a1d61f95f9622ff5d44fdd1672e",
+    "skills/cad-customer-evidence-board/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
+    "skills/cad-customer-evidence-board/references/origin.md": "56f86f80813dbd9f5908c0ded44a06586ed30320701813680ce2dcb510ce37e8",
+    "skills/cad-customer-evidence-board/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -2313,6 +2334,14 @@
     },
     {
       "path": "skills/cad-creative-experiment-planner/examples/relaydesk/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-customer-evidence-board/examples/foldwell/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-customer-evidence-board/examples/relaydesk/index.html",
       "reason": "rendered example; see website"
     }
   ]
