@@ -1,0 +1,14 @@
+{
+  "key": "ai-evals",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: White faint graph paper, navy ink with lime and lilac accents, compact handwritten headline, generous whitespace. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"What are AI evals?\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. What should a test case represent?\n2. What must be defined before scoring?\n3. What should happen after a system change?\nVisual exercise: Three empty numbered cards under the prompt: Sketch your own test, expected result and check. A small magnifying glass doodle. No vendor logos.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. A realistic task or important edge case.\n2. Clear success criteria.\n3. Rerun evaluations and inspect failures.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "https://developers.openai.com/api/docs/guides/evaluation-best-practices",
+  "path": "outputs/ai-evals-v1.png",
+  "sha256": "d57a6f1128b8f7898be88ed21ae8274713c5d65a036aaf8652f0bbef3a57650c",
+  "width": 1055,
+  "height": 1491,
+  "review": [
+    "Realistic task, criteria and rerunning correspond to the questions; blank applied-test cards retained.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}
