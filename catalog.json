@@ -144,6 +144,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-case-study-results-deck",
+      "name": "Case Study Results Deck",
+      "description": "Present the situation, intervention, measured result and limitations of a project without hiding attribution or uncertainty.",
+      "site": "https://claudeai.directory/skills/case-study-results-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-case-study-results-deck",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -394,6 +404,30 @@
     "skills/cad-calm-clay-og/references/examples.json": "596eed0bbc251b8bccf25969ccc9ce170477c19168733c567d9d2518d0104162",
     "skills/cad-calm-clay-og/references/image-tools.md": "16b6fc1b7fd5d3595f7e577f29ecc659dfbc2d0efacc0c95716e26ec2a591318",
     "skills/cad-calm-clay-og/references/usage-examples.md": "eb196c25465ed6f0029cf26b9aaeb42be1efe2c88016b79db8b3eb23b87d2c0e",
+    "skills/cad-case-study-results-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-case-study-results-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-case-study-results-deck/README.md": "89cc95a05fc7cbb5382c7bb7be9d5ff26ea2437783140b09ee9d28f45d618b67",
+    "skills/cad-case-study-results-deck/SKILL.md": "c35bda580d2f6364a07b16c819d4871fe0e0b2cbbf306c87ddeb257011b989a3",
+    "skills/cad-case-study-results-deck/agents/openai.yaml": "810badea728fbaf390ebe883260edf447c403df483840289160ec6c480653730",
+    "skills/cad-case-study-results-deck/examples/gallery/01.webp": "0526452bc1a0ba4ed7bba2ae9688512b09291117a3500f81daae46ea0da6ceb2",
+    "skills/cad-case-study-results-deck/examples/gallery/02.webp": "6553a96965c13294cb58edefacf7c4046e4597e10d172959f46e1b44cd84038f",
+    "skills/cad-case-study-results-deck/examples/gallery/03.webp": "27fc696d02e7fa1dc4a8dd1f1b51180056b8f1849374054d40909fadf7815fd7",
+    "skills/cad-case-study-results-deck/examples/handoff/brief.md": "f5e32b317648550d91fd85a77a095445ff5ecd9d73d94d8c7917d8ce71df85a7",
+    "skills/cad-case-study-results-deck/examples/handoff/deck.json": "9665b165852a7d49e3178aa6360524f569a3102940a449f6e1c7450a4bf1aa31",
+    "skills/cad-case-study-results-deck/examples/handoff/export-receipt.json": "f20cf69e9af51d4eb3d9c3b510678dd0259a7c11e7412ebc99334cfb50c49d17",
+    "skills/cad-case-study-results-deck/examples/help/brief.md": "5c0d5b7adf53a63204625115d5d72d76b8bae8e35eb8b8c6315e67c7c90e4996",
+    "skills/cad-case-study-results-deck/examples/help/deck.json": "01ce97c295de34d6d09366e18d03bfc3391f2ac320e649a08cc1aab1ef90869e",
+    "skills/cad-case-study-results-deck/examples/help/export-receipt.json": "bf9b03c076df8091c247dbe66f08816417dc96d7be26185f8959bac3db5e1933",
+    "skills/cad-case-study-results-deck/examples/signup/brief.md": "57294be85c567e3f90c0cfa13ac9398fae88d67b41901f3164445db9a2c174d6",
+    "skills/cad-case-study-results-deck/examples/signup/deck.json": "2fb8fd4ede254f8ac94405d0b2ccb884fb66cd0855a7404da338f1e3a363cd69",
+    "skills/cad-case-study-results-deck/examples/signup/export-receipt.json": "6a2c0c1c155d9e1cedd36e1d2e48115278dd151d0a168aa969242a94b345df23",
+    "skills/cad-case-study-results-deck/references/design.md": "901b598c3c380b783f2a9819fdc440629110a07e216b0b2087af561d560fc078",
+    "skills/cad-case-study-results-deck/references/example-guide.json": "e2267d65ab84fd769cbef1d0535fbbea09b32f73ca3256678aebafe38a265ac5",
+    "skills/cad-case-study-results-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-case-study-results-deck/references/usage-examples.md": "7bdbb0db1b036b962f08530ba147cbd7c82d7ce384f2b696651c01bb3fff3cce",
+    "skills/cad-case-study-results-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-case-study-results-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-case-study-results-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -1246,6 +1280,30 @@
     },
     {
       "path": "skills/cad-brand-strategy-deck/examples/roam/roam.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-case-study-results-deck/examples/handoff/handoff.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-case-study-results-deck/examples/handoff/handoff.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-case-study-results-deck/examples/help/help.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-case-study-results-deck/examples/help/help.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-case-study-results-deck/examples/signup/signup.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-case-study-results-deck/examples/signup/signup.pptx",
       "reason": "rendered example; see website"
     }
   ]
