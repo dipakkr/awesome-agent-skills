@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ad Motion Export"
+  short_description: "Turn approved artwork and clips into MP4 and GIF"
+  default_prompt: "Use $cad-ad-motion-export to assemble my ad assets into a short video with an editable timeline."
