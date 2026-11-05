@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion · Kinetic Typography"
+  short_description: "Render an editable kinetic headline reel locally"
+  default_prompt: "Use $cad-kinetic-headline-reel to make a film from my brief and review its motion and copy."
