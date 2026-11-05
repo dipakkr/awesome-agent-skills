@@ -229,6 +229,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "everyday-product-scenes",
+      "name": "Everyday Product Scenes",
+      "description": "Place a supplied product into a believable everyday context while keeping it visually dominant; use explicit concept mode when no real SKU reference is supplied.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/everyday-product-scenes",
+      "publication": "original-mit"
+    },
+    {
       "package": "funding-story",
       "name": "Funding Story",
       "description": "Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone.",
@@ -884,6 +893,16 @@
     "skills/everyday-object-demo/references/examples.json": "9b7ba8d3d0f13b9af7b12f8b435aa19e7e08f793915fdabf4ee307e13984c2a1",
     "skills/everyday-object-demo/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
     "skills/everyday-object-demo/references/usage-examples.md": "2686d9cdefd6d4c78cfef0d92ae4301751ea689a97ba44d6ff9434aae2694a9d",
+    "skills/everyday-product-scenes/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/everyday-product-scenes/SKILL.md": "00846f136bb4bc5a7e03dc5fc66201cdf2ccf733582a6c9be3fed7d5c3b4f4ef",
+    "skills/everyday-product-scenes/examples/gallery/01.webp": "478979ba0f331e543f65b651b585b61926ae9f1460fdc806d2a533286ee56e80",
+    "skills/everyday-product-scenes/examples/gallery/02.webp": "db3ba4e780df53634b8b84ecd2bdac621142489ffb455752de4f3f5a3d8e1e01",
+    "skills/everyday-product-scenes/examples/gallery/03.webp": "865bddcde7cc3f05336184f7441d1a1e42682b278ea3b5b160f7dda304740251",
+    "skills/everyday-product-scenes/examples/gallery/04.webp": "9c93f70c465dcd80235b0ae1d20256b781d0464c15e55a6e375ff8477abd894a",
+    "skills/everyday-product-scenes/references/example-briefs.json": "92bd9c7881c69e44c4cce6669130bd920305da3713dfa2244de6ab9fe4ee4362",
+    "skills/everyday-product-scenes/references/example-guide.json": "653cf2901045b97d21690765d377805518a320d000c97e49bf4b891262e09fe3",
+    "skills/everyday-product-scenes/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
+    "skills/everyday-product-scenes/references/usage-examples.md": "735b78ed355dbdb8595ab4c39df28dbdbc61713f19a80cae19aa1f8b452f8b8d",
     "skills/funding-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/funding-story/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/funding-story/README.md": "2e2095807c91b1d54dba23edafdd19c8422c4a93bbfc01cf23010d0fb006cd38",

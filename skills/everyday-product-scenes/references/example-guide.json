@@ -1,0 +1,43 @@
+{
+  "skill": "everyday-product-scenes",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Quiet morning mug",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "478979ba0f331e543f65b651b585b61926ae9f1460fdc806d2a533286ee56e80",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $everyday-product-scenes. Create a new output based on the packaged example \"Quiet morning mug\". Brief: Fictional demonstration brand Hearthline: concept stoneware mug shown in a staged breakfast setting. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Greenhouse carry bag",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "db3ba4e780df53634b8b84ecd2bdac621142489ffb455752de4f3f5a3d8e1e01",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $everyday-product-scenes. Create a new output based on the packaged example \"Greenhouse carry bag\". Brief: Fictional demonstration brand Dayfold: concept sage backpack photographed in a staged greenhouse, no durability or waterproof claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Evening bookend",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "865bddcde7cc3f05336184f7441d1a1e42682b278ea3b5b160f7dda304740251",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $everyday-product-scenes. Create a new output based on the packaged example \"Evening bookend\". Brief: Fictional sculptural blue bookend in an evening reading nook. Books, shelf, vase, bowl, plant, lamp and furniture are contextual props, not included with the product; no real-SKU fidelity claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Kitchen utensil crock",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "9c93f70c465dcd80235b0ae1d20256b781d0464c15e55a6e375ff8477abd894a",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $everyday-product-scenes. Create a new output based on the packaged example \"Kitchen utensil crock\". Brief: Fictional pale-yellow utensil crock in a sunlit kitchen. Three wooden utensils and counter are contextual props, not included; no performance or safety claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
