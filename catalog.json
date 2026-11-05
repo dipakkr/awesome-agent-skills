@@ -175,6 +175,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "desk-lettering",
+      "name": "Desk Lettering",
+      "description": "Make a raised-letter nameplate or an organizer with two pen wells and a shallow tray.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/desk-lettering",
+      "publication": "original-mit"
+    },
+    {
       "package": "drawn-lessons",
       "name": "Drawn Lessons",
       "description": "Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats.",
@@ -761,6 +770,15 @@
     "skills/data-pan-animation/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
     "skills/data-pan-animation/references/usage-examples.md": "e7bcf0dae51e6f9a8eea895f193551bb44b22e95e973f1931dcb18d8727887c8",
     "skills/data-pan-animation/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+    "skills/desk-lettering/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/desk-lettering/SKILL.md": "a54d6973b9cd3454768ae56df8106d381392b62a3964bbccbb82ec5ee453fb4f",
+    "skills/desk-lettering/assets/preview.html": "d0493113883e73a7998af5aba381641ca92e1a041e740ce4342771a125e3599c",
+    "skills/desk-lettering/examples/01.json": "da26883b25d531470b7d9dd8fd8fcb19cae2d8cd86ee09682d8022ecd03b881b",
+    "skills/desk-lettering/examples/02.json": "51dc5d71baf847db2b9fac76b1c9dd0096393656461ee11f48be8dcc141878f7",
+    "skills/desk-lettering/references/examples.md": "660436d842f7db8e1f43026ca5eb3764df04465552feee410f98ff196ed4c333",
+    "skills/desk-lettering/requirements.txt": "38410d214d0006a6c3c33746864e51560efdd8d5b5f8d99165373efde3d5f10a",
+    "skills/desk-lettering/scripts/allowed-modes.json": "b3c801d847babc29e4e39255db0b6649ca5c89d94e51a4d8d78210783d2fdab6",
+    "skills/desk-lettering/scripts/model_engine.py": "3086620459f57cd12ff61f594636ab29b8d0ad1adb13aebf4e2145c0c81583fc",
     "skills/drawn-lessons/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/drawn-lessons/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/drawn-lessons/README.md": "29ee9f303aed765170f877b3c6e0b76da20c6c0958c80edb5b499fcc01146e91",
@@ -2922,6 +2940,94 @@
     },
     {
       "path": "skills/data-pan-animation/examples/recorded/04/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/checks.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/model.3mf",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/model.stl",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/parameters.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/receipt.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/review-0.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/review-2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/review-4.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/01/turntable.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/checks.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/model.3mf",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/model.stl",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/parameters.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/receipt.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/review-0.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/review-2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/review-4.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desk-lettering/examples/recorded/02/turntable.mp4",
       "reason": "rendered example; see website"
     },
     {
