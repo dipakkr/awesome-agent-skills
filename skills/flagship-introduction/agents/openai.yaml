@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flagship Introduction"
+  short_description: "Create original cinematic launch videos"
+  default_prompt: "Use $flagship-introduction to create an original film from my brief, render the requested formats, and inspect the actual outputs."

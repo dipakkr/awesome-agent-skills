@@ -1,0 +1,31 @@
+{
+  "mode": "cinematic",
+  "format": "square",
+  "brand": "VECTOR",
+  "category": "A creative workspace",
+  "hook": "Less friction.\nMore possibility.",
+  "promise": "Make room\nfor good work.",
+  "words": [
+    "Imagine",
+    "Connect",
+    "Create"
+  ],
+  "steps": [
+    "Collect ideas",
+    "Connect the dots",
+    "Make it happen"
+  ],
+  "projects": [
+    "Imagine",
+    "Connect",
+    "Create"
+  ],
+  "task": "Organize the next product launch",
+  "cta": "Build your next idea",
+  "url": "vector.example",
+  "accent": "#d7ff3f",
+  "theme": "black",
+  "motif": "rings",
+  "seed": 32,
+  "concept": true
+}

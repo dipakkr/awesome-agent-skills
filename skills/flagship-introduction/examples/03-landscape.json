@@ -1,0 +1,31 @@
+{
+  "mode": "cinematic",
+  "format": "landscape",
+  "brand": "ROUTE",
+  "category": "A travel planning concept",
+  "hook": "Less planning.\nMore going.",
+  "promise": "Your next trip,\ncoming together.",
+  "words": [
+    "Discover",
+    "Plan",
+    "Go"
+  ],
+  "steps": [
+    "Save a place",
+    "Build your route",
+    "Take it with you"
+  ],
+  "projects": [
+    "Discover",
+    "Plan",
+    "Go"
+  ],
+  "task": "Plan a three-day design trip to Kyoto",
+  "cta": "Find your next stop",
+  "url": "route.example",
+  "accent": "#ffc27a",
+  "theme": "black",
+  "motif": "grid",
+  "seed": 78,
+  "concept": true
+}
