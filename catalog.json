@@ -211,6 +211,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "edit-room-sequence",
+      "name": "Edit Room Sequence",
+      "description": "Sort illustrated media tiles into editing tracks and play the assembled visual sequence.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/edit-room-sequence",
+      "publication": "original-mit"
+    },
+    {
       "package": "everyday-object-demo",
       "name": "Everyday Object Demo",
       "description": "Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details.",
@@ -844,6 +853,26 @@
     "skills/drawn-lessons/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/drawn-lessons/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
     "skills/drawn-lessons/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/edit-room-sequence/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/edit-room-sequence/SKILL.md": "d528c5682859ffdb4f9877daa739b6ff38adbb8203049903fed100bd247bdddb",
+    "skills/edit-room-sequence/examples/01-landscape.json": "142cf04e21e68eb2582583919c81dc08d856572ce6400ee3c47b0b1e421eb717",
+    "skills/edit-room-sequence/examples/02-square.json": "2a8f956dcb776011c2ac866bea5f95a7e35daa6d83386ea5e7d6712838cf48a5",
+    "skills/edit-room-sequence/references/art-direction.md": "70799459e07cffb6fe378213a8ce22832042236e7e4bb3916f661907b8422c89",
+    "skills/edit-room-sequence/references/input.md": "1b7e638f8ce2a18664a56f9f1394c7e431f720b27c7de0e879d7e8dccfed4fd1",
+    "skills/edit-room-sequence/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/edit-room-sequence/references/quickstart.md": "36c0f407156e7d9f278abba8f49a4902bc5b19c261412c0833ee126cd1d3a731",
+    "skills/edit-room-sequence/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/edit-room-sequence/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/edit-room-sequence/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/edit-room-sequence/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/edit-room-sequence/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/edit-room-sequence/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/edit-room-sequence/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/edit-room-sequence/renderer/src/Creative.jsx": "dee830212cf9a7a1b5eb5b38fd061bb9a59c82365b8da6d7bbda78df589cd602",
+    "skills/edit-room-sequence/renderer/src/Film.jsx": "a827c93b43c928960f5a80f25afa21c290264e47e35f827bb3b8eb1f79c1eaaa",
+    "skills/edit-room-sequence/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/edit-room-sequence/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/edit-room-sequence/renderer/src/model.mjs": "65d2d1a7ab875d660eaa9ae101edd5939e5003a792294da430b7ac4567895a76",
     "skills/everyday-object-demo/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/everyday-object-demo/SKILL.md": "deb7f841ebceac4f761972470360b6077a0f5d409111bfc9cae45413e396ecb4",
     "skills/everyday-object-demo/agents/openai.yaml": "e278bbdf3180592ace46515741724500bd65d64f3afa48f0e42ba50356ac4ce7",
@@ -3178,6 +3207,62 @@
     },
     {
       "path": "skills/drawn-lessons/examples/meetings/meetings.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/edit-room-sequence/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
