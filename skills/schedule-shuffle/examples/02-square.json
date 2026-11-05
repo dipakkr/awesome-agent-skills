@@ -1,0 +1,25 @@
+{
+  "mode": "calendar",
+  "format": "square",
+  "brand": "TEMPO",
+  "headline": "Find a rhythm that fits.",
+  "ending": "A week with room to think.",
+  "cta": "Shape a better week",
+  "item": "A little room to breathe",
+  "labels": [
+    "Sync",
+    "Planning",
+    "Studio"
+  ],
+  "details": [
+    "Choose a new slot",
+    "Keep the context",
+    "Leave room for focus"
+  ],
+  "accent": "#985a24",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}
