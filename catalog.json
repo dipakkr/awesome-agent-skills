@@ -787,6 +787,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "speaker-nameplates",
+      "name": "Speaker Nameplates",
+      "description": "Render a name-and-role lower third as a transparent WebM plus a solid-background MP4 preview. Use for speaker identification in videos and livestreams.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/speaker-nameplates",
+      "publication": "original-mit"
+    },
+    {
       "package": "talking-models",
       "name": "Talking Models",
       "description": "Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions.",
@@ -2366,6 +2375,24 @@
     "skills/soft-object-cards/references/examples.json": "afff5f770a05552fc92100af588782630cfad2a0fed37fe7779162cac8e420f6",
     "skills/soft-object-cards/references/image-tools.md": "16b6fc1b7fd5d3595f7e577f29ecc659dfbc2d0efacc0c95716e26ec2a591318",
     "skills/soft-object-cards/references/usage-examples.md": "da179ee66aefd31a3d5ebc65737f4c054c03d28a9d8ace00c7679e2a59606736",
+    "skills/speaker-nameplates/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/speaker-nameplates/SKILL.md": "216fee608e972e805f3608eec80890f212541d06b869121f70ca867508d2d673",
+    "skills/speaker-nameplates/agents/openai.yaml": "45c41195173fab27bdc3a781410d3c963e8645c257b641966f695987a29f6536",
+    "skills/speaker-nameplates/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/speaker-nameplates/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/speaker-nameplates/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/speaker-nameplates/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/speaker-nameplates/config.json": "96163c5aaf06f360553b43436c385186f8160d7d7279dcb555b317f196134561",
+    "skills/speaker-nameplates/examples/01.json": "ed7126c272600ca06da5bbcdc3cacf8cf7ad4a70d6205989b0cadcb613e52eda",
+    "skills/speaker-nameplates/examples/02.json": "aa437b6934f8bca2f9edfd440905356ca557d3e5f096ccb40e4285696018585c",
+    "skills/speaker-nameplates/examples/03.json": "84c19ef4f882aa35e5bb86c63a3c7545b186ed4c95312f3ef8aa0df2fbbd2afd",
+    "skills/speaker-nameplates/examples/04.json": "c83ea802c0a70227c0f7618dd760150c29ea588fa0d271a484a591126a19ce8d",
+    "skills/speaker-nameplates/references/examples.md": "e7e7fc214ec116f864d177e5fc0b5ed3407b68da0dd1e4841ae8c8af81accb5c",
+    "skills/speaker-nameplates/references/inputs.md": "4d74b08e75a6774007ac3086ce369ef82e9e90842129000b0a9717d3aada12ba",
+    "skills/speaker-nameplates/references/provenance.md": "9e43157b67194127141268d9b7a6d1fd45b76eacb5a9ac7c75a114b485c53604",
+    "skills/speaker-nameplates/references/recorded-examples.json": "1abc46b75801d749c915d427b13df4eddbf46bf8ed57eae4f07d022a3db17e8f",
+    "skills/speaker-nameplates/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/speaker-nameplates/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/talking-models/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/talking-models/PROVENANCE.json": "4900350596afad0ca3d0993540d2fa8f425419e581864332213bd31467bfad98",
     "skills/talking-models/SKILL.md": "0b657e427a6bd07ef3de6842cea41a18adfdbab1d053a294d3c0f05ec35fe7c3",
@@ -11312,6 +11339,214 @@
     },
     {
       "path": "skills/single-take-tour/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/alpha-encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/overlay.webm",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/alpha-encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/overlay.webm",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/alpha-encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/overlay.webm",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/alpha-encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/overlay.webm",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/speaker-nameplates/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {
