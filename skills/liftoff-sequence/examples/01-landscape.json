@@ -1,0 +1,18 @@
+{
+  "brand": "IGNITION",
+  "headline": "Give your next idea altitude.",
+  "ending": "Built for what comes next.",
+  "cta": "Your next chapter starts here",
+  "url": "ignition.example",
+  "chapters": [
+    "Every part has a purpose.",
+    "Ready when you are.",
+    "Make the first move.",
+    "Leave the ordinary behind."
+  ],
+  "accent": "#78e3f5",
+  "subject": "capsule",
+  "mode": "rocket",
+  "format": "landscape",
+  "concept": true
+}
