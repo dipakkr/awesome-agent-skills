@@ -1,0 +1,25 @@
+{
+  "skill": "parametric-desk-cup",
+  "distinctOutputs": 2,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "Twist pen cup",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "9bc77dd0f32d7286c8e4b3a576988ae44471804b966f7ff9366350b6c5377876",
+      "width": 1000,
+      "height": 1000,
+      "invocation": "Use $parametric-desk-cup. Create a new output based on the packaged example \"Twist pen cup\". Brief: Create fluted or twisted desk cups and decorative pots as real STL and 3MF models with editable dimensions and an interactive preview. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Scalloped desk pot",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "13aa8c15f7b33b8a6ba7cbabbfcae2351f01e329ecdb9e559dc4a5b9b50c2f03",
+      "width": 1000,
+      "height": 1000,
+      "invocation": "Use $parametric-desk-cup. Create a new output based on the packaged example \"Scalloped desk pot\". Brief: Create fluted or twisted desk cups and decorative pots as real STL and 3MF models with editable dimensions and an interactive preview. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
