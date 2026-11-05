@@ -679,6 +679,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "schedule-shuffle",
+      "name": "Schedule Shuffle",
+      "description": "Move appointments between calendar columns and reveal a protected focus-time block.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/schedule-shuffle",
+      "publication": "original-mit"
+    },
+    {
       "package": "shape-and-type",
       "name": "Shape And Type",
       "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
@@ -2059,6 +2068,26 @@
     "skills/rhythm-and-type/renderer/src/Film.jsx": "682b39abc9ee41eefed881f62fdf653dcbf4fde37e2d31135fc69b72d4beaff0",
     "skills/rhythm-and-type/renderer/src/index.jsx": "4309949e91babe9751fe9e00d4720a940e91a0e7c78f6f8f7009a0497ab8753f",
     "skills/rhythm-and-type/renderer/src/model.mjs": "955af1fffa78822ab5209c61a77975173a82527cde4567e25a5742b7f57a17c4",
+    "skills/schedule-shuffle/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/schedule-shuffle/SKILL.md": "594cb067b3747a450fe5b5eb6d8d6690cc96c869faa06ad39e19b0f7d405871c",
+    "skills/schedule-shuffle/examples/01-landscape.json": "122b5d61b6b2152f5773522bf8fedb7cb46120958a42118008e05c817b522a5a",
+    "skills/schedule-shuffle/examples/02-square.json": "cc0d81f91b9b909a9fe52ce6b8a00e4219b37196fe356a5be7e4e497180a2f7e",
+    "skills/schedule-shuffle/references/art-direction.md": "5aebeca6d7ea466ed20b9d163419d7348115d292aa3b6342b90c3b763d74969f",
+    "skills/schedule-shuffle/references/input.md": "cd457a1be4916524abc4e9fcd66eff6c27ee3765293b61699a755d9bf7275688",
+    "skills/schedule-shuffle/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/schedule-shuffle/references/quickstart.md": "4ebfee3a3f9a5199d48bebd199324df4719732a25c165003b6cbe9dc6ef55e08",
+    "skills/schedule-shuffle/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/schedule-shuffle/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/schedule-shuffle/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/schedule-shuffle/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/schedule-shuffle/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/schedule-shuffle/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/schedule-shuffle/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/schedule-shuffle/renderer/src/Calendar.jsx": "d04d692d5a8eefb9c64c387af8fa4618900189d4eb7f45083465b19a32c4a3db",
+    "skills/schedule-shuffle/renderer/src/Film.jsx": "9c6125871d87f77dbffb2ed4cb4ab4099184115894016062c424158e6d83e4d1",
+    "skills/schedule-shuffle/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/schedule-shuffle/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/schedule-shuffle/renderer/src/model.mjs": "40dcca80614f4480bd25944c8cebf5b0b56f074e96b6ccb410e4ee2a74cd16b1",
     "skills/shape-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/shape-and-type/SKILL.md": "04cb5c211c6d3b9d7352eefb051e068894ab47c2aeead54fb1605650daa55052",
     "skills/shape-and-type/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
@@ -9690,6 +9719,62 @@
     },
     {
       "path": "skills/rhythm-and-type/examples/recorded/03-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/schedule-shuffle/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {

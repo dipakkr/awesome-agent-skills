@@ -1,0 +1,25 @@
+{
+  "mode": "calendar",
+  "format": "landscape",
+  "brand": "DAYLIGHT",
+  "headline": "Make space for focused work.",
+  "ending": "A calmer kind of calendar.",
+  "cta": "Plan your next week",
+  "item": "Your focus block is clear",
+  "labels": [
+    "Check-in",
+    "Review",
+    "Deep work"
+  ],
+  "details": [
+    "Move the meeting",
+    "Group small tasks",
+    "Protect your time"
+  ],
+  "accent": "#2669ad",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}
