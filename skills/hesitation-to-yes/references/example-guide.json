@@ -1,0 +1,112 @@
+{
+  "skill": "hesitation-to-yes",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "id": "01",
+      "title": "Stocknote: product notes",
+      "brand": "Stocknote",
+      "theme": "blueprint",
+      "prompt": "Use $hesitation-to-yes to make a 32-second concept film for Stocknote. Follow examples/01/brief.json and its data.json. Use the blueprint background, the repeated objection \"our product facts\", the turn \"Now grounded\" and the command \"/catalog\". Keep the posts explicitly fictional. Derive the findings from the supplied fixture and show those records as the output. Deliver a silent 1920x1080 MP4, editable inputs, preview and proof HTML locally.",
+      "brief": {
+        "brand": "Stocknote",
+        "theme": "blueprint",
+        "claim": "Stocknote makes a useful first draft.",
+        "hinge": "our product facts",
+        "turn": "Now grounded",
+        "invocation": "/catalog",
+        "prompt": "Use /catalog to prepare listings from the supplied product notes.",
+        "source_label": "Product notes",
+        "closer": "The supplied details, carried into the draft.",
+        "thesis": "Every draft starts with the facts.",
+        "cta": "Review the listing drafts",
+        "posts": [
+          "Stocknote makes a useful first draft, but it misses our product facts.",
+          "The tone is fine. I still have to add our product facts by hand.",
+          "Another polished listing without our product facts. That is the hard part."
+        ],
+        "data": "data.json"
+      }
+    },
+    {
+      "id": "02",
+      "title": "Decision Desk: project decisions",
+      "brand": "Decision Desk",
+      "theme": "aubergine",
+      "prompt": "Use $hesitation-to-yes to make a 32-second concept film for Decision Desk. Follow examples/02/brief.json and its data.json. Use the aubergine background, the repeated objection \"the client decisions\", the turn \"Now connected\" and the command \"/decisions\". Keep the posts explicitly fictional. Derive the findings from the supplied fixture and show those records as the output. Deliver a silent 1920x1080 MP4, editable inputs, preview and proof HTML locally.",
+      "brief": {
+        "brand": "Decision Desk",
+        "theme": "aubergine",
+        "claim": "Decision Desk makes tidy project summaries.",
+        "hinge": "the client decisions",
+        "turn": "Now connected",
+        "invocation": "/decisions",
+        "prompt": "Use /decisions to prepare a handoff from the supplied project notes.",
+        "source_label": "Project decisions",
+        "closer": "The supplied details, carried into the draft.",
+        "thesis": "A useful handoff carries the decisions.",
+        "cta": "Review the handoff",
+        "posts": [
+          "The summary is tidy, but where are the client decisions?",
+          "I need the client decisions carried into the next handoff.",
+          "A polished recap still leaves me copying the client decisions myself."
+        ],
+        "data": "data.json"
+      }
+    },
+    {
+      "id": "03",
+      "title": "Lessonframe: learning objectives",
+      "brand": "Lessonframe",
+      "theme": "tidal",
+      "prompt": "Use $hesitation-to-yes to make a 32-second concept film for Lessonframe. Follow examples/03/brief.json and its data.json. Use the tidal background, the repeated objection \"our learning goals\", the turn \"Now aligned\" and the command \"/objectives\". Keep the posts explicitly fictional. Derive the findings from the supplied fixture and show those records as the output. Deliver a silent 1920x1080 MP4, editable inputs, preview and proof HTML locally.",
+      "brief": {
+        "brand": "Lessonframe",
+        "theme": "tidal",
+        "claim": "Lessonframe can outline a workshop.",
+        "hinge": "our learning goals",
+        "turn": "Now aligned",
+        "invocation": "/objectives",
+        "prompt": "Use /objectives to build a workshop from the supplied lesson brief.",
+        "source_label": "Learning objectives",
+        "closer": "The supplied details, carried into the draft.",
+        "thesis": "Let the goal shape every activity.",
+        "cta": "Review the workshop",
+        "posts": [
+          "The outline looks useful, but it skips our learning goals.",
+          "Every activity needs to connect to our learning goals.",
+          "I still rewrite the exercise to match our learning goals."
+        ],
+        "data": "data.json"
+      }
+    },
+    {
+      "id": "04",
+      "title": "Episode Notes: interview notes",
+      "brand": "Episode Notes",
+      "theme": "copper",
+      "prompt": "Use $hesitation-to-yes to make a 32-second concept film for Episode Notes. Follow examples/04/brief.json and its data.json. Use the copper background, the repeated objection \"our interview notes\", the turn \"Now included\" and the command \"/interviews\". Keep the posts explicitly fictional. Derive the findings from the supplied fixture and show those records as the output. Deliver a silent 1920x1080 MP4, editable inputs, preview and proof HTML locally.",
+      "brief": {
+        "brand": "Episode Notes",
+        "theme": "copper",
+        "claim": "Episode Notes writes a clear episode plan.",
+        "hinge": "our interview notes",
+        "turn": "Now included",
+        "invocation": "/interviews",
+        "prompt": "Use /interviews to build an outline from the supplied interview notes.",
+        "source_label": "Interview notes",
+        "closer": "The supplied details, carried into the draft.",
+        "thesis": "Build the story from what was said.",
+        "cta": "Review the episode outline",
+        "posts": [
+          "The episode plan reads well, but it ignores our interview notes.",
+          "The interesting moments are in our interview notes, not a generic outline.",
+          "I keep rebuilding the plan around our interview notes."
+        ],
+        "data": "data.json"
+      }
+    }
+  ],
+  "verification": "Author-executed renders and visual review; not independent customer reuse"
+}

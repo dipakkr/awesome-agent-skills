@@ -1,0 +1,19 @@
+{
+  "brand": "Stocknote",
+  "theme": "blueprint",
+  "claim": "Stocknote makes a useful first draft.",
+  "hinge": "our product facts",
+  "turn": "Now grounded",
+  "invocation": "/catalog",
+  "prompt": "Use /catalog to prepare listings from the supplied product notes.",
+  "source_label": "Product notes",
+  "closer": "The supplied details, carried into the draft.",
+  "thesis": "Every draft starts with the facts.",
+  "cta": "Review the listing drafts",
+  "posts": [
+    "Stocknote makes a useful first draft, but it misses our product facts.",
+    "The tone is fine. I still have to add our product facts by hand.",
+    "Another polished listing without our product facts. That is the hard part."
+  ],
+  "data": "data.json"
+}

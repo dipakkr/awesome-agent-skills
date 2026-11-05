@@ -301,6 +301,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "hesitation-to-yes",
+      "name": "Hesitation To Yes",
+      "description": "Turn a repeated concern into a feature reveal with dark glass cards, accelerating zoom cuts, a terminal-style replay and a clear closing statement.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/hesitation-to-yes",
+      "publication": "original-mit"
+    },
+    {
       "package": "identity-playbook",
       "name": "Identity Playbook",
       "description": "Present positioning, visual principles, voice and applications as one coherent brand direction with editable guidance.",
@@ -1076,6 +1085,27 @@
     "skills/gathering-announcement/references/research.md": "50e048a83bbad5c2ae868c2af5c294fe4c1e618c46304d3cbf6e69ba427a7ca1",
     "skills/gathering-announcement/references/runtime-brief.json": "1abc678cccc752d11c09ac4933197a46458630117b1f69bc16ddc0069e79b432",
     "skills/gathering-announcement/references/usage-examples.md": "1ced1739f22c16c23b464c90721424c7465d0b7f53d1cf2850532f263626a0e5",
+    "skills/hesitation-to-yes/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/hesitation-to-yes/SKILL.md": "8a1713b2ebd44fd95c7cab3a49498fd0ab8899cecea861cb1b8ad020dfa089fc",
+    "skills/hesitation-to-yes/agents/openai.yaml": "49ad26c04052c20a589703e10df48a58be3f982db15e39cbf4e1461a7d9e1954",
+    "skills/hesitation-to-yes/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/hesitation-to-yes/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/hesitation-to-yes/assets/fonts/Mono-OFL.txt": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+    "skills/hesitation-to-yes/assets/fonts/Mono.ttf": "a7fdc993f9f0387caedba4e42521136fa97e4c0837ae6239bf0413ccf8af00c2",
+    "skills/hesitation-to-yes/examples/01/brief.json": "5e71d3fba672d6b53070940aece601fbd8343583316ef43387611fcb1e76f113",
+    "skills/hesitation-to-yes/examples/01/data.json": "e1d4e88f4a267e6940fdd80a83b8d6ca824bb04ce7dfbe41ec087a41719f9ad6",
+    "skills/hesitation-to-yes/examples/02/brief.json": "3f0b6af7ca6febf641f7b9064e04c913ce941d26e63c389fc8c9333f51de6890",
+    "skills/hesitation-to-yes/examples/02/data.json": "20f8d0a9256446ef07d8ff915c10a76dae6f79e8973128f3a83106239613a330",
+    "skills/hesitation-to-yes/examples/03/brief.json": "dfe636107d17b429096f23c574527cb696e3025759de0cb5f84d1c36944a6ea9",
+    "skills/hesitation-to-yes/examples/03/data.json": "3d516d7b4d9d0270ea9275aa3b4acb795b87206ad4c6af0598cdbdcea02ad51f",
+    "skills/hesitation-to-yes/examples/04/brief.json": "7bc58fa0e910f9c34723fa34bacb0c86270b2b1241cbaca45cd344d32aa387f9",
+    "skills/hesitation-to-yes/examples/04/data.json": "2f3d38ed0e58a8fddad5d6ee0165e16377e78ddefa55ec445101257a1de389e5",
+    "skills/hesitation-to-yes/references/credits.md": "911efb97fd29398a9c5dc0dab4378cdd44b845bcf79ef3161e183887ba4b8b64",
+    "skills/hesitation-to-yes/references/example-guide.json": "091b46e382b5a30abbfc08882c40cd52e7854d9acd2ba6b56c06d1397ee8c04f",
+    "skills/hesitation-to-yes/references/schema.md": "f54afe747b76675e1e099f85a15e613a04b6f861076e44dc526860a432865058",
+    "skills/hesitation-to-yes/references/storyboard.md": "5275720cdce4296cb4a5f1f8467d38b43bb640d5b39b28d02c748ff81aacea46",
+    "skills/hesitation-to-yes/references/usage-examples.md": "cbfc1264863039ef153e1787f137c57fde9a75b4419338066a5ebdae979dac3f",
+    "skills/hesitation-to-yes/scripts/render.py": "f493e1a685f930432b56f803cdd787fad14df5378ef0f31b1b4325b0cfe16b57",
     "skills/identity-playbook/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/identity-playbook/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/identity-playbook/README.md": "b3ab0492deb9548c941f835aeb8e57ddb5f1dc7897954c779ae9d47690bc3b98",
@@ -3993,6 +4023,294 @@
     },
     {
       "path": "skills/gallery-in-perspective/examples/recorded/04/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/data.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/proof.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/01/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/data.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/proof.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/02/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/data.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/proof.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/03/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/data.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/proof.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/hesitation-to-yes/examples/04/recorded/review-11.jpg",
       "reason": "rendered example; see website"
     },
     {

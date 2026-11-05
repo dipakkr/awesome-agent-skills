@@ -1,0 +1,19 @@
+{
+  "brand": "Decision Desk",
+  "theme": "aubergine",
+  "claim": "Decision Desk makes tidy project summaries.",
+  "hinge": "the client decisions",
+  "turn": "Now connected",
+  "invocation": "/decisions",
+  "prompt": "Use /decisions to prepare a handoff from the supplied project notes.",
+  "source_label": "Project decisions",
+  "closer": "The supplied details, carried into the draft.",
+  "thesis": "A useful handoff carries the decisions.",
+  "cta": "Review the handoff",
+  "posts": [
+    "The summary is tidy, but where are the client decisions?",
+    "I need the client decisions carried into the next handoff.",
+    "A polished recap still leaves me copying the client decisions myself."
+  ],
+  "data": "data.json"
+}

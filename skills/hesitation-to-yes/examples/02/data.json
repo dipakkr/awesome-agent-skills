@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "title": "Keep the narrow scope",
+      "detail": "The research sprint covers onboarding only.",
+      "status": "Ready"
+    },
+    {
+      "title": "Use existing interviews",
+      "detail": "Reuse the six approved interview summaries.",
+      "status": "Ready"
+    },
+    {
+      "title": "Confirm the review owner",
+      "detail": "An owner has not yet been assigned.",
+      "status": "Needs review"
+    },
+    {
+      "title": "Share a draft on Friday",
+      "detail": "Prepare the draft before the client review.",
+      "status": "Ready"
+    }
+  ]
+}

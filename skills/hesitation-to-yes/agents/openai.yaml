@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hesitation To Yes"
+  short_description: "Turn a concern into a clear feature reveal"
+  default_prompt: "Use $hesitation-to-yes to make a local film from my brief and source data."

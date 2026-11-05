@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "title": "Open with the first repair",
+      "detail": "The guest describes fixing a broken desk lamp.",
+      "status": "Ready"
+    },
+    {
+      "title": "Explore the learning curve",
+      "detail": "A failed hinge repair changed their approach.",
+      "status": "Ready"
+    },
+    {
+      "title": "Keep the practical advice",
+      "detail": "The guest recommends starting with simple tools.",
+      "status": "Ready"
+    },
+    {
+      "title": "Check the final quote",
+      "detail": "Confirm wording before using the closing quote.",
+      "status": "Needs review"
+    }
+  ]
+}
