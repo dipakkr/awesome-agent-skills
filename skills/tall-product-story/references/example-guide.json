@@ -1,0 +1,43 @@
+{
+  "skill": "tall-product-story",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Reading corner",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "337acccb6af5ee3b819a332f0830f77125979253be7341ec17d794236c92927c",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $tall-product-story. Create a new output based on the packaged example \"Reading corner\". Brief: Fictional homewares shopping Pin with a warm lamp, reading chair and book; no pricing or brand. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Desk essentials",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "4a326764289f871588cfe74c14aa527ea39997527ab3af1618091d1b45c703a3",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $tall-product-story. Create a new output based on the packaged example \"Desk essentials\". Brief: Fictional stationery shopping Pin with a blue notebook, steel pen and tray; no brand or claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Small balcony garden",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "dfe8314e3de1d71f4af7ddd67c6bd7338101d89ce7c455f0903ba51f7858d585",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $tall-product-story. Create a new output based on the packaged example \"Small balcony garden\". Brief: Fictional shopping Pin featuring a small unbranded planter, watering can and garden stool; no plant growth or space-saving metric. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Weekend baking tools",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "6ab4854c79811a62ddb96c0c4862c86dd61aa017b1d368f3d861ef4a1d50fa79",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $tall-product-story. Create a new output based on the packaged example \"Weekend baking tools\". Brief: Fictional baking-tool shopping Pin with a cream mixing bowl, wooden rolling pin and stainless whisk, no brand, food quality or performance claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
