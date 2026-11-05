@@ -1,0 +1,43 @@
+{
+  "skill": "texture-and-detail",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Citrus mist",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "83d1e0a84bfe3411bc0d4d73c18679867457b9dad4060021b1b32ae2bc7075b9",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $texture-and-detail. Create a new output based on the packaged example \"Citrus mist\". Brief: Concept citrus drink in an unbranded coral can; orange is an explicit fictional flavour, no nutritional claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Oat soap",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "7bef8ebb9cb241eee444f4f2dc49aeb40628d5bfb599594c61363b5a51ce3e17",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $texture-and-detail. Create a new output based on the packaged example \"Oat soap\". Brief: Concept unbranded handmade oat soap; no skincare or medical efficacy claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Amber candle glow",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "fd08b52760d0afeec3c66f50772287bbaadd7b6f4a717fa31c863926fcf21870",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $texture-and-detail. Create a new output based on the packaged example \"Amber candle glow\". Brief: Fictional ribbed amber-glass candle, emphasizing warm light and wax texture. No scent ingredient, burn duration or health claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Woven texture study",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "35897d1e58adffa45fede8cef0d61ad4145b7c3403970b91d526bd31a9630670",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $texture-and-detail. Create a new output based on the packaged example \"Woven texture study\". Brief: Fictional soft woven cotton throw, explicitly a conceptual textile. Focus on weave and fringed edge without warmth, sustainability or material-certification claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

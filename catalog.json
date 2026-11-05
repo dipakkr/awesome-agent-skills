@@ -868,6 +868,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "texture-and-detail",
+      "name": "Texture And Detail",
+      "description": "Create close-up product campaigns built around texture, light and a credible sensory cue.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/texture-and-detail",
+      "publication": "original-mit"
+    },
+    {
       "package": "tiny-workspaces",
       "name": "Tiny Workspaces",
       "description": "Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts.",
@@ -2604,6 +2613,16 @@
     "skills/terminal-showtime/renderer/src/Pixel.jsx": "34a93c326031ff2448a29283ac5c8f2d68a42fc8604f473681465256dd8a5ca4",
     "skills/terminal-showtime/renderer/src/index.jsx": "adfc0080af2f45dde7300439b43e35f27b83a7ce0a551816b97b701d2c5b47bc",
     "skills/terminal-showtime/renderer/src/model.mjs": "2cd2f0718c70a763b46256729513ad39a1d6c6c62bc7f3adbc3f2952339ac107",
+    "skills/texture-and-detail/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/texture-and-detail/SKILL.md": "782a5808fe5d713835f886e9d08ab0d2425b5ac69c18da2b3d9d362f6f4c849c",
+    "skills/texture-and-detail/examples/gallery/01.webp": "83d1e0a84bfe3411bc0d4d73c18679867457b9dad4060021b1b32ae2bc7075b9",
+    "skills/texture-and-detail/examples/gallery/02.webp": "7bef8ebb9cb241eee444f4f2dc49aeb40628d5bfb599594c61363b5a51ce3e17",
+    "skills/texture-and-detail/examples/gallery/03.webp": "fd08b52760d0afeec3c66f50772287bbaadd7b6f4a717fa31c863926fcf21870",
+    "skills/texture-and-detail/examples/gallery/04.webp": "35897d1e58adffa45fede8cef0d61ad4145b7c3403970b91d526bd31a9630670",
+    "skills/texture-and-detail/references/example-guide.json": "53287f9a9224ce08793c8ecb40e600e1c4f5628c52e5b0a4c84edde6684c813c",
+    "skills/texture-and-detail/references/examples.json": "70c61230d3a4db9be24a83df58ff9c41870091bef927e49ee0bba57acd10d0fb",
+    "skills/texture-and-detail/references/research.md": "deccfa1f39c26c3dc889d886507b6145896db52a3a5894e88525500911eb67f2",
+    "skills/texture-and-detail/references/usage-examples.md": "ad790fd8f675e845e55128974922087af1a79671474c086eb6cb9ffee09b6e96",
     "skills/tiny-workspaces/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/tiny-workspaces/SKILL.md": "4e9b86801fb7454d0c038a476f174d3fdb3a4f607c6893fffb19bf7d54dab504",
     "skills/tiny-workspaces/examples/gallery/01.webp": "3f8edca0547b8c13e23056fa524de52a893c5142e083da2bd7b78633c07e9805",
