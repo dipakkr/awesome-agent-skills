@@ -44,6 +44,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-amazon-aplus-brand-story",
+      "name": "Amazon A+ Brand Story",
+      "description": "Create a cohesive visual scene for a brand narrative using supplied positioning and honest product context.",
+      "site": "https://claudeai.directory/skills/amazon-aplus-brand-story",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-amazon-aplus-brand-story",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -129,6 +139,16 @@
     "skills/cad-ad-production-blueprint/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
     "skills/cad-ad-production-blueprint/references/origin.md": "725e4b2bdd631032d0d5af6b6011390c1d63cdf68aa8570d79d07afdbfdde374",
     "skills/cad-ad-production-blueprint/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
+    "skills/cad-amazon-aplus-brand-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-amazon-aplus-brand-story/SKILL.md": "41ba0c51d3fb6d0079955167c6de114f7c05b65e1b14afaba3e177fe1527dcef",
+    "skills/cad-amazon-aplus-brand-story/examples/briefs.json": "0f73b27abc09da55105c14ed7f859e853f18d7f8954f2e51e2679212b2215353",
+    "skills/cad-amazon-aplus-brand-story/examples/gallery/01.webp": "4378a40f54448c7cfdbb09530f1c87185468f6353e49f92c485be72fc2c0f068",
+    "skills/cad-amazon-aplus-brand-story/examples/gallery/02.webp": "2792ba6f8634ab55dede7a9dec20ced94ff6231da6ff0f413fc461fd3d0beb5b",
+    "skills/cad-amazon-aplus-brand-story/examples/gallery/03.webp": "5c40a50e299445090402c74cfcf239e40f39478194870315856c18a2e77c3ec2",
+    "skills/cad-amazon-aplus-brand-story/examples/gallery/04.webp": "a902a156fb65b22d79ae63b185ca6aec9d37536da836e48f60c5f8cf641ca7c8",
+    "skills/cad-amazon-aplus-brand-story/references/example-guide.json": "a86953f83ed04dc54c6c7527e374789dec9055b7f1cc71eac4f1c76e6adfe195",
+    "skills/cad-amazon-aplus-brand-story/references/placement.md": "ceeefed3e6360f833cce9e86ec7780fa0d6319bc2ab243856921506e0659eedf",
+    "skills/cad-amazon-aplus-brand-story/references/usage-examples.md": "d7465efba398a6045f79d18fd913bb4c1388151eb4a78f77f19b2d2c7637a702",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
