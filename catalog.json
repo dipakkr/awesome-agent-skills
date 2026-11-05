@@ -94,6 +94,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "click-to-finish",
+      "name": "Click To Finish",
+      "description": "Animate a cursor click, button compression and confirmation that folds into a branded call to action.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/click-to-finish",
+      "publication": "original-mit"
+    },
+    {
       "package": "client-offer-builder",
       "name": "Client Offer Builder",
       "description": "Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions.",
@@ -559,6 +568,26 @@
     "skills/clean-sku-shot/references/example-guide.json": "4f18c73df87d4ba59295e88db8b484cad8cde28c0937a799108dfaca4eb099bc",
     "skills/clean-sku-shot/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
     "skills/clean-sku-shot/references/usage-examples.md": "94af79d6a1b5fe0cf570bb70f8d35d23cdba53651d5f37a3b16f8298b24cd616",
+    "skills/click-to-finish/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/click-to-finish/SKILL.md": "948045c1f860366699a84da1d276cc8abc0e409bb1657129b648896961dc8bc7",
+    "skills/click-to-finish/examples/01-landscape.json": "515afa6eaaed0d7df1496ccebc91890991c8a06e67a378fd90c98789a18142ad",
+    "skills/click-to-finish/examples/02-square.json": "791d3c6ae0cedcffe48ba8fd151e426b1270a7231383462efb6771a139b11960",
+    "skills/click-to-finish/references/art-direction.md": "547f861cdce83f780cce23776c6d39ba6e5f094af281faa0fa2749b9a40330fd",
+    "skills/click-to-finish/references/input.md": "ca300bfcb836ed74256b4d39276bb9fb09335c10c0d5296bc2efcc0fcc00939d",
+    "skills/click-to-finish/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/click-to-finish/references/quickstart.md": "069077a305f82e4905d851e32f82a8acf4aeada3520ad33a1c0ac9ecdf705e66",
+    "skills/click-to-finish/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/click-to-finish/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/click-to-finish/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/click-to-finish/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/click-to-finish/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/click-to-finish/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/click-to-finish/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/click-to-finish/renderer/src/Endcards.jsx": "50dc906d4089606a54c066be0e5901370bd9fe47224e27b8def6f7f0a6015a17",
+    "skills/click-to-finish/renderer/src/Film.jsx": "342c4c3de572957e204d2788987f9dd6573f1164754ae6109edd93872e29054c",
+    "skills/click-to-finish/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/click-to-finish/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/click-to-finish/renderer/src/model.mjs": "11c745b12d4008be9670377bdb89a049fab4eb321b247186fa1ba881a82eaeb8",
     "skills/client-offer-builder/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/client-offer-builder/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/client-offer-builder/README.md": "c6b1935b024d2b767d260a5fedb7b46be02a98882a5436880e5e9536650cebc5",
@@ -1704,6 +1733,62 @@
     },
     {
       "path": "skills/chaptered-product-story/examples/04/recorded/soundtrack.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/click-to-finish/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {

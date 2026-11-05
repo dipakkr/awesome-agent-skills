@@ -14,6 +14,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Chaptered Product Story](skills/chaptered-product-story/SKILL.md) | Create a complete product launch film with kinetic type, numbered feature chapters, moving interface close-ups and an original instrumental soundtrack. |
 | [Checklist Canvas](skills/checklist-canvas/SKILL.md) | Create a clean LinkedIn checklist or learning graphic with twelve numbered ideas, simple line icons and a three-by-four editorial grid. |
 | [Clean Sku Shot](skills/clean-sku-shot/SKILL.md) | Create clean, consistent product-gallery hero images for a Shopify store from a supplied SKU photo or an explicitly conceptual product brief. |
+| [Click To Finish](skills/click-to-finish/SKILL.md) | Animate a cursor click, button compression and confirmation that folds into a branded call to action. |
 | [Client Offer Builder](skills/client-offer-builder/SKILL.md) | Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions. |
 | [Clip Assembler](skills/clip-assembler/SKILL.md) | Turn approved artwork and clips into a short MP4 and optional GIF with an editable timeline and measured export report. |
 | [Collection Thumbnails](skills/collection-thumbnails/SKILL.md) | Create a text-free square collection image for a small Amazon Store tile, with a clear product family and space for native link text. |
