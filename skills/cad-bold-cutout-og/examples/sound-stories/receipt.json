@@ -1,0 +1,17 @@
+{
+  "id": "sound-stories",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "e98e015043bcfbeba544f4e74afa5aea21d529bbb6d8f85df1d5df4a627f4703",
+  "bytes": 2368973,
+  "reviewed": true,
+  "review": "Natural editorial portrait, microphone and readable contrasting type; no recognizable product mark.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand SOUNDROOM.\nUse case: ads-marketing; Bold Cutout OG.\nContext: A fictional independent podcast studio cover.\nArt direction: Warm red field meets a black diagonal wedge. Close photographic portrait cutout of a fictional South Asian adult male podcast host wearing silver headphones on the left, studio microphone in foreground. Oversized ivory stacked sans type on the right, small mustard audio-wave shape, textured editorial lighting.\nExact headline (preserve intentional line breaks): \"Good stories\ndeserve a mic.\"\nExact small wordmark: \"SOUNDROOM\"\nExact supporting line: \"A space to record what matters\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}
