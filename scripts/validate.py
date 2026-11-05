@@ -9,6 +9,8 @@ from sync import safe, SKIP_DIRS
 root = Path(__file__).resolve().parents[1]
 catalog = json.loads((root / 'catalog.json').read_text())
 errors = []
+if not catalog.get('publicReleaseReady'):
+    errors.append('The catalogue is not cleared for public release')
 packages = [s['package'] for s in catalog['skills']]
 if len(packages) != len(set(packages)):
     errors.append('Duplicate skill package')
@@ -19,6 +21,11 @@ for relative, digest in catalog['files'].items():
     elif hashlib.sha256(path.read_bytes()).hexdigest() != digest:
         errors.append(f'Changed file: {relative}')
 for skill in catalog['skills']:
+    if not skill['original'] or skill.get('publication') != 'original-mit':
+        errors.append(f'Uncleared package: {skill["package"]}')
+    if skill['path'] != 'skills/' + skill['package'] or not re.fullmatch(r'[a-z0-9-]+', skill['package']):
+        errors.append('Invalid skill path')
+        continue
     path = root / skill['path'] / 'SKILL.md'
     body = path.read_text() if path.exists() else ''
     if not re.search(r'^name:\s*' + re.escape(skill['package']) + r'\s*$', body, re.M):

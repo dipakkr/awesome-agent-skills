@@ -32,7 +32,7 @@ def safe(relative):
                 relative.suffix.lower() in {'.pem', '.key', '.p12', '.pfx'})
 
 
-def plan(workspace):
+def plan(workspace, selected):
     catalog = json.loads((workspace / 'fe/src/data/studio/edition-catalog.json').read_text())['skills']
     records = [{
         'package': s['package'], 'name': s['name'], 'description': s['description'],
@@ -50,6 +50,11 @@ def plan(workspace):
                     'site': 'https://claudeai.directory/skills/for/' + path.stem.replace('-downloads', '-founders'),
                     'kind': 'profile', 'original': 'ownership: original-workflow' in body,
                 })
+    records = [record for record in records if record['original']]
+    eligible = {record['package'] for record in records}
+    if selected - eligible:
+        raise ValueError(f'Not an eligible original site skill: {sorted(selected - eligible)}')
+    records = [record for record in records if record['package'] in selected]
     files, omitted = {}, []
     for record in sorted(records, key=lambda s: s['package']):
         name = record['package']
@@ -96,10 +101,14 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--workspace', type=Path, default=REPO.parent)
     parser.add_argument('--check', action='store_true', help='Check source coverage and byte parity without writing')
+    parser.add_argument('--skill', help='Add one original skill; existing packages remain included')
     args = parser.parse_args()
-    files, manifest = plan(args.workspace.resolve())
     manifest_path = REPO / 'catalog.json'
-    previous = json.loads(manifest_path.read_text()) if manifest_path.exists() else {'files': {}}
+    previous = json.loads(manifest_path.read_text()) if manifest_path.exists() else {'skills': [], 'files': {}}
+    selected = {skill['package'] for skill in previous['skills']}
+    if args.skill:
+        selected.add(args.skill)
+    files, manifest = plan(args.workspace.resolve(), selected)
     # Check every conflict before writing anything. Local edits must be reconciled
     # back to the authoring sources explicitly, not discarded by a bulk sync.
     for relative, data in files.items():
