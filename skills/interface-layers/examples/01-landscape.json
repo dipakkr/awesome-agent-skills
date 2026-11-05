@@ -1,0 +1,25 @@
+{
+  "mode": "exploded",
+  "format": "landscape",
+  "brand": "LAYER",
+  "headline": "Understand what is underneath.",
+  "ending": "Every layer has a purpose.",
+  "cta": "Explore the anatomy",
+  "item": "A connected workspace",
+  "labels": [
+    "Foundation",
+    "Logic",
+    "Interface"
+  ],
+  "details": [
+    "Structured information",
+    "A visible working model",
+    "A clear place to act"
+  ],
+  "accent": "#6745b3",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}

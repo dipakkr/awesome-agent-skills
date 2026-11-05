@@ -337,6 +337,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "interface-layers",
+      "name": "Interface Layers",
+      "description": "Separate interface layers in perspective, explain their roles and reassemble the product.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/interface-layers",
+      "publication": "original-mit"
+    },
+    {
       "package": "listing-copywriter",
       "name": "Listing Copywriter",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -1161,6 +1170,26 @@
     "skills/ink-cut-covers/references/example-guide.json": "5be86bd81f2b10aa1d102f11c573e0e2925e81583c9667cfc5ac5f7dcffff3ad",
     "skills/ink-cut-covers/references/examples.json": "621f7a79c8689e50fbc70e554fc106ed2a7aa46894f62bd75e1129565c459e44",
     "skills/ink-cut-covers/references/usage-examples.md": "1855cfca5211707eea77a4a48d21a24e97ee637e276ea8ce2214d79c47006526",
+    "skills/interface-layers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/interface-layers/SKILL.md": "f597a93b87a3cf2ef83cce2f9ac239605627425f3d832e09f870e103eef7a2d8",
+    "skills/interface-layers/examples/01-landscape.json": "b2bf154627cadc64569f4505bf92646c150ee28ece1fc8ca5e9c103591dde27c",
+    "skills/interface-layers/examples/02-square.json": "199f37b669833f8f4765a2988f1324f7f2380900be5a47d41741568f678caa80",
+    "skills/interface-layers/references/art-direction.md": "050b4f0d3ea506711c7b2525e628668e0686673d1e4f10eb6d21e5d0765cb7fb",
+    "skills/interface-layers/references/input.md": "d8c9086456232565f5d081f9f57d50254b193f73528ac19d45493c9fa9f84e9d",
+    "skills/interface-layers/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/interface-layers/references/quickstart.md": "fcbc16bd9da054d2ba66c10a00b608853f07e3627ccad43c94aecc0e5c1497e6",
+    "skills/interface-layers/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/interface-layers/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/interface-layers/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/interface-layers/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/interface-layers/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/interface-layers/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/interface-layers/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/interface-layers/renderer/src/Exploded.jsx": "c4040f55b200bfe345c478f24d18040be3151018f5ba86e0a5d7d061085f0eb2",
+    "skills/interface-layers/renderer/src/Film.jsx": "4b90d45ab41a2101585d7fe958c205f9d4bb6dbf14370461fc1a508aca3f65ad",
+    "skills/interface-layers/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/interface-layers/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/interface-layers/renderer/src/model.mjs": "4aca08eea89922d4d6554ba53496cb544d44d4d22c838f42b27c62a741daf447",
     "skills/listing-copywriter/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/listing-copywriter/SKILL.md": "c6ca637c8869980275bab5a5119eb65a0cacdda4b9ffc91a2729282600df98be",
     "skills/listing-copywriter/agents/openai.yaml": "0eb16b6f926d2c195e4ca8eb647a93cdd23ed56748f033365a53f37551af9aa7",
@@ -4354,6 +4383,62 @@
     },
     {
       "path": "skills/identity-playbook/examples/roam/roam.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/interface-layers/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
