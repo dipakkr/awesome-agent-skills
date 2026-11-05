@@ -391,6 +391,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "little-team-story",
+      "name": "Little Team Story",
+      "description": "Create a character-led product launch with three original geometric helpers, editable interface tasks and a final human-review message. Use for team workflows and assistant concepts.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/little-team-story",
+      "publication": "original-mit"
+    },
+    {
       "package": "memory-drills",
       "name": "Memory Drills",
       "description": "Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key.",
@@ -1303,6 +1312,23 @@
     "skills/listing-copywriter/references/listing-export.md": "9f09d27030b5eb9158b275b47cd81e5f9cd412414b2c16cc7eb61ed03a6ac547",
     "skills/listing-copywriter/references/workspace.md": "3ea6cf723d54e0b9d61cfa1015ba5412ee42ac49451c46bf51cc40079e827ae0",
     "skills/listing-copywriter/scripts/export_listings.py": "ff446b819e4c3b25b5e8998e80c215eaec23ddb26568e15ca6988bbeab0ebe0a",
+    "skills/little-team-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/little-team-story/SKILL.md": "5ccf99d51f393c78403440fd1e04e53b77d8f15c1dacada2f4d953daa7f15d35",
+    "skills/little-team-story/agents/openai.yaml": "40af45f1cb6215634950b998e90a0439d1128320033b90b682ea7b032e47f84c",
+    "skills/little-team-story/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/little-team-story/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/little-team-story/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/little-team-story/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/little-team-story/config.json": "aa15a8a4d88a4ec9037c0e050c5bcf92ec8074392f018e07a1c6a714fcfd1826",
+    "skills/little-team-story/examples/01.json": "a28bb4ffc18af5cc685a40a376c10a8a776e4b2289fc56e34ee79325a02dd1fd",
+    "skills/little-team-story/examples/02.json": "ecde0c5b05dd27aeb0bd98350fbe9eb9488145fb1e73113d198fcff3d057a247",
+    "skills/little-team-story/examples/03.json": "c6408e9f1d0b6e1a08b5ab8ac052078b4ceeee916e16472692c7d701e570e6bf",
+    "skills/little-team-story/examples/04.json": "8e809fffd092b7b1f96f4304f6c89a2a097a58df35aac63a27c79f8b032c5278",
+    "skills/little-team-story/references/credits.md": "b5211e82fc02c439bdea8bb7fc56ee0b2e93313c29ac0a7523f95537fc9224f6",
+    "skills/little-team-story/references/example-guide.json": "b120955e8b16879ea393eb5eb39b05eb23337f734fed54f6594c3f58ad65c7a0",
+    "skills/little-team-story/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
+    "skills/little-team-story/references/usage-examples.md": "14c74b618ca8fe6dcf6cf992970fc12ec6ae9b8a2975ef0e5bd3061987ff1c1f",
+    "skills/little-team-story/scripts/render.py": "0a882728f0413344bf15b499bf32a851bdc901c148781df9643f16e657d1ac6d",
     "skills/memory-drills/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/memory-drills/SKILL.md": "fa4b3cf111de94c48c2129b7239b71554aca9341089033c3973ac4967e6382f4",
     "skills/memory-drills/agents/openai.yaml": "82e8ea04083ee765d6e7f6937fa627319a03d158c628f0f159d80fc0d1f45ab9",
@@ -5505,6 +5531,182 @@
     },
     {
       "path": "skills/line-trace-animation/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/01/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/02/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/03/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/little-team-story/examples/recorded/04/review-5.jpg",
       "reason": "rendered example; see website"
     },
     {

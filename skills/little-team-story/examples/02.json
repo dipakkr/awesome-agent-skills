@@ -1,0 +1,18 @@
+{
+  "brand": "Margin Studio",
+  "title": "Meet your design crew",
+  "subtitle": "Bring the brief, interface and review into the same workflow.",
+  "cta": "Explore the studio",
+  "theme": "lavender",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "roles": [
+    "Discover",
+    "Design",
+    "Review"
+  ],
+  "tasks": [
+    "Summarize the design brief",
+    "Prepare the first interface",
+    "Collect the review questions"
+  ]
+}
