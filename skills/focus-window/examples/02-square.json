@@ -1,0 +1,25 @@
+{
+  "mode": "spotlight",
+  "format": "square",
+  "brand": "FOCUS",
+  "headline": "Find the switch that matters.",
+  "ending": "Clarity in every interaction.",
+  "cta": "Try your next workflow",
+  "item": "Studio workspace",
+  "labels": [
+    "Set your preferences",
+    "Follow the action",
+    "Check the outcome"
+  ],
+  "details": [
+    "Collect new ideas",
+    "Sort by project",
+    "Summarize the week"
+  ],
+  "accent": "#7a3bb4",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}

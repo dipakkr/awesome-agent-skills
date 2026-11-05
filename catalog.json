@@ -256,6 +256,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "focus-window",
+      "name": "Focus Window",
+      "description": "Follow a product control with a moving magnification lens, anchored explanation and visible state change.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/focus-window",
+      "publication": "original-mit"
+    },
+    {
       "package": "funding-story",
       "name": "Funding Story",
       "description": "Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone.",
@@ -951,6 +960,26 @@
     "skills/flagship-introduction/renderer/src/Film.jsx": "beaf42bbc6ba2f39b551f0a615b5ed2c3e7a8ee41314cb38f700896f23549a9e",
     "skills/flagship-introduction/renderer/src/index.jsx": "4309949e91babe9751fe9e00d4720a940e91a0e7c78f6f8f7009a0497ab8753f",
     "skills/flagship-introduction/renderer/src/model.mjs": "955af1fffa78822ab5209c61a77975173a82527cde4567e25a5742b7f57a17c4",
+    "skills/focus-window/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/focus-window/SKILL.md": "b80676dd50cb60fae754b4b54f4c3189baa685417cbe92fac5bd779a3e2154cf",
+    "skills/focus-window/examples/01-landscape.json": "4303e4f7c98c5a9358d5c8f69ffb4461715d605ae7ab5ce87ab3b66e0a444636",
+    "skills/focus-window/examples/02-square.json": "ddf038fc26a6d0a4d0942dcc63f51dde27ea04248e33c05f0ed7126675a60b3e",
+    "skills/focus-window/references/art-direction.md": "353b1418dbdeced3f2532c00b91ecf215d91942f3b4543c89848a5579b0a576d",
+    "skills/focus-window/references/input.md": "304963d228f15f1d3a2993da9e80eb4003e8dd8c974fb7cb761cb585e0c4f0b9",
+    "skills/focus-window/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/focus-window/references/quickstart.md": "23ea9237386934b585b3ba3f7c3fd7542493b5a88bb669ed9c2e40b78aa8a7c9",
+    "skills/focus-window/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/focus-window/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/focus-window/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/focus-window/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/focus-window/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/focus-window/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/focus-window/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/focus-window/renderer/src/Film.jsx": "d6b9a434c5e964978520fef1b62b121540961775341db54f6a9cfdcde8e8c347",
+    "skills/focus-window/renderer/src/Spotlight.jsx": "559045bcc2611aa0d8cad2868743dac76f0e920f519c758476b13c308c7cddaf",
+    "skills/focus-window/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/focus-window/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/focus-window/renderer/src/model.mjs": "273c633150e021718cf032e480f32e2dd0292be4220d6f58bf85cdf5ec05cdcb",
     "skills/funding-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/funding-story/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/funding-story/README.md": "2e2095807c91b1d54dba23edafdd19c8422c4a93bbfc01cf23010d0fb006cd38",
@@ -3650,6 +3679,62 @@
     },
     {
       "path": "skills/flagship-introduction/examples/recorded/03-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/focus-window/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
