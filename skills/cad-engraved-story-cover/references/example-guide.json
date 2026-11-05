@@ -1,0 +1,43 @@
+{
+  "skill": "cad-engraved-story-cover",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Finding a direction",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "e2d306e2740023144e03e62408a9076bc789fd9cf51b1f58792322bbbb0ecc33",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-engraved-story-cover. Create a new output based on the packaged example \"Finding a direction\". Brief: An original illustration for an essay about choosing priorities. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Knowledge takes root",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "27ddb495e9d1b86d5105040ed348b1bdb7c77e1ea9decffed30605585b93ee5d",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-engraved-story-cover. Create a new output based on the packaged example \"Knowledge takes root\". Brief: An original learning metaphor for an article cover. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Carry a little light",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "e15fa6d301478369e340264db3faab009ba69494beba7dc1cd0638a81e2cf9a7",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-engraved-story-cover. Create a new output based on the packaged example \"Carry a little light\". Brief: An original resilience metaphor, without claims about a person. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Bridging perspectives",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "b9b157ea99993a0f057ee330b0b8ed7e5d9c21934d817d4e467cc3d90f645956",
+      "width": 1672,
+      "height": 940,
+      "invocation": "Use $cad-engraved-story-cover. Create a new output based on the packaged example \"Bridging perspectives\". Brief: An original editorial metaphor for collaboration. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
