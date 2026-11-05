@@ -238,6 +238,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "field-gear-campaign",
+      "name": "Field Gear Campaign",
+      "description": "Create sports and outdoor product ads with credible settings, accurate equipment and a clear reason to explore.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/field-gear-campaign",
+      "publication": "original-mit"
+    },
+    {
       "package": "funding-story",
       "name": "Funding Story",
       "description": "Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone.",
@@ -903,6 +912,17 @@
     "skills/everyday-product-scenes/references/example-guide.json": "653cf2901045b97d21690765d377805518a320d000c97e49bf4b891262e09fe3",
     "skills/everyday-product-scenes/references/platform-notes.md": "842c1ea0a478ab7085762545ea30617b15c3af35ab9ed43d9e57d38ac22f9188",
     "skills/everyday-product-scenes/references/usage-examples.md": "735b78ed355dbdb8595ab4c39df28dbdbc61713f19a80cae19aa1f8b452f8b8d",
+    "skills/field-gear-campaign/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/field-gear-campaign/SKILL.md": "491899ae154146d3f5085620cf738a3ffcc80d2090307079d7db936ddb0bb7d7",
+    "skills/field-gear-campaign/agents/openai.yaml": "3ccad92bc38dff9e55e430d13bc843ca6d16fb2eea8a3b67405915affabb61a0",
+    "skills/field-gear-campaign/examples/gallery/01.webp": "8aea988d7e98bc02e9abdc9cf6c601e05e95fbaf34d926968c647dca35516a7d",
+    "skills/field-gear-campaign/examples/gallery/02.webp": "1fedda09339239f1a52fb7862372f2bdbc78a84b1baaf3f446ccf660b15bbd15",
+    "skills/field-gear-campaign/examples/gallery/03.webp": "5f2336a18a988b3d6046622e100781ef5a098089a5d9094b038f2f85679447d7",
+    "skills/field-gear-campaign/examples/gallery/04.webp": "22ce72501c0c1277d778a3b8d5e312317c10e5d95705065330a9773074c41ade",
+    "skills/field-gear-campaign/references/example-guide.json": "9e0069b9cc55eb6101b0739b3f6af2c577ab5986f69fca46abbe21c1972ba669",
+    "skills/field-gear-campaign/references/examples.json": "d6341c81e700198e9fbec24d48cff90c6b2445d498e027a42f53a90e29959ada",
+    "skills/field-gear-campaign/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
+    "skills/field-gear-campaign/references/usage-examples.md": "bde47625353513362d9919a7ae35fe9d773caf517cd5d657061aa55792ccfd09",
     "skills/funding-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/funding-story/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/funding-story/README.md": "2e2095807c91b1d54dba23edafdd19c8422c4a93bbfc01cf23010d0fb006cd38",
