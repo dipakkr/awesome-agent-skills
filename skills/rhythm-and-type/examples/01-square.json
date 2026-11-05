@@ -1,0 +1,31 @@
+{
+  "mode": "promo",
+  "format": "square",
+  "brand": "SHIFT",
+  "category": "A design festival concept",
+  "hook": "Make\nsomething move.",
+  "promise": "Good ideas\ndeserve a stage.",
+  "words": [
+    "Think",
+    "Make",
+    "Move"
+  ],
+  "steps": [
+    "Find an idea",
+    "Make it real",
+    "Put it out there"
+  ],
+  "projects": [
+    "Think",
+    "Make",
+    "Move"
+  ],
+  "task": "Create a motion design festival campaign",
+  "cta": "Explore the programme",
+  "url": "shift.example",
+  "accent": "#d7ff3f",
+  "theme": "black",
+  "motif": "rings",
+  "seed": 28,
+  "concept": true
+}
