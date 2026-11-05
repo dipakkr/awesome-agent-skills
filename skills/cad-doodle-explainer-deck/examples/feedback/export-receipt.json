@@ -1,0 +1,21 @@
+{
+  "title": "Feedback that gives a direction",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "e3c17e89da4dea6d6ddbd33cc15cabf958e23864f1cdbd8f771b786fef77f63e",
+  "outputs": [
+    {
+      "file": "feedback.html",
+      "sha256": "f79bd2122528361412b86ea5cd054a15aa79e1e6465d10e556eb652a2973b3ca",
+      "bytes": 5314720
+    },
+    {
+      "file": "feedback.pptx",
+      "sha256": "03d28b73c00933a7409145f019fc32cfe3d2a086341fbdecdd84ad5f261aa6fd",
+      "bytes": 1852810
+    }
+  ]
+}

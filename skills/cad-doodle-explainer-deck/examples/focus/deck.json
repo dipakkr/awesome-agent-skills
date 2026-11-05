@@ -1,0 +1,591 @@
+{
+  "title": "Protect a little focus",
+  "font": "Courier New",
+  "disclosure": "Fictional example. Adapt to your own brief.",
+  "design": {
+    "name": "Red Ink Manifesto",
+    "grammar": "Red poster fields, black ink illustration, monumental type and a contrasting cream workbook.",
+    "audience": "Facilitators"
+  },
+  "slides": [
+    {
+      "background": "#AE3829",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "ATTENTION / A FIELD GUIDE",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "PROTECT\nA LITTLE\nFOCUS.",
+          "x": 52,
+          "y": 145,
+          "w": 700,
+          "h": 360,
+          "size": 90,
+          "color": "#FFF4DF",
+          "font": "Arial Black",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 815,
+          "y": 112,
+          "w": 410,
+          "h": 470,
+          "fill": "#FFFDF4",
+          "radius": 0
+        },
+        {
+          "kind": "image",
+          "src": "assets/doodle-focus.png",
+          "x": 830,
+          "y": 225,
+          "w": 380,
+          "h": 253,
+          "alt": "Original concept artwork: doodle focus"
+        },
+        {
+          "kind": "text",
+          "text": "One small boundary.\nA better working day.",
+          "x": 820,
+          "y": 612,
+          "w": 390,
+          "h": 65,
+          "size": 23,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Fictional example / Doodle Explainer Deck",
+          "x": 53,
+          "y": 698,
+          "w": 1000,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "A tiny experiment in working with fewer interruptions.\n\nIllustration is an explanation, not evidence. Do not turn unverified psychology claims into facts or add fake research citations."
+    },
+    {
+      "background": "#AE3829",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "RED INK MANIFESTO / THE IDEA",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A focus block has three edges.",
+          "x": 52,
+          "y": 96,
+          "w": 1130,
+          "h": 145,
+          "size": 55,
+          "color": "#FFF4DF",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "RED INK MANIFESTO",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "02",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 260,
+          "w": 105,
+          "h": 360,
+          "fill": "#EDC862",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "01",
+          "x": 70,
+          "y": 284,
+          "w": 80,
+          "h": 60,
+          "size": 35,
+          "color": "#182A35",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Before",
+          "x": 192,
+          "y": 277,
+          "w": 355,
+          "h": 90,
+          "size": 30,
+          "color": "#FFF4DF",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Choose one finishable piece of work.",
+          "x": 570,
+          "y": 280,
+          "w": 615,
+          "h": 96,
+          "size": 26,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 190,
+          "y": 378,
+          "w": 1010,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "02",
+          "x": 70,
+          "y": 402,
+          "w": 80,
+          "h": 60,
+          "size": 35,
+          "color": "#182A35",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "During",
+          "x": 192,
+          "y": 395,
+          "w": 355,
+          "h": 90,
+          "size": 30,
+          "color": "#FFF4DF",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Park interruptions in a separate note.",
+          "x": 570,
+          "y": 398,
+          "w": 615,
+          "h": 96,
+          "size": 26,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 190,
+          "y": 496,
+          "w": 1010,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "03",
+          "x": 70,
+          "y": 520,
+          "w": 80,
+          "h": 60,
+          "size": 35,
+          "color": "#182A35",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "After",
+          "x": 192,
+          "y": 513,
+          "w": 355,
+          "h": 90,
+          "size": 30,
+          "color": "#FFF4DF",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Record what moved and what got in the way.",
+          "x": 570,
+          "y": 516,
+          "w": 615,
+          "h": 96,
+          "size": 26,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 190,
+          "y": 614,
+          "w": 1010,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        }
+      ],
+      "notes": "Use a live example from the group. Ask participants to explain each step back.\n\nIllustration is an explanation, not evidence. Do not turn unverified psychology claims into facts or add fake research citations."
+    },
+    {
+      "background": "#AE3829",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "RED INK MANIFESTO / THE CONTEXT",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Design a small experiment.",
+          "x": 52,
+          "y": 96,
+          "w": 1130,
+          "h": 145,
+          "size": 55,
+          "color": "#FFF4DF",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "RED INK MANIFESTO",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "03",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 55,
+          "y": 265,
+          "w": 470,
+          "h": 340,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "25",
+          "x": 90,
+          "y": 280,
+          "w": 400,
+          "h": 200,
+          "size": 150,
+          "color": "#AE3829",
+          "font": "Arial Black",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "MINUTES",
+          "x": 95,
+          "y": 483,
+          "w": 390,
+          "h": 65,
+          "size": 40,
+          "color": "#AE3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "For the next 25 minutes, I will\u2026",
+          "x": 580,
+          "y": 269,
+          "w": 600,
+          "h": 75,
+          "size": 29,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 580,
+          "y": 360,
+          "w": 600,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "If something interrupts, I will\u2026",
+          "x": 580,
+          "y": 379,
+          "w": 600,
+          "h": 75,
+          "size": 29,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 580,
+          "y": 470,
+          "w": 600,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "At the end, I will check\u2026",
+          "x": 580,
+          "y": 489,
+          "w": 600,
+          "h": 75,
+          "size": 29,
+          "color": "#FFF4DF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 580,
+          "y": 580,
+          "w": 600,
+          "h": 1,
+          "fill": "#FFF4DF",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Exercise: write first, then discuss.",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Give participants two minutes to write. Invite a specific example, not a perfect answer.\n\nIllustration is an explanation, not evidence. Do not turn unverified psychology claims into facts or add fake research citations."
+    },
+    {
+      "background": "#FFF4DF",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "RED INK MANIFESTO / THE APPROACH",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#AE3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Start smaller.\nFinish something.",
+          "x": 52,
+          "y": 96,
+          "w": 1130,
+          "h": 145,
+          "size": 55,
+          "color": "#AE3829",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#AE3829",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "RED INK MANIFESTO",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#AE3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "04",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#AE3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 54,
+          "y": 275,
+          "w": 7,
+          "h": 320,
+          "fill": "#EDC862",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Adjust the duration to your work. This is an experiment, not a productivity promise.",
+          "x": 97,
+          "y": 283,
+          "w": 1095,
+          "h": 310,
+          "size": 48,
+          "color": "#AE3829",
+          "font": "Arial Black",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Try one small change and review what happened.",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Adjust the duration to your work. This is an experiment, not a productivity promise.\n\nIllustration is an explanation, not evidence. Do not turn unverified psychology claims into facts or add fake research citations."
+    }
+  ]
+}
