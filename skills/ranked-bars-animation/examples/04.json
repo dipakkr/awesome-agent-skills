@@ -1,0 +1,27 @@
+{
+  "brand": "Signal Lab",
+  "title": "Compare four test runs",
+  "subtitle": "Fictional task durations for a chart demonstration.",
+  "theme": "cobalt",
+  "source": "Illustrative data · fictional example · not measured results",
+  "items": [
+    {
+      "label": "Run A",
+      "value": 42
+    },
+    {
+      "label": "Run B",
+      "value": 31
+    },
+    {
+      "label": "Run C",
+      "value": 37
+    },
+    {
+      "label": "Run D",
+      "value": 25
+    }
+  ],
+  "unit": "Seconds",
+  "scale_max": 60
+}

@@ -1,0 +1,27 @@
+{
+  "brand": "Civic Lab",
+  "title": "How a day is allocated",
+  "subtitle": "Four categories, one fixed scale in hours.",
+  "theme": "chalk",
+  "source": "Illustrative data · fictional example · not measured results",
+  "items": [
+    {
+      "label": "Research",
+      "value": 3.5
+    },
+    {
+      "label": "Build",
+      "value": 6
+    },
+    {
+      "label": "Review",
+      "value": 2
+    },
+    {
+      "label": "Support",
+      "value": 4.5
+    }
+  ],
+  "unit": "Hours",
+  "scale_max": 8
+}

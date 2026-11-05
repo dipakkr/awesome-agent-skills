@@ -1,0 +1,27 @@
+{
+  "brand": "Seed Room",
+  "title": "Capacity by workshop",
+  "subtitle": "Sample seat counts for four fictional sessions.",
+  "theme": "rose",
+  "source": "Illustrative data · fictional example · not measured results",
+  "items": [
+    {
+      "label": "Printmaking",
+      "value": 18
+    },
+    {
+      "label": "Bookbinding",
+      "value": 12
+    },
+    {
+      "label": "Ceramics",
+      "value": 24
+    },
+    {
+      "label": "Weaving",
+      "value": 16
+    }
+  ],
+  "unit": "Seats",
+  "scale_max": 32
+}

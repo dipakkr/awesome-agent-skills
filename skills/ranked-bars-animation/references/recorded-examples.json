@@ -1,0 +1,310 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $ranked-bars-animation to create \"How a day is allocated\" for the fictional Civic Lab. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "bars",
+      "sourceSha256": "f185935d23dd370697cfc7061665ea9a325a79286424aa23bbd61b316dc25cef",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7d0824104c057256f3631851e8cbe2a2596ea40d1ad47de26bf7cecafa5da4d",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "25519303f72a50e93935cabd4a0497dfb94986691325b34dd0e78de14657c1c3",
+          "bytes": 510
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "92bdc7d95aea6e5c586ee494dda6c208b7a2cc66332dbf9cd2753733f0d9e12b",
+          "bytes": 135818
+        },
+        "poster.png": {
+          "sha256": "f295fcfbb56b3c4ab382d1ac386b7b3100efadc80c7abe87297dc05869b1360c",
+          "bytes": 73509
+        },
+        "preview.html": {
+          "sha256": "025a9a8fb8cd5496c8b1a3aa3656ee96ac5e7ff002d8bfeaff62437dd164dbec",
+          "bytes": 577
+        },
+        "review-01.png": {
+          "sha256": "20e3b213eedd98c6050fb83f6c14386e41eb1fbec2a80c0d174ea07e5090c7ec",
+          "bytes": 65096
+        },
+        "review-02.png": {
+          "sha256": "20e3b213eedd98c6050fb83f6c14386e41eb1fbec2a80c0d174ea07e5090c7ec",
+          "bytes": 65096
+        },
+        "review-03.png": {
+          "sha256": "abdfbc5848053f62eb9f1a3b76feb3982ea2c01ee71fa01e06f64d02da800946",
+          "bytes": 67942
+        },
+        "review-04.png": {
+          "sha256": "f295fcfbb56b3c4ab382d1ac386b7b3100efadc80c7abe87297dc05869b1360c",
+          "bytes": 73509
+        },
+        "review-05.png": {
+          "sha256": "f295fcfbb56b3c4ab382d1ac386b7b3100efadc80c7abe87297dc05869b1360c",
+          "bytes": 73509
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $ranked-bars-animation to create \"What readers chose\" for the fictional Open Shelf. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "bars",
+      "sourceSha256": "160ffd6557b2f88710722e516a198b183596155213216f4a5a8f53bd09f2e0d0",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7d0824104c057256f3631851e8cbe2a2596ea40d1ad47de26bf7cecafa5da4d",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "e3da79a41f54a954292f2ad5e125132e6b71453c5401ace0ac58e70c8f947511",
+          "bytes": 522
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "6a4f3963f51bfb185222c93d52dac0ffbf3f5594ba0bf568f23878ba9a290b63",
+          "bytes": 166972
+        },
+        "poster.png": {
+          "sha256": "2afba1c9727c814f00c9b7803781dfc2bd85328149c14f6bfe70c3b04440a78c",
+          "bytes": 76710
+        },
+        "preview.html": {
+          "sha256": "005c6b56ca989adcbdf81f169883bcbd842a63fe268b4d5beac0d416f9586619",
+          "bytes": 569
+        },
+        "review-01.png": {
+          "sha256": "53d619e4109d55c7dca3b7043e73e895ca443e72858ae1348e398c7ac0e041a6",
+          "bytes": 66824
+        },
+        "review-02.png": {
+          "sha256": "53d619e4109d55c7dca3b7043e73e895ca443e72858ae1348e398c7ac0e041a6",
+          "bytes": 66824
+        },
+        "review-03.png": {
+          "sha256": "759cb297ec3febeda3f95a1daa96c91d0ac29aac913088942469daa80eed7a97",
+          "bytes": 69421
+        },
+        "review-04.png": {
+          "sha256": "2afba1c9727c814f00c9b7803781dfc2bd85328149c14f6bfe70c3b04440a78c",
+          "bytes": 76710
+        },
+        "review-05.png": {
+          "sha256": "2afba1c9727c814f00c9b7803781dfc2bd85328149c14f6bfe70c3b04440a78c",
+          "bytes": 76710
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $ranked-bars-animation to create \"Capacity by workshop\" for the fictional Seed Room. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "bars",
+      "sourceSha256": "a287d2171a15fac0056ee50acd5448f7473e866737d097caec400b30ab49a195",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7d0824104c057256f3631851e8cbe2a2596ea40d1ad47de26bf7cecafa5da4d",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "c1f9ba6fc05e5b6f2c06aceca3c5782c8b73561899987f6ce6348c5cf85ddb95",
+          "bytes": 524
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "b639e99a15a307282f6b5b7d9e56ad5b96ac57ca8030273b979af4ecfb3b43c4",
+          "bytes": 152172
+        },
+        "poster.png": {
+          "sha256": "f00e8fe6273791451a6ac1ddaaa8651f8eb5fb43feb7519d220caa119fb65c23",
+          "bytes": 80370
+        },
+        "preview.html": {
+          "sha256": "3863aec3ff57e62e558763becd3de7d02161cda67f6ff810d0f92ec4bac1c1f6",
+          "bytes": 573
+        },
+        "review-01.png": {
+          "sha256": "110a338a13e9a71c0c302db137ab535be91bb75c672a676d85ebe333a71543ee",
+          "bytes": 71147
+        },
+        "review-02.png": {
+          "sha256": "110a338a13e9a71c0c302db137ab535be91bb75c672a676d85ebe333a71543ee",
+          "bytes": 71147
+        },
+        "review-03.png": {
+          "sha256": "461c89dea0c60d85db087f463aa0f3f444050a94a69fcd3c2a20fbbab28ff93a",
+          "bytes": 72638
+        },
+        "review-04.png": {
+          "sha256": "f00e8fe6273791451a6ac1ddaaa8651f8eb5fb43feb7519d220caa119fb65c23",
+          "bytes": 80370
+        },
+        "review-05.png": {
+          "sha256": "f00e8fe6273791451a6ac1ddaaa8651f8eb5fb43feb7519d220caa119fb65c23",
+          "bytes": 80370
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $ranked-bars-animation to create \"Compare four test runs\" for the fictional Signal Lab. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "bars",
+      "sourceSha256": "01c84e6c4a45ad7ecf25091b9066276126a7a852b96f593a055be0107dd57681",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "b7d0824104c057256f3631851e8cbe2a2596ea40d1ad47de26bf7cecafa5da4d",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "af29605a6a8007b85839b6bdbb0069b573804f668fdbb5a0659eb893904d2d6a",
+          "bytes": 518
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "39431b6665e5c67548140ce2701cc83361752fe495ef89c36e4d71d4811b152f",
+          "bytes": 170853
+        },
+        "poster.png": {
+          "sha256": "a160757284bb66107f0f4e55d93639e643518301b5c0b1730bab4dc042d2aee7",
+          "bytes": 71878
+        },
+        "preview.html": {
+          "sha256": "0c175f9c1d73b6b7d82cbb69d3d7cbc9748337568796c8cc206c0265d66344be",
+          "bytes": 577
+        },
+        "review-01.png": {
+          "sha256": "6afa78f375b8041d5d7b2cfd187ff0c09464e0c50d375297c4a226a4dd664a73",
+          "bytes": 61523
+        },
+        "review-02.png": {
+          "sha256": "6afa78f375b8041d5d7b2cfd187ff0c09464e0c50d375297c4a226a4dd664a73",
+          "bytes": 61523
+        },
+        "review-03.png": {
+          "sha256": "31f37968606ae3caa387f3ad11a0fd3960c1e9d8d845c3d81b3983afd1983172",
+          "bytes": 62932
+        },
+        "review-04.png": {
+          "sha256": "a160757284bb66107f0f4e55d93639e643518301b5c0b1730bab4dc042d2aee7",
+          "bytes": 71878
+        },
+        "review-05.png": {
+          "sha256": "a160757284bb66107f0f4e55d93639e643518301b5c0b1730bab4dc042d2aee7",
+          "bytes": 71878
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]

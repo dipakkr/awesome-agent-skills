@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ranked Bars Animation"
+  short_description: "Create editable bar charts with recorded examples"
+  default_prompt: "Use $ranked-bars-animation to turn my brief into an original motion piece and deliver the rendered files plus editable inputs."
