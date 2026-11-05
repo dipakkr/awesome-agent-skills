@@ -1,0 +1,21 @@
+{
+  "title": "Morrow: a good morning nearby",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "218747c1ce6ae89e19f7e89d0bffe9dcd15f7e93ad5653067c26032889f94cc0",
+  "outputs": [
+    {
+      "file": "morrow.html",
+      "sha256": "8bea4358d7593e21fd2bbaa37a03a9974cd8cd1d601c4624831ac29aabd012bb",
+      "bytes": 6537933
+    },
+    {
+      "file": "morrow.pptx",
+      "sha256": "7fc062459fa43289d8bfdfeee134e7a76a0c254849e5db8a3538a9c5a83edd7d",
+      "bytes": 2377218
+    }
+  ]
+}

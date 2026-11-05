@@ -16,5 +16,6 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Article Briefing Deck | [Files](skills/cad-article-briefing-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/article-briefing-deck) | Original / MIT |
 | Beauty Product Ads | [Files](skills/cad-beauty-product-ads/SKILL.md) | [Preview and download](https://claudeai.directory/skills/beauty-product-ads) | Original / MIT |
 | Bold Cutout OG | [Files](skills/cad-bold-cutout-og/SKILL.md) | [Preview and download](https://claudeai.directory/skills/bold-cutout-og) | Original / MIT |
+| Brand Strategy Deck | [Files](skills/cad-brand-strategy-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/brand-strategy-deck) | Original / MIT |
 | Ecommerce Product Listing | [Files](skills/cad-ecommerce-product-listing/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
 | Ecommerce Store Brief | [Files](skills/cad-ecommerce-store-brief/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |

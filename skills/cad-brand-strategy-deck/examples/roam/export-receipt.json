@@ -1,0 +1,21 @@
+{
+  "title": "ROAM: coffee for the long way",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "8a53d4c7900122224cb693e616022f6002d7e3e9c59b5ed237a75b376b6836c7",
+  "outputs": [
+    {
+      "file": "roam.html",
+      "sha256": "6d7931c0fa78f2d7e9f5398ba9e3626006fe13a38cc6d59f15a490efc982a3a2",
+      "bytes": 7028227
+    },
+    {
+      "file": "roam.pptx",
+      "sha256": "db80b33ac55c0cea4ca136a50ef8f64ed618d2a0ad3928fc31876f516762485d",
+      "bytes": 2588138
+    }
+  ]
+}

@@ -124,6 +124,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-brand-strategy-deck",
+      "name": "Brand Strategy Deck",
+      "description": "Present positioning, visual principles, voice and applications as one coherent brand direction with editable guidance.",
+      "site": "https://claudeai.directory/skills/brand-strategy-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-brand-strategy-deck",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -323,6 +333,33 @@
     "skills/cad-bold-cutout-og/references/examples.json": "927245d8886c51990bc7ca9dc4b100badf2d2069bba7082e23cb975451a35d31",
     "skills/cad-bold-cutout-og/references/image-tools.md": "16b6fc1b7fd5d3595f7e577f29ecc659dfbc2d0efacc0c95716e26ec2a591318",
     "skills/cad-bold-cutout-og/references/usage-examples.md": "8c92ac65ee5f7c5c0d534c933725f6319df14c660266e4f85379d55b97171b04",
+    "skills/cad-brand-strategy-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-brand-strategy-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-brand-strategy-deck/README.md": "c9e2aa2b34c16eb3966076df70741105b12424c6f8a50631717064ef26fe4ba8",
+    "skills/cad-brand-strategy-deck/SKILL.md": "3e9fb6d839cfc45162d26b8ec8ad843dc284a35b421abec7348c2edccdcecd15",
+    "skills/cad-brand-strategy-deck/agents/openai.yaml": "32ea75d2bcab9ef782df3b22635a96e9fb80e8b65130c4f8a8555b3d8cd071b5",
+    "skills/cad-brand-strategy-deck/examples/form/assets/brand-form.png": "5a2cc12e2d8fb28314adeac84bb2800dd92fc7ea2cc67adc6bd03bda8ec9f593",
+    "skills/cad-brand-strategy-deck/examples/form/brief.md": "1aa4db870f02fd1917469fe9183b7181b06beb37013b1f58094de490c330f672",
+    "skills/cad-brand-strategy-deck/examples/form/deck.json": "9a86cb86d2153b9edc5b957dda3b0331e589db8a82a806dc2a872f2ca7061dce",
+    "skills/cad-brand-strategy-deck/examples/form/export-receipt.json": "768ac8d46d94ff4d0a5abf85009ea9f7f06b03ccd76ff23292a45a4c0421d902",
+    "skills/cad-brand-strategy-deck/examples/gallery/01.webp": "753a333ce66f5f7a00e2ee4a30ee4d296c5c9fe8b23dcd54fc2b4cf1a7669203",
+    "skills/cad-brand-strategy-deck/examples/gallery/02.webp": "1c670eafb62288397731d03f22482c137cde4c31322b09b0f640748805eb8097",
+    "skills/cad-brand-strategy-deck/examples/gallery/03.webp": "e7e2ba26757b9c6e7c4bb27f37867bf752c6a743ca72c1f5ff870f37d04d68f6",
+    "skills/cad-brand-strategy-deck/examples/morrow/assets/brand-morrow.png": "c26cf4c787543798ddd8baddefa5f67027d0d55698f66ae4106eaa58b7fc189a",
+    "skills/cad-brand-strategy-deck/examples/morrow/brief.md": "47e64e47bd518e314d794585aa02d0ac468555968533d22e17604aab52a5726a",
+    "skills/cad-brand-strategy-deck/examples/morrow/deck.json": "218747c1ce6ae89e19f7e89d0bffe9dcd15f7e93ad5653067c26032889f94cc0",
+    "skills/cad-brand-strategy-deck/examples/morrow/export-receipt.json": "2040d20641a4c35a93f685b7b28dd1f735147a6726fd2398c4af295368c2e642",
+    "skills/cad-brand-strategy-deck/examples/roam/assets/brand-roam.png": "3fc3544be9545d3b18f2ece58da78705d649af0999ef2c255d430ab44d269bb4",
+    "skills/cad-brand-strategy-deck/examples/roam/brief.md": "8e7a4268b827a9d0e764324b82953ff20307eccd759767ab7d349c26a18b37d9",
+    "skills/cad-brand-strategy-deck/examples/roam/deck.json": "8a53d4c7900122224cb693e616022f6002d7e3e9c59b5ed237a75b376b6836c7",
+    "skills/cad-brand-strategy-deck/examples/roam/export-receipt.json": "d50e624c60a3a1c56b22f35171d01bc24a46f872e9896eb24fe70dffc5bdfd94",
+    "skills/cad-brand-strategy-deck/references/design.md": "7255f7f1e5ade38db90fa6387ad7354997971bb07255e651a7777e90bbbd7d85",
+    "skills/cad-brand-strategy-deck/references/example-guide.json": "7cc864616f90be10e0fd3fd77494ba6920d72b246250ded9b4ce64db751ad19d",
+    "skills/cad-brand-strategy-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-brand-strategy-deck/references/usage-examples.md": "c9421b748e3c919013942914943673c8d6794d49e9304852fa3d24c03c9c1497",
+    "skills/cad-brand-strategy-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-brand-strategy-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-brand-strategy-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -1151,6 +1188,30 @@
     },
     {
       "path": "skills/cad-article-briefing-deck/examples/repair/repair.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-brand-strategy-deck/examples/form/form.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-brand-strategy-deck/examples/form/form.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-brand-strategy-deck/examples/morrow/morrow.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-brand-strategy-deck/examples/morrow/morrow.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-brand-strategy-deck/examples/roam/roam.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-brand-strategy-deck/examples/roam/roam.pptx",
       "reason": "rendered example; see website"
     }
   ]
