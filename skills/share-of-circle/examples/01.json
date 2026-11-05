@@ -1,0 +1,22 @@
+{
+  "brand": "Field Studio",
+  "title": "One week, three kinds of work",
+  "subtitle": "An illustrative share of one team’s planned time.",
+  "theme": "chalk",
+  "source": "Illustrative data · fictional example · not measured results",
+  "center": "Team time",
+  "items": [
+    {
+      "label": "Make",
+      "value": 50
+    },
+    {
+      "label": "Learn",
+      "value": 30
+    },
+    {
+      "label": "Review",
+      "value": 20
+    }
+  ]
+}

@@ -751,6 +751,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "share-of-circle",
+      "name": "Share Of Circle",
+      "description": "Animate a three-part percentage breakdown as a segmented ring with an explicit total, legend and source. Use for shares of one whole, not unrelated metrics.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/share-of-circle",
+      "publication": "original-mit"
+    },
+    {
       "package": "sketch-to-sell",
       "name": "Sketch To Sell",
       "description": "Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request.",
@@ -2274,6 +2283,24 @@
     "skills/shape-shift-cuts/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
     "skills/shape-shift-cuts/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/shape-shift-cuts/renderer/src/model.mjs": "a518bc3b90101d5db97ecb293d5f5a4412318b97b221e46ff147be98039ae670",
+    "skills/share-of-circle/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/share-of-circle/SKILL.md": "8334f3643496c62cf47039420b338ec485dea1652e0ac87825236a6c2ae7a771",
+    "skills/share-of-circle/agents/openai.yaml": "03006a07410597f461b99ff20bdc703cd2ae8939be4af386c55c2a368af67a9c",
+    "skills/share-of-circle/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/share-of-circle/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/share-of-circle/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/share-of-circle/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/share-of-circle/config.json": "9aaea4fa5533dc545a12b60f0ada20db1fddcf237f4756115d0982de0f177c50",
+    "skills/share-of-circle/examples/01.json": "4c375b7fe2409f75527f6601b5a839e38c56d4baaae83911961ff630c21f6ecb",
+    "skills/share-of-circle/examples/02.json": "c147db1e115aa6e2d9c7f46aa319b5c7042407bbe35d9c4fe6501decfdf37f21",
+    "skills/share-of-circle/examples/03.json": "48bd553ca7129aad42eb7ca239c4efe90d2772e95b2ef3344709c0a49afb5952",
+    "skills/share-of-circle/examples/04.json": "cd5505b568b0070ed2483527c02fe1e5b75db2ac4d8e0612257bfd33bf86f090",
+    "skills/share-of-circle/references/examples.md": "80ac6adac1a4acc676b463b64c25c1b1844cc76c484ae48035405069b95813ce",
+    "skills/share-of-circle/references/inputs.md": "9592441b91082244ef40005c66c9e6b6d7e857e4bd4a4d3d7763df788ee386e4",
+    "skills/share-of-circle/references/provenance.md": "bbb725e8b6fd4990446d7ab022087ca5736e738e0e068628b5410cd0e94c98c6",
+    "skills/share-of-circle/references/recorded-examples.json": "d2edc3a6f219551b269b74a046e91f339fc9fc634c4b57f59490d2e46f7acfe3",
+    "skills/share-of-circle/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/share-of-circle/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/sketch-to-sell/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/sketch-to-sell/SKILL.md": "0743d9c94223a5792d36a91d8104893d381cae3c332d8d5357525b8e7183f40d",
     "skills/sketch-to-sell/examples/gallery/01.webp": "e534ad73523ba8ec39c1dd72304e0ccbb7f7be882ab3503cedbe9dd631aefb89",
@@ -11024,6 +11051,182 @@
     },
     {
       "path": "skills/shape-shift-cuts/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/share-of-circle/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

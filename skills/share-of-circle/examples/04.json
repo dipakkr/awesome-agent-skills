@@ -1,0 +1,22 @@
+{
+  "brand": "Signal Survey",
+  "title": "A sample response breakdown",
+  "subtitle": "Fictional survey choices, not research findings.",
+  "theme": "cobalt",
+  "source": "Illustrative data · fictional example · not measured results",
+  "center": "Responses",
+  "items": [
+    {
+      "label": "Option A",
+      "value": 40
+    },
+    {
+      "label": "Option B",
+      "value": 32
+    },
+    {
+      "label": "Option C",
+      "value": 28
+    }
+  ]
+}
