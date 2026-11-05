@@ -1,0 +1,12 @@
+Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.
+Style: Cool blue and sage, fine graphite graph paper, handwritten uppercase header, clean numbered callouts. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.
+Exact title: "The water cycle". Subtitle: "Recall it before you reveal it". Three numbered questions with spacious empty ruled answer areas:
+1. What turns liquid water into vapor?
+2. What forms liquid droplets from vapor?
+3. Name two paths rain can take on land.
+Visual exercise: A small unlabelled lake, cloud and hill sketch with three empty label boxes. Keep it separate from the written questions.
+At the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: "Cover before answering". Answers numbered to match:
+1. Evaporation.
+2. Condensation.
+3. Runoff and infiltration.
+All text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.

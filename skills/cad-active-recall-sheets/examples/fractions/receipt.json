@@ -1,0 +1,14 @@
+{
+  "key": "fractions",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: Warm cream dot-grid paper, peach and lavender highlighter, oversized hand-lettered title, precise ink diagrams. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"Equivalent fractions\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. Complete: 1/2 = __/6\n2. Complete: 2/3 = __/9\n3. Why is 1/2 not equal to 1/4?\nVisual exercise: Two equal-length empty fraction bars: one divided into two equal cells and one divided into six equal cells. Small instruction: Shade equivalent amounts. No cells prefilled.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. 3/6.\n2. 6/9.\n3. The same whole is split into more parts; one part is smaller.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "Original elementary arithmetic brief; verified by cross multiplication.",
+  "path": "outputs/fractions-v1.png",
+  "sha256": "6abd3d153f0fc828de9fc35c11a86baa62b9f278bf1fe110d360f9487a5e039c",
+  "width": 1054,
+  "height": 1492,
+  "review": [
+    "Fractions 3/6 and 6/9 verified; half and sixth bars have 2 and 6 empty cells; written explanation preserved.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}

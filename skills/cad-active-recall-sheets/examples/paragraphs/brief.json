@@ -1,0 +1,8 @@
+{
+  "key": "paragraphs",
+  "title": "Build a clear paragraph \u00b7 recall sheet",
+  "source": "Original writing exercise; a useful scaffold, not a universal writing rule.",
+  "copy": "Exact title: \"Build a clear paragraph\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. What is the paragraph mainly about?\n2. What example supports that point?\n3. How does your explanation connect them?\nVisual exercise: Four broad blank ruled writing areas labelled Point, Support, Explain, Link. Hand-drawn bracket links the four areas. Writing exercise, no single correct model paragraph.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. State one clear main idea.\n2. Choose a relevant example or evidence.\n3. Explain why the example supports the point.",
+  "invocation": "Use $cad-active-recall-sheets to explain build a clear paragraph for a beginner. Include three retrieval questions, blank writing space and a covered answer panel. Use Ivory ruled paper, rose and amber accents, expressive brush heading, tidy handwritten body.",
+  "path": "outputs/paragraphs-v1.png"
+}

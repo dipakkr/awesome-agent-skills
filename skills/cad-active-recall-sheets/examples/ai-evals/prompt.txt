@@ -1,0 +1,12 @@
+Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.
+Style: White faint graph paper, navy ink with lime and lilac accents, compact handwritten headline, generous whitespace. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.
+Exact title: "What are AI evals?". Subtitle: "Recall it before you reveal it". Three numbered questions with spacious empty ruled answer areas:
+1. What should a test case represent?
+2. What must be defined before scoring?
+3. What should happen after a system change?
+Visual exercise: Three empty numbered cards under the prompt: Sketch your own test, expected result and check. A small magnifying glass doodle. No vendor logos.
+At the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: "Cover before answering". Answers numbered to match:
+1. A realistic task or important edge case.
+2. Clear success criteria.
+3. Rerun evaluations and inspect failures.
+All text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.

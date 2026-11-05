@@ -1,0 +1,14 @@
+{
+  "key": "water-cycle",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: Cool blue and sage, fine graphite graph paper, handwritten uppercase header, clean numbered callouts. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"The water cycle\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. What turns liquid water into vapor?\n2. What forms liquid droplets from vapor?\n3. Name two paths rain can take on land.\nVisual exercise: A small unlabelled lake, cloud and hill sketch with three empty label boxes. Keep it separate from the written questions.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. Evaporation.\n2. Condensation.\n3. Runoff and infiltration.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle",
+  "path": "outputs/water-cycle-v1.png",
+  "sha256": "434098e01430462b10a3911c15284a63c949e04ca88fb1d0cee43f70f53a7785",
+  "width": 1055,
+  "height": 1491,
+  "review": [
+    "Three questions correspond to the three answers; blank writing areas; separate answer panel. Diagram allows lake, cloud and hill labels.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}

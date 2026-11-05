@@ -1,0 +1,14 @@
+{
+  "key": "paragraphs",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: Ivory ruled paper, rose and amber accents, expressive brush heading, tidy handwritten body. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"Build a clear paragraph\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. What is the paragraph mainly about?\n2. What example supports that point?\n3. How does your explanation connect them?\nVisual exercise: Four broad blank ruled writing areas labelled Point, Support, Explain, Link. Hand-drawn bracket links the four areas. Writing exercise, no single correct model paragraph.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. State one clear main idea.\n2. Choose a relevant example or evidence.\n3. Explain why the example supports the point.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "Original writing exercise; a useful scaffold, not a universal writing rule.",
+  "path": "outputs/paragraphs-v1.png",
+  "sha256": "7fdb1fb82cfe026c0ad8f7aa68b1c52e7d9d68c6cba7791dba116bbca917a4a7",
+  "width": 1054,
+  "height": 1492,
+  "review": [
+    "Writing prompts and suggested criteria correspond; four blank framework areas, no single model paragraph claimed.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}
