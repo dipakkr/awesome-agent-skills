@@ -1,0 +1,36 @@
+{
+  "brand": "Margin Studio",
+  "title": "Compare the design rounds",
+  "subtitle": "Illustrative review scores, not a measured study.",
+  "cta": "Open the review",
+  "theme": "lavender",
+  "disclosure": "Illustrative data \u00b7 fictional brand \u00b7 stock presenter",
+  "labels": [
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5"
+  ],
+  "series_names": [
+    "Direction A",
+    "Direction B"
+  ],
+  "series": [
+    [
+      20,
+      34,
+      55,
+      64,
+      80
+    ],
+    [
+      38,
+      42,
+      44,
+      58,
+      68
+    ]
+  ],
+  "unit": "Review score / 100"
+}

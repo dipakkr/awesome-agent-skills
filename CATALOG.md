@@ -22,6 +22,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Comic Lab Scenes](skills/comic-lab-scenes/SKILL.md) | Turn one useful idea into a funny 3D skit: a confident misunderstanding, a deadpan robot, an absurd prop and a callback ending. |
 | [Component Study](skills/component-study/SKILL.md) | Create an elegant exploded product concept poster from your approved component list, preserving part count and making the relationship between pieces readable. |
 | [Concept Layers](skills/concept-layers/SKILL.md) | Create a LinkedIn infographic that organizes a tool stack, capability stack or operating system into pastel horizontal layers with labelled icon tiles. |
+| [Data Pan Animation](skills/data-pan-animation/SKILL.md) | Animate two supplied data series while a chart and presenter exchange sides twice. Use for analyst explainers and comparisons with an explicit unit and data disclosure. |
 | [Drawn Lessons](skills/drawn-lessons/SKILL.md) | Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats. |
 | [Everyday Object Demo](skills/everyday-object-demo/SKILL.md) | Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details. |
 | [Funding Story](skills/funding-story/SKILL.md) | Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone. |

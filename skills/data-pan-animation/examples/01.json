@@ -1,0 +1,36 @@
+{
+  "brand": "Cartnote",
+  "title": "Two paths through checkout",
+  "subtitle": "Illustrative comparison, not observed store data.",
+  "cta": "Review checkout",
+  "theme": "paper",
+  "disclosure": "Illustrative data \u00b7 fictional brand \u00b7 stock presenter",
+  "labels": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+  ],
+  "series_names": [
+    "Flow A",
+    "Flow B"
+  ],
+  "series": [
+    [
+      38,
+      49,
+      46,
+      63,
+      71
+    ],
+    [
+      26,
+      35,
+      48,
+      51,
+      60
+    ]
+  ],
+  "unit": "Completion (%)"
+}
