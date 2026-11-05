@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-01",
+    "title": "Quiet morning mug",
+    "brief": "Fictional demonstration brand Hearthline: concept stoneware mug shown in a staged breakfast setting.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 1536x1024 pixels. Natural editorial lifestyle photograph, landscape. Hero is one broad rust-orange ceramic mug with a large round handle at center foreground on an oak breakfast table. Mug empty with visible inner glaze, no steam. Rumpled ivory linen, a closed small book off to the left and softly blurred bright window in background. Calm morning sidelight, tactile clay glaze, believable handle attachment and tabletop contact, shallow but sufficient depth of field keeping entire mug sharp. Background props subordinate. No people, writing, logos, flowers or food. Premium everyday homeware campaign. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Place a supplied product into a believable everyday context while keeping it visually dominant; use explicit concept mode when no real SKU reference is supplied."
+  },
+  {
+    "id": "example-02",
+    "title": "Greenhouse carry bag",
+    "brief": "Fictional demonstration brand Dayfold: concept sage backpack photographed in a staged greenhouse, no durability or waterproof claim.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 1536x1024 pixels. Natural editorial lifestyle photograph, landscape. One sage canvas backpack sits upright on a weathered wooden bench in a sunlit greenhouse, centered and fully visible, with two credible shoulder straps tucked behind, one top carry handle and one simple front zip pocket. Three-quarter camera angle, entire bag sharp, rich woven texture, restrained forest-green plants softly blurred behind, warm side light and realistic contact shadow on bench. No person, no extra bags, no brand mark, no writing, no certification or waterproof cues. Stylish practical product storytelling with believable scale. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Place a supplied product into a believable everyday context while keeping it visually dominant; use explicit concept mode when no real SKU reference is supplied."
+  }
+]
