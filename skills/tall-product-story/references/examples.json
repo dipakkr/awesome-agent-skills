@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Reading corner",
+    "brief": "Fictional homewares shopping Pin with a warm lamp, reading chair and book; no pricing or brand.",
+    "prompt": "Vertical portrait exactly 2:3 aspect ratio, high-resolution 1024x1536 requested. A finished editorial Pinterest shopping image. Beautiful lived-in reading corner: sculptural terracotta table lamp on pale oak side table, olive boucle armchair, one open book, warm ivory plaster wall with afternoon light. Product-led interior photograph occupies lower three quarters, upper quarter calm ivory wall with large deep-brown elegant serif headline exactly \"Your quiet corner\" and small sans-serif subtitle exactly \"Three pieces. One little ritual.\" Clear legible typography, enough edge margin. No logo, no watermark, no discount or reviews, no fake button. One standalone image.",
+    "filename": "attempt-01.png",
+    "usage": "Upload the image as a Pin, add a truthful product or collection destination and descriptive alt text. Preview the crop in Pinterest before publishing."
+  },
+  {
+    "title": "Desk essentials",
+    "brief": "Fictional stationery shopping Pin with a blue notebook, steel pen and tray; no brand or claim.",
+    "prompt": "Vertical portrait exactly 2:3 aspect ratio, high-resolution 1024x1536 requested. Finished premium Pinterest shopping image in icy blue and charcoal. Overhead product photograph: one blue cloth notebook, a sleek silver pen and a small charcoal curved catchall tray on a textured cool-blue desk. Objects arranged in a generous diagonal with small soft shadows. Upper third large dark charcoal headline exactly \"A desk that feels clear\" and smaller subtitle exactly \"Keep the useful things close\". Strong editorial grid, legible elegant sans-serif, subtle paper tactile quality. No logo, no UI, no watermark, no additional text or invented performance claims.",
+    "filename": "attempt-02.png",
+    "usage": "Upload the image as a Pin, add a truthful product or collection destination and descriptive alt text. Preview the crop in Pinterest before publishing."
+  }
+]

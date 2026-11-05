@@ -823,6 +823,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "tall-product-story",
+      "name": "Tall Product Story",
+      "description": "Create a vertical shopping Pin with a useful visual hook, a clear product and legible text.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/tall-product-story",
+      "publication": "original-mit"
+    },
+    {
       "package": "team-atlas",
       "name": "Team Atlas",
       "description": "Create a LinkedIn department or capability map with six grouped role cards arranged around a central topic symbol and color-coded connectors.",
@@ -2464,6 +2473,16 @@
     "skills/talking-models/renderer/src/Film.jsx": "9374c3b0bf9304f089bda2f7eda765eb6b12c4fa82cda81c54b8793add8df264",
     "skills/talking-models/renderer/src/index.jsx": "31d2fe19165c34d0dde46dcc9ce04dd4c182f45796732065c2b26ef24b83bba0",
     "skills/talking-models/scripts/prepare.py": "9b806d248e9ae922fff73270107d12c4f4c4042c533b55763f13c1f416101774",
+    "skills/tall-product-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/tall-product-story/SKILL.md": "cff0c63a2796e089f31985f06c112adb2ac1fa8a8429208b9192787553fd8691",
+    "skills/tall-product-story/examples/gallery/01.webp": "337acccb6af5ee3b819a332f0830f77125979253be7341ec17d794236c92927c",
+    "skills/tall-product-story/examples/gallery/02.webp": "4a326764289f871588cfe74c14aa527ea39997527ab3af1618091d1b45c703a3",
+    "skills/tall-product-story/examples/gallery/03.webp": "dfe8314e3de1d71f4af7ddd67c6bd7338101d89ce7c455f0903ba51f7858d585",
+    "skills/tall-product-story/examples/gallery/04.webp": "6ab4854c79811a62ddb96c0c4862c86dd61aa017b1d368f3d861ef4a1d50fa79",
+    "skills/tall-product-story/references/example-guide.json": "96adce2ed4089ee070fa5c88f3158b80a687bc029a4106595c3660c67b13a44b",
+    "skills/tall-product-story/references/examples.json": "e41ab330a62f6170b964d466ce150be99135aa524e3b57b6e3f88b964ed237cd",
+    "skills/tall-product-story/references/research.md": "19e9ed8209e24936aa57dbf77d56abf0413ee110c206542a24c7f3d2f5b88a9a",
+    "skills/tall-product-story/references/usage-examples.md": "9e2e694164b98f00096042bc4ceeab8baab90a002149e9d9b6e6764f13bfcb2e",
     "skills/team-atlas/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/team-atlas/SKILL.md": "9380d7b5a5e868ca6677897b0867cd9bb6b8b661bfe494dd029630ad7803577a",
     "skills/team-atlas/examples/gallery/01.webp": "552bf79d0d9fe0ddd3e67d4a61a08c495d69f5b9227ececc2d4327ac5bec4f9e",
