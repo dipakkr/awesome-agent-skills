@@ -24,5 +24,6 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Consulting Decision Deck | [Files](skills/cad-consulting-decision-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/consulting-decision-deck) | Original / MIT |
 | Creative Experiment Planner | [Files](skills/cad-creative-experiment-planner/SKILL.md) | [Preview and download](https://claudeai.directory/skills/creative-experiment-planner) | Original / MIT |
 | Customer Evidence Board | [Files](skills/cad-customer-evidence-board/SKILL.md) | [Preview and download](https://claudeai.directory/skills/customer-evidence-board) | Original / MIT |
+| Department Map Infographic | [Files](skills/cad-department-map-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/department-map-infographic) | Original / MIT |
 | Ecommerce Product Listing | [Files](skills/cad-ecommerce-product-listing/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
 | Ecommerce Store Brief | [Files](skills/cad-ecommerce-store-brief/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |

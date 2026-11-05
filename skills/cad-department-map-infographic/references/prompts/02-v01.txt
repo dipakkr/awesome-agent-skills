@@ -1,0 +1,15 @@
+Create a polished finished LinkedIn editorial infographic.
+VISUAL CONTRACT:
+Portrait near-square infographic on white. Bold oversized dark-navy headline at top with the topic phrase in coral. Subtitle gives the exact role count. Central large original thematic symbol. Six rounded pastel department cards arranged as three rows with a left and right column around the central symbol. Each card has a short bold heading capsule, one simple outlined circular icon above it, and three left-aligned bullet roles. Curved dashed colored connectors join the cards to the center. Purple, coral, mint, pink, blue and violet distinguish departments. Keep all connectors out of text. No brand logos, fake credentials or invented people.
+
+EXACT USER REQUEST:
+Use $cad-department-map-infographic. Create one infographic titled "The indie film crew" with subtitle "18 roles across 6 departments". Use this exact content map:
+Story | Writer | Researcher | Script editor
+Production | Producer | Coordinator | Location scout
+Camera | Cinematographer | Camera assistant | Lighting lead
+Sound | Sound recordist | Boom operator | Sound editor
+Art | Production designer | Costume designer | Props coordinator
+Post | Editor | Colourist | Music supervisor
+Palette: Coral headline accent; soft lavender, apricot, mint, pink, blue, plum cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.
+
+Render all supplied text accurately. No extra content. Use original topic-specific icons. Match the supplied visual contract closely. Large portrait canvas, requested 1024 by 1536 pixels for tall layouts, or 1200 by 1500 for the department map. At least 5% edge padding. The text is the primary content, not decoration.
