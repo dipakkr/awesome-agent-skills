@@ -342,6 +342,16 @@
       "original": true,
       "path": "skills/cad-investor-pitch-deck",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-isometric-workflow-scene",
+      "name": "Isometric Workflow Scene",
+      "description": "Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts.",
+      "site": "https://claudeai.directory/skills/isometric-workflow-scene",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-isometric-workflow-scene",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -900,7 +910,16 @@
     "skills/cad-investor-pitch-deck/references/usage-examples.md": "8a6792e01413b89ce717eb7311880e59e5caa1836b9d82729c591a926fd81273",
     "skills/cad-investor-pitch-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/cad-investor-pitch-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
-    "skills/cad-investor-pitch-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12"
+    "skills/cad-investor-pitch-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/cad-isometric-workflow-scene/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-isometric-workflow-scene/SKILL.md": "ece45560e80feef2637158ada6062104cab3a89c639ec162531c7e2f7ee29e37",
+    "skills/cad-isometric-workflow-scene/examples/gallery/01.webp": "3f8edca0547b8c13e23056fa524de52a893c5142e083da2bd7b78633c07e9805",
+    "skills/cad-isometric-workflow-scene/examples/gallery/02.webp": "750a820b1f8cd10138583fe43e19240f1d92c3b65ea5869066aa7c24f94e98b7",
+    "skills/cad-isometric-workflow-scene/examples/gallery/03.webp": "cffc08ef8ec97c751beba0b53c8f29eaf6bad6049f9b337e43c057072d078fbc",
+    "skills/cad-isometric-workflow-scene/examples/gallery/04.webp": "079076bd760a61b14996711875707534983d94d7abc6f8cd34c1ed4235ee1799",
+    "skills/cad-isometric-workflow-scene/references/example-guide.json": "fa1a6ccb0922070876462727cf90e1a8b50e014d0d49241f48e83fc0e3cc90ad",
+    "skills/cad-isometric-workflow-scene/references/examples.json": "1c474e43f76a8ac78554f42207ca9b0bac37555e22b256163cc52f9d575ff85d",
+    "skills/cad-isometric-workflow-scene/references/usage-examples.md": "8cfe88acd2f8fbd15c52f091150a7349dc3cced7c91575a4b61b63e7273055bd"
   },
   "omitted": [
     {

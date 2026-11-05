@@ -1,0 +1,43 @@
+{
+  "skill": "cad-isometric-workflow-scene",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "The creative studio",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "3f8edca0547b8c13e23056fa524de52a893c5142e083da2bd7b78633c07e9805",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-isometric-workflow-scene. Create a new output based on the packaged example \"The creative studio\". Brief: A fictional miniature studio with sketching, making and reviewing areas. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A shop behind the scenes",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "750a820b1f8cd10138583fe43e19240f1d92c3b65ea5869066aa7c24f94e98b7",
+      "width": 1672,
+      "height": 940,
+      "invocation": "Use $cad-isometric-workflow-scene. Create a new output based on the packaged example \"A shop behind the scenes\". Brief: A fictional order-packing workspace, not a real facility or efficiency claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A shared growing space",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "cffc08ef8ec97c751beba0b53c8f29eaf6bad6049f9b337e43c057072d078fbc",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-isometric-workflow-scene. Create a new output based on the packaged example \"A shared growing space\". Brief: A fictional community courtyard garden, not an agricultural result. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "The learning corner",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "079076bd760a61b14996711875707534983d94d7abc6f8cd34c1ed4235ee1799",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-isometric-workflow-scene. Create a new output based on the packaged example \"The learning corner\". Brief: A fictional learning space with reading, discussion and making areas. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
