@@ -1,0 +1,43 @@
+{
+  "skill": "cad-folder-workflow-infographic",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "A podcast launch workspace",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "898549b5dc45171762a6dab123d83291d7f0b2d6f3e5a2c3820e292fff72bea2",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $cad-folder-workflow-infographic. Create one infographic titled \"A podcast launch workspace\" with subtitle \"12 files from idea to first episode\". Use this exact content map:\n01-direction | audience.md|Define the listener | promise.md|Explain the show\n02-format | structure.md|Shape each episode | schedule.md|Choose a cadence\n03-content | topics.md|Build a topic list | outline.md|Plan the first episode\n04-production | recording.md|Prepare the session | editing.md|Guide the edit\n05-launch | show-page.md|Introduce the podcast | announce.md|Write the launch note\n06-learning | feedback.md|Collect listener notes | review.md|Choose what improves\nPalette: Warm white, navy text, blue folders, ice-blue panels, coral accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "A research project workspace",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "602b578d3a8a1b4a5b41dab87acc3da6840f011cfdd508c67ad000d8c36ac3b3",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $cad-folder-workflow-infographic. Create one infographic titled \"A research project workspace\" with subtitle \"12 files for a clear investigation\". Use this exact content map:\n01-framing | question.md|Define the question | scope.md|Set the boundaries\n02-sources | reading.md|Collect useful sources | evidence.md|Record key evidence\n03-method | approach.md|Choose the method | protocol.md|Document the procedure\n04-analysis | findings.md|Describe observations | limits.md|Record uncertainty\n05-writing | outline.md|Structure the argument | draft.md|Write the report\n06-review | checks.md|Verify the claims | next-steps.md|Plan further work\nPalette: White paper, navy text, blue folders, pale lavender panels, coral accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "A makers market workspace",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "06a48965a237d2e1c122f11f8c05eb199192c92d29ce9a0516957059a8323fe5",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $cad-folder-workflow-infographic. Create one infographic titled \"A makers market workspace\" with subtitle \"12 files to prepare a local event\". Use this exact content map:\n01-purpose | audience.md|Define who attends | budget.md|Set spending limits\n02-venue | layout.md|Plan the floor | access.md|Check visitor access\n03-makers | vendors.md|List participating makers | brief.md|Share event details\n04-promotion | invite.md|Write the invitation | signage.md|Plan useful signs\n05-event-day | run-sheet.md|Coordinate the day | contacts.md|List key contacts\n06-follow-up | thanks.md|Thank contributors | lessons.md|Record what to improve\nPalette: Warm ivory, navy text, teal folders, pale mint panels, apricot accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "An online course workspace",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "3db6f85f34d05f0168911d5c170b89796df179d282669d206a08372177ba2e35",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $cad-folder-workflow-infographic. Create one infographic titled \"An online course workspace\" with subtitle \"12 files from learner needs to review\". Use this exact content map:\n01-learners | audience.md|Describe the learners | needs.md|Identify learning needs\n02-design | outcomes.md|Set learning outcomes | structure.md|Arrange the modules\n03-lessons | lesson.md|Draft a teaching unit | examples.md|Choose worked examples\n04-practice | exercise.md|Create useful practice | rubric.md|Explain assessment\n05-delivery | welcome.md|Orient new learners | support.md|Plan learner support\n06-improvement | feedback.md|Collect learner feedback | revision.md|Prioritize course changes\nPalette: Warm white, charcoal text, blue folders, pale peach panels, burnt-orange accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    }
+  ]
+}
