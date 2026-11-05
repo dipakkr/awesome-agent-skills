@@ -1,0 +1,30 @@
+{
+  "brand": "Service Notes",
+  "title": "Make the next step easy to find",
+  "subtitle": "A fictional support exchange with one concrete next step.",
+  "theme": "cobalt",
+  "source": "Illustrative concept · fictional brand",
+  "people": [
+    "Customer",
+    "Guide"
+  ],
+  "messages": [
+    {
+      "from": 0,
+      "text": "I am not sure where to begin."
+    },
+    {
+      "from": 1,
+      "text": "What are you trying to make today?"
+    },
+    {
+      "from": 0,
+      "text": "A short introduction for my workshop."
+    },
+    {
+      "from": 1,
+      "text": "Start with one promise to the audience."
+    }
+  ],
+  "closing": "Useful help starts small."
+}

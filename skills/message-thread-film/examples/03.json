@@ -1,0 +1,30 @@
+{
+  "brand": "Garden Class",
+  "title": "Small questions open a lesson",
+  "subtitle": "A fictional learning exchange about testing an idea.",
+  "theme": "rose",
+  "source": "Illustrative concept · fictional brand",
+  "people": [
+    "Learner",
+    "Tutor"
+  ],
+  "messages": [
+    {
+      "from": 0,
+      "text": "I think this version is better."
+    },
+    {
+      "from": 1,
+      "text": "What would help you check that?"
+    },
+    {
+      "from": 0,
+      "text": "Try both with the same small task."
+    },
+    {
+      "from": 1,
+      "text": "Good. Keep the comparison fair."
+    }
+  ],
+  "closing": "Turn a guess into a test."
+}

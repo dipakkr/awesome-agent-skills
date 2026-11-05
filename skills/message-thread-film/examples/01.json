@@ -1,0 +1,30 @@
+{
+  "brand": "Better Briefs",
+  "title": "A better question changes the brief",
+  "subtitle": "A fictional exchange about making a request more useful.",
+  "theme": "chalk",
+  "source": "Illustrative concept · fictional brand",
+  "people": [
+    "Alex",
+    "Sam"
+  ],
+  "messages": [
+    {
+      "from": 0,
+      "text": "Can we make it feel more premium?"
+    },
+    {
+      "from": 1,
+      "text": "What should the customer notice first?"
+    },
+    {
+      "from": 0,
+      "text": "The quality of the material."
+    },
+    {
+      "from": 1,
+      "text": "Then let us show the texture up close."
+    }
+  ],
+  "closing": "Start with what matters."
+}
