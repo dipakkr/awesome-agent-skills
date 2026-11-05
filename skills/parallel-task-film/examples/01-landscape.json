@@ -1,0 +1,25 @@
+{
+  "mode": "orchestration",
+  "format": "landscape",
+  "brand": "NEXUS",
+  "headline": "One brief. Many minds.",
+  "ending": "Parallel work. Shared purpose.",
+  "cta": "Plan the next launch",
+  "item": "Launch brief",
+  "labels": [
+    "Research",
+    "Write",
+    "Review"
+  ],
+  "details": [
+    "Source notes",
+    "First draft",
+    "Quality check"
+  ],
+  "accent": "#4b45d9",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}

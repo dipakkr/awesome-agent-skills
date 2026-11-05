@@ -1,0 +1,25 @@
+{
+  "mode": "orchestration",
+  "format": "square",
+  "brand": "ATELIER",
+  "headline": "Make room for every idea.",
+  "ending": "From fragments to a direction.",
+  "cta": "Shape your next project",
+  "item": "Creative brief",
+  "labels": [
+    "Discover",
+    "Design",
+    "Refine"
+  ],
+  "details": [
+    "Mood direction",
+    "Concept draft",
+    "Review notes"
+  ],
+  "accent": "#a14220",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}
