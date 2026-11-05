@@ -35,6 +35,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Focus Window](skills/focus-window/SKILL.md) | Follow a product control with a moving magnification lens, anchored explanation and visible state change. |
 | [Funding Story](skills/funding-story/SKILL.md) | Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone. |
 | [Gadget In Action](skills/gadget-in-action/SKILL.md) | Create tech-accessory ads around a real use case or supported feature, with clear devices and concise copy. |
+| [Gallery In Perspective](skills/gallery-in-perspective/SKILL.md) | Reveal a media library over a tilted moving wall, select a collection and expand one asset into a detail panel. Use for portfolio launches, ecommerce lookbooks and creative libraries. |
 | [Gathering Announcement](skills/gathering-announcement/SKILL.md) | Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials. |
 | [Identity Playbook](skills/identity-playbook/SKILL.md) | Present positioning, visual principles, voice and applications as one coherent brand direction with editable guidance. |
 | [Ink Cut Covers](skills/ink-cut-covers/SKILL.md) | Turn a story or article into an original ink engraving with a strong metaphor, detailed hatching and room for editorial typography. |

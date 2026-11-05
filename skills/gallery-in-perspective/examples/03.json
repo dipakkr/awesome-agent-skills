@@ -1,0 +1,18 @@
+{
+  "brand": "Ocean Classroom",
+  "title": "Make a lesson visual",
+  "subtitle": "Original concept illustrations for an ocean lesson.",
+  "cta": "Open the scene",
+  "theme": "ocean",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "filters": [
+    "All lessons",
+    "Ocean",
+    "Saved"
+  ],
+  "media": [
+    "../assets/media/story-whale-1.jpg",
+    "../assets/media/story-whale-2.jpg",
+    "../assets/media/story-whale-3.jpg"
+  ]
+}

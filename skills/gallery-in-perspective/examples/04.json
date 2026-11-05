@@ -1,0 +1,18 @@
+{
+  "brand": "Maker Journal",
+  "title": "Ideas worth collecting",
+  "subtitle": "Original illustrated scenes for a maker newsletter.",
+  "cta": "Explore the issue",
+  "theme": "lavender",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "filters": [
+    "All issues",
+    "Garden",
+    "Archive"
+  ],
+  "media": [
+    "../assets/media/story-robot-1.jpg",
+    "../assets/media/story-robot-2.jpg",
+    "../assets/media/story-robot-3.jpg"
+  ]
+}

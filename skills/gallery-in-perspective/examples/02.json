@@ -1,0 +1,18 @@
+{
+  "brand": "Little Lantern",
+  "title": "A forest story unfolds",
+  "subtitle": "A sequence of original illustrated story scenes.",
+  "cta": "Explore the story",
+  "theme": "night",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "filters": [
+    "All scenes",
+    "Forest",
+    "Favorites"
+  ],
+  "media": [
+    "../assets/media/story-fox-1.jpg",
+    "../assets/media/story-fox-2.jpg",
+    "../assets/media/story-fox-3.jpg"
+  ]
+}

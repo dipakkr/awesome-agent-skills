@@ -1,0 +1,240 @@
+{
+  "skill": "gallery-in-perspective",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "index": "01",
+      "title": "A collection with character",
+      "invocation": "Use $gallery-in-perspective to make \"A collection with character\" for the fictional brand Form Library. Use examples/01.json as the exact input, the paper palette and the CTA \"Open this collection\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/01.json",
+      "output": "examples/recorded/01/film.mp4",
+      "render": {
+        "mode": "wall",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "5c8e179707f464cb2917979bab0e729f2abca53f7bb0b3dc6d1f03980df1a387",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "brand-morrow.jpg": "232d5377e9c95751bec1ed99b0534b83e4248b47600f208199d5141df36f98e4",
+          "brand-form.jpg": "45a73f8735293dd169cc08aab3bb93654aae607807c64e1ef61de0bae4b17cce",
+          "brand-roam.jpg": "876481aeb7134515e6f1219e6002e158b47c12cf577cf78d3fedf8963f24aa15"
+        },
+        "textFitChecks": 135,
+        "files": {
+          "brief.json": {
+            "sha256": "5c8e179707f464cb2917979bab0e729f2abca53f7bb0b3dc6d1f03980df1a387",
+            "bytes": 463
+          },
+          "film.mp4": {
+            "sha256": "3724fe5e791555f278a5aab5be539a899906af9df9a3e9949fa94d9c765a698b",
+            "bytes": 1520703
+          },
+          "poster.png": {
+            "sha256": "2c463b02ab2ed334646116239af1d2c18f73341959adf4e9d75300257bb19b7c",
+            "bytes": 871449
+          },
+          "review-1.jpg": {
+            "sha256": "33bb7368f41daf1644ea8ad6092cdc6ed8f6b07d43bda769406e3e73bb27c770",
+            "bytes": 141114
+          },
+          "review-2.jpg": {
+            "sha256": "5cd4b62969b7ac644374c34bd738c1c48f3eb73fdf86b6e0055db695eb991005",
+            "bytes": 213454
+          },
+          "review-3.jpg": {
+            "sha256": "2d73c3a11ed298d9a684b6531c90f1d078bb1bbbb69576295408de9f6a4f70df",
+            "bytes": 213448
+          },
+          "review-4.jpg": {
+            "sha256": "a199a639aec5a8125cd2b5b4c82cbb3d663ed8b235f8276ce23b11f1f0fc30a1",
+            "bytes": 181865
+          },
+          "review-5.jpg": {
+            "sha256": "d68e204deafaa1af6b251e17ed15ec8a84a344237e3f07baf0e4bd12200c5efb",
+            "bytes": 182341
+          }
+        }
+      }
+    },
+    {
+      "index": "02",
+      "title": "A forest story unfolds",
+      "invocation": "Use $gallery-in-perspective to make \"A forest story unfolds\" for the fictional brand Little Lantern. Use examples/02.json as the exact input, the night palette and the CTA \"Explore the story\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/02.json",
+      "output": "examples/recorded/02/film.mp4",
+      "render": {
+        "mode": "wall",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "28ad85846e7a194038bcdf36bb912f861e8fd877968b90c74ce74acc597ea3fa",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "story-fox-1.jpg": "6c54bc7c2d300a776a22ec28ddc9c7a9e00a8c23a3a5b48bb6c0a417492192b6",
+          "story-fox-2.jpg": "6df88aaf468945a90a82ee2c1b2df633dec7d8da7f9f3091ac0248cafbf0b0b7",
+          "story-fox-3.jpg": "7ac5de006a81c98cd955b7a9b65e6dd6074c6e528c5738aabc2be15282e0f4e4"
+        },
+        "textFitChecks": 135,
+        "files": {
+          "brief.json": {
+            "sha256": "28ad85846e7a194038bcdf36bb912f861e8fd877968b90c74ce74acc597ea3fa",
+            "bytes": 450
+          },
+          "film.mp4": {
+            "sha256": "e87a142d57438b51eaa4cc2dd27538cbb9d37c311d33762344891dfdb395c386",
+            "bytes": 2201135
+          },
+          "poster.png": {
+            "sha256": "3aaf8187f65eb3ed30b5e23136e9c978b8f8438a02c5c4d708d3a19de0b11b4a",
+            "bytes": 1166485
+          },
+          "review-1.jpg": {
+            "sha256": "41bdbeec7cc2c557ddd2db6f96deeb4a209e9f32c1250b9c3b12d985417bb82f",
+            "bytes": 175750
+          },
+          "review-2.jpg": {
+            "sha256": "9bca84a12eef05d66cf076fd8b18f6e4a34e5a6664297a949c6bf01163b0e130",
+            "bytes": 292166
+          },
+          "review-3.jpg": {
+            "sha256": "283f8272d82bc48b887ace8cd4bc277796286e2d5348c4eaff5e351ff41c3fe2",
+            "bytes": 292161
+          },
+          "review-4.jpg": {
+            "sha256": "88beeba388a1b729d7d957a47f86524da2ef2da53c145973fcfd855812d69516",
+            "bytes": 259234
+          },
+          "review-5.jpg": {
+            "sha256": "ca7a903db1dcb87b6fcb1e95f12e0b61f45c3fe8600a1fcccd810349fd91d15d",
+            "bytes": 260063
+          }
+        }
+      }
+    },
+    {
+      "index": "03",
+      "title": "Make a lesson visual",
+      "invocation": "Use $gallery-in-perspective to make \"Make a lesson visual\" for the fictional brand Ocean Classroom. Use examples/03.json as the exact input, the ocean palette and the CTA \"Open the scene\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/03.json",
+      "output": "examples/recorded/03/film.mp4",
+      "render": {
+        "mode": "wall",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "98d234d0f3aeb2689e87676fd029d5923d4f0bef31f2218127755357b3950246",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "story-whale-1.jpg": "d9f74015499dfdaf684ebfd594d1a299238ab86471aec1dc810b625d1c02a818",
+          "story-whale-2.jpg": "58b144d7a1c79dd2213c9e6474f2d9ff427c465d0c9b226ccb52fc926c137837",
+          "story-whale-3.jpg": "5af0c8017092af6ed262a590f26571252e366f0af0cdbddfb5ce79b52dc0e49a"
+        },
+        "textFitChecks": 135,
+        "files": {
+          "brief.json": {
+            "sha256": "98d234d0f3aeb2689e87676fd029d5923d4f0bef31f2218127755357b3950246",
+            "bytes": 451
+          },
+          "film.mp4": {
+            "sha256": "48ba42b6966833ad709e6c0de99fef670773f13ee872749167842516f4413aee",
+            "bytes": 1964776
+          },
+          "poster.png": {
+            "sha256": "e3c207ee93d9f18f6ed08bb04fac1ac36d1f67df15d3f4aa52bcafa6bc1808fe",
+            "bytes": 1076432
+          },
+          "review-1.jpg": {
+            "sha256": "57cf4013ada14bef17c0e3e98049f1ab0b57186c713fed2c951c380db4c84f95",
+            "bytes": 161688
+          },
+          "review-2.jpg": {
+            "sha256": "fc54b8a768b87077be4511cac3235d23ebabfe2757f5f1156a3017cef7b29f9b",
+            "bytes": 264578
+          },
+          "review-3.jpg": {
+            "sha256": "aa6cd3e77f1e2819e1f45d7cac3feda6f1b8e156f6fd10c4c6b1b5d00feef73d",
+            "bytes": 264569
+          },
+          "review-4.jpg": {
+            "sha256": "eb134292786e03e33db69e186ce425e2829ee01ddb22f533a2ab64ab5e0f9954",
+            "bytes": 236845
+          },
+          "review-5.jpg": {
+            "sha256": "6ad8f573dbae306d586d99a00b0b99a0bea1c292842118ba941d21af4fa79c73",
+            "bytes": 237776
+          }
+        }
+      }
+    },
+    {
+      "index": "04",
+      "title": "Ideas worth collecting",
+      "invocation": "Use $gallery-in-perspective to make \"Ideas worth collecting\" for the fictional brand Maker Journal. Use examples/04.json as the exact input, the lavender palette and the CTA \"Explore the issue\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/04.json",
+      "output": "examples/recorded/04/film.mp4",
+      "render": {
+        "mode": "wall",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "965e757f00f1b2cb14afcf8d626042faa50f982b8f2909fd4b1d25b8f3230f74",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "story-robot-1.jpg": "72fcaf024d9cbe7c253c1786158add68135dcfb866c2bc9e84b62601fbaab7b1",
+          "story-robot-2.jpg": "5fe169c274a5ab490df61a3e58c9b1cab538004dea540539bf05b056aa9e4077",
+          "story-robot-3.jpg": "583084ae8d3a4282733341589848d49007dafccf3341d68492033915d2905de7"
+        },
+        "textFitChecks": 135,
+        "files": {
+          "brief.json": {
+            "sha256": "965e757f00f1b2cb14afcf8d626042faa50f982b8f2909fd4b1d25b8f3230f74",
+            "bytes": 459
+          },
+          "film.mp4": {
+            "sha256": "a27150177b48cf33bee587ea0273536b2ee09ebeaff7eb1e502190aef8fa91d1",
+            "bytes": 2549305
+          },
+          "poster.png": {
+            "sha256": "056f77a795ea8928312196fc5356a9f7751192f30be19d13995a788be96ab04b",
+            "bytes": 1094969
+          },
+          "review-1.jpg": {
+            "sha256": "d467ceba7f872b064c285461cfd5217efbf853e383844917d29cffe6df1225b4",
+            "bytes": 174032
+          },
+          "review-2.jpg": {
+            "sha256": "5b6defbda6e7ab8c6218bd74a7e827dc80dd571c77194c2e48d35129fb046077",
+            "bytes": 288707
+          },
+          "review-3.jpg": {
+            "sha256": "5e3662c438c698cc80a58ee6ce6bfbabb17256433eaf0926dd3951bbbf891f6a",
+            "bytes": 288698
+          },
+          "review-4.jpg": {
+            "sha256": "50ce52fe3f9d787d367d0cecc2e3f4ca7916c90045885dc04a8078ed2ffc62e3",
+            "bytes": 258775
+          },
+          "review-5.jpg": {
+            "sha256": "ba55b7e0996de6e0e28deef15f5c0734f42bfd969959281f00f4c12d785403bc",
+            "bytes": 259361
+          }
+        }
+      }
+    }
+  ],
+  "verification": "Author-executed; no independent agent reuse claimed"
+}
