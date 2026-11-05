@@ -31,6 +31,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Everyday Object Demo](skills/everyday-object-demo/SKILL.md) | Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details. |
 | [Everyday Product Scenes](skills/everyday-product-scenes/SKILL.md) | Place a supplied product into a believable everyday context while keeping it visually dominant; use explicit concept mode when no real SKU reference is supplied. |
 | [Field Gear Campaign](skills/field-gear-campaign/SKILL.md) | Create sports and outdoor product ads with credible settings, accurate equipment and a clear reason to explore. |
+| [Flagship Introduction](skills/flagship-introduction/SKILL.md) | Introduce a product through sculptural motion, a bold reveal and a clear next step. |
 | [Funding Story](skills/funding-story/SKILL.md) | Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone. |
 | [Gathering Announcement](skills/gathering-announcement/SKILL.md) | Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials. |
 | [Identity Playbook](skills/identity-playbook/SKILL.md) | Present positioning, visual principles, voice and applications as one coherent brand direction with editable guidance. |

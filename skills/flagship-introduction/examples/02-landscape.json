@@ -1,0 +1,31 @@
+{
+  "mode": "cinematic",
+  "format": "landscape",
+  "brand": "PULSE",
+  "category": "A space for sound",
+  "hook": "Find your\nnext frequency.",
+  "promise": "From first note\nto final mix.",
+  "words": [
+    "Listen",
+    "Shape",
+    "Release"
+  ],
+  "steps": [
+    "Capture a sound",
+    "Build the session",
+    "Share the mix"
+  ],
+  "projects": [
+    "Listen",
+    "Shape",
+    "Release"
+  ],
+  "task": "Arrange a new electronic music session",
+  "cta": "Start your next track",
+  "url": "pulse.example",
+  "accent": "#78d9ff",
+  "theme": "white",
+  "motif": "ribbons",
+  "seed": 55,
+  "concept": true
+}

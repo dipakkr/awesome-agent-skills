@@ -247,6 +247,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "flagship-introduction",
+      "name": "Flagship Introduction",
+      "description": "Introduce a product through sculptural motion, a bold reveal and a clear next step.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/flagship-introduction",
+      "publication": "original-mit"
+    },
+    {
       "package": "funding-story",
       "name": "Funding Story",
       "description": "Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone.",
@@ -923,6 +932,25 @@
     "skills/field-gear-campaign/references/examples.json": "d6341c81e700198e9fbec24d48cff90c6b2445d498e027a42f53a90e29959ada",
     "skills/field-gear-campaign/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
     "skills/field-gear-campaign/references/usage-examples.md": "bde47625353513362d9919a7ae35fe9d773caf517cd5d657061aa55792ccfd09",
+    "skills/flagship-introduction/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/flagship-introduction/SKILL.md": "8c8171416a61bd94e27fb1defd52901cf6c9674ca5a0f548653aa7543c35a2fa",
+    "skills/flagship-introduction/agents/openai.yaml": "831594c063de52b64616c25d882a0156aa0546a151f3fcf08546ff8fdce5efe2",
+    "skills/flagship-introduction/examples/01-landscape.json": "bc1a2b304124fe6deee03dad21a3913873e81712ad108974f360ad3847ada2e3",
+    "skills/flagship-introduction/examples/01-portrait.json": "d5d7f8c6d576521dad34d160568bd6ea8c574b5ed4382c1f5b2f316ace6d3901",
+    "skills/flagship-introduction/examples/01-square.json": "911db11afb2fef784f7044a8db4714b55db17de995c930cfef37b342582eefad",
+    "skills/flagship-introduction/examples/02-landscape.json": "1fb2604fbe523a0a8f10bb2cf0dbdcceb96993d89e1f06bec52bb832bc4d610a",
+    "skills/flagship-introduction/examples/03-landscape.json": "a2a288abec13dd49ae5b499830f11cff42d522023309c8c6f1b17768c73cdcf5",
+    "skills/flagship-introduction/references/input.md": "1846e7227ca446f5e0eaf5a04e6e791d9f5f5d03326ae083d2126ee498d16274",
+    "skills/flagship-introduction/references/provenance.md": "a785c79f5ae9b86e1fcae263387ec8ce7e45169951f9318f898bfb10d1884064",
+    "skills/flagship-introduction/renderer/compose-score.mjs": "036bd4190c8727642c7ef6d72801181c2bcf1de32ce760d76658fb86eb2e590e",
+    "skills/flagship-introduction/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/flagship-introduction/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/flagship-introduction/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/flagship-introduction/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/flagship-introduction/renderer/render.mjs": "a82199812888e40e47494168483ef78cdb63a56a4d2c1fd117bd9f96f5a6df92",
+    "skills/flagship-introduction/renderer/src/Film.jsx": "beaf42bbc6ba2f39b551f0a615b5ed2c3e7a8ee41314cb38f700896f23549a9e",
+    "skills/flagship-introduction/renderer/src/index.jsx": "4309949e91babe9751fe9e00d4720a940e91a0e7c78f6f8f7009a0497ab8753f",
+    "skills/flagship-introduction/renderer/src/model.mjs": "955af1fffa78822ab5209c61a77975173a82527cde4567e25a5742b7f57a17c4",
     "skills/funding-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/funding-story/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/funding-story/README.md": "2e2095807c91b1d54dba23edafdd19c8422c4a93bbfc01cf23010d0fb006cd38",
@@ -3302,6 +3330,326 @@
     },
     {
       "path": "skills/edit-room-sequence/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/00-signal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/01-hook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/02-reveal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/03-interface.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/04-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/05-flow.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/06-resolve.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/review/07-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/00-signal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/01-hook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/02-reveal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/03-interface.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/04-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/05-flow.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/06-resolve.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/review/07-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/00-signal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/01-hook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/02-reveal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/03-interface.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/04-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/05-flow.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/06-resolve.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/review/07-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/00-signal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/01-hook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/02-reveal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/03-interface.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/04-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/05-flow.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/06-resolve.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/review/07-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/00-signal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/01-hook.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/02-reveal.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/03-interface.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/04-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/05-flow.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/06-resolve.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/review/07-end.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/flagship-introduction/examples/recorded/03-landscape/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
