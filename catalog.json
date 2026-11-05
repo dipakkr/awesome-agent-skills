@@ -580,6 +580,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "picture-tale-pages",
+      "name": "Picture Tale Pages",
+      "description": "Turn an original short story into illustrated scenes with a consistent cast, editable narration and read-aloud notes.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/picture-tale-pages",
+      "publication": "original-mit"
+    },
+    {
       "package": "punchy-photo-cards",
       "name": "Punchy Photo Cards",
       "description": "Create expressive social-share artwork with photographic cutouts, oversized type and confident graphic shapes.",
@@ -1766,6 +1775,39 @@
     "skills/pen-and-page/references/usage-examples.md": "2f2228a667e455abb33f6f51e41d35b5a55d9407158b08410df2fc7c7afa5821",
     "skills/pen-and-page/requirements.txt": "6ab81a090bf98b550e46c9841944255f245fd3b2c5cf25997c609836cc5b18c7",
     "skills/pen-and-page/scripts/export_notes.py": "1d2e2d5caf8e293277a6ae47f054083d05b49f4381513a13ad26f673978a84d2",
+    "skills/picture-tale-pages/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/picture-tale-pages/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/picture-tale-pages/README.md": "829034bb3d633519ace3f101c70d753aad5197bf5bbc8c5ea73becd0eed5724c",
+    "skills/picture-tale-pages/SKILL.md": "61790c413fdd419398ebe443de17b1a24b737e400d8212b6959f6806a1c2486c",
+    "skills/picture-tale-pages/agents/openai.yaml": "d7ef6113f3693793ecda44d8c51f5109a00a7abccbf80d153cee670de666b73a",
+    "skills/picture-tale-pages/examples/fox/assets/story-fox-1.png": "c867b39c28191be615e50477b0c74dd9f8abba70a5c5ffc57ce8a65d8c2eddd6",
+    "skills/picture-tale-pages/examples/fox/assets/story-fox-2.png": "a06c24c3c989eb06e982b8906cf6dcfcd1ff74f54526c1ba0a55c69c1b844885",
+    "skills/picture-tale-pages/examples/fox/assets/story-fox-3.png": "2a188b014d05b329d4fc253c0084fdf041d3aa1cfd7e50c3e48ca61cd2462464",
+    "skills/picture-tale-pages/examples/fox/brief.md": "8849264ce670cf87ff96a4d2f85596939293501f6d8e0bfce1513bfcdc8cb5ce",
+    "skills/picture-tale-pages/examples/fox/deck.json": "6b45d5fdcdb72049302b14e81a7a5e2fe1a8fc2726478c2996b5a424abd6d6d1",
+    "skills/picture-tale-pages/examples/fox/export-receipt.json": "76a374b294c4860ecf918d11c836bd149889a9bfea9ca95ddf8a7e8488ffb837",
+    "skills/picture-tale-pages/examples/gallery/01.webp": "08e3de407de905e1f3ae534d22321019f07b0b9db1f7eb0d4a1bdeb99ed8e4c4",
+    "skills/picture-tale-pages/examples/gallery/02.webp": "ff25757a276aeca4081b2655cbf42319dc995dbd4f437a7690164e6375c8501e",
+    "skills/picture-tale-pages/examples/gallery/03.webp": "2edb22560f6ca69ff7238c87d3b0abc61640b26faa8a154970ad272aabc2cc22",
+    "skills/picture-tale-pages/examples/robot/assets/story-robot-1.png": "17af4eb0fc15781233fd9af2b58590c02ae681bf053d698d0c3f1f39d7038b94",
+    "skills/picture-tale-pages/examples/robot/assets/story-robot-2.png": "52d5e95b2beca419c9ff012660ff65054bf387dd6799d9e96f8257cacdc250c1",
+    "skills/picture-tale-pages/examples/robot/assets/story-robot-3.png": "70e1e6296ae500dc5a4e593c4e82b5451c199d8a126507fbbb58f982adaa2bb7",
+    "skills/picture-tale-pages/examples/robot/brief.md": "8f9073e7d6f85b6049bcdec1fd2ec38a3e130d447fae449cd16a44ccc0cdbb4a",
+    "skills/picture-tale-pages/examples/robot/deck.json": "0b6f1c300afd9f672e102cbaa4bc86dc8a5d31fd3aef20f67dec443afe84ec4f",
+    "skills/picture-tale-pages/examples/robot/export-receipt.json": "dccd5034e7b0e2aba76c1d2ce76a4f57c5cda34aa6bd7caa64755a33d2c25e8a",
+    "skills/picture-tale-pages/examples/whale/assets/story-whale-1.png": "c6c546a501b6fdd712171b7399d70e84e55386026c7152e896ac972009557363",
+    "skills/picture-tale-pages/examples/whale/assets/story-whale-2.png": "df6be4a585fe9f66f3f58902c77df53010b45746db8869023be083e5def22321",
+    "skills/picture-tale-pages/examples/whale/assets/story-whale-3.png": "1a9820b2df520d34b0ce672020180a939be38787c711063a21ca3c1c6b6ae001",
+    "skills/picture-tale-pages/examples/whale/brief.md": "7115b5fe822c2bfae47743a11a3d579d797a3842b839a3d90c8aae7d578ec53a",
+    "skills/picture-tale-pages/examples/whale/deck.json": "1eb615152a99e9f656681b9e501dd31e57c01f69f945ca9a146204e2a866aee7",
+    "skills/picture-tale-pages/examples/whale/export-receipt.json": "9bdfbdbc56c6ef3ef1ca14cc3d7a8bd3ffce5278721f256c638e81bc616f6bb6",
+    "skills/picture-tale-pages/references/design.md": "70e886e56c6d2fb7be150a5e315c1a104ea978f4f171dce69889f5997b302b15",
+    "skills/picture-tale-pages/references/example-guide.json": "30208b23f9e6f06d787e62f5b8416d410989100705b31b0fa06f9dc1c7454b54",
+    "skills/picture-tale-pages/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/picture-tale-pages/references/usage-examples.md": "4ec59c074aaaea3b1a9e638f8c5db11baef7d037d91592c4da3eea236e83714d",
+    "skills/picture-tale-pages/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/picture-tale-pages/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/picture-tale-pages/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/punchy-photo-cards/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/punchy-photo-cards/PROVENANCE.json": "d12521ab37cc7d8bf94ab0372d9f8c54f5a22568fa0df6a94cc1ecbaf05461d5",
     "skills/punchy-photo-cards/SKILL.md": "53c7ed43f603cc7d3dd13d053e677030f79089be1100c0a2480fab94a58757d8",
@@ -8458,6 +8500,30 @@
     {
       "path": "skills/pen-and-page/validation.json",
       "reason": "runtime/cache"
+    },
+    {
+      "path": "skills/picture-tale-pages/examples/fox/fox.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/picture-tale-pages/examples/fox/fox.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/picture-tale-pages/examples/robot/robot.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/picture-tale-pages/examples/robot/robot.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/picture-tale-pages/examples/whale/whale.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/picture-tale-pages/examples/whale/whale.pptx",
+      "reason": "rendered example; see website"
     },
     {
       "path": "skills/reading-room-brief/examples/documentation/documentation.html",

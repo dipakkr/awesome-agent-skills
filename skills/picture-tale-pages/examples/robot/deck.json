@@ -1,0 +1,515 @@
+{
+  "title": "Pip grows a garden",
+  "font": "Arial",
+  "disclosure": "Fictional example. Adapt to your own brief.",
+  "design": {
+    "name": "Garden Club",
+    "grammar": "Peach and leafy green, chunky friendly type, story panels and botanical geometric accents.",
+    "audience": "Educators and storytellers"
+  },
+  "slides": [
+    {
+      "background": "#F6CDB3",
+      "objects": [
+        {
+          "kind": "ellipse",
+          "x": 775,
+          "y": 40,
+          "w": 420,
+          "h": 420,
+          "fill": "#E7DF97"
+        },
+        {
+          "kind": "image",
+          "src": "assets/story-robot-1.png",
+          "x": 630,
+          "y": 150,
+          "w": 590,
+          "h": 394,
+          "alt": "Original concept artwork: story robot 1"
+        },
+        {
+          "kind": "text",
+          "text": "GARDEN CLUB / STORY NO. 03",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A little robot.\nA growing\nworld.",
+          "x": 52,
+          "y": 155,
+          "w": 590,
+          "h": 295,
+          "size": 72,
+          "color": "#245D42",
+          "font": "Trebuchet MS",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 55,
+          "y": 526,
+          "w": 490,
+          "h": 72,
+          "fill": "#245D42",
+          "radius": 36
+        },
+        {
+          "kind": "text",
+          "text": "Pip grows a garden",
+          "x": 82,
+          "y": 544,
+          "w": 440,
+          "h": 40,
+          "size": 28,
+          "color": "#F6CDB3",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Fictional example / Picture Tale Pages",
+          "x": 53,
+          "y": 698,
+          "w": 1000,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "A story about patient, ordinary care. Read the title slowly. Ask the audience what they expect.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#F6CDB3",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-robot-1.png",
+          "x": 490,
+          "y": 113,
+          "w": 735,
+          "h": 490,
+          "alt": "Original concept artwork: story robot 1"
+        },
+        {
+          "kind": "ellipse",
+          "x": 54,
+          "y": 110,
+          "w": 75,
+          "h": 75,
+          "fill": "#C6D967"
+        },
+        {
+          "kind": "text",
+          "text": "1",
+          "x": 76,
+          "y": 126,
+          "w": 50,
+          "h": 45,
+          "size": 35,
+          "color": "#245D42",
+          "font": "Arial",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Something needs help",
+          "x": 54,
+          "y": 225,
+          "w": 405,
+          "h": 180,
+          "size": 47,
+          "color": "#245D42",
+          "font": "Trebuchet MS",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "On the rooftop, Pip found a little plant with drooping leaves.",
+          "x": 56,
+          "y": 420,
+          "w": 390,
+          "h": 210,
+          "size": 29,
+          "color": "#245D42",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#245D42",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "GARDEN CLUB",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "02",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 1 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "On the rooftop, Pip found a little plant with drooping leaves. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#F6CDB3",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-robot-2.png",
+          "x": 490,
+          "y": 113,
+          "w": 735,
+          "h": 490,
+          "alt": "Original concept artwork: story robot 2"
+        },
+        {
+          "kind": "ellipse",
+          "x": 54,
+          "y": 110,
+          "w": 75,
+          "h": 75,
+          "fill": "#C6D967"
+        },
+        {
+          "kind": "text",
+          "text": "2",
+          "x": 76,
+          "y": 126,
+          "w": 50,
+          "h": 45,
+          "size": 35,
+          "color": "#245D42",
+          "font": "Arial",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A little every day",
+          "x": 54,
+          "y": 225,
+          "w": 405,
+          "h": 180,
+          "size": 47,
+          "color": "#245D42",
+          "font": "Trebuchet MS",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Pip brought water, watched the sky and waited for tomorrow.",
+          "x": 56,
+          "y": 420,
+          "w": 390,
+          "h": 210,
+          "size": 29,
+          "color": "#245D42",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#245D42",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "GARDEN CLUB",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "03",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 2 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Pip brought water, watched the sky and waited for tomorrow. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#F6CDB3",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-robot-3.png",
+          "x": 490,
+          "y": 113,
+          "w": 735,
+          "h": 490,
+          "alt": "Original concept artwork: story robot 3"
+        },
+        {
+          "kind": "ellipse",
+          "x": 54,
+          "y": 110,
+          "w": 75,
+          "h": 75,
+          "fill": "#C6D967"
+        },
+        {
+          "kind": "text",
+          "text": "3",
+          "x": 76,
+          "y": 126,
+          "w": 50,
+          "h": 45,
+          "size": 35,
+          "color": "#245D42",
+          "font": "Arial",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A new visitor",
+          "x": 54,
+          "y": 225,
+          "w": 405,
+          "h": 180,
+          "size": 47,
+          "color": "#245D42",
+          "font": "Trebuchet MS",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "One morning a flower opened. A tiny bird came to see it too.",
+          "x": 56,
+          "y": 420,
+          "w": 390,
+          "h": 210,
+          "size": 29,
+          "color": "#245D42",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#245D42",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "GARDEN CLUB",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "04",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#245D42",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 3 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "One morning a flower opened. A tiny bird came to see it too. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#245D42",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "GARDEN CLUB",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#F6CDB3",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "image",
+          "src": "assets/story-robot-1.png",
+          "x": 720,
+          "y": 110,
+          "w": 510,
+          "h": 510,
+          "alt": "Original concept artwork: story robot 1"
+        },
+        {
+          "kind": "text",
+          "text": "What takes time\nto grow?",
+          "x": 55,
+          "y": 129,
+          "w": 650,
+          "h": 240,
+          "size": 60,
+          "color": "#F6CDB3",
+          "font": "Trebuchet MS",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "What did you notice?\nWhat might happen next?",
+          "x": 60,
+          "y": 420,
+          "w": 590,
+          "h": 190,
+          "size": 30,
+          "color": "#F6CDB3",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#F6CDB3",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "GARDEN CLUB",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#F6CDB3",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "05",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#F6CDB3",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Talk about a skill, friendship or plant that needs patient care.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    }
+  ]
+}

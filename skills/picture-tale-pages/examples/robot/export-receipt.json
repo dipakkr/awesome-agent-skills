@@ -1,0 +1,21 @@
+{
+  "title": "Pip grows a garden",
+  "slideCount": 5,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "2cc6cf2388a1f680e199e99f423ffc24322b2bc8b1df73e7841e1bb0533b1892",
+  "outputs": [
+    {
+      "file": "robot.html",
+      "sha256": "f6b5db3beb404cdfb30b1c93aeedd545cbfd7d936753478adacd128d8783b525",
+      "bytes": 21540200
+    },
+    {
+      "file": "robot.pptx",
+      "sha256": "07818703add6cffa4aada844a0fe497b23b87c9a76c1ca442b1f9a23ed6c2e5f",
+      "bytes": 9415692
+    }
+  ]
+}

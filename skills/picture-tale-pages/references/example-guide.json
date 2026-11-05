@@ -1,0 +1,34 @@
+{
+  "skill": "picture-tale-pages",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "Finch and the little light",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "08e3de407de905e1f3ae534d22321019f07b0b9db1f7eb0d4a1bdeb99ed8e4c4",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $picture-tale-pages. Create a new output based on the packaged example \"Finch and the little light\". Brief: Lantern Tales \u00b7 A story about caring for something small. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Nori listens to the sea",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "ff25757a276aeca4081b2655cbf42319dc995dbd4f437a7690164e6375c8501e",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $picture-tale-pages. Create a new output based on the packaged example \"Nori listens to the sea\". Brief: Midnight Ocean \u00b7 A story about listening before joining in. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Pip grows a garden",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "2edb22560f6ca69ff7238c87d3b0abc61640b26faa8a154970ad272aabc2cc22",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $picture-tale-pages. Create a new output based on the packaged example \"Pip grows a garden\". Brief: Garden Club \u00b7 A story about patient, ordinary care. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

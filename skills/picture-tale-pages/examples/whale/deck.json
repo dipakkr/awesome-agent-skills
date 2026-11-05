@@ -1,0 +1,490 @@
+{
+  "title": "Nori listens to the sea",
+  "font": "Arial",
+  "disclosure": "Fictional example. Adapt to your own brief.",
+  "design": {
+    "name": "Midnight Ocean",
+    "grammar": "Midnight blue story frames, ocean paintings, small celestial marks and lyrical serif copy.",
+    "audience": "Educators and storytellers"
+  },
+  "slides": [
+    {
+      "background": "#102F49",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-whale-1.png",
+          "x": 460,
+          "y": 65,
+          "w": 765,
+          "h": 510,
+          "alt": "Original concept artwork: story whale 1"
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN / A STORY",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Nori listens\nto the sea.",
+          "x": 50,
+          "y": 190,
+          "w": 620,
+          "h": 250,
+          "size": 78,
+          "color": "#EDE5C9",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Sometimes the quietest voice\nhas something to tell us.",
+          "x": 57,
+          "y": 565,
+          "w": 900,
+          "h": 80,
+          "size": 28,
+          "color": "#EDE5C9",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "ellipse",
+          "x": 1150,
+          "y": 590,
+          "w": 32,
+          "h": 32,
+          "fill": "#76BDB9"
+        },
+        {
+          "kind": "ellipse",
+          "x": 1100,
+          "y": 610,
+          "w": 12,
+          "h": 12,
+          "fill": "#EDE5C9"
+        },
+        {
+          "kind": "text",
+          "text": "Fictional example / Picture Tale Pages",
+          "x": 53,
+          "y": 698,
+          "w": 1000,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "A story about listening before joining in. Read the title slowly. Ask the audience what they expect.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#102F49",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-whale-1.png",
+          "x": 50,
+          "y": 94,
+          "w": 750,
+          "h": 500,
+          "alt": "Original concept artwork: story whale 1"
+        },
+        {
+          "kind": "text",
+          "text": "A sound to find",
+          "x": 840,
+          "y": 149,
+          "w": 385,
+          "h": 165,
+          "size": 43,
+          "color": "#EDE5C9",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Nori found a pearl that glowed in the quiet blue water.",
+          "x": 845,
+          "y": 347,
+          "w": 375,
+          "h": 240,
+          "size": 29,
+          "color": "#EDE5C9",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN / CHAPTER 1",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#EDE5C9",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "02",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 1 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Nori found a pearl that glowed in the quiet blue water. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#102F49",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-whale-2.png",
+          "x": 50,
+          "y": 94,
+          "w": 750,
+          "h": 500,
+          "alt": "Original concept artwork: story whale 2"
+        },
+        {
+          "kind": "text",
+          "text": "A softer song",
+          "x": 840,
+          "y": 149,
+          "w": 385,
+          "h": 165,
+          "size": 43,
+          "color": "#EDE5C9",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Nori tried a song. Then Nori stopped and listened to a new friend.",
+          "x": 845,
+          "y": 347,
+          "w": 375,
+          "h": 240,
+          "size": 29,
+          "color": "#EDE5C9",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN / CHAPTER 2",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#EDE5C9",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "03",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 2 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Nori tried a song. Then Nori stopped and listened to a new friend. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#102F49",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-whale-3.png",
+          "x": 50,
+          "y": 94,
+          "w": 750,
+          "h": 500,
+          "alt": "Original concept artwork: story whale 3"
+        },
+        {
+          "kind": "text",
+          "text": "A song together",
+          "x": 840,
+          "y": 149,
+          "w": 385,
+          "h": 165,
+          "size": 43,
+          "color": "#EDE5C9",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A little silence made space for a song they could share.",
+          "x": 845,
+          "y": 347,
+          "w": 375,
+          "h": 240,
+          "size": 29,
+          "color": "#EDE5C9",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN / CHAPTER 3",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#EDE5C9",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "04",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#EDE5C9",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 3 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "A little silence made space for a song they could share. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#EDE5C9",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#102F49",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "image",
+          "src": "assets/story-whale-1.png",
+          "x": 720,
+          "y": 110,
+          "w": 510,
+          "h": 510,
+          "alt": "Original concept artwork: story whale 1"
+        },
+        {
+          "kind": "text",
+          "text": "What can you hear\nwhen you listen?",
+          "x": 55,
+          "y": 129,
+          "w": 650,
+          "h": 240,
+          "size": 60,
+          "color": "#102F49",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "What did you notice?\nWhat might happen next?",
+          "x": 60,
+          "y": 420,
+          "w": 590,
+          "h": 190,
+          "size": 30,
+          "color": "#102F49",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#102F49",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "MIDNIGHT OCEAN",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#102F49",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "05",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#102F49",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Invite everyone to notice one quiet sound in the room.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    }
+  ]
+}

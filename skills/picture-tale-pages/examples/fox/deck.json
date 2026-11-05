@@ -1,0 +1,405 @@
+{
+  "title": "Finch and the little light",
+  "font": "Georgia",
+  "disclosure": "Fictional example. Adapt to your own brief.",
+  "design": {
+    "name": "Lantern Tales",
+    "grammar": "Golden story paintings, quiet inset captions, chapter labels and large scene-first spreads.",
+    "audience": "Educators and storytellers"
+  },
+  "slides": [
+    {
+      "background": "#F4E8CD",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-fox-1.png",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "alt": "Original concept artwork: story fox 1"
+        },
+        {
+          "kind": "rect",
+          "x": 735,
+          "y": 45,
+          "w": 515,
+          "h": 610,
+          "fill": "#F4E8CD",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "LANTERN TALES / 01",
+          "x": 772,
+          "y": 80,
+          "w": 440,
+          "h": 28,
+          "size": 15,
+          "color": "#5B3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Finch &\nthe little\nlight",
+          "x": 770,
+          "y": 175,
+          "w": 480,
+          "h": 285,
+          "size": 80,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "An illustrated story\nabout noticing.",
+          "x": 773,
+          "y": 545,
+          "w": 420,
+          "h": 85,
+          "size": 28,
+          "color": "#5B3829",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Fictional example / Picture Tale Pages",
+          "x": 53,
+          "y": 698,
+          "w": 1000,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "A story about caring for something small. Read the title slowly. Ask the audience what they expect.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#F4E8CD",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-fox-1.png",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "alt": "Original concept artwork: story fox 1"
+        },
+        {
+          "kind": "rect",
+          "x": 28,
+          "y": 445,
+          "w": 1224,
+          "h": 247,
+          "fill": "#F4E8CD",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "A small discovery",
+          "x": 57,
+          "y": 475,
+          "w": 465,
+          "h": 145,
+          "size": 45,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Finch found a seed that glowed like the last bit of sunset.",
+          "x": 560,
+          "y": 479,
+          "w": 650,
+          "h": 157,
+          "size": 28,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "LANTERN TALES / 1",
+          "x": 58,
+          "y": 657,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#5B3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 1 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Finch found a seed that glowed like the last bit of sunset. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#F4E8CD",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-fox-2.png",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "alt": "Original concept artwork: story fox 2"
+        },
+        {
+          "kind": "rect",
+          "x": 28,
+          "y": 445,
+          "w": 1224,
+          "h": 247,
+          "fill": "#F4E8CD",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "A patient kind of brave",
+          "x": 57,
+          "y": 475,
+          "w": 465,
+          "h": 145,
+          "size": 45,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "When the rain came, Finch held a leaf over the little sprout.",
+          "x": 560,
+          "y": 479,
+          "w": 650,
+          "h": 157,
+          "size": 28,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "LANTERN TALES / 2",
+          "x": 58,
+          "y": 657,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#5B3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 2 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "When the rain came, Finch held a leaf over the little sprout. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#F4E8CD",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/story-fox-3.png",
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 720,
+          "alt": "Original concept artwork: story fox 3"
+        },
+        {
+          "kind": "rect",
+          "x": 28,
+          "y": 445,
+          "w": 1224,
+          "h": 247,
+          "fill": "#F4E8CD",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Enough to share",
+          "x": 57,
+          "y": 475,
+          "w": 465,
+          "h": 145,
+          "size": 45,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "The flower grew. Its warm light made room for everyone.",
+          "x": 560,
+          "y": 479,
+          "w": 650,
+          "h": 157,
+          "size": 28,
+          "color": "#5B3829",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "LANTERN TALES / 3",
+          "x": 58,
+          "y": 657,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#5B3829",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Original story \u2022 3 of 3",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "The flower grew. Its warm light made room for everyone. Pause and let the audience describe something they notice in the scene.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    },
+    {
+      "background": "#5B3829",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "LANTERN TALES",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#F4E8CD",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "image",
+          "src": "assets/story-fox-1.png",
+          "x": 720,
+          "y": 110,
+          "w": 510,
+          "h": 510,
+          "alt": "Original concept artwork: story fox 1"
+        },
+        {
+          "kind": "text",
+          "text": "What small thing\ncould you care for?",
+          "x": 55,
+          "y": 129,
+          "w": 650,
+          "h": 240,
+          "size": 60,
+          "color": "#F4E8CD",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "What did you notice?\nWhat might happen next?",
+          "x": 60,
+          "y": 420,
+          "w": 590,
+          "h": 190,
+          "size": 30,
+          "color": "#F4E8CD",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#F4E8CD",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "LANTERN TALES",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#F4E8CD",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "05",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#F4E8CD",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Pause for a child's answer. There is more than one good answer.\n\nUse original or cleared stories and characters. Keep age suitability and visual continuity explicit. Never imitate a living illustrator's named style."
+    }
+  ]
+}

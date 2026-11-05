@@ -1,0 +1,21 @@
+{
+  "title": "Nori listens to the sea",
+  "slideCount": 5,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "c9423c1ab9f8c6f65bcd36750d558f9e841638f17992820c8c8b3bd0c9c06f74",
+  "outputs": [
+    {
+      "file": "whale.html",
+      "sha256": "af07854427c4fcd0d53200ddcd605e6b61a1d23499d2f1fef8cf5393dd88319b",
+      "bytes": 21766738
+    },
+    {
+      "file": "whale.pptx",
+      "sha256": "d0ca49e2b5ebc3cd3f3d23a96faedee72ca10e3ce7c8adc32f224493515fe9b1",
+      "bytes": 9524335
+    }
+  ]
+}
