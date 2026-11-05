@@ -1,0 +1,149 @@
+{
+  "id": "apology-automation",
+  "title": "The apology machine",
+  "subtitle": "Automation needs a stop button.",
+  "theme": "citrus",
+  "takeaway": "Test the trigger, rules and stop condition before automating.",
+  "boards": [
+    {
+      "heading": "One event. One response.",
+      "nodes": [
+        {
+          "icon": "bell",
+          "label": "TRIGGER"
+        },
+        {
+          "icon": "gate",
+          "label": "RULE"
+        },
+        {
+          "icon": "phone",
+          "label": "ACTION"
+        }
+      ],
+      "note": "Start with a small test.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Give it a stop condition",
+      "nodes": [
+        {
+          "icon": "ticket",
+          "label": "EVENT ID"
+        },
+        {
+          "icon": "gate",
+          "label": "CHECK"
+        },
+        {
+          "icon": "tray",
+          "label": "SEND ONCE"
+        }
+      ],
+      "note": "Avoid sending the same response repeatedly.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "I automated my apology email. It said sorry four hundred times.",
+      "board": 0,
+      "shot": "student",
+      "gag": "mail",
+      "reaction": "shock",
+      "tag": "SORRY \u00d7 400",
+      "pause": 0.5
+    },
+    {
+      "speaker": "tutor",
+      "text": "You built a regret sprinkler.",
+      "board": 0,
+      "shot": "tutor",
+      "gag": "mail",
+      "reaction": "deadpan",
+      "tag": "INNOVATION. TECHNICALLY.",
+      "pause": 0.6
+    },
+    {
+      "speaker": "student",
+      "text": "But automation saves time!",
+      "board": 0,
+      "shot": "student",
+      "gag": "mail",
+      "reaction": "proud",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "It repeats your rules. Including the bad ones.",
+      "board": 0,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "What should I check before turning it on?",
+      "board": 0,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "think",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "What starts it, who gets the message, and what makes it stop. Test one case first.",
+      "board": 0,
+      "shot": "board",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "And remember which enquiry already got a reply?",
+      "board": 1,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "think",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Exactly. Check before sending again.",
+      "board": 1,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "Great. I will automate an apology for the apology.",
+      "board": 1,
+      "shot": "student",
+      "gag": "mail",
+      "reaction": "proud",
+      "tag": "SEQUEL CANCELLED",
+      "pause": 0.5
+    },
+    {
+      "speaker": "tutor",
+      "text": "Step away from the send button.",
+      "board": 1,
+      "shot": "tutor",
+      "gag": "mail",
+      "reaction": "deadpan",
+      "tag": "",
+      "pause": 0.6
+    }
+  ]
+}

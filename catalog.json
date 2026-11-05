@@ -154,6 +154,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-comedy-3d-explainer",
+      "name": "Comedy 3D Explainer",
+      "description": "Turn one useful idea into a funny 3D skit: a confident misunderstanding, a deadpan robot, an absurd prop and a callback ending.",
+      "site": "https://claudeai.directory/skills/comedy-3d-explainer",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-comedy-3d-explainer",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -428,6 +438,40 @@
     "skills/cad-case-study-results-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/cad-case-study-results-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
     "skills/cad-case-study-results-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/cad-comedy-3d-explainer/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-comedy-3d-explainer/PROVENANCE.json": "977e5e0bfbd80c163946a860432794aeb3b9c074ec579c2a235843bfab73cee4",
+    "skills/cad-comedy-3d-explainer/SKILL.md": "ad80839ea596fd7a9fc5087c1cf88a434818cc68caab2bc43c76efdc3828e8ba",
+    "skills/cad-comedy-3d-explainer/START-HERE.md": "7443cfc18ee2ba40b5922e40abdec41694e5fcbd9cb4903902699f6e1f73d87d",
+    "skills/cad-comedy-3d-explainer/agents/openai.yaml": "7011aa3a33c70879e72be954397b2dda831cd3228337d5f9f27b98046d9ca367",
+    "skills/cad-comedy-3d-explainer/examples/ai-evals/brief.json": "8ee87ea1e5e0f1fbb97fe563830678e4810659fffec04a84cea0a5623709abee",
+    "skills/cad-comedy-3d-explainer/examples/ai-evals/prompt.txt": "e36795a6e747fb78b9922e64ba63277e2288ca616243dd0d7772839b6b828a4c",
+    "skills/cad-comedy-3d-explainer/examples/ai-evals/script.md": "2467346b8185802de6ca5a5580d09b3581e6a32cdd62de4bdd7d3bdb545b44f8",
+    "skills/cad-comedy-3d-explainer/examples/apology-automation/brief.json": "90091f7897b550314c42166922aad3bc1dec1a824ad0373ce904c81c60774c9c",
+    "skills/cad-comedy-3d-explainer/examples/apology-automation/prompt.txt": "bf19f89f42cff082190c7363056175ec936b29ddba1690ae6057bcc63f0f0fe3",
+    "skills/cad-comedy-3d-explainer/examples/apology-automation/script.md": "598db7750c8522b2d65ae9d31f9768faaa100881a3c4e3f705cc9d43d4200b77",
+    "skills/cad-comedy-3d-explainer/examples/cloud-weather/brief.json": "983af2bede6c83a36ddce4e7be09b687b736b1011640c0389282284acb2d0268",
+    "skills/cad-comedy-3d-explainer/examples/cloud-weather/prompt.txt": "2f347997c8effe79f3af7a259bacd972024728c1687f0f64104ce3924d9f7b9a",
+    "skills/cad-comedy-3d-explainer/examples/cloud-weather/script.md": "df32a64c1824629609d483d0f863689bfa40cf855371f0271929dcce444914bb",
+    "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/brief.json": "180690707b7dfd04ad53727ea5561cf30c1d8beaf09fbd8b83b233639a218eef",
+    "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/prompt.txt": "19118c673d92441e7cbce80ae8172ff6c504bcdc88b887de6296886242d43404",
+    "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/script.md": "a4fd9e9cb1d060d25196f604fba06755722a36811ca7601908d56134cfd3a946",
+    "skills/cad-comedy-3d-explainer/examples/tiny-change/brief.json": "0079ed00236acd4008bb5645a74fb8ed96df9dceda41ab26e941317f56aca7da",
+    "skills/cad-comedy-3d-explainer/examples/tiny-change/prompt.txt": "86643b945886585d65a09ed60951173a9fb0f435557d9c77ffdc55bede334a4f",
+    "skills/cad-comedy-3d-explainer/examples/tiny-change/script.md": "f2ecbab73fdf2014dee857fb087d9b5dd89e06fd44fcf20ff7ba6d14b50f1849",
+    "skills/cad-comedy-3d-explainer/references/ai-evals-notes.md": "ddb916ddf66a131f9618aad051fd8a9419ceb432b0bfc2f52c959851d64c84a0",
+    "skills/cad-comedy-3d-explainer/references/audio-setup.md": "c0149d37372cc263c8daf09c6252ff86c3b73fa588d012c8d815cc7381b34570",
+    "skills/cad-comedy-3d-explainer/references/comedy-writing.md": "891cc91c8f8abea39a6ca8845eef44e1b9599f07f68ece830cf3301335e42a1d",
+    "skills/cad-comedy-3d-explainer/references/example-guide.json": "610f97120d1d6a3246c2f18f673431a884d194bcf031ea6b69fae933503b6872",
+    "skills/cad-comedy-3d-explainer/references/input-contract.md": "6d25fe3404a2a9546107a340c86b9b153112d862a4af91305888300f85213dc1",
+    "skills/cad-comedy-3d-explainer/references/usage-examples.md": "8df6122b08b8952bd4cfb629ace449110d5e05420524f9e0937f4c041d222f13",
+    "skills/cad-comedy-3d-explainer/renderer/.gitignore": "f882c12167df13dc3e11d3ec889787ee6bef8a44fcb07ca7fdc7a7eb98d1d937",
+    "skills/cad-comedy-3d-explainer/renderer/package-lock.json": "6c70891bc9c9557a5f04c7f04e2d523c54d7fb81fe983ac62be1fc1ffd30a132",
+    "skills/cad-comedy-3d-explainer/renderer/package.json": "46bcd6b4e6c03c80607e576d67eef27d71326e47b8f776c44378929e2361d817",
+    "skills/cad-comedy-3d-explainer/renderer/public/.gitkeep": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "skills/cad-comedy-3d-explainer/renderer/render.mjs": "b3bf0bd646cdd891f4424a748c47fef14093a60b28b2d2f7fe55fb26872a05bc",
+    "skills/cad-comedy-3d-explainer/renderer/src/Film.jsx": "0b73c04b74d38d40b7d67e7137afe907f5309f71695da2434570c954323348b5",
+    "skills/cad-comedy-3d-explainer/renderer/src/index.jsx": "67b94858eafb1243a66bc53299dd7b0eab176d7bab5cbe880d28437cec4cbf22",
+    "skills/cad-comedy-3d-explainer/scripts/prepare.py": "2227e138de7195bf1fbdce87915752e3b6e860674087360269caca1d9bd2a29b",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -1304,6 +1348,862 @@
     },
     {
       "path": "skills/cad-case-study-results-deck/examples/signup/signup.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/10.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/10.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/11.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/11.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/12.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/audio/12.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/captions.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/12.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/13.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/review/14.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/ai-evals/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/captions.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/apology-automation/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/captions.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cloud-weather/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/captions.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/cookie-disappointment/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/captions.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-comedy-3d-explainer/examples/tiny-change/recorded/voice.wav",
       "reason": "rendered example; see website"
     }
   ]
