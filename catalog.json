@@ -661,6 +661,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "retail-calendar-creative",
+      "name": "Retail Calendar Creative",
+      "description": "Build a clear seasonal retail creative from a real offer, with readable terms and an uncluttered product scene.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/retail-calendar-creative",
+      "publication": "original-mit"
+    },
+    {
       "package": "shape-and-type",
       "name": "Shape And Type",
       "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
@@ -2012,6 +2021,16 @@
     "skills/report-front-page/references/research.md": "353998853ea1ba1a34ab735f1cc9d76f8863201cd364c69631bd82ec5f1209a7",
     "skills/report-front-page/references/runtime-brief.json": "b4d6480d67cf8486c5c4940414177a967095d0646f4dcd1f20df8b137bf83c13",
     "skills/report-front-page/references/usage-examples.md": "a939cbaca02c55390a17add4c0981221b2267b6fc3c2837a9367605040a59d42",
+    "skills/retail-calendar-creative/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/retail-calendar-creative/SKILL.md": "0b6fd4f1145191e9206c9502196a1bee04b1c3550dbf015a28f5067979c18e34",
+    "skills/retail-calendar-creative/examples/gallery/01.webp": "d0641debcc538c3759d17cd5f1a72bcd434a0fcd98acafb8d2230da399ff2b64",
+    "skills/retail-calendar-creative/examples/gallery/02.webp": "81f40e27793bcf434fa181ced0de4ae533bfd4ec75d04570d9adb482bd340130",
+    "skills/retail-calendar-creative/examples/gallery/03.webp": "7e0278078c2208384178df4b5814fac16bddc7e348b4296e58b11de327b30025",
+    "skills/retail-calendar-creative/examples/gallery/04.webp": "a8a0991e7d7beada2c2fe0e2d64e5170acc77d3872e6fda22ac73bf1e223faf1",
+    "skills/retail-calendar-creative/references/example-guide.json": "b679dbbee97f306e1eab45b3a83e8e5bf4975f12ec96416675fcb40213f052fb",
+    "skills/retail-calendar-creative/references/examples.json": "aea64518594f7a1709c9e00502b4a48d0d4c5796718093b1ffdb73856f7b47eb",
+    "skills/retail-calendar-creative/references/research.md": "deccfa1f39c26c3dc889d886507b6145896db52a3a5894e88525500911eb67f2",
+    "skills/retail-calendar-creative/references/usage-examples.md": "fb00c5797725fc1247beeb1f103e14babd2a1b04abd39aca05f3ec7c8486c73f",
     "skills/shape-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/shape-and-type/SKILL.md": "04cb5c211c6d3b9d7352eefb051e068894ab47c2aeead54fb1605650daa55052",
     "skills/shape-and-type/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",

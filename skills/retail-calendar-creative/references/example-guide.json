@@ -1,0 +1,43 @@
+{
+  "skill": "retail-calendar-creative",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Winter collection",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "d0641debcc538c3759d17cd5f1a72bcd434a0fcd98acafb8d2230da399ff2b64",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $retail-calendar-creative. Create a new output based on the packaged example \"Winter collection\". Brief: A fictional winter homewares collection campaign with no discount, deadline or urgency. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Stationery weekend",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "81f40e27793bcf434fa181ced0de4ae533bfd4ec75d04570d9adb482bd340130",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $retail-calendar-creative. Create a new output based on the packaged example \"Stationery weekend\". Brief: Fictional demonstration offer explicitly supplied: 20% off notebooks, 6-8 November 2026, code PAGE20, excludes bundles. Not a real live sale. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Spring table collection",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "7e0278078c2208384178df4b5814fac16bddc7e348b4296e58b11de327b30025",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $retail-calendar-creative. Create a new output based on the packaged example \"Spring table collection\". Brief: Fictional spring tableware collection campaign. No discount, dates, urgency or actual stock claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Travel collection offer",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "a8a0991e7d7beada2c2fe0e2d64e5170acc77d3872e6fda22ac73bf1e223faf1",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $retail-calendar-creative. Create a new output based on the packaged example \"Travel collection offer\". Brief: Explicit fictional offer: 15% off travel bags, 12\u201314 March 2027, code PACK15, excludes bundles. Demonstration only, not a live promotion. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

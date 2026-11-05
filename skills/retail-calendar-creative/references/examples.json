@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Winter collection",
+    "brief": "A fictional winter homewares collection campaign with no discount, deadline or urgency.",
+    "prompt": "Square 1:1 refined winter retail campaign. Warm ivory background, photograph of a deep burgundy ribbed ceramic mug beside a folded oatmeal wool throw and one sculptural pine twig, beautiful studio shadows, quiet premium homewares mood. Large editorial serif headline top left exactly \"The winter edit\". Small dark brown footer exactly \"Make room for cosy\". Product arrangement lower right, generous negative space, burgundy and warm cream palette. No logo, no price, no sale percentage, no countdown, no watermark, no extra text. Original fictional collection concept.",
+    "filename": "attempt-01.png",
+    "usage": "Use for an approved seasonal landing page, email or social campaign. Replace example facts at invocation time with your real offer and check the live destination before launch."
+  },
+  {
+    "title": "Stationery weekend",
+    "brief": "Fictional demonstration offer explicitly supplied: 20% off notebooks, 6-8 November 2026, code PAGE20, excludes bundles. Not a real live sale.",
+    "prompt": "Square 1:1 finished bold stationery sale campaign. Bright butter-yellow background with a beautifully photographed cobalt-blue notebook and coral pencil in lower right, long clean studio shadows. Top small text exactly \"THE NOTEBOOK WEEKEND\". Large beautifully kerned navy typography dominating left and centre reads exactly \"20% off notebooks\". Below it text exactly \"6\u20138 Nov 2026\" then \"Use code PAGE20\". Small but legible footer exactly \"Excludes bundles\". Clear professional editorial retail hierarchy, generous margins, all words accurate, no logo, no watermark, no additional terms or claims. This is a fictional demonstration campaign, do not add that note inside the artwork.",
+    "filename": "attempt-02.png",
+    "usage": "Use for an approved seasonal landing page, email or social campaign. Replace example facts at invocation time with your real offer and check the live destination before launch."
+  }
+]
