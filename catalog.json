@@ -562,6 +562,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "particle-rings",
+      "name": "Particle Rings",
+      "description": "Create a seamless projected particle loop with a sphere, torus, helix or wave and a stable editorial headline. Use for abstract brand films, interludes and event backdrops.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/particle-rings",
+      "publication": "original-mit"
+    },
+    {
       "package": "pen-and-page",
       "name": "Pen And Page",
       "description": "Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request.",
@@ -1728,6 +1737,25 @@
     "skills/parametric-desk-cup/references/example-guide.json": "a06a56a543651d189cd59e4d56d3b3a730eed6d7a65efd0dc4f8bc2cdd04da84",
     "skills/parametric-desk-cup/references/usage-examples.md": "84e80642983f898120be187830537bf9ddb9648f1f2c490bd66685b0bfb25c9e",
     "skills/parametric-desk-cup/scripts/make_vessel.py": "50ba0f57d9f5166fece1d413fd57e87901931ea4baf3111e4d9f348a67f27b29",
+    "skills/particle-rings/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/particle-rings/SKILL.md": "b520c7583f901a7b404bb6a80cb539fa229f0c436871ceee518cd76bb641f4a6",
+    "skills/particle-rings/agents/openai.yaml": "f06a396b7a8fdd259f7e64d602b2ce5c9e398f05a789a958861c794aab01e644",
+    "skills/particle-rings/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/particle-rings/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/particle-rings/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/particle-rings/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/particle-rings/config.json": "c16f9d935a00f83f8fe8bb628fa0af6f01faa4cce908f54ecd8c4276d3a45e75",
+    "skills/particle-rings/examples/01.json": "92651c20e41eb81d829de140762254358d5743289d428d05ef8fe5dd91d247fb",
+    "skills/particle-rings/examples/02.json": "19325b283dce9b48b4bf6b820cf4a3696ff3f78f27896c5d48ca9e1c8c461637",
+    "skills/particle-rings/examples/03.json": "8eb3f561e291d421fe51527355938a89342f03fa24e6952aa1081cd7f9ec8cd0",
+    "skills/particle-rings/examples/04.json": "046a9c82bf8da5b3cd6cfee9059cf36f03cdf820704806212347f166e99a3b6e",
+    "skills/particle-rings/references/examples.md": "122c3da21bbc230cde953996cde0bb4458ce418f7d92c31cf4ce81af48dee7ba",
+    "skills/particle-rings/references/inputs.md": "e4f4a120dd0046ae4f381e80c9ef5cd272d6428c46501694ac7345dbf70dd69b",
+    "skills/particle-rings/references/provenance.md": "79ada1bb04294aef76c68b21c415427ec52481af02881788f21fbfea1cde9f42",
+    "skills/particle-rings/references/recorded-examples.json": "7fa6a1e83c5763cdf3651ccf881f4cc855268d61ac5b7a99fc8ecc09a4f228ea",
+    "skills/particle-rings/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/particle-rings/scripts/engine.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+    "skills/particle-rings/scripts/render.py": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
     "skills/pen-and-page/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/pen-and-page/SKILL.md": "22fd59ac9637a5926cf0e90b133a7da003f98e5db8fa5e7fd714a651e535d9a1",
     "skills/pen-and-page/examples/gallery/01.webp": "2d652c9b6858fa79ae5ef5d4a135927ee2d7a74378a9a8c8d759a3dbd68e75f4",
@@ -8249,6 +8277,182 @@
     },
     {
       "path": "skills/parallel-task-film/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/particle-rings/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

@@ -1,0 +1,298 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $particle-rings to create \"A thousand ways to connect\" for the fictional Orbit Notes. Use examples/01.json as the exact content brief. Follow the ink palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "particles",
+      "sourceSha256": "92651c20e41eb81d829de140762254358d5743289d428d05ef8fe5dd91d247fb",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "c16f9d935a00f83f8fe8bb628fa0af6f01faa4cce908f54ecd8c4276d3a45e75",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        5.2,
+        7.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "94a8c082c842eefd1bc8dc93830bb621f1b2e4f593bd9a0aef4f12ff550da9dd",
+          "bytes": 300
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "e15d661abb37a5c61e9fc938c1dc042769eaee1fd5597dd8f400bfb8e3494273",
+          "bytes": 3264041
+        },
+        "poster.png": {
+          "sha256": "93eb17cc0d3409cc6871c6e6d927dac14ac683f534d0b12af98a9df078839903",
+          "bytes": 100414
+        },
+        "preview.html": {
+          "sha256": "3c9ce6f6530d7fe52275e79ca39f4b33599fc268af2f1b2935089f6cc9a99c94",
+          "bytes": 548
+        },
+        "review-01.png": {
+          "sha256": "f08bc6e0d0d89c5a9a50a0270eb49d05e784ed8f75f973f45b21a1c3cb5430f8",
+          "bytes": 99814
+        },
+        "review-02.png": {
+          "sha256": "1644c91ede00ed59dcf3eeae0282c9fb44bac4ca63a28b977c136c2f25e42dc6",
+          "bytes": 100086
+        },
+        "review-03.png": {
+          "sha256": "f93e8e1e4b8d8abf5e437b581032d7340424da8dfe2fc1c7c8d599f798f06ac2",
+          "bytes": 99310
+        },
+        "review-04.png": {
+          "sha256": "f215c1899c4e886b89b6a805081d52bd5408793b55057ff295e29538ddcc7bcd",
+          "bytes": 99300
+        },
+        "review-05.png": {
+          "sha256": "ce3da5047512575871851730aad610d08c201acaeb5741728d18d209472b9b17",
+          "bytes": 99990
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $particle-rings to create \"Good ideas come around\" for the fictional Loop Assembly. Use examples/02.json as the exact content brief. Follow the chalk palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "particles",
+      "sourceSha256": "19325b283dce9b48b4bf6b820cf4a3696ff3f78f27896c5d48ca9e1c8c461637",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "c16f9d935a00f83f8fe8bb628fa0af6f01faa4cce908f54ecd8c4276d3a45e75",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        5.2,
+        7.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "e47076d17479870f81db9dc2eac1ae793290d0270262fc0b8e55e9bdb90fc42c",
+          "bytes": 295
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "7a11a09331d1a571497dcf1e305533a02484598ec886bcbeb203b6b3daa85efe",
+          "bytes": 2379798
+        },
+        "poster.png": {
+          "sha256": "e449591fb23dd1f1305eab9890ef0938fdd0f2827e72c50a79cdbbc208d65d4e",
+          "bytes": 92160
+        },
+        "preview.html": {
+          "sha256": "4b7386ebd47d111422ec8949143df20c921fd238ae6938f9c945424c3882e580",
+          "bytes": 540
+        },
+        "review-01.png": {
+          "sha256": "51ebd26d06c4f8b1239ef4994bc0986c3fb5f9c5467de46b801664f0979bc28a",
+          "bytes": 92142
+        },
+        "review-02.png": {
+          "sha256": "fd0ac5ec59eb9d6135117a9170cd61a7478d049d3388eeb1365ce2b0e744657b",
+          "bytes": 92170
+        },
+        "review-03.png": {
+          "sha256": "93cab1936f66b270d305b5f53986e6369a9fed47c773881084e48ddbb08dcd88",
+          "bytes": 92148
+        },
+        "review-04.png": {
+          "sha256": "2d35f0003205e1c023de7944a5af1cd1d0cd0e50797b8056132869eaf4e38757",
+          "bytes": 92262
+        },
+        "review-05.png": {
+          "sha256": "d1845bf7f373e4ccc7f35483fe3db3b2c6e512f5518c59b7642b0d3fe1d8a9c9",
+          "bytes": 92269
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $particle-rings to create \"A little structure, a little wonder\" for the fictional Helix Studio. Use examples/03.json as the exact content brief. Follow the rose palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "particles",
+      "sourceSha256": "8eb3f561e291d421fe51527355938a89342f03fa24e6952aa1081cd7f9ec8cd0",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "c16f9d935a00f83f8fe8bb628fa0af6f01faa4cce908f54ecd8c4276d3a45e75",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        5.2,
+        7.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "686d2ef31d73c18557acf9d9efd949f5171649e425e910156f56ae1cc1ac9a4f",
+          "bytes": 306
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "cbf0bf38bb50082ba3c87ca953a98078371d669179cdd08d5708b940db828247",
+          "bytes": 1842042
+        },
+        "poster.png": {
+          "sha256": "3ced34457b9035f9e652cdd373662e411648a78083b2c42c7f58ba9a6151fccd",
+          "bytes": 85335
+        },
+        "preview.html": {
+          "sha256": "b937588b425e4750ae41a9fba3d629df91c5fda47b9c2ed4909e4d84858d13a0",
+          "bytes": 566
+        },
+        "review-01.png": {
+          "sha256": "d13c5f3779689b314ab18fa2f608e1c545da6fb3da45c420f656e3ba20924451",
+          "bytes": 85147
+        },
+        "review-02.png": {
+          "sha256": "dedf6bc288f2ed90c0092a592eddb14e66697ee64d4baa0cc1640215001d030e",
+          "bytes": 85507
+        },
+        "review-03.png": {
+          "sha256": "c2a9d4328f487423a2740e234f23c5db6e9d0f77ba11d1ca36a36c7691d1f8e2",
+          "bytes": 84968
+        },
+        "review-04.png": {
+          "sha256": "397fc98907cae75ce5d30f1f1d6eddd2dc07a7d74057883a60f3b837dcdef634",
+          "bytes": 85062
+        },
+        "review-05.png": {
+          "sha256": "42993ca29c867bd8225bb4f7db32f92350d20d74b80ff0ca50746f96bb5a28f8",
+          "bytes": 84758
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $particle-rings to create \"A thought becomes a ripple\" for the fictional Signal Field. Use examples/04.json as the exact content brief. Follow the cobalt palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "particles",
+      "sourceSha256": "046a9c82bf8da5b3cd6cfee9059cf36f03cdf820704806212347f166e99a3b6e",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "c16f9d935a00f83f8fe8bb628fa0af6f01faa4cce908f54ecd8c4276d3a45e75",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        5.2,
+        7.966666666666667
+      ],
+      "posterTime": 5,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "b2588d655594b9d15524da13a78a72f704f6633a97689e4733734d036a2add65",
+          "bytes": 299
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "c808439412c4c3b8c4a24f822d848ab892aaa6c0e6e14f6e477cd60a78126fa9",
+          "bytes": 2722135
+        },
+        "poster.png": {
+          "sha256": "d7ca9ff9fd3a2921a2c58f0d39d83c49262a9d78cb16b23935bd9fdddb1d709a",
+          "bytes": 97436
+        },
+        "preview.html": {
+          "sha256": "2d6a3077153408bc00e9a12425d4221ffbd5bb7b86e76f079a1983047e4381ee",
+          "bytes": 548
+        },
+        "review-01.png": {
+          "sha256": "63270ffc1429974ba1e73f8c835e92b9499f10f5cb4ffef380ed1cf29e0b9dcc",
+          "bytes": 90081
+        },
+        "review-02.png": {
+          "sha256": "16f3032c5b80247c07a1f32079e55afac327b3b7a40c9ccc9b33454323f5e4c9",
+          "bytes": 97394
+        },
+        "review-03.png": {
+          "sha256": "dd830fbf84fe1edbde19b715e8874b05775686ef9fc0c1c73dd33d83dff027b3",
+          "bytes": 92846
+        },
+        "review-04.png": {
+          "sha256": "22ad206b05abac7152296fd727ddd79e3b60e0fec6836768a4a488e83509954b",
+          "bytes": 96767
+        },
+        "review-05.png": {
+          "sha256": "55157b39e14b3fd07639a06ac135feb07ce55570a920c4d97f479b3a4a8d5efe",
+          "bytes": 89940
+        }
+      },
+      "loopSeamExact": true,
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]
