@@ -72,6 +72,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Project Reel](skills/project-reel/SKILL.md) | Present three projects through editorial takeovers, a moving media wall and a memorable sign-off. |
 | [Punchy Photo Cards](skills/punchy-photo-cards/SKILL.md) | Create expressive social-share artwork with photographic cutouts, oversized type and confident graphic shapes. |
 | [Question Answer Reel](skills/question-answer-reel/SKILL.md) | Show a question becoming a useful answer while source notes and a circular presenter remain visible. Use for support explainers, knowledge assistants and product education with supplied presenter footage. |
+| [Ranked Bars Animation](skills/ranked-bars-animation/SKILL.md) | Animate four values into a horizontal bar chart with a visible zero baseline, fixed scale, exact final labels and source note. Use for a single comparison, not a ranking race over time. |
 | [Reading Room Brief](skills/reading-room-brief/SKILL.md) | Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes. |
 | [Recommendation Room](skills/recommendation-room/SKILL.md) | Build a recommendation-first decision deck with a clear issue, supported analysis, tradeoffs and an owned next step. |
 | [Report Front Page](skills/report-front-page/SKILL.md) | Create the opening cover graphic for a useful LinkedIn document, guide or carousel using a clear reader promise. |

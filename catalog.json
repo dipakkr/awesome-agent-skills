@@ -616,6 +616,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "ranked-bars-animation",
+      "name": "Ranked Bars Animation",
+      "description": "Animate four values into a horizontal bar chart with a visible zero baseline, fixed scale, exact final labels and source note. Use for a single comparison, not a ranking race over time.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/ranked-bars-animation",
+      "publication": "original-mit"
+    },
+    {
       "package": "reading-room-brief",
       "name": "Reading Room Brief",
       "description": "Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes.",
@@ -1886,6 +1895,24 @@
     "skills/question-answer-reel/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
     "skills/question-answer-reel/references/usage-examples.md": "07ab22e84b55d3f4b89c1562658f16a072ffd463630167b3104d5f4528e14a77",
     "skills/question-answer-reel/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+    "skills/ranked-bars-animation/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/ranked-bars-animation/SKILL.md": "0230fb906539a8a1e346af92ecbc336c7623538b9a5d9424893a063049c73d1b",
+    "skills/ranked-bars-animation/agents/openai.yaml": "47b07109d997bf0d951e610ddfa67ff15102cad124570844b586194a363d9a2b",
+    "skills/ranked-bars-animation/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/ranked-bars-animation/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/ranked-bars-animation/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/ranked-bars-animation/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/ranked-bars-animation/config.json": "b7d0824104c057256f3631851e8cbe2a2596ea40d1ad47de26bf7cecafa5da4d",
+    "skills/ranked-bars-animation/examples/01.json": "f185935d23dd370697cfc7061665ea9a325a79286424aa23bbd61b316dc25cef",
+    "skills/ranked-bars-animation/examples/02.json": "160ffd6557b2f88710722e516a198b183596155213216f4a5a8f53bd09f2e0d0",
+    "skills/ranked-bars-animation/examples/03.json": "a287d2171a15fac0056ee50acd5448f7473e866737d097caec400b30ab49a195",
+    "skills/ranked-bars-animation/examples/04.json": "01c84e6c4a45ad7ecf25091b9066276126a7a852b96f593a055be0107dd57681",
+    "skills/ranked-bars-animation/references/examples.md": "e3734123ad04823a5464070d100e2e0b372d5abdb7fab506c649cef107ce5ea6",
+    "skills/ranked-bars-animation/references/inputs.md": "df60e9e5a623eb3c230ee572f333de7061e6a1130286791c3f0779a9b5649048",
+    "skills/ranked-bars-animation/references/provenance.md": "1bdb36e4dcff0aec9b89343afafe3fb58fb47de998a034fb1f301c921195092f",
+    "skills/ranked-bars-animation/references/recorded-examples.json": "d157d8603b636f96a217e110826b0b265cebc0fce768f72ae9819a62e77a14db",
+    "skills/ranked-bars-animation/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/ranked-bars-animation/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/reading-room-brief/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/reading-room-brief/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/reading-room-brief/README.md": "740a8b46ff636a801c9a7b54afeb636a9da4fdffb26d6d98c4a8ef278b6a6024",
@@ -9053,6 +9080,182 @@
     },
     {
       "path": "skills/question-answer-reel/examples/recorded/04/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/ranked-bars-animation/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

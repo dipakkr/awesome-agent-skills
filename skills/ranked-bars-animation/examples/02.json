@@ -1,0 +1,27 @@
+{
+  "brand": "Open Shelf",
+  "title": "What readers chose",
+  "subtitle": "Illustrative survey responses, not customer research.",
+  "theme": "ink",
+  "source": "Illustrative data · fictional example · not measured results",
+  "items": [
+    {
+      "label": "Fiction",
+      "value": 72
+    },
+    {
+      "label": "History",
+      "value": 48
+    },
+    {
+      "label": "Science",
+      "value": 61
+    },
+    {
+      "label": "Design",
+      "value": 35
+    }
+  ],
+  "unit": "Responses",
+  "scale_max": 80
+}
