@@ -1,0 +1,43 @@
+{
+  "skill": "kit-on-display",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Tea preparation set",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "fc8b3e185d2e2dd80e3b32e471afdd169a7b10b4ddd433ac1cbc98cf6f55303f",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $kit-on-display. Create a new output based on the packaged example \"Tea preparation set\". Brief: Fictional demonstration brand Quiet Whisk: four-piece concept tea preparation set, all four items shown are intended demo inclusions. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Weekend carry kit",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "2ee5b4efcf5182eda702a853d018ac802dd3db9259e8016b28ced260fce5c0a8",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $kit-on-display. Create a new output based on the packaged example \"Weekend carry kit\". Brief: Fictional demonstration brand Dayfold: five-piece concept travel kit with pouch, three bottles and a brush. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Drawing starter set",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "9cfc4c08987dd68e3e4cc896d176003151338fe492692a5530f6dcd8a9ac0d13",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $kit-on-display. Create a new output based on the packaged example \"Drawing starter set\". Brief: Fictional included-item ledger: one A5 ivory sketchbook, two pencils (one terracotta, one navy), one rectangular white eraser and one small metal pencil sharpener. Exactly five items, no props. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Travel grooming set",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "a7750b1084054f71ff9348b3d7d0b9912c0f5f3d5cd33406b82652983a187932",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $kit-on-display. Create a new output based on the packaged example \"Travel grooming set\". Brief: Fictional included-item ledger: one closed navy toiletry pouch, one amber pump bottle lying on its side, one wooden comb and one folded cream washcloth. Exactly four items, no real product claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
