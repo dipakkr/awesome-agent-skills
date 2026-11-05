@@ -1,0 +1,78 @@
+{
+  "original": true,
+  "reference": "User-supplied catalogue screenshots used for broad composition patterns only; none of their assets bundled.",
+  "generationTool": "built-in image_gen",
+  "underlyingModel": "not exposed",
+  "crossModelTests": false,
+  "reviewedAt": "2026-10-29",
+  "outputs": [
+    {
+      "id": "maker-home",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e8ea8a55622c272174598b18b195bba27e115907fd94b417b26b94d7c27480d3",
+      "bytes": 2502171,
+      "reviewed": true,
+      "review": "Readable headline, warm ceramic-maker cutout, clear vessel and contrasting tactile colour planes.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional creator platform FOLIO. High-end graphic design: oversized violet angular paper slab left-center, acid-lime background, orange disc upper right, electric blue ink-splash silhouette as a secondary accent. A stylish young adult woman ceramic artist with short curly black hair, wearing an orange work apron and holding an organic white ceramic vessel, is a sharply masked photographic cutout anchored in the right half; believable natural skin texture, confident warm expression, high quality editorial photography. Typography is the hero in the left half: exact large white bold condensed sans-serif headline 'Your work.\\nYour world.' placed on the violet slab; elegant intentional line breaks, tight tracking, readable at thumbnail scale, no overlaps with face. Small exact wordmark 'FOLIO' top left in black. Tiny bottom-left exact copy 'A home for independent makers'. Clever overlapping shapes create depth and energy. Asymmetric composition, generous margins, polished art direction, crisp edges. Different materials: photographic person, flat graphic shapes, subtle paper texture. No recognizable existing brand logos, no fake UI, no extra text, no borders, no collage of multiple designs, no watermarks."
+        }
+      ]
+    },
+    {
+      "id": "run-together",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "574ed59bab50a773fbd33143de369ada66c536e248d5f338cf35462c9c77705f",
+      "bytes": 1840633,
+      "reviewed": true,
+      "review": "Dynamic runner and legible type; photographic action and track-like graphic shapes remain distinct.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand STRIDE CLUB.\nUse case: ads-marketing; Bold Cutout OG.\nContext: A fictional neighbourhood running-club invitation.\nArt direction: Cobalt backdrop with large peach curved track and vermilion geometric arc. A fictional adult Black woman runner in plain yellow sportswear strides diagonally across the left half, full upper body and legs, strong realistic anatomy. Huge ivory condensed type on the right. Editorial sports photo cutout, energetic asymmetry, no recognizable sports logos.\nExact headline (preserve intentional line breaks): \"Find your\nown pace.\"\nExact small wordmark: \"STRIDE CLUB\"\nExact supporting line: \"Saturday mornings. Shared miles.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        }
+      ]
+    },
+    {
+      "id": "sound-stories",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e98e015043bcfbeba544f4e74afa5aea21d529bbb6d8f85df1d5df4a627f4703",
+      "bytes": 2368973,
+      "reviewed": true,
+      "review": "Natural editorial portrait, microphone and readable contrasting type; no recognizable product mark.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand SOUNDROOM.\nUse case: ads-marketing; Bold Cutout OG.\nContext: A fictional independent podcast studio cover.\nArt direction: Warm red field meets a black diagonal wedge. Close photographic portrait cutout of a fictional South Asian adult male podcast host wearing silver headphones on the left, studio microphone in foreground. Oversized ivory stacked sans type on the right, small mustard audio-wave shape, textured editorial lighting.\nExact headline (preserve intentional line breaks): \"Good stories\ndeserve a mic.\"\nExact small wordmark: \"SOUNDROOM\"\nExact supporting line: \"A space to record what matters\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        }
+      ]
+    },
+    {
+      "id": "gather-table",
+      "tool": "built-in image_gen",
+      "model": "not exposed",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7e684964149bb71360d422b6813c02645875fe8d8d904961224a0d9636c302f5",
+      "bytes": 2196060,
+      "reviewed": true,
+      "review": "Three adult friends in circular crop, festive shapes and distinct rounded serif hierarchy.",
+      "steps": [
+        {
+          "action": "generate",
+          "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand GATHER.\nUse case: ads-marketing; Bold Cutout OG.\nContext: A fictional community supper club announcement.\nArt direction: Soft pink and bright teal blocks with one golden-yellow disc. Circular photographic cutout of three diverse adult friends laughing around an outdoor supper table on the right. Oversized black rounded italic serif on left, tiny hand-cut orange star and blue wavy ribbon. Warm candid photography, festive editorial collage with clear hierarchy.\nExact headline (preserve intentional line breaks): \"There is room\nfor you.\"\nExact small wordmark: \"GATHER\"\nExact supporting line: \"Food. Stories. Good company.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+        }
+      ]
+    }
+  ]
+}

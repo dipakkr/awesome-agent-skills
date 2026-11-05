@@ -1,0 +1,17 @@
+{
+  "id": "run-together",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "574ed59bab50a773fbd33143de369ada66c536e248d5f338cf35462c9c77705f",
+  "bytes": 1840633,
+  "reviewed": true,
+  "review": "Dynamic runner and legible type; photographic action and track-like graphic shapes remain distinct.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand STRIDE CLUB.\nUse case: ads-marketing; Bold Cutout OG.\nContext: A fictional neighbourhood running-club invitation.\nArt direction: Cobalt backdrop with large peach curved track and vermilion geometric arc. A fictional adult Black woman runner in plain yellow sportswear strides diagonally across the left half, full upper body and legs, strong realistic anatomy. Huge ivory condensed type on the right. Editorial sports photo cutout, energetic asymmetry, no recognizable sports logos.\nExact headline (preserve intentional line breaks): \"Find your\nown pace.\"\nExact small wordmark: \"STRIDE CLUB\"\nExact supporting line: \"Saturday mornings. Shared miles.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gather-table",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "7e684964149bb71360d422b6813c02645875fe8d8d904961224a0d9636c302f5",
+  "bytes": 2196060,
+  "reviewed": true,
+  "review": "Three adult friends in circular crop, festive shapes and distinct rounded serif hierarchy.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand GATHER.\nUse case: ads-marketing; Bold Cutout OG.\nContext: A fictional community supper club announcement.\nArt direction: Soft pink and bright teal blocks with one golden-yellow disc. Circular photographic cutout of three diverse adult friends laughing around an outdoor supper table on the right. Oversized black rounded italic serif on left, tiny hand-cut orange star and blue wavy ribbon. Warm candid photography, festive editorial collage with clear hierarchy.\nExact headline (preserve intentional line breaks): \"There is room\nfor you.\"\nExact small wordmark: \"GATHER\"\nExact supporting line: \"Food. Stories. Good company.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}
