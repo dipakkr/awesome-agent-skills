@@ -1,0 +1,34 @@
+{
+  "brand": "Learning Atlas",
+  "title": "Two kinds of practice",
+  "subtitle": "A comparison to help plan a learning session.",
+  "theme": "cobalt",
+  "source": "Illustrative concept · fictional brand",
+  "options": [
+    {
+      "name": "Guided exercise",
+      "summary": "Follow an explicit example"
+    },
+    {
+      "name": "Open challenge",
+      "summary": "Apply the idea independently"
+    }
+  ],
+  "criteria": [
+    {
+      "label": "Starting point",
+      "left": "A worked example",
+      "right": "A fresh problem"
+    },
+    {
+      "label": "Support",
+      "left": "Step-by-step prompts",
+      "right": "Optional checkpoints"
+    },
+    {
+      "label": "Reflection",
+      "left": "Explain each step",
+      "right": "Explain your choices"
+    }
+  ]
+}

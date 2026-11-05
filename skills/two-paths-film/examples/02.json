@@ -1,0 +1,34 @@
+{
+  "brand": "Product Notebook",
+  "title": "Compare the research methods",
+  "subtitle": "Choose a method that fits the question.",
+  "theme": "ink",
+  "source": "Illustrative concept · fictional brand",
+  "options": [
+    {
+      "name": "Interview",
+      "summary": "Explore an individual experience"
+    },
+    {
+      "name": "Survey",
+      "summary": "Compare structured responses"
+    }
+  ],
+  "criteria": [
+    {
+      "label": "Format",
+      "left": "Open conversation",
+      "right": "Fixed questions"
+    },
+    {
+      "label": "Detail",
+      "left": "Rich context",
+      "right": "Consistent categories"
+    },
+    {
+      "label": "Preparation",
+      "left": "Interview guide",
+      "right": "Tested questionnaire"
+    }
+  ]
+}

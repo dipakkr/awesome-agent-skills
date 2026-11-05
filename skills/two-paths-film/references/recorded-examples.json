@@ -1,0 +1,310 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $two-paths-film to create \"Two ways to run the session\" for the fictional Workshop Notes. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "compare",
+      "sourceSha256": "1434b0b688d5ec01d9b82b3759df4e49b54752ebfc5e349462a2f9a7a634069f",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "ff3334fb73b45d5ff0fc6525482ac64600f42723c374cdcdd1e43021ba6acbb8",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "7c5674a5951df494c9c78457dc976a65f9481736ea9ed565fee10a05e9d365ca",
+          "bytes": 775
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "cc9dce06bdd360d8bf215280c58655877e5a84cb92d75a1f4223a6adbd1f0c87",
+          "bytes": 290540
+        },
+        "poster.png": {
+          "sha256": "b7b04272a99083dfeb5e2c9fdabd2986ee9a191df8e9237e1e05756f3a9fb589",
+          "bytes": 95982
+        },
+        "preview.html": {
+          "sha256": "57306ba03678f05cb7f6bc947533c10db4a80ee5eaeaf2dde1c1e76919082577",
+          "bytes": 564
+        },
+        "review-01.png": {
+          "sha256": "fe715c2001cfaa3990e7c6178b3d3da510738a37b4c90686bd102739f7146afa",
+          "bytes": 56065
+        },
+        "review-02.png": {
+          "sha256": "27c68a503d05b6132d89426aaf4fcb9ea5502ac4fbb7054630f89c23b72548b3",
+          "bytes": 80028
+        },
+        "review-03.png": {
+          "sha256": "29e9f840a1dc1952d2a74653563de72b19ba21e1fd14322701a4e3382d779ad4",
+          "bytes": 79454
+        },
+        "review-04.png": {
+          "sha256": "b7b04272a99083dfeb5e2c9fdabd2986ee9a191df8e9237e1e05756f3a9fb589",
+          "bytes": 95982
+        },
+        "review-05.png": {
+          "sha256": "b7b04272a99083dfeb5e2c9fdabd2986ee9a191df8e9237e1e05756f3a9fb589",
+          "bytes": 95982
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $two-paths-film to create \"Compare the research methods\" for the fictional Product Notebook. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "compare",
+      "sourceSha256": "7030554251d267ccb5730f84bf5c4932a4351349a92db9e5469f56e98508173c",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "ff3334fb73b45d5ff0fc6525482ac64600f42723c374cdcdd1e43021ba6acbb8",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "15bcd3264094499f5fd4d9b2f2ddaca42393602760da0ad046f4ce20ab6114c7",
+          "bytes": 754
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "5927525618ce0829508a32e4aa57212cf9b6dca6d6e31e26494798297b065922",
+          "bytes": 271756
+        },
+        "poster.png": {
+          "sha256": "0876893c2cc146648db0cfd91f672990958ec28421cba5fa9fe39ad0579e82bc",
+          "bytes": 93722
+        },
+        "preview.html": {
+          "sha256": "aae4b93e126ede4d3e27afc939c18ae215097e51dde8d5ffb34e6101a7db6b42",
+          "bytes": 566
+        },
+        "review-01.png": {
+          "sha256": "f494ce1e3cdc467be04a5cc8433e8bc9a8a478594b8e83e49f1003d0105af44c",
+          "bytes": 55365
+        },
+        "review-02.png": {
+          "sha256": "d380d50003d5b468c9185e6902c11e81306d71f0737490d6b6a6836d6f89cf7c",
+          "bytes": 74382
+        },
+        "review-03.png": {
+          "sha256": "28c6aef297a133dfd4b66987c353e3d512083c85e7a9ebccca0104b1e2f784b7",
+          "bytes": 76266
+        },
+        "review-04.png": {
+          "sha256": "0876893c2cc146648db0cfd91f672990958ec28421cba5fa9fe39ad0579e82bc",
+          "bytes": 93722
+        },
+        "review-05.png": {
+          "sha256": "0876893c2cc146648db0cfd91f672990958ec28421cba5fa9fe39ad0579e82bc",
+          "bytes": 93722
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $two-paths-film to create \"Two routes to a first draft\" for the fictional Studio Ledger. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "compare",
+      "sourceSha256": "3556752d733b73b0a53800aa96cdee5b723c412d5217f8b44951cdbd4f24dee4",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "ff3334fb73b45d5ff0fc6525482ac64600f42723c374cdcdd1e43021ba6acbb8",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "fab7c5828b62e8e9444bc0a1b6218347f00e0ca22db7d690d58dcbec52ea1fcf",
+          "bytes": 788
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "f35d575281019d1221d1c68a05fdba9105a06671c343503edcfaccb2e2e3a63f",
+          "bytes": 286809
+        },
+        "poster.png": {
+          "sha256": "4bd428328bb11c513ebd4f311dc37b2229c4ad21f115ed2c60843f754eed1810",
+          "bytes": 94889
+        },
+        "preview.html": {
+          "sha256": "ff77ac9984598fff60aa3def796933c9b3f2242cc3c648114c9c97129a65307d",
+          "bytes": 564
+        },
+        "review-01.png": {
+          "sha256": "08ef1553a4c1a6e19591a468ad0a2ee17cacd6a3cab1f0de5b0ade9be2509997",
+          "bytes": 51384
+        },
+        "review-02.png": {
+          "sha256": "d1288316d951057805e2d12d4c9a9779f5c6be4446e6a53a69d11bf0604524c7",
+          "bytes": 75669
+        },
+        "review-03.png": {
+          "sha256": "f282bcc0df3fc7caed5470581a75bb33fff4bd9bf7097fa66a1e3c666dd7642f",
+          "bytes": 75819
+        },
+        "review-04.png": {
+          "sha256": "4bd428328bb11c513ebd4f311dc37b2229c4ad21f115ed2c60843f754eed1810",
+          "bytes": 94889
+        },
+        "review-05.png": {
+          "sha256": "4bd428328bb11c513ebd4f311dc37b2229c4ad21f115ed2c60843f754eed1810",
+          "bytes": 94889
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $two-paths-film to create \"Two kinds of practice\" for the fictional Learning Atlas. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "compare",
+      "sourceSha256": "aac0f629e6eabf1d6cdd63e47e4a01ad94dd700cb55c362cf5d19e850ff1068a",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "ff3334fb73b45d5ff0fc6525482ac64600f42723c374cdcdd1e43021ba6acbb8",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        7.4399999999999995,
+        11.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "5a7544b464b7492888fb5398e500227d9d69929338b8e0910c0dd8f186f7d54f",
+          "bytes": 778
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "f1c6442345df325e4b5f0b22ebc966b7b7ffe9323f65fc90ca132736a0db9672",
+          "bytes": 307805
+        },
+        "poster.png": {
+          "sha256": "1a273dfb3833e6f7851c73570d9f34d5778e443b5862c4c5db7faf357dcb2c9d",
+          "bytes": 95852
+        },
+        "preview.html": {
+          "sha256": "32cff0ffced5cd8eb41ccede9d686f7b4eb85c3b9669b0953eb25b7be2e3d728",
+          "bytes": 552
+        },
+        "review-01.png": {
+          "sha256": "7fc638c62a1346c4559f3e3a449532221022b32fee0b7303f5e8abb4882f557b",
+          "bytes": 50521
+        },
+        "review-02.png": {
+          "sha256": "b8c242b745047d7e9295ef1bc39e3c5c4a794fb71607688d58225945a0fc191b",
+          "bytes": 73736
+        },
+        "review-03.png": {
+          "sha256": "ddc64cff5a510fde43491ec93ebdc57d478d7aa671f9268cb29eea6156d0fb77",
+          "bytes": 76788
+        },
+        "review-04.png": {
+          "sha256": "1a273dfb3833e6f7851c73570d9f34d5778e443b5862c4c5db7faf357dcb2c9d",
+          "bytes": 95852
+        },
+        "review-05.png": {
+          "sha256": "1a273dfb3833e6f7851c73570d9f34d5778e443b5862c4c5db7faf357dcb2c9d",
+          "bytes": 95852
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]

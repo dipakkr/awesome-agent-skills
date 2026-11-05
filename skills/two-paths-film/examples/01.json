@@ -1,0 +1,34 @@
+{
+  "brand": "Workshop Notes",
+  "title": "Two ways to run the session",
+  "subtitle": "An illustrative comparison of workshop formats.",
+  "theme": "chalk",
+  "source": "Illustrative concept · fictional brand",
+  "options": [
+    {
+      "name": "Live workshop",
+      "summary": "Learn together in real time"
+    },
+    {
+      "name": "Self-paced lesson",
+      "summary": "Work through it independently"
+    }
+  ],
+  "criteria": [
+    {
+      "label": "Timing",
+      "left": "Scheduled session",
+      "right": "Flexible start"
+    },
+    {
+      "label": "Feedback",
+      "left": "In the conversation",
+      "right": "After submission"
+    },
+    {
+      "label": "Best fit",
+      "left": "Shared exploration",
+      "right": "Independent practice"
+    }
+  ]
+}
