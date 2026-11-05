@@ -1,0 +1,4 @@
+interface:
+  display_name: "Home Product Demo Ads"
+  short_description: "Home and kitchen ads built around useful demonstrations"
+  default_prompt: "Use $cad-home-product-ads to create fresh ad concepts from my product, audience and brand inputs."

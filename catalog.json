@@ -302,6 +302,16 @@
       "original": true,
       "path": "skills/cad-handwritten-notes-document",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-home-product-ads",
+      "name": "Home Product Demo Ads",
+      "description": "Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details.",
+      "site": "https://claudeai.directory/skills/home-product-ads",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-home-product-ads",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -790,7 +800,18 @@
     "skills/cad-handwritten-notes-document/references/example-guide.json": "5a95012d5ba42ec9ade5e96603722113b33c6148e9a83ed0d3135ea583331406",
     "skills/cad-handwritten-notes-document/references/usage-examples.md": "85040a9b8dbf1aeb0fa5db2811a6a7330f151a227d709dda368e5ccceeb37f76",
     "skills/cad-handwritten-notes-document/requirements.txt": "6ab81a090bf98b550e46c9841944255f245fd3b2c5cf25997c609836cc5b18c7",
-    "skills/cad-handwritten-notes-document/scripts/export_notes.py": "1d2e2d5caf8e293277a6ae47f054083d05b49f4381513a13ad26f673978a84d2"
+    "skills/cad-handwritten-notes-document/scripts/export_notes.py": "1d2e2d5caf8e293277a6ae47f054083d05b49f4381513a13ad26f673978a84d2",
+    "skills/cad-home-product-ads/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-home-product-ads/SKILL.md": "64bfe0e648d2dd273673ebae0013c1a7e1a245a987d02d909fb0a41cc9597187",
+    "skills/cad-home-product-ads/agents/openai.yaml": "84bf10c6303819746015df3cda41c38746fd1e2b4c90982f77420de1680e5b56",
+    "skills/cad-home-product-ads/examples/gallery/01.webp": "6cd2765c6b8bd3b2d3be05d1f01cbbb7456f80cba9c32637b5144fa60a2b81b6",
+    "skills/cad-home-product-ads/examples/gallery/02.webp": "1519df200fe1b1a7ac4fb45f166c379177389231d68418c934cc51a2ecf62f29",
+    "skills/cad-home-product-ads/examples/gallery/03.webp": "79bbae2461aba257d2abe181f7a64c1ffaf5b922e686ac766ff81e80cee14fad",
+    "skills/cad-home-product-ads/examples/gallery/04.webp": "d6eee9de6c3bf7f8fe143066356934df9e033cd59f9266f43e211153dec5b20c",
+    "skills/cad-home-product-ads/references/example-guide.json": "0b925b5178bfa1a3615040ae60507220cf3ebda1e51379089abfce78ab916658",
+    "skills/cad-home-product-ads/references/examples.json": "9b7ba8d3d0f13b9af7b12f8b435aa19e7e08f793915fdabf4ee307e13984c2a1",
+    "skills/cad-home-product-ads/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
+    "skills/cad-home-product-ads/references/usage-examples.md": "f5d749d38bd2f1eddf83e73d3d167cef8391672c2cc5680585ff14418c975309"
   },
   "omitted": [
     {
