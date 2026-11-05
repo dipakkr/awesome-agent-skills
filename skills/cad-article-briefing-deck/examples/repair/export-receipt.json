@@ -1,0 +1,21 @@
+{
+  "title": "Why repair deserves a place",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "8df7e2f49cec6554b820f925a838c4f656a7a5deac7e0ecf545b30b7e011191e",
+  "outputs": [
+    {
+      "file": "repair.html",
+      "sha256": "a943ef1cee85803cafed59da013d82cc96126e35f3c5e9f35ef583f3b175605a",
+      "bytes": 7020064
+    },
+    {
+      "file": "repair.pptx",
+      "sha256": "2fd62dfc83746aac1b78b38df4f761798e41d2a8df10c678fb494995609e8c34",
+      "bytes": 2625083
+    }
+  ]
+}
