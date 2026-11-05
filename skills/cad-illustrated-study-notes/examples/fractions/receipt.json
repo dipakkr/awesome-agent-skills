@@ -1,0 +1,19 @@
+{
+  "key": "fractions",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: Warm cream dot-grid paper, peach and lavender highlighter, oversized hand-lettered title, precise ink diagrams. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"Equivalent fractions\". Exact subtitle: \"Different numbers. The same amount.\". Body copy (verbatim):\nMultiply the numerator and denominator by the same nonzero number.\n1/2 = 2/4 = 4/8\nThe whole must stay the same size.\nSmall sticky note copy: \"Changing only the denominator changes the value.\".\nDiagram: Three perfectly equal-length horizontal fraction strips stacked vertically: first divided into exactly 2 equal parts with 1 shaded; second into exactly 4 with 2 shaded; third into exactly 8 with 4 shaded. Shaded regions align at the halfway point. Labels 1/2, 2/4, 4/8. Separate small worked calculation 2/3 = 4/6 with multiply-by-2 arrows at top and bottom.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "Original elementary arithmetic brief; verified by cross multiplication.",
+  "path": "outputs/fractions-v2.png",
+  "sha256": "292fcf3938caf7b8e73e5e137ed6dd763d36b19ab638ff9852d5517d494312cd",
+  "width": 1055,
+  "height": 1491,
+  "review": [
+    "Final fraction strips have 2, 4 and 8 equal cells with 1, 2 and 4 shaded; arithmetic and half-width alignment checked.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ],
+  "correction": {
+    "prompt": "Correct only the bottom horizontal fraction strip labelled 4/8. It currently has an extra subdivision near its left edge. Draw exactly EIGHT equal-width rectangular cells across its full width, with exactly FOUR cells on the left shaded purple and FOUR on the right unshaded. There must be exactly seven equally spaced vertical interior dividers. Its halfway boundary must align with the halfway boundaries of the 1/2 and 2/4 strips above. Preserve every other word, equation, title, color, size and page layout unchanged.",
+    "inputSha256": "f2160adc70ab109745dd01580b811c52cd766e3cfed58f89f18a6bc9557979df",
+    "reason": "Rejected first attempt: additional subdivision in shaded half of 4/8 strip."
+  }
+}

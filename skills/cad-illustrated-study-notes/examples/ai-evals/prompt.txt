@@ -1,0 +1,10 @@
+Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.
+Style: White faint graph paper, navy ink with lime and lilac accents, compact handwritten headline, generous whitespace. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.
+Exact title: "What are AI evals?". Exact subtitle: "Test the task. Inspect the failures.". Body copy (verbatim):
+Evals are structured tests of an AI system.
+Choose realistic cases and clear success criteria.
+Run the system, score outputs, inspect failures.
+Repeat after changes.
+Small sticky note copy: "One good answer is not enough evidence.".
+Diagram: A four-node process map Cases → Run → Score → Review. Original small ink illustrations of a test-card stack, simple robot, checklist and magnifying glass. A small loop arrow from Review back to Cases, clearly separate from main arrow path.
+All text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.

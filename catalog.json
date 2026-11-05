@@ -322,6 +322,16 @@
       "original": true,
       "path": "skills/cad-hook-proof-lab",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-illustrated-study-notes",
+      "name": "Illustrated Study Notes",
+      "description": "Create illustrated handwritten study sheets from your chapters, class notes or topics.",
+      "site": "https://claudeai.directory/skills/illustrated-study-notes",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-illustrated-study-notes",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -832,7 +842,28 @@
     "skills/cad-hook-proof-lab/examples/relaydesk/workbook.json": "0bf5b3167f85776a104bedce953e6740ef35946db8693d8878ed3a3475642a60",
     "skills/cad-hook-proof-lab/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
     "skills/cad-hook-proof-lab/references/origin.md": "ea3853b92cbffdcef0d32abb3891b28cdd6d092821531c0c1b1776c8f44b3599",
-    "skills/cad-hook-proof-lab/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e"
+    "skills/cad-hook-proof-lab/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
+    "skills/cad-illustrated-study-notes/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-illustrated-study-notes/SKILL.md": "328421acab970ec66669a090b16a7c40ce96510830d62f14e0cb9fcd2caf6a33",
+    "skills/cad-illustrated-study-notes/agents/openai.yaml": "5ee749d73146ce4052ec070e1412b510fc5ba5d239acd06a2438812ac99c092b",
+    "skills/cad-illustrated-study-notes/examples/ai-evals/brief.json": "82452677c0be596af532cf48980188ba0b914034d7e01881d01e5b44c5b69253",
+    "skills/cad-illustrated-study-notes/examples/ai-evals/image.png": "8660f5d31bae0aff446f9b2ca97d8a9d4b06d4bed49a8886bb2a21bbef68ddde",
+    "skills/cad-illustrated-study-notes/examples/ai-evals/prompt.txt": "3cfa6f2155e320e893e1c667e054ce220c28379054c0f44747ad3e72ec6dc791",
+    "skills/cad-illustrated-study-notes/examples/ai-evals/receipt.json": "2816046b64159f9acab4277bab5dfa189d2dffeba463176bdb6de7d4d55f3b84",
+    "skills/cad-illustrated-study-notes/examples/fractions/brief.json": "a7113ff5defdd49228d99b107cc5c8f9dab9ab77b77ac0174d57c4ac13677658",
+    "skills/cad-illustrated-study-notes/examples/fractions/correction-prompt.txt": "50cb4e4da32160b238763f09b6289cf31e4179ca8acf7fcebef4ff60a86cae98",
+    "skills/cad-illustrated-study-notes/examples/fractions/image.png": "292fcf3938caf7b8e73e5e137ed6dd763d36b19ab638ff9852d5517d494312cd",
+    "skills/cad-illustrated-study-notes/examples/fractions/prompt.txt": "0bf5fb42f31ffe969d30dab77e387f0406d3461fa85dea87032d58a7d8d097bc",
+    "skills/cad-illustrated-study-notes/examples/fractions/receipt.json": "6f33a87899297fc48f739a811b06c4a96396d99c4d0d35d0873c8e590f793efa",
+    "skills/cad-illustrated-study-notes/examples/paragraphs/brief.json": "4fc54c942765b749015ad4b139822ed928b8577cf6fbed607b69cff828309250",
+    "skills/cad-illustrated-study-notes/examples/paragraphs/image.png": "19a293efa75190713db912e61763edede34989c507a89b678223e2f0b69f6aab",
+    "skills/cad-illustrated-study-notes/examples/paragraphs/prompt.txt": "499ad7caaa7359ad8f2b4dd9e84e4f7cf8bd6f25de87925a9dee40249127c556",
+    "skills/cad-illustrated-study-notes/examples/paragraphs/receipt.json": "a9268dfd29228078f9310da6f4f47fecc31702c363f4ef17373cb7a9960fa708",
+    "skills/cad-illustrated-study-notes/examples/water-cycle/brief.json": "02cea8016806c343612738e629f10c39ed8351526af88e3b277d2e6bb61ee2b3",
+    "skills/cad-illustrated-study-notes/examples/water-cycle/image.png": "41aeb4bfc38e835306ebbf041646bf100b769d20a357663ae623a32e4748b876",
+    "skills/cad-illustrated-study-notes/examples/water-cycle/prompt.txt": "953ee07f7bda94e2836fbd650ec6488b3e50303a781ae5a6f8b836ab8be85d5c",
+    "skills/cad-illustrated-study-notes/examples/water-cycle/receipt.json": "75184274cac8b7c044598f846a025c4127be0bdb5801e00e1c57176cf5c77c4c",
+    "skills/cad-illustrated-study-notes/references/usage.md": "cdf46c0dd6972d0cc70d03fc9feee5f8fd3d3a348d330d2912030262689df7a7"
   },
   "omitted": [
     {

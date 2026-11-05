@@ -36,3 +36,4 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Handwritten Notes Document | [Files](skills/cad-handwritten-notes-document/SKILL.md) | [Preview and download](https://claudeai.directory/skills/handwritten-notes-document) | Original / MIT |
 | Home Product Demo Ads | [Files](skills/cad-home-product-ads/SKILL.md) | [Preview and download](https://claudeai.directory/skills/home-product-ads) | Original / MIT |
 | Hook & Proof Lab | [Files](skills/cad-hook-proof-lab/SKILL.md) | [Preview and download](https://claudeai.directory/skills/hook-proof-lab) | Original / MIT |
+| Illustrated Study Notes | [Files](skills/cad-illustrated-study-notes/SKILL.md) | [Preview and download](https://claudeai.directory/skills/illustrated-study-notes) | Original / MIT |
