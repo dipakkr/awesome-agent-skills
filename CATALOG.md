@@ -102,6 +102,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Terminal Showtime](skills/terminal-showtime/SKILL.md) | Turn a short product idea into a pixel terminal promo with typed input, file assembly and a visual result. |
 | [Texture And Detail](skills/texture-and-detail/SKILL.md) | Create close-up product campaigns built around texture, light and a credible sensory cue. |
 | [Tiny Workspaces](skills/tiny-workspaces/SKILL.md) | Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts. |
+| [Transform A Control](skills/transform-a-control/SKILL.md) | Build a square handoff film in which one button grows into a prompt, options and a result before a session-wall pullback. Use for a short integration or workflow announcement. |
 | [Unboxing Inventory](skills/unboxing-inventory/SKILL.md) | Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts. |
 | [Visual Learning Pages](skills/visual-learning-pages/SKILL.md) | Create illustrated handwritten study sheets from your chapters, class notes or topics. |
 | [Voice Of Buyer](skills/voice-of-buyer/SKILL.md) | Turn mixed customer feedback and product facts into a source-linked browser board of supported messages, contradictions and research gaps. |

@@ -886,6 +886,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "transform-a-control",
+      "name": "Transform A Control",
+      "description": "Build a square handoff film in which one button grows into a prompt, options and a result before a session-wall pullback. Use for a short integration or workflow announcement.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/transform-a-control",
+      "publication": "original-mit"
+    },
+    {
       "package": "unboxing-inventory",
       "name": "Unboxing Inventory",
       "description": "Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts.",
@@ -2632,6 +2641,23 @@
     "skills/tiny-workspaces/references/example-guide.json": "006bfa7a5eb66aabd2ddcad771c8e9e9d4685a30a6e8277ecd51219589b5348b",
     "skills/tiny-workspaces/references/examples.json": "1c474e43f76a8ac78554f42207ca9b0bac37555e22b256163cc52f9d575ff85d",
     "skills/tiny-workspaces/references/usage-examples.md": "e12c0163a39d0acca45966ab70c33b521117191182e0f8dc68d5c0cfe3450d2f",
+    "skills/transform-a-control/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/transform-a-control/SKILL.md": "6afec87d9486ba334e2a5e19c367ee3dc0bcf2f1e27fd7d2609780452b0b021a",
+    "skills/transform-a-control/agents/openai.yaml": "18da8f9c811159ac4044806709c0bb09f9034290d4bcf51d3c692ac330db3ca6",
+    "skills/transform-a-control/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/transform-a-control/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/transform-a-control/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/transform-a-control/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/transform-a-control/config.json": "1dd88463bf621e10fea4714da8dbddbcd9ebb946ffe58429d611d8ee6df31e57",
+    "skills/transform-a-control/examples/01.json": "79f11e4015632d1f6fd62313e90cea7c82aef9a384268372892f522345fe43c0",
+    "skills/transform-a-control/examples/02.json": "eebab04d20d841cac4f669b0d567a48d78b3c51a0ece51673d417c00b09fd72e",
+    "skills/transform-a-control/examples/03.json": "8a0fd45d4ecbd4f5856b72492288347dce14d64aab102d418e5efe7a2e4470ee",
+    "skills/transform-a-control/examples/04.json": "cd7e12e505a0f8819dc8400c1d3b79926cac550db8906faa9512a367278a9774",
+    "skills/transform-a-control/references/credits.md": "b5211e82fc02c439bdea8bb7fc56ee0b2e93313c29ac0a7523f95537fc9224f6",
+    "skills/transform-a-control/references/example-guide.json": "f2279aa8da94a8c22ec8f8b193cad44ce9e8ee4196c4b662b4530bd5d389badd",
+    "skills/transform-a-control/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
+    "skills/transform-a-control/references/usage-examples.md": "a991636dd885e69cbe7897e61359caabafedda7b88e1b2f7a1d7e68b1918ceb6",
+    "skills/transform-a-control/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
     "skills/unboxing-inventory/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/unboxing-inventory/SKILL.md": "59dc55676de78a27399f3c837660ac3a3667e8840048860d2af490ccb70dba00",
     "skills/unboxing-inventory/examples/briefs.json": "35f58d1b4bd2ecc2f2bb99830764d84e2338f57049026a194bac85c3b759766d",
@@ -13226,6 +13252,182 @@
     },
     {
       "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/01/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/02/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/03/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/transform-a-control/examples/recorded/04/review-5.jpg",
       "reason": "rendered example; see website"
     },
     {

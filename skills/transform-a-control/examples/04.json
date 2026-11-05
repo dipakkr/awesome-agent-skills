@@ -1,0 +1,22 @@
+{
+  "brand": "Lesson Lab",
+  "title": "From question to lesson",
+  "subtitle": "Keep the teaching goal visible through the handoff.",
+  "cta": "Review the lesson",
+  "theme": "ocean",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "steps": [
+    "Build a lesson",
+    "Teach a simple interview method",
+    "Simple practice",
+    "Lesson outline ready for review"
+  ],
+  "sessions": [
+    "Interviewing",
+    "Listening",
+    "Follow-ups",
+    "Synthesis",
+    "Practice",
+    "Reflection"
+  ]
+}

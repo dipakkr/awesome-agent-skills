@@ -1,0 +1,22 @@
+{
+  "brand": "Fieldwork",
+  "title": "From notes to proposal",
+  "subtitle": "Turn one scoped client problem into a useful next step.",
+  "cta": "Review the proposal",
+  "theme": "night",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "steps": [
+    "Draft proposal",
+    "Create a focused research sprint",
+    "Focused sprint",
+    "Proposal draft ready for review"
+  ],
+  "sessions": [
+    "Research sprint",
+    "Team review",
+    "Discovery",
+    "Workshop",
+    "Handoff",
+    "Roadmap"
+  ]
+}
