@@ -1,0 +1,25 @@
+{
+  "mode": "spotlight",
+  "format": "landscape",
+  "brand": "LENS",
+  "headline": "The detail makes the difference.",
+  "ending": "Small controls. Clear results.",
+  "cta": "Explore the workspace",
+  "item": "Release workspace",
+  "labels": [
+    "Review your workflow",
+    "Find the control",
+    "See the change"
+  ],
+  "details": [
+    "Send a digest",
+    "Group new requests",
+    "Keep a review log"
+  ],
+  "accent": "#165ea8",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}
