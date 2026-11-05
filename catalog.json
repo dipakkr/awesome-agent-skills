@@ -4,6 +4,16 @@
   "publicReleaseReady": true,
   "skills": [
     {
+      "package": "cad-ecommerce-product-listing",
+      "name": "Ecommerce Product Listing",
+      "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
+      "site": "https://claudeai.directory/skills/for/ecommerce-founders",
+      "kind": "profile",
+      "original": true,
+      "path": "skills/cad-ecommerce-product-listing",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-store-brief",
       "name": "Ecommerce Store Brief",
       "description": "Turn an ecommerce founder's conversation and supplied product information into a reusable store brief, sourced product facts, missing-input list and next steps for preparing listings and launch work.",
@@ -15,6 +25,13 @@
     }
   ],
   "files": {
+    "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
+    "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
+    "skills/cad-ecommerce-product-listing/references/example-briefs.md": "7a211388fee002088f21401e11c7cb20f69cb81099298447b91d207c5dc394d5",
+    "skills/cad-ecommerce-product-listing/references/listing-export.md": "9f09d27030b5eb9158b275b47cd81e5f9cd412414b2c16cc7eb61ed03a6ac547",
+    "skills/cad-ecommerce-product-listing/references/workspace.md": "3ea6cf723d54e0b9d61cfa1015ba5412ee42ac49451c46bf51cc40079e827ae0",
+    "skills/cad-ecommerce-product-listing/scripts/export_listings.py": "ff446b819e4c3b25b5e8998e80c215eaec23ddb26568e15ca6988bbeab0ebe0a",
     "skills/cad-ecommerce-store-brief/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-store-brief/SKILL.md": "7667a96719c42598989fec64816f0690148facd01e5eea25d095c1d612f2df9f",
     "skills/cad-ecommerce-store-brief/agents/openai.yaml": "c175a81de4154b010518541e1d984869b9a410eb7aa7c42374bc7be939784453",
