@@ -1,0 +1,17 @@
+{
+  "id": "tidal-future",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "ca844026aad92cf04c3ca2e5989c3d50946a4b631fcc7f953e62d8aaef44b9cc",
+  "bytes": 2019286,
+  "reviewed": true,
+  "review": "Luminous filament flow, dark copy zone and exact headline; atmospheric depth rather than flat fill.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand TIDAL.\nUse case: ads-marketing; Luminous Gradient OG.\nContext: A fictional creative-software launch cover.\nArt direction: Deep midnight lower-left fading into radiant coral and violet. A single sweeping luminous satin ribbon curls from upper left to lower right, translucent fine light filaments and subtle grain, sculptural depth. Large elegant white sans typography placed lower-left in the calm dark area. Small white TIDAL wordmark top-left. Dramatic premium atmospheric brand image.\nExact headline (preserve intentional line breaks): \"Make room for\nwhat\u2019s next.\"\nExact small wordmark: \"TIDAL\"\nExact supporting line: \"Ideas, with space to move\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "luma-clarity",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "a498ed2b57d5e96c3a67addcc5de0760a09df4df15c8ce1f0e7144aa20d121be",
+  "bytes": 1811500,
+  "reviewed": true,
+  "review": "Glass arch with coherent rim light and high-contrast minimal type; small wordmark moved to lower left.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand LUMA.\nUse case: ads-marketing; Luminous Gradient OG.\nContext: A fictional research-workspace brand cover.\nArt direction: Cobalt and ultramarine scene with a translucent icy glass prism arch on the right, refracting a narrow acid-green ray into luminous blue bands. Quiet dark navy space on the left for oversized thin-weight white sans headline. High contrast glass, restrained glow, precise studio lighting, small white LUMA wordmark, no charts or invented statistics.\nExact headline (preserve intentional line breaks): \"Clarity,\nin motion.\"\nExact small wordmark: \"LUMA\"\nExact supporting line: \"A clearer view of your work\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

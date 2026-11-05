@@ -1,0 +1,4 @@
+interface:
+  display_name: "Color Atmospheres"
+  short_description: "Create original luminous gradient og images from your brief"
+  default_prompt: "Use $color-atmospheres to create an original social-share image for my subject. Use my exact headline, audience and optional brand assets. Choose a fresh composition within this visual style. Generate the image with my connected image tool, review it at thumbnail size, and deliver the image, editable brief and exact prompt."
