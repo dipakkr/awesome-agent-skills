@@ -1,0 +1,83 @@
+[
+  {
+    "id": "01",
+    "title": "The 7-layer creator stack",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "274746d781142c361f2124dbf0ef8fe815b5485704edb9c11df26c036e8e1d01",
+    "briefsSha256": "5cace2abfba268a41a8373e6b361b58636b614dc2667bec9c0db0b5b2afece43",
+    "output": "examples/outputs/01-v01.png",
+    "sha256": "40402878fe3cf459461a047a7edc510dfe65c8779b81124c94c175ce42093bda",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/01-v01.txt",
+    "promptSha256": "d7a7035ef9f2534b81a39a605b80fc61a9c567293d0f8596deeb3954a8a864b8",
+    "review": {
+      "id": "01",
+      "path": "outputs/01-v01.png",
+      "outcome": "accepted",
+      "notes": "Seven bands and 21 intended item labels are readable; the title uses a serif interpretation rather than the reference\u2019s thin sans-serif.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "02",
+    "title": "The 7-layer home bakery stack",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "274746d781142c361f2124dbf0ef8fe815b5485704edb9c11df26c036e8e1d01",
+    "briefsSha256": "5cace2abfba268a41a8373e6b361b58636b614dc2667bec9c0db0b5b2afece43",
+    "output": "examples/outputs/02-v01.png",
+    "sha256": "0a38edc9c8cd98cf450998fa06c3348bf6afd62ebbfbdb7aa23f610ebba82008",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/02-v01.txt",
+    "promptSha256": "c4208254347e7d28b81211683f1546f31280c10c536929985cc996fb35557e05",
+    "review": {
+      "id": "02",
+      "path": "outputs/02-v01.png",
+      "outcome": "accepted",
+      "notes": "Seven bakery bands, three items per band, complete labels and clear margins.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "03",
+    "title": "The 7-layer community event stack",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "274746d781142c361f2124dbf0ef8fe815b5485704edb9c11df26c036e8e1d01",
+    "briefsSha256": "5cace2abfba268a41a8373e6b361b58636b614dc2667bec9c0db0b5b2afece43",
+    "output": "examples/outputs/03-v02.png",
+    "sha256": "699baaf69ab1125c32e98ac73c12298ea504e39656fed648c6e02afe657d5c4a",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/03-v02.txt",
+    "promptSha256": "fde150f44f92eb34469939930544e17feb558d44f7eb5be86ddd034344fe4768",
+    "review": {
+      "id": "03",
+      "path": "outputs/03-v02.png",
+      "outcome": "accepted",
+      "notes": "Seven bands and 21 items after correction. Audience, Theme and Budget are the only first-row items.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked.",
+      "correction": "Removed an extra Purpose icon tile from row one."
+    }
+  },
+  {
+    "id": "04",
+    "title": "The 7-layer indie game stack",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "274746d781142c361f2124dbf0ef8fe815b5485704edb9c11df26c036e8e1d01",
+    "briefsSha256": "5cace2abfba268a41a8373e6b361b58636b614dc2667bec9c0db0b5b2afece43",
+    "output": "examples/outputs/04-v01.png",
+    "sha256": "7176828dbc981af5a2e1a1800ffbc8c4b14b18ef90b43daccfe5adba4b0fd0e3",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/04-v01.txt",
+    "promptSha256": "e2d91d7bacdce2b13b5d91503550fc71ed39c58439c76ebb6ba6ec53622320fb",
+    "review": {
+      "id": "04",
+      "path": "outputs/04-v01.png",
+      "outcome": "accepted",
+      "notes": "Seven game-development bands and 21 labels, with readable icons and no omitted rows.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  }
+]

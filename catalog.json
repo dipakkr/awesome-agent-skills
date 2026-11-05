@@ -372,6 +372,16 @@
       "original": true,
       "path": "skills/cad-layered-paper-cover",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-layered-stack-infographic",
+      "name": "Layered Stack Infographic",
+      "description": "Create a LinkedIn infographic that organizes a tool stack, capability stack or operating system into pastel horizontal layers with labelled icon tiles.",
+      "site": "https://claudeai.directory/skills/layered-stack-infographic",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-layered-stack-infographic",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -965,7 +975,27 @@
     "skills/cad-layered-paper-cover/examples/gallery/04.webp": "f350d2db47c0ceff6a2827e85bf261735828a87b83168e978026e104c9f5283b",
     "skills/cad-layered-paper-cover/references/example-guide.json": "e9962caa8911e031ed37fd20dc70f9f759218073aa98e0f06eb0e5c9ca055b3c",
     "skills/cad-layered-paper-cover/references/examples.json": "bf59fc0eb69f698252b7fcda5aac26049bf730ce9d9d32b0aa5b47679e3b5e40",
-    "skills/cad-layered-paper-cover/references/usage-examples.md": "062d7ee22071eccd84c71831544e69e00c2805b58dd4a1bf090f4fb5efae9610"
+    "skills/cad-layered-paper-cover/references/usage-examples.md": "062d7ee22071eccd84c71831544e69e00c2805b58dd4a1bf090f4fb5efae9610",
+    "skills/cad-layered-stack-infographic/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-layered-stack-infographic/SKILL.md": "274746d781142c361f2124dbf0ef8fe815b5485704edb9c11df26c036e8e1d01",
+    "skills/cad-layered-stack-infographic/examples/gallery/01.webp": "316fc1bf8dd1a8c03c28433b61b684dc694b45252b35607033efdfefb2f9185c",
+    "skills/cad-layered-stack-infographic/examples/gallery/02.webp": "a6d6ebb98658e4fa9d2d553ee3e38915f70801c71cad4fde39c2916b912fc749",
+    "skills/cad-layered-stack-infographic/examples/gallery/03.webp": "656122f0b4bf7460f8479b83218ad384c6ccd84d5244d0b90d7502f318a38cc7",
+    "skills/cad-layered-stack-infographic/examples/gallery/04.webp": "61f6d7abdcf4772ef0fda9b0f6df44a1972a1436a2cb82fdbc356f2f8c2c4e82",
+    "skills/cad-layered-stack-infographic/examples/outputs/01-v01.png": "40402878fe3cf459461a047a7edc510dfe65c8779b81124c94c175ce42093bda",
+    "skills/cad-layered-stack-infographic/examples/outputs/02-v01.png": "0a38edc9c8cd98cf450998fa06c3348bf6afd62ebbfbdb7aa23f610ebba82008",
+    "skills/cad-layered-stack-infographic/examples/outputs/03-v02.png": "699baaf69ab1125c32e98ac73c12298ea504e39656fed648c6e02afe657d5c4a",
+    "skills/cad-layered-stack-infographic/examples/outputs/04-v01.png": "7176828dbc981af5a2e1a1800ffbc8c4b14b18ef90b43daccfe5adba4b0fd0e3",
+    "skills/cad-layered-stack-infographic/references/example-guide.json": "1ef43550329a3426d7e7eb6c44e54fdcea3097858024f680a5b306e32f3b57c4",
+    "skills/cad-layered-stack-infographic/references/examples.json": "5cace2abfba268a41a8373e6b361b58636b614dc2667bec9c0db0b5b2afece43",
+    "skills/cad-layered-stack-infographic/references/prompts/01-v01.txt": "d7a7035ef9f2534b81a39a605b80fc61a9c567293d0f8596deeb3954a8a864b8",
+    "skills/cad-layered-stack-infographic/references/prompts/02-v01.txt": "c4208254347e7d28b81211683f1546f31280c10c536929985cc996fb35557e05",
+    "skills/cad-layered-stack-infographic/references/prompts/03-v01.txt": "73e80cb25b9007873f88bc25f53997bf0dec525ad3a37c524f739c10692dd3df",
+    "skills/cad-layered-stack-infographic/references/prompts/03-v02.txt": "fde150f44f92eb34469939930544e17feb558d44f7eb5be86ddd034344fe4768",
+    "skills/cad-layered-stack-infographic/references/prompts/04-v01.txt": "e2d91d7bacdce2b13b5d91503550fc71ed39c58439c76ebb6ba6ec53622320fb",
+    "skills/cad-layered-stack-infographic/references/review-record.json": "8d0f65f7dddee574d05e20755dcc928edf55e6bf5058c8c44a28eb5b10a3aa21",
+    "skills/cad-layered-stack-infographic/references/usage-examples.md": "0ecc0ab4d2945723758e2d1ddb7e23582de43e2db347d7a872cfbea2f200e571",
+    "skills/cad-layered-stack-infographic/references/worked-examples.md": "34b4fef0b76db2da75adfd015599ecef1a5ccd122c065880a1e8399a43eac4fc"
   },
   "omitted": [
     {

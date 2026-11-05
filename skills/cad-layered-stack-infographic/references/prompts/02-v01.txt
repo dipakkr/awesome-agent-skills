@@ -1,0 +1,16 @@
+Create a polished finished LinkedIn editorial infographic.
+VISUAL CONTRACT:
+Tall editorial infographic. Warm off-white lightly speckled paper. Large centered headline with thin black introductory words and bold rust-orange key words. Seven broad horizontal pastel bands with a squared left edge and very rounded right end. Each band has a small outlined category capsule overlapping its upper-left edge. Inside each band, three evenly spaced white rounded icon tiles with a short label below. A small simple original line icon illustrates each label. Fine dotted vertical separators group the tiles. Generous space between bands, careful baseline alignment, restrained premium typography. Footer is a small neutral note, never an invented author or logo.
+
+EXACT USER REQUEST:
+Use $cad-layered-stack-infographic. Create one infographic titled "The 7-layer home bakery stack" with subtitle "From a recipe to a repeat order". Use this exact content map:
+Plan | Menu | Pricing | Schedule
+Source | Ingredients | Packaging | Suppliers
+Prepare | Recipes | Batches | Allergens
+Make | Mixing | Baking | Cooling
+Present | Photos | Labels | Menu cards
+Deliver | Orders | Pickup | Delivery
+Improve | Feedback | Waste log | Costs
+Palette: Warm ivory, honey, soft coral, pale sage and muted rose; chocolate headline. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.
+
+Render all supplied text accurately. No extra content. Use original topic-specific icons. Match the supplied visual contract closely. Large portrait canvas, requested 1024 by 1536 pixels for tall layouts, or 1200 by 1500 for the department map. At least 5% edge padding. The text is the primary content, not decoration.

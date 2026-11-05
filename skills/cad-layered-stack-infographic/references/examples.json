@@ -1,0 +1,214 @@
+[
+  {
+    "id": "01",
+    "title": "The 7-layer creator stack",
+    "subtitle": "A practical map for independent work",
+    "groups": [
+      [
+        "Direction",
+        "Audience",
+        "Positioning",
+        "Goals"
+      ],
+      [
+        "Research",
+        "Interviews",
+        "Reading",
+        "Notes"
+      ],
+      [
+        "Production",
+        "Writing",
+        "Recording",
+        "Editing"
+      ],
+      [
+        "Design",
+        "Typography",
+        "Illustration",
+        "Layouts"
+      ],
+      [
+        "Publishing",
+        "Website",
+        "Newsletter",
+        "Social"
+      ],
+      [
+        "Community",
+        "Replies",
+        "Feedback",
+        "Events"
+      ],
+      [
+        "Learning",
+        "Analytics",
+        "Experiments",
+        "Review"
+      ]
+    ],
+    "palette": "Cream, butter yellow, peach, lilac, mint and dusty blue; rust headline",
+    "invocation": "Use $cad-layered-stack-infographic. Create one infographic titled \"The 7-layer creator stack\" with subtitle \"A practical map for independent work\". Use this exact content map:\nDirection | Audience | Positioning | Goals\nResearch | Interviews | Reading | Notes\nProduction | Writing | Recording | Editing\nDesign | Typography | Illustration | Layouts\nPublishing | Website | Newsletter | Social\nCommunity | Replies | Feedback | Events\nLearning | Analytics | Experiments | Review\nPalette: Cream, butter yellow, peach, lilac, mint and dusty blue; rust headline. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the 7-layer creator stack infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "02",
+    "title": "The 7-layer home bakery stack",
+    "subtitle": "From a recipe to a repeat order",
+    "groups": [
+      [
+        "Plan",
+        "Menu",
+        "Pricing",
+        "Schedule"
+      ],
+      [
+        "Source",
+        "Ingredients",
+        "Packaging",
+        "Suppliers"
+      ],
+      [
+        "Prepare",
+        "Recipes",
+        "Batches",
+        "Allergens"
+      ],
+      [
+        "Make",
+        "Mixing",
+        "Baking",
+        "Cooling"
+      ],
+      [
+        "Present",
+        "Photos",
+        "Labels",
+        "Menu cards"
+      ],
+      [
+        "Deliver",
+        "Orders",
+        "Pickup",
+        "Delivery"
+      ],
+      [
+        "Improve",
+        "Feedback",
+        "Waste log",
+        "Costs"
+      ]
+    ],
+    "palette": "Warm ivory, honey, soft coral, pale sage and muted rose; chocolate headline",
+    "invocation": "Use $cad-layered-stack-infographic. Create one infographic titled \"The 7-layer home bakery stack\" with subtitle \"From a recipe to a repeat order\". Use this exact content map:\nPlan | Menu | Pricing | Schedule\nSource | Ingredients | Packaging | Suppliers\nPrepare | Recipes | Batches | Allergens\nMake | Mixing | Baking | Cooling\nPresent | Photos | Labels | Menu cards\nDeliver | Orders | Pickup | Delivery\nImprove | Feedback | Waste log | Costs\nPalette: Warm ivory, honey, soft coral, pale sage and muted rose; chocolate headline. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the 7-layer home bakery stack infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "03",
+    "title": "The 7-layer community event stack",
+    "subtitle": "A shared plan for a local gathering",
+    "groups": [
+      [
+        "Purpose",
+        "Audience",
+        "Theme",
+        "Budget"
+      ],
+      [
+        "People",
+        "Hosts",
+        "Volunteers",
+        "Partners"
+      ],
+      [
+        "Place",
+        "Venue",
+        "Access",
+        "Layout"
+      ],
+      [
+        "Programme",
+        "Sessions",
+        "Speakers",
+        "Timings"
+      ],
+      [
+        "Promotion",
+        "Invitations",
+        "Posters",
+        "Updates"
+      ],
+      [
+        "Event day",
+        "Check-in",
+        "Signage",
+        "Support"
+      ],
+      [
+        "Follow-up",
+        "Thanks",
+        "Feedback",
+        "Next steps"
+      ]
+    ],
+    "palette": "Ivory, pale blue, apricot, seafoam and lilac; deep teal headline",
+    "invocation": "Use $cad-layered-stack-infographic. Create one infographic titled \"The 7-layer community event stack\" with subtitle \"A shared plan for a local gathering\". Use this exact content map:\nPurpose | Audience | Theme | Budget\nPeople | Hosts | Volunteers | Partners\nPlace | Venue | Access | Layout\nProgramme | Sessions | Speakers | Timings\nPromotion | Invitations | Posters | Updates\nEvent day | Check-in | Signage | Support\nFollow-up | Thanks | Feedback | Next steps\nPalette: Ivory, pale blue, apricot, seafoam and lilac; deep teal headline. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the 7-layer community event stack infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "04",
+    "title": "The 7-layer indie game stack",
+    "subtitle": "From the first idea to player feedback",
+    "groups": [
+      [
+        "Concept",
+        "Audience",
+        "World",
+        "Core loop"
+      ],
+      [
+        "Design",
+        "Rules",
+        "Levels",
+        "Progression"
+      ],
+      [
+        "Build",
+        "Code",
+        "Tools",
+        "Versions"
+      ],
+      [
+        "Art",
+        "Characters",
+        "Environments",
+        "Interface"
+      ],
+      [
+        "Audio",
+        "Music",
+        "Effects",
+        "Mixing"
+      ],
+      [
+        "Release",
+        "Testing",
+        "Store page",
+        "Launch"
+      ],
+      [
+        "Learn",
+        "Feedback",
+        "Bug reports",
+        "Updates"
+      ]
+    ],
+    "palette": "Pale cream, lavender, periwinkle, mint and peach; plum headline",
+    "invocation": "Use $cad-layered-stack-infographic. Create one infographic titled \"The 7-layer indie game stack\" with subtitle \"From the first idea to player feedback\". Use this exact content map:\nConcept | Audience | World | Core loop\nDesign | Rules | Levels | Progression\nBuild | Code | Tools | Versions\nArt | Characters | Environments | Interface\nAudio | Music | Effects | Mixing\nRelease | Testing | Store page | Launch\nLearn | Feedback | Bug reports | Updates\nPalette: Pale cream, lavender, periwinkle, mint and peach; plum headline. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the 7-layer indie game stack infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  }
+]
