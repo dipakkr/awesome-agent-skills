@@ -1,0 +1,43 @@
+{
+  "skill": "cad-linkedin-company-culture-image",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Curiosity, in good company",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "bdbad3aa7a45e42a46af5fcc93c5094f4c8c0e76178715fafd458d28b1c31f4b",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-company-culture-image. Create a new output based on the packaged example \"Curiosity, in good company\". Brief: Fictional employer-brand demonstration showing an aspiration for shared curiosity. Illustrated characters are not real employees; no hiring or benefits claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Make space for careful work",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "ccc855a8ff722978ace90b9279c72f861fae5c16dd06f9e206fc9d67bcfbf408",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-company-culture-image. Create a new output based on the packaged example \"Make space for careful work\". Brief: Fictional employer-brand demonstration expressing an aspiration for thoughtful making through a quiet sculptural workbench. No actual company benefit or performance claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Leave room to learn",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "ae773aee05405cb16d302ac1da0d68c643bbdbc407ed1c43515ed352e848eaf9",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-company-culture-image. Create a new output based on the packaged example \"Leave room to learn\". Brief: Fictional employer-brand aspiration: leave room to learn; no claim about an actual company, hiring role or employee. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Make feedback useful",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "f40d728da3cf641ed2ced304f6ff4905646be3553936083bd7fedf5ba5009ebf",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $cad-linkedin-company-culture-image. Create a new output based on the packaged example \"Make feedback useful\". Brief: Fictional working-value aspiration: give feedback with care. No real employee quote, company practice or hiring offer. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
