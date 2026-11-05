@@ -20,5 +20,6 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Calm Clay OG | [Files](skills/cad-calm-clay-og/SKILL.md) | [Preview and download](https://claudeai.directory/skills/calm-clay-og) | Original / MIT |
 | Case Study Results Deck | [Files](skills/cad-case-study-results-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/case-study-results-deck) | Original / MIT |
 | Comedy 3D Explainer | [Files](skills/cad-comedy-3d-explainer/SKILL.md) | [Preview and download](https://claudeai.directory/skills/comedy-3d-explainer) | Original / MIT |
+| Commercial Doodle Ad | [Files](skills/cad-commercial-doodle-ad/SKILL.md) | [Preview and download](https://claudeai.directory/skills/commercial-doodle-ad) | Original / MIT |
 | Ecommerce Product Listing | [Files](skills/cad-ecommerce-product-listing/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
 | Ecommerce Store Brief | [Files](skills/cad-ecommerce-store-brief/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
