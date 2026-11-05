@@ -34,6 +34,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-ad-production-blueprint",
+      "name": "Ad Production Blueprint",
+      "description": "Translate a supported creative idea and real asset inventory into a production handoff with shot beats, missing assets and acceptance checks.",
+      "site": "https://claudeai.directory/skills/ad-production-blueprint",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-ad-production-blueprint",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -108,6 +118,17 @@
     "skills/cad-ad-motion-export/references/export.md": "7bde49e6a33669d1c34fba42d5cc7e6cd982dc7f6b4b4af95e39803c8a5de519",
     "skills/cad-ad-motion-export/references/usage-examples.md": "d5ba85537874b3a66ccc06b2e3096b9a767ff4a7a3763b5377bfa2f32c2bf438",
     "skills/cad-ad-motion-export/scripts/render.py": "ef33dbd9bdb27b117f2158f3bcf2e878300b1064b59003eccc587f031f9e286c",
+    "skills/cad-ad-production-blueprint/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-ad-production-blueprint/SKILL.md": "06ce3a44f7d5a53be24531a81e4c174899258cc22e4c140a66979ca821f2bedf",
+    "skills/cad-ad-production-blueprint/examples/foldwell.json": "604b0777230ef428e260ff53d9a8f55295a97c53d402d6369004a7ce1c89ee63",
+    "skills/cad-ad-production-blueprint/examples/foldwell/decisions.csv": "39a7841a28b100a750e66ba0cb7c9147f344a54ea84fdd45307e0473a336840c",
+    "skills/cad-ad-production-blueprint/examples/foldwell/workbook.json": "604b0777230ef428e260ff53d9a8f55295a97c53d402d6369004a7ce1c89ee63",
+    "skills/cad-ad-production-blueprint/examples/relaydesk.json": "2f3528614048e5b4d7a81837489620c8990d9be5ba5480487d97c5ca630f555f",
+    "skills/cad-ad-production-blueprint/examples/relaydesk/decisions.csv": "6cf61dcc5826b3a038bdcabd83571fbf4ed63b23250f6f69124041157e55ea33",
+    "skills/cad-ad-production-blueprint/examples/relaydesk/workbook.json": "2f3528614048e5b4d7a81837489620c8990d9be5ba5480487d97c5ca630f555f",
+    "skills/cad-ad-production-blueprint/references/input-contract.md": "12546a56418eefc38716199ebcec4566122b97fde26b1c30f496e99bf859a0bd",
+    "skills/cad-ad-production-blueprint/references/origin.md": "725e4b2bdd631032d0d5af6b6011390c1d63cdf68aa8570d79d07afdbfdde374",
+    "skills/cad-ad-production-blueprint/scripts/render_workbook.py": "f43c333439d2f11606fd6c7f6b81ee86241f42b911c1e7806e59174d41d68c1e",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -904,6 +925,14 @@
     },
     {
       "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-ad-production-blueprint/examples/foldwell/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-ad-production-blueprint/examples/relaydesk/index.html",
       "reason": "rendered example; see website"
     }
   ]
