@@ -1,0 +1,29 @@
+{
+  "brand": "Paper Museum",
+  "title": "From page to exhibition",
+  "subtitle": "A fictional exhibition production sequence.",
+  "theme": "rose",
+  "source": "Illustrative sequence · fictional example · intervals not to scale",
+  "events": [
+    {
+      "date": "Day 01",
+      "label": "Select",
+      "detail": "Choose the objects."
+    },
+    {
+      "date": "Day 08",
+      "label": "Compose",
+      "detail": "Plan their relationships."
+    },
+    {
+      "date": "Day 20",
+      "label": "Install",
+      "detail": "Build the physical space."
+    },
+    {
+      "date": "Day 28",
+      "label": "Open",
+      "detail": "Welcome the audience."
+    }
+  ]
+}
