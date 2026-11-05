@@ -1,0 +1,232 @@
+{
+  "skill": "question-answer-reel",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "index": "01",
+      "title": "Answer the buying question",
+      "invocation": "Use $question-answer-reel to make \"Answer the buying question\" for the fictional brand Cartnote. Use examples/01.json as the exact input, the paper palette and the CTA \"Review the answer\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/01.json",
+      "output": "examples/recorded/01/film.mp4",
+      "render": {
+        "mode": "chat",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "cbaa89d790c91fe5b6d94678b99d8b3a5eb253949faeb930e8e42456e93fe46b",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 79,
+        "files": {
+          "brief.json": {
+            "sha256": "cbaa89d790c91fe5b6d94678b99d8b3a5eb253949faeb930e8e42456e93fe46b",
+            "bytes": 526
+          },
+          "film.mp4": {
+            "sha256": "6dc5218fcdb6eba8b27c01bf49fd986e225a913d7bca634cfb70275899265f43",
+            "bytes": 255549
+          },
+          "poster.png": {
+            "sha256": "05f0bd7ccf5f724003fb8bc611bd5a5b2f4291b64706dd49225b450b4e6e039c",
+            "bytes": 155604
+          },
+          "review-1.jpg": {
+            "sha256": "443477c594d80e8c57d1418547055374d38df85e528e8689dc71fe67a0918e88",
+            "bytes": 87300
+          },
+          "review-2.jpg": {
+            "sha256": "cb8e6e1ec1fe39ad2d30c525700bf4425682a96a1b649c718bcc6cdac2b83aff",
+            "bytes": 86822
+          },
+          "review-3.jpg": {
+            "sha256": "2de316124a02b431cb8b09022f1cf4c91b92859b8f52bcb1a26c374faf91f9d9",
+            "bytes": 102569
+          },
+          "review-4.jpg": {
+            "sha256": "e3ce13da83f2913dfc46099e5aec048b013c940c10ae65f22cd111efa5b3d80a",
+            "bytes": 102450
+          },
+          "review-5.jpg": {
+            "sha256": "86677403dde5f8cd7e69f4e5bb59fc8fb15445e54e7c4e69f1287ce5606a1982",
+            "bytes": 102398
+          }
+        }
+      }
+    },
+    {
+      "index": "02",
+      "title": "Keep the design context",
+      "invocation": "Use $question-answer-reel to make \"Keep the design context\" for the fictional brand Margin Studio. Use examples/02.json as the exact input, the lavender palette and the CTA \"Open the design guide\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/02.json",
+      "output": "examples/recorded/02/film.mp4",
+      "render": {
+        "mode": "chat",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "7771a41e9b8485832a792f655211b0528ab85ed1142fe0f28f55a4a7c3523ce5",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 79,
+        "files": {
+          "brief.json": {
+            "sha256": "7771a41e9b8485832a792f655211b0528ab85ed1142fe0f28f55a4a7c3523ce5",
+            "bytes": 550
+          },
+          "film.mp4": {
+            "sha256": "e6ead8c54a1a04dd1eab843ae7af73e143381085b6434b3ba33740132476ab0d",
+            "bytes": 256481
+          },
+          "poster.png": {
+            "sha256": "084c3fd4aa48eba8cf0adc952b955a2421e326b9dd4e7d0066515a0f0dc4bca5",
+            "bytes": 154176
+          },
+          "review-1.jpg": {
+            "sha256": "d14e89c4abeda2d2ec5d565142bc099bbc78369dc9ddee595cbf0d9482d191e1",
+            "bytes": 87487
+          },
+          "review-2.jpg": {
+            "sha256": "c889e2e8b2cc3342ca34bd9ea6816c02ebfee9ed8157a4363c8b0fd429f1ea8c",
+            "bytes": 87180
+          },
+          "review-3.jpg": {
+            "sha256": "2490c1b6161a26050f9aa8088d4f872fcfe19de608d871c2c8e3bb24cdac07c4",
+            "bytes": 101881
+          },
+          "review-4.jpg": {
+            "sha256": "047e6c99537bdb2d43a4e9dc3cfc57a51174c38d2a2e5aa79dcaa76a93d33c44",
+            "bytes": 101901
+          },
+          "review-5.jpg": {
+            "sha256": "97868ca48a85ebdbbf5c40d0c1ff3db4d7e162f4acbd16c6fa8a756e5da8a576",
+            "bytes": 101719
+          }
+        }
+      }
+    },
+    {
+      "index": "03",
+      "title": "A clear next step",
+      "invocation": "Use $question-answer-reel to make \"A clear next step\" for the fictional brand Fieldwork. Use examples/03.json as the exact input, the night palette and the CTA \"Review the project plan\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/03.json",
+      "output": "examples/recorded/03/film.mp4",
+      "render": {
+        "mode": "chat",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "588d5ba05e0c590b4a4c4c238b3f02d432d637296632a7a05b07a2cc2cef4383",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 79,
+        "files": {
+          "brief.json": {
+            "sha256": "588d5ba05e0c590b4a4c4c238b3f02d432d637296632a7a05b07a2cc2cef4383",
+            "bytes": 541
+          },
+          "film.mp4": {
+            "sha256": "f3b664e1b795db57e42322c33f7f50de390b695b8d07f8062ac4b2ff6dc47738",
+            "bytes": 258290
+          },
+          "poster.png": {
+            "sha256": "8642a843f6808fee58f49122d578e30ac979b8876e9364d77e004a18955c8a59",
+            "bytes": 153605
+          },
+          "review-1.jpg": {
+            "sha256": "b8e57c6f98c1707417df10cde22ce0e46a3d929caf376894acbaeea4369dad88",
+            "bytes": 86473
+          },
+          "review-2.jpg": {
+            "sha256": "4185c94fd5d91ac1cf20448275547e119c6d8040e77bf0d5f2108882e2163699",
+            "bytes": 86097
+          },
+          "review-3.jpg": {
+            "sha256": "5d5b49d1e417e51adfbca160d81978dce42ad000d0a3869d794b361277701017",
+            "bytes": 102953
+          },
+          "review-4.jpg": {
+            "sha256": "ffccb83b248d098adc26516b8db5f4dad3f58680d5b8fe377b8d7bb80668e581",
+            "bytes": 102967
+          },
+          "review-5.jpg": {
+            "sha256": "43c7d16c8352b94677bcab56dabb522e8447fcde121a890b2a3159dac2e13e95",
+            "bytes": 102940
+          }
+        }
+      }
+    },
+    {
+      "index": "04",
+      "title": "A lesson that stays focused",
+      "invocation": "Use $question-answer-reel to make \"A lesson that stays focused\" for the fictional brand Lesson Lab. Use examples/04.json as the exact input, the ocean palette and the CTA \"Review the lesson brief\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure. Use my supplied continuous clip, at least 6.4 seconds long, and do not loop it.",
+      "input": "examples/04.json",
+      "output": "examples/recorded/04/film.mp4",
+      "render": {
+        "mode": "chat",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 6.416667,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "53cab05a010056f124dcfb07fdddd31bee6c90d1f6d20ee9c9a5216685ed8063",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {
+          "pexels-alena-darmel-9032610.mp4": "51d7999f61476d9bd67f868c4f95d68fb94a8b2301fc048a1c1faea80e75dd0a"
+        },
+        "textFitChecks": 79,
+        "files": {
+          "brief.json": {
+            "sha256": "53cab05a010056f124dcfb07fdddd31bee6c90d1f6d20ee9c9a5216685ed8063",
+            "bytes": 568
+          },
+          "film.mp4": {
+            "sha256": "49edd7d98730334ff2dbf9bf40d040bd668b34e51f00819b4bc1e366939aaac9",
+            "bytes": 263154
+          },
+          "poster.png": {
+            "sha256": "48ce98b857528e124dfb5ced6cf59fb1c01926cfa3ac8ee2619b3784d53b3617",
+            "bytes": 155774
+          },
+          "review-1.jpg": {
+            "sha256": "4845cb663e7609bb04c0f4e083cc2a3e7190757bb9ca55e70bfaceb4322b3846",
+            "bytes": 92559
+          },
+          "review-2.jpg": {
+            "sha256": "baa5c810dbfd376bf5e106d7c78793b6c512d325c6e36d5ed5a0a8f9d3c01bb6",
+            "bytes": 92491
+          },
+          "review-3.jpg": {
+            "sha256": "df5e6d1fb13a239a8c1c57ef087c3cfdb277039cddc22175b4030e8530e817d0",
+            "bytes": 108412
+          },
+          "review-4.jpg": {
+            "sha256": "543c7c513d857648d037b5059b9de4d6120844f50579ce731db31f3bdb841459",
+            "bytes": 108379
+          },
+          "review-5.jpg": {
+            "sha256": "250b35d46d446b78d6ea480f40ce17748f0ae9401bbc1f5aa0e45e400993c68d",
+            "bytes": 108302
+          }
+        }
+      }
+    }
+  ],
+  "verification": "Author-executed; no independent agent reuse claimed"
+}

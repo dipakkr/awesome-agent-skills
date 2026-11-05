@@ -1,0 +1,17 @@
+{
+  "brand": "Margin Studio",
+  "title": "Keep the design context",
+  "subtitle": "A design system assistant concept.",
+  "cta": "Open the design guide",
+  "theme": "lavender",
+  "disclosure": "Illustrative concept \u00b7 stock presenter, no endorsement",
+  "context": [
+    "Use the teal accent for primary actions",
+    "Keep labels in sentence case",
+    "Leave at least 24px between groups"
+  ],
+  "conversation": [
+    "How should I style the main action?",
+    "Use the teal accent and a sentence-case label. Keep clear space around it."
+  ]
+}

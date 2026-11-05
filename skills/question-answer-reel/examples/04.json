@@ -1,0 +1,17 @@
+{
+  "brand": "Lesson Lab",
+  "title": "A lesson that stays focused",
+  "subtitle": "An educator workspace concept.",
+  "cta": "Review the lesson brief",
+  "theme": "ocean",
+  "disclosure": "Illustrative concept \u00b7 stock presenter, no endorsement",
+  "context": [
+    "Audience: first-time workshop learners",
+    "Goal: write one useful customer question",
+    "Exercise: compare two interview prompts"
+  ],
+  "conversation": [
+    "How should we close the workshop?",
+    "Ask each learner to rewrite one question and explain what it will help them learn."
+  ]
+}

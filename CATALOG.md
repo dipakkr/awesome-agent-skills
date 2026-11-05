@@ -71,6 +71,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Picture Tale Pages](skills/picture-tale-pages/SKILL.md) | Turn an original short story into illustrated scenes with a consistent cast, editable narration and read-aloud notes. |
 | [Project Reel](skills/project-reel/SKILL.md) | Present three projects through editorial takeovers, a moving media wall and a memorable sign-off. |
 | [Punchy Photo Cards](skills/punchy-photo-cards/SKILL.md) | Create expressive social-share artwork with photographic cutouts, oversized type and confident graphic shapes. |
+| [Question Answer Reel](skills/question-answer-reel/SKILL.md) | Show a question becoming a useful answer while source notes and a circular presenter remain visible. Use for support explainers, knowledge assistants and product education with supplied presenter footage. |
 | [Reading Room Brief](skills/reading-room-brief/SKILL.md) | Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes. |
 | [Recommendation Room](skills/recommendation-room/SKILL.md) | Build a recommendation-first decision deck with a clear issue, supported analysis, tradeoffs and an owned next step. |
 | [Report Front Page](skills/report-front-page/SKILL.md) | Create the opening cover graphic for a useful LinkedIn document, guide or carousel using a clear reader promise. |

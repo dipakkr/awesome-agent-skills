@@ -1,0 +1,4 @@
+interface:
+  display_name: "Question Answer Reel"
+  short_description: "Render an editable presenter chat reel locally"
+  default_prompt: "Use $question-answer-reel to make a film from my brief and review its motion and copy."

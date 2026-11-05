@@ -1,0 +1,17 @@
+{
+  "brand": "Cartnote",
+  "title": "Answer the buying question",
+  "subtitle": "A store support assistant concept.",
+  "cta": "Review the answer",
+  "theme": "paper",
+  "disclosure": "Illustrative concept \u00b7 stock presenter, no endorsement",
+  "context": [
+    "Product: linen desk pouch",
+    "Care: cold hand wash; air dry",
+    "Policy: unused returns within 30 days"
+  ],
+  "conversation": [
+    "Can I wash this pouch in a machine?",
+    "The supplied care note recommends cold hand washing, then air drying."
+  ]
+}
