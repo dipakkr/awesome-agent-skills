@@ -1,0 +1,25 @@
+{
+  "mode": "transitions",
+  "format": "square",
+  "brand": "MONO",
+  "headline": "Change the frame.",
+  "ending": "Give your story a new rhythm.",
+  "cta": "Try the next transition",
+  "item": "A different direction",
+  "labels": [
+    "First.",
+    "Then.",
+    "Next."
+  ],
+  "details": [
+    "Introduce the thought",
+    "Shift the perspective",
+    "Resolve the idea"
+  ],
+  "accent": "#222222",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}
