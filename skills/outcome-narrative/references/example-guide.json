@@ -1,0 +1,34 @@
+{
+  "skill": "outcome-narrative",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "A clearer help center",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "0526452bc1a0ba4ed7bba2ae9688512b09291117a3500f81daae46ea0da6ceb2",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $outcome-narrative. Create a new output based on the packaged example \"A clearer help center\". Brief: Service Index \u00b7 Fictional help-center redesign case study. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A shorter signup path",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "6553a96965c13294cb58edefacf7c4046e4597e10d172959f46e1b44cd84038f",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $outcome-narrative. Create a new output based on the packaged example \"A shorter signup path\". Brief: Conversion Sprint \u00b7 Fictional signup simplification case study. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A more complete client handoff",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "27fc696d02e7fa1dc4a8dd1f1b51180056b8f1849374054d40909fadf7815fd7",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $outcome-narrative. Create a new output based on the packaged example \"A more complete client handoff\". Brief: Handoff Blueprint \u00b7 Fictional agency handoff case study. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

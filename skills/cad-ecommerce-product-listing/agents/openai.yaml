@@ -1,4 +1,0 @@
-interface:
-  display_name: "Ecommerce Product Listing"
-  short_description: "Create sourced listings and draft Shopify exports"
-  default_prompt: "Use $cad-ecommerce-product-listing to prepare product listings from my store brief."

@@ -1,0 +1,96 @@
+{
+  "title": "Voice Of Buyer",
+  "brand": "Foldwell / packing cube prototype",
+  "purpose": "Decide what the evidence allows you to say, and what to investigate next.",
+  "accent": "lime",
+  "disclosure": "FICTIONAL WORKED EXAMPLE. All products, feedback and constraints here are synthetic. No campaign has run and no performance result is claimed.",
+  "sources": [
+    {
+      "id": "P1",
+      "label": "Fictional product brief",
+      "text": "A fictional packing cube has a labeled divider and two zipped compartments. No tested time saving, capacity gain or durability claim is supplied.",
+      "locator": "Synthetic input / product brief / paragraph 1"
+    },
+    {
+      "id": "R1",
+      "label": "Positive feedback",
+      "text": "I could see which side held the clean shirts.",
+      "locator": "Synthetic input / feedback.csv / row 1"
+    },
+    {
+      "id": "R2",
+      "label": "Mixed feedback",
+      "text": "The divider helped, but the cube felt bulky in my small bag.",
+      "locator": "Synthetic input / feedback.csv / row 2"
+    },
+    {
+      "id": "R3",
+      "label": "Unresolved buyer question",
+      "text": "Will it fit my 18 litre backpack?",
+      "locator": "Synthetic input / feedback.csv / row 3"
+    },
+    {
+      "id": "A1",
+      "label": "Production inventory",
+      "text": "One prototype, one phone, one tabletop and one editor are available. No customer testimonial footage is licensed.",
+      "locator": "Synthetic input / inventory / paragraph 1"
+    }
+  ],
+  "cards": [
+    {
+      "id": "E1",
+      "title": "A narrow, demonstrable message",
+      "status": "Ready",
+      "decision": "Show where each shirt goes.",
+      "fields": {
+        "Observation": "I could see which side held the clean shirts.",
+        "Counterevidence": "The divider helped, but the cube felt bulky in my small bag.",
+        "Sample scope": "Two fictional feedback statements and one question. No prevalence estimate.",
+        "Permitted wording": "Show two zipped compartments; do not promise faster completion."
+      },
+      "next": "Capture a direct demonstration of the specified feature.",
+      "evidence": [
+        "P1",
+        "R1",
+        "R2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "E2",
+      "title": "Fit in a small backpack",
+      "status": "Explore",
+      "decision": "The question is useful for research; it is not an established product capability.",
+      "fields": {
+        "Observation": "Will it fit my 18 litre backpack?",
+        "Counterevidence": "No answer or completed compatibility check supplied.",
+        "Sample scope": "One fictional question; no frequency inference.",
+        "Permitted wording": "Ask what the buyer needs to verify before purchase."
+      },
+      "next": "Run the missing compatibility check and retain the result, including failure.",
+      "evidence": [
+        "R3",
+        "P1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "E3",
+      "title": "Reject the speed promise",
+      "status": "Hold",
+      "decision": "Pack twice as much in half the time.",
+      "fields": {
+        "Observation": "No measured comparison supports this draft claim.",
+        "Counterevidence": "The divider helped, but the cube felt bulky in my small bag.",
+        "Sample scope": "The supplied material has no controlled time study.",
+        "Permitted wording": "Show where each shirt goes."
+      },
+      "next": "Remove the numerical promise from the brief; revisit only with valid measurements.",
+      "evidence": [
+        "P1",
+        "R2"
+      ],
+      "note": ""
+    }
+  ]
+}

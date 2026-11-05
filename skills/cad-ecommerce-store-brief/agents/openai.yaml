@@ -1,4 +1,0 @@
-interface:
-  display_name: "Ecommerce Store Brief"
-  short_description: "Turn business notes into a reusable store brief"
-  default_prompt: "Use $cad-ecommerce-store-brief to organize my store idea and product facts into a reusable brief."

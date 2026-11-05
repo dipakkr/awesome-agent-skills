@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Curiosity, in good company",
+    "brief": "Fictional employer-brand demonstration showing an aspiration for shared curiosity. Illustrated characters are not real employees; no hiring or benefits claims.",
+    "request": "Use $team-values-card to create a square culture post about shared curiosity. Headline: Curiosity, in good company. Use an illustrated collaborative scene; no logo or hiring claims.",
+    "fictionalDemonstration": true,
+    "brand": null,
+    "logo": null,
+    "inputAssets": [],
+    "requestedFormat": "1:1 square"
+  },
+  {
+    "title": "Make space for careful work",
+    "brief": "Fictional employer-brand demonstration expressing an aspiration for thoughtful making through a quiet sculptural workbench. No actual company benefit or performance claim.",
+    "request": "Use $team-values-card to make a square post with the headline Make space for careful work. Use a quiet abstract studio scene and no logo.",
+    "fictionalDemonstration": true,
+    "brand": null,
+    "logo": null,
+    "inputAssets": [],
+    "requestedFormat": "1:1 square"
+  }
+]

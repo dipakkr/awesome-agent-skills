@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wardrobe Campaigns"
+  short_description: "Apparel ads with accurate products and fresh styling"
+  default_prompt: "Use $wardrobe-campaigns to create fresh ad concepts from my product, audience and brand inputs."

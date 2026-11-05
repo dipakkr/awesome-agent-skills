@@ -1,0 +1,43 @@
+{
+  "skill": "brand-shelf-story",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Quiet desk",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "4378a40f54448c7cfdbb09530f1c87185468f6353e49f92c485be72fc2c0f068",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $brand-shelf-story. Create a new output based on the packaged example \"Quiet desk\". Brief: Fictional paper-goods concept: quiet workspace, graphite and warm ivory. No brand history or environmental claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Morning ceramics",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "2792ba6f8634ab55dede7a9dec20ced94ff6231da6ff0f413fc461fd3d0beb5b",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $brand-shelf-story. Create a new output based on the packaged example \"Morning ceramics\". Brief: Fictional ceramic-homeware concept: warm orange and pale blue, a cheerful breakfast scene without claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Listening room narrative",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "5c40a50e299445090402c74cfcf239e40f39478194870315856c18a2e77c3ec2",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $brand-shelf-story. Create a new output based on the packaged example \"Listening room narrative\". Brief: Fictional home-audio brand mood artwork: an unbranded record player on a warm oak shelf, expressing a considered listening ritual. No heritage, sound-quality or performance claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Window garden narrative",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "a902a156fb65b22d79ae63b185ca6aec9d37536da836e48f60c5f8cf641ca7c8",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $brand-shelf-story. Create a new output based on the packaged example \"Window garden narrative\". Brief: Fictional garden-accessory brand mood artwork: three pots and a watering can at a sunlit window, an illustrative care ritual without sustainability claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Fashion Product Ads"
-  short_description: "Apparel ads with accurate products and fresh styling"
-  default_prompt: "Use $cad-fashion-product-ads to create fresh ad concepts from my product, audience and brand inputs."

@@ -1,0 +1,43 @@
+{
+  "skill": "gathering-announcement",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "A clearer creative brief",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "41c531e3323e7dff718231f04dc663bd4fc5c17b72a03bf00ea40d8a30ba0cfa",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $gathering-announcement. Create a new output based on the packaged example \"A clearer creative brief\". Brief: Explicit fictional demonstration event: Fieldnote Workshop, 12 November 2026 at 16:00 UTC. Not an event offered for registration. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Designing with constraints",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "d7cff9f9ad7fb64497775aa1fc8faa2ed1f8d7ab793692075543e18bd7f3f5ae",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $gathering-announcement. Create a new output based on the packaged example \"Designing with constraints\". Brief: Explicit fictional demonstration event: Northline Sessions, 19 November 2026 at 18:00 UTC. Not an event offered for registration. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Writing for product teams",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "5e048c9d33c9f554b40f95d03439962218123b20a2834ace1cf88df4e70b3a3a",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $gathering-announcement. Create a new output based on the packaged example \"Writing for product teams\". Brief: Fictional demonstration event: Writing for product teams; 19 Nov 2026, 16:00 UTC; host Demo Learning Studio. Not an actual scheduled event. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Small systems, better work",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "952fd2e913932a04c1a5484f173bf580c8298069bc90487c298b73cae5fb34c8",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $gathering-announcement. Create a new output based on the packaged example \"Small systems, better work\". Brief: Fictional demonstration event: Small systems, better work; 20 Nov 2026, 18:00 UTC; host Demo Maker Circle. No real event or attendance implied. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

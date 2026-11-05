@@ -1,0 +1,16 @@
+{
+  "skill": "clip-assembler",
+  "distinctOutputs": 1,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "Clip Assembler",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "55839e5eeb71ab234929f0dbf821456789c75ba82d1148e1c7a8b0521d260175",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $clip-assembler. Create a new output based on the packaged example \"Clip Assembler\". Brief: Turn approved artwork and clips into a short MP4 and optional GIF with an editable timeline and measured export report. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

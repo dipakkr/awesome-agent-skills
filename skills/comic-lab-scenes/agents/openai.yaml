@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comic Lab Scenes"
+  short_description: "Make funny narrated 3D skits that teach one useful idea"
+  default_prompt: "Use $comic-lab-scenes to write and render a funny vertical explainer with two original characters, an absurd prop gag, a clear lesson and a callback ending. Deliver the narrated MP4 and editable source."

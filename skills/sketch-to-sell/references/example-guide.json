@@ -1,0 +1,43 @@
+{
+  "skill": "sketch-to-sell",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Desk reset",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "e534ad73523ba8ec39c1dd72304e0ccbb7f7be882ab3503cedbe9dd631aefb89",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $sketch-to-sell. Create a new output based on the packaged example \"Desk reset\". Brief: A fictional stationery campaign. No brand logo. A coral notebook helps organise a daily list; do not claim productivity metrics. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Coffee ritual",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "afcddc36eecdd2c7c2f6954d84acb2e2b9437f1b25ddcb5dd5d9b1c38c44690a",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $sketch-to-sell. Create a new output based on the packaged example \"Coffee ritual\". Brief: A fictional cafe takeaway campaign. No brand logo or price. Warm coffee cup surrounded by a small morning ritual. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Listening moment",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "4e76aeb47ce41056384d27273a7dea6764248bdc75f1e8c0a54ed232624c5e8e",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $sketch-to-sell. Create a new output based on the packaged example \"Listening moment\". Brief: Fictional unbranded headphone campaign with illustrated music waves. No noise-cancelling, audio quality or wellbeing claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A thoughtful lunch",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "093f0ee72f9faf9c67d9f937a30495230a170edb08f15c6f5efddf3c943c0902",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $sketch-to-sell. Create a new output based on the packaged example \"A thoughtful lunch\". Brief: Fictional lunchbox illustration showing a simple open food container as a personal lunch ritual. No leakproof, healthy-food or storage performance claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "key": "ai-evals",
-  "title": "What are AI evals? \u00b7 study notes",
-  "source": "https://developers.openai.com/api/docs/guides/evaluation-best-practices",
-  "copy": "Exact title: \"What are AI evals?\". Exact subtitle: \"Test the task. Inspect the failures.\". Body copy (verbatim):\nEvals are structured tests of an AI system.\nChoose realistic cases and clear success criteria.\nRun the system, score outputs, inspect failures.\nRepeat after changes.\nSmall sticky note copy: \"One good answer is not enough evidence.\".\nDiagram: A four-node process map Cases \u2192 Run \u2192 Score \u2192 Review. Original small ink illustrations of a test-card stack, simple robot, checklist and magnifying glass. A small loop arrow from Review back to Cases, clearly separate from main arrow path.",
-  "invocation": "Use $cad-illustrated-study-notes to explain what are ai evals? for a beginner. Include an accurate diagram and one short tip. Use White faint graph paper, navy ink with lime and lilac accents, compact handwritten headline, generous whitespace.",
-  "path": "outputs/ai-evals-v1.png"
-}

@@ -1,0 +1,166 @@
+[
+  {
+    "id": "01",
+    "title": "A podcast launch workspace",
+    "subtitle": "12 files from idea to first episode",
+    "groups": [
+      [
+        "01-direction",
+        "audience.md|Define the listener",
+        "promise.md|Explain the show"
+      ],
+      [
+        "02-format",
+        "structure.md|Shape each episode",
+        "schedule.md|Choose a cadence"
+      ],
+      [
+        "03-content",
+        "topics.md|Build a topic list",
+        "outline.md|Plan the first episode"
+      ],
+      [
+        "04-production",
+        "recording.md|Prepare the session",
+        "editing.md|Guide the edit"
+      ],
+      [
+        "05-launch",
+        "show-page.md|Introduce the podcast",
+        "announce.md|Write the launch note"
+      ],
+      [
+        "06-learning",
+        "feedback.md|Collect listener notes",
+        "review.md|Choose what improves"
+      ]
+    ],
+    "palette": "Warm white, navy text, blue folders, ice-blue panels, coral accent",
+    "invocation": "Use $workspace-atlas. Create one infographic titled \"A podcast launch workspace\" with subtitle \"12 files from idea to first episode\". Use this exact content map:\n01-direction | audience.md|Define the listener | promise.md|Explain the show\n02-format | structure.md|Shape each episode | schedule.md|Choose a cadence\n03-content | topics.md|Build a topic list | outline.md|Plan the first episode\n04-production | recording.md|Prepare the session | editing.md|Guide the edit\n05-launch | show-page.md|Introduce the podcast | announce.md|Write the launch note\n06-learning | feedback.md|Collect listener notes | review.md|Choose what improves\nPalette: Warm white, navy text, blue folders, ice-blue panels, coral accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative a podcast launch workspace infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "02",
+    "title": "A research project workspace",
+    "subtitle": "12 files for a clear investigation",
+    "groups": [
+      [
+        "01-framing",
+        "question.md|Define the question",
+        "scope.md|Set the boundaries"
+      ],
+      [
+        "02-sources",
+        "reading.md|Collect useful sources",
+        "evidence.md|Record key evidence"
+      ],
+      [
+        "03-method",
+        "approach.md|Choose the method",
+        "protocol.md|Document the procedure"
+      ],
+      [
+        "04-analysis",
+        "findings.md|Describe observations",
+        "limits.md|Record uncertainty"
+      ],
+      [
+        "05-writing",
+        "outline.md|Structure the argument",
+        "draft.md|Write the report"
+      ],
+      [
+        "06-review",
+        "checks.md|Verify the claims",
+        "next-steps.md|Plan further work"
+      ]
+    ],
+    "palette": "White paper, navy text, blue folders, pale lavender panels, coral accent",
+    "invocation": "Use $workspace-atlas. Create one infographic titled \"A research project workspace\" with subtitle \"12 files for a clear investigation\". Use this exact content map:\n01-framing | question.md|Define the question | scope.md|Set the boundaries\n02-sources | reading.md|Collect useful sources | evidence.md|Record key evidence\n03-method | approach.md|Choose the method | protocol.md|Document the procedure\n04-analysis | findings.md|Describe observations | limits.md|Record uncertainty\n05-writing | outline.md|Structure the argument | draft.md|Write the report\n06-review | checks.md|Verify the claims | next-steps.md|Plan further work\nPalette: White paper, navy text, blue folders, pale lavender panels, coral accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative a research project workspace infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "03",
+    "title": "A makers market workspace",
+    "subtitle": "12 files to prepare a local event",
+    "groups": [
+      [
+        "01-purpose",
+        "audience.md|Define who attends",
+        "budget.md|Set spending limits"
+      ],
+      [
+        "02-venue",
+        "layout.md|Plan the floor",
+        "access.md|Check visitor access"
+      ],
+      [
+        "03-makers",
+        "vendors.md|List participating makers",
+        "brief.md|Share event details"
+      ],
+      [
+        "04-promotion",
+        "invite.md|Write the invitation",
+        "signage.md|Plan useful signs"
+      ],
+      [
+        "05-event-day",
+        "run-sheet.md|Coordinate the day",
+        "contacts.md|List key contacts"
+      ],
+      [
+        "06-follow-up",
+        "thanks.md|Thank contributors",
+        "lessons.md|Record what to improve"
+      ]
+    ],
+    "palette": "Warm ivory, navy text, teal folders, pale mint panels, apricot accent",
+    "invocation": "Use $workspace-atlas. Create one infographic titled \"A makers market workspace\" with subtitle \"12 files to prepare a local event\". Use this exact content map:\n01-purpose | audience.md|Define who attends | budget.md|Set spending limits\n02-venue | layout.md|Plan the floor | access.md|Check visitor access\n03-makers | vendors.md|List participating makers | brief.md|Share event details\n04-promotion | invite.md|Write the invitation | signage.md|Plan useful signs\n05-event-day | run-sheet.md|Coordinate the day | contacts.md|List key contacts\n06-follow-up | thanks.md|Thank contributors | lessons.md|Record what to improve\nPalette: Warm ivory, navy text, teal folders, pale mint panels, apricot accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative a makers market workspace infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "04",
+    "title": "An online course workspace",
+    "subtitle": "12 files from learner needs to review",
+    "groups": [
+      [
+        "01-learners",
+        "audience.md|Describe the learners",
+        "needs.md|Identify learning needs"
+      ],
+      [
+        "02-design",
+        "outcomes.md|Set learning outcomes",
+        "structure.md|Arrange the modules"
+      ],
+      [
+        "03-lessons",
+        "lesson.md|Draft a teaching unit",
+        "examples.md|Choose worked examples"
+      ],
+      [
+        "04-practice",
+        "exercise.md|Create useful practice",
+        "rubric.md|Explain assessment"
+      ],
+      [
+        "05-delivery",
+        "welcome.md|Orient new learners",
+        "support.md|Plan learner support"
+      ],
+      [
+        "06-improvement",
+        "feedback.md|Collect learner feedback",
+        "revision.md|Prioritize course changes"
+      ]
+    ],
+    "palette": "Warm white, charcoal text, blue folders, pale peach panels, burnt-orange accent",
+    "invocation": "Use $workspace-atlas. Create one infographic titled \"An online course workspace\" with subtitle \"12 files from learner needs to review\". Use this exact content map:\n01-learners | audience.md|Describe the learners | needs.md|Identify learning needs\n02-design | outcomes.md|Set learning outcomes | structure.md|Arrange the modules\n03-lessons | lesson.md|Draft a teaching unit | examples.md|Choose worked examples\n04-practice | exercise.md|Create useful practice | rubric.md|Explain assessment\n05-delivery | welcome.md|Orient new learners | support.md|Plan learner support\n06-improvement | feedback.md|Collect learner feedback | revision.md|Prioritize course changes\nPalette: Warm white, charcoal text, blue folders, pale peach panels, burnt-orange accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative an online course workspace infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  }
+]

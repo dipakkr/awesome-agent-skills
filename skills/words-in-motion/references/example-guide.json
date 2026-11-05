@@ -1,0 +1,224 @@
+{
+  "skill": "words-in-motion",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "index": "01",
+      "title": "Launch with clarity",
+      "invocation": "Use $words-in-motion to make \"Launch with clarity\" for the fictional brand Cartnote. Use examples/01.json as the exact input, the paper palette and the CTA \"Build your store brief\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/01.json",
+      "output": "examples/recorded/01/film.mp4",
+      "render": {
+        "mode": "kinetic",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "9c04a330b2fd9c527ef349cc13ddf654c7e97002fb3330f902278b07ac73bbde",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 137,
+        "files": {
+          "brief.json": {
+            "sha256": "9c04a330b2fd9c527ef349cc13ddf654c7e97002fb3330f902278b07ac73bbde",
+            "bytes": 355
+          },
+          "film.mp4": {
+            "sha256": "ddd96a8814c7a6c7fcc1244d14e812a6d880c50ed167bcbe26bb3943897785f2",
+            "bytes": 130023
+          },
+          "poster.png": {
+            "sha256": "3db8c32df14ec71a564e0ee8dff9207547ded759854b5c96edf81b92558bdd5f",
+            "bytes": 25792
+          },
+          "review-1.jpg": {
+            "sha256": "7cd7d8c9715d926d655bb9629cb1424055ecb8764492608098d3120240f0dc18",
+            "bytes": 32929
+          },
+          "review-2.jpg": {
+            "sha256": "dfdfd9b41b345122072955d9a4c4016a30841fa573c322bac9be656923055660",
+            "bytes": 40640
+          },
+          "review-3.jpg": {
+            "sha256": "e96b27364cbb22e2b43c0ac19415cb2ab7e6c8995dfbd42a517f458394879ab0",
+            "bytes": 44214
+          },
+          "review-4.jpg": {
+            "sha256": "e2ddd153a922e3009838e901a6fd49c70fb76d811867027a543506a52505f876",
+            "bytes": 50013
+          },
+          "review-5.jpg": {
+            "sha256": "8ee0858b37b48bdce0d50d4a16cb20da0bfa14c588bf364a3e4662adab39ce10",
+            "bytes": 49929
+          }
+        }
+      }
+    },
+    {
+      "index": "02",
+      "title": "Make room for the idea",
+      "invocation": "Use $words-in-motion to make \"Make room for the idea\" for the fictional brand Margin Studio. Use examples/02.json as the exact input, the night palette and the CTA \"Open the design notes\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/02.json",
+      "output": "examples/recorded/02/film.mp4",
+      "render": {
+        "mode": "kinetic",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "5deaeb8ea613bfd610b1ee1144d3f3df1ae07b50ac1891c88d7570a2e0c0f157",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 136,
+        "files": {
+          "brief.json": {
+            "sha256": "5deaeb8ea613bfd610b1ee1144d3f3df1ae07b50ac1891c88d7570a2e0c0f157",
+            "bytes": 345
+          },
+          "film.mp4": {
+            "sha256": "effe1703d17431c493cb30bd71c97aa947f37f2aa2e03a6a7ac9c5c4221b232f",
+            "bytes": 117749
+          },
+          "poster.png": {
+            "sha256": "4cacf113758c225c07427c038bc2f758d9529b0638b2b879257df7d88b79fa7c",
+            "bytes": 26069
+          },
+          "review-1.jpg": {
+            "sha256": "9132291cf01386811d2316519ae6b58c5649e856ba7ae80e9a598394af15ac32",
+            "bytes": 36276
+          },
+          "review-2.jpg": {
+            "sha256": "c5e4c472fece3dfee16a4c40c10803210d69e9720d7ddab08b7ea92dfe1a63c5",
+            "bytes": 39412
+          },
+          "review-3.jpg": {
+            "sha256": "f3f23424f97429bda5a6dab1e1b5175053f03ceef3cc00497d34f522bb9f2790",
+            "bytes": 47483
+          },
+          "review-4.jpg": {
+            "sha256": "9ea74598b843f44a0ef8a3b10d28bf5c4c7f1630fd72a96372cd44f04f11deca",
+            "bytes": 51329
+          },
+          "review-5.jpg": {
+            "sha256": "c76bd21571a157f97c41668a1494064a2b7a0f32eb17b3c0289f8270042d9e9f",
+            "bytes": 51233
+          }
+        }
+      }
+    },
+    {
+      "index": "03",
+      "title": "Better client handoffs",
+      "invocation": "Use $words-in-motion to make \"Better client handoffs\" for the fictional brand Fieldwork. Use examples/03.json as the exact input, the lavender palette and the CTA \"Review the handoff\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/03.json",
+      "output": "examples/recorded/03/film.mp4",
+      "render": {
+        "mode": "kinetic",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "7eb79d2e9af068874a0b9934c2f4e30f8df9e2b72b3d4e23393e997e21b2c477",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 135,
+        "files": {
+          "brief.json": {
+            "sha256": "7eb79d2e9af068874a0b9934c2f4e30f8df9e2b72b3d4e23393e997e21b2c477",
+            "bytes": 346
+          },
+          "film.mp4": {
+            "sha256": "e13e96fa7955a761e9c2a41d4e81025b13d580e66de5e54ddf820fcab9d6261d",
+            "bytes": 129262
+          },
+          "poster.png": {
+            "sha256": "3df2babe23c4a234687a4f62e3625dbf6c1a8a3b09e3ab3592d8033932e924ba",
+            "bytes": 27565
+          },
+          "review-1.jpg": {
+            "sha256": "102eabf86e05f6fccd1228601ea17b29126e62204302eedb5e5a9b22173e453f",
+            "bytes": 34377
+          },
+          "review-2.jpg": {
+            "sha256": "28393275a4962288001054e4f5aabf9fdc719e3e0720b09dbc2de0fb09fc3fcb",
+            "bytes": 38377
+          },
+          "review-3.jpg": {
+            "sha256": "2e298989b1ed549311de6bc907a98a81c480bba09a58105c64a08aed7d90d2d3",
+            "bytes": 44633
+          },
+          "review-4.jpg": {
+            "sha256": "b3307c96d140675b72a1f14761af2df5034239d9b81db871e1b9fdc849aa5ad8",
+            "bytes": 48317
+          },
+          "review-5.jpg": {
+            "sha256": "859cb980ca26bf0de219079f616d77679d22765b8572c9edbedfa8cdb13f7c64",
+            "bytes": 48225
+          }
+        }
+      }
+    },
+    {
+      "index": "04",
+      "title": "Teach one useful thing",
+      "invocation": "Use $words-in-motion to make \"Teach one useful thing\" for the fictional brand Lesson Lab. Use examples/04.json as the exact input, the ocean palette and the CTA \"Create your next lesson\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/04.json",
+      "output": "examples/recorded/04/film.mp4",
+      "render": {
+        "mode": "kinetic",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 12.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "aa891999518b94e3db1feed4fc0d7fe5b335075237d6c33fc67931bf54ff8cde",
+        "rendererSha256": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+        "inputAssets": {},
+        "textFitChecks": 137,
+        "files": {
+          "brief.json": {
+            "sha256": "aa891999518b94e3db1feed4fc0d7fe5b335075237d6c33fc67931bf54ff8cde",
+            "bytes": 352
+          },
+          "film.mp4": {
+            "sha256": "0275614e746133897541da8464a87d82cb3b434bcca6fac7f41a5feb0b6bfaa0",
+            "bytes": 133178
+          },
+          "poster.png": {
+            "sha256": "7870ed319a85cc02f24f74b81c65613c590d6808ab44c70f4e84da10f48bf91d",
+            "bytes": 26874
+          },
+          "review-1.jpg": {
+            "sha256": "a1bcc9a718b828e294b5dc1b4958922fd931c239b71a87f0a23c854febbee13e",
+            "bytes": 34179
+          },
+          "review-2.jpg": {
+            "sha256": "fd63d1ccc594cac8ad03c0e1c5fcaf1561709c1ada8736e27616af05e5e3ca83",
+            "bytes": 39567
+          },
+          "review-3.jpg": {
+            "sha256": "d18c829e22e1c25a01c8adcc68c0ae36ac6de76739f4eb1d99ddff3037734220",
+            "bytes": 45746
+          },
+          "review-4.jpg": {
+            "sha256": "438bfdc1ede86b9af89e29fe102ff0f7231b466547abcc202501c17f74671eec",
+            "bytes": 51772
+          },
+          "review-5.jpg": {
+            "sha256": "3a5ff4f0fddc61b3b93400132466f5cd63363d7889afdc6b6de15e8c1980e384",
+            "bytes": 51686
+          }
+        }
+      }
+    }
+  ],
+  "verification": "Author-executed; no independent agent reuse claimed"
+}

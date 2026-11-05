@@ -1,4 +1,0 @@
-interface:
-  display_name: "Case Study Results Deck"
-  short_description: "Create editable case presentations from your brief"
-  default_prompt: "Use $cad-case-study-results-deck to make a presentation for my audience using my brief and optional assets."

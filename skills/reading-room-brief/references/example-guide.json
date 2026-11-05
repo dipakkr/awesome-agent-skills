@@ -1,0 +1,34 @@
+{
+  "skill": "reading-room-brief",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "Why repair deserves a place",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "d94a0cb8e5a1d2fdb305c772a918fc6597cc39bf2ffc130d7ced71c2ad4d6eac",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $reading-room-brief. Create a new output based on the packaged example \"Why repair deserves a place\". Brief: Repair Journal \u00b7 A briefing on an original editorial about local repair clubs. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A library beyond the shelves",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "92b86a47783298e83100d08ac2c649725118ba627d1f8de14f765b80c157d507",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $reading-room-brief. Create a new output based on the packaged example \"A library beyond the shelves\". Brief: Public Commons \u00b7 A briefing on an original editorial about shared civic space. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Documentation as a shared habit",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "fea08f82d7cb1f14114d6345a9e0c75bd47434f4cbe9d682f57c45deafb3a4ed",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $reading-room-brief. Create a new output based on the packaged example \"Documentation as a shared habit\". Brief: Open Notebook \u00b7 A briefing on an original editorial about team documentation. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Consulting Decision Deck"
-  short_description: "Create editable consulting presentations from your brief"
-  default_prompt: "Use $cad-consulting-decision-deck to make a presentation for my audience using my brief and optional assets."

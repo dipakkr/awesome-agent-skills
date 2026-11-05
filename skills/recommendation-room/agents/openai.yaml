@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recommendation Room"
+  short_description: "Create editable consulting presentations from your brief"
+  default_prompt: "Use $recommendation-room to make a presentation for my audience using my brief and optional assets."

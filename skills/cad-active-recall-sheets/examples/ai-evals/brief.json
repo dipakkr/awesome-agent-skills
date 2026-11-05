@@ -1,8 +1,0 @@
-{
-  "key": "ai-evals",
-  "title": "What are AI evals? \u00b7 recall sheet",
-  "source": "https://developers.openai.com/api/docs/guides/evaluation-best-practices",
-  "copy": "Exact title: \"What are AI evals?\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. What should a test case represent?\n2. What must be defined before scoring?\n3. What should happen after a system change?\nVisual exercise: Three empty numbered cards under the prompt: Sketch your own test, expected result and check. A small magnifying glass doodle. No vendor logos.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. A realistic task or important edge case.\n2. Clear success criteria.\n3. Rerun evaluations and inspect failures.",
-  "invocation": "Use $cad-active-recall-sheets to explain what are ai evals? for a beginner. Include three retrieval questions, blank writing space and a covered answer panel. Use White faint graph paper, navy ink with lime and lilac accents, compact handwritten headline, generous whitespace.",
-  "path": "outputs/ai-evals-v1.png"
-}

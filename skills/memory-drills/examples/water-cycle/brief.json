@@ -1,0 +1,8 @@
+{
+  "key": "water-cycle",
+  "title": "The water cycle \u00b7 recall sheet",
+  "source": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle",
+  "copy": "Exact title: \"The water cycle\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. What turns liquid water into vapor?\n2. What forms liquid droplets from vapor?\n3. Name two paths rain can take on land.\nVisual exercise: A small unlabelled lake, cloud and hill sketch with three empty label boxes. Keep it separate from the written questions.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. Evaporation.\n2. Condensation.\n3. Runoff and infiltration.",
+  "invocation": "Use $memory-drills to explain the water cycle for a beginner. Include three retrieval questions, blank writing space and a covered answer panel. Use Cool blue and sage, fine graphite graph paper, handwritten uppercase header, clean numbered callouts.",
+  "path": "outputs/water-cycle-v1.png"
+}

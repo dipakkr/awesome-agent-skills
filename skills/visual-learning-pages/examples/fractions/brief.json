@@ -1,0 +1,8 @@
+{
+  "key": "fractions",
+  "title": "Equivalent fractions \u00b7 study notes",
+  "source": "Original elementary arithmetic brief; verified by cross multiplication.",
+  "copy": "Exact title: \"Equivalent fractions\". Exact subtitle: \"Different numbers. The same amount.\". Body copy (verbatim):\nMultiply the numerator and denominator by the same nonzero number.\n1/2 = 2/4 = 4/8\nThe whole must stay the same size.\nSmall sticky note copy: \"Changing only the denominator changes the value.\".\nDiagram: Three perfectly equal-length horizontal fraction strips stacked vertically: first divided into exactly 2 equal parts with 1 shaded; second into exactly 4 with 2 shaded; third into exactly 8 with 4 shaded. Shaded regions align at the halfway point. Labels 1/2, 2/4, 4/8. Separate small worked calculation 2/3 = 4/6 with multiply-by-2 arrows at top and bottom.",
+  "invocation": "Use $visual-learning-pages to explain equivalent fractions for a beginner. Include an accurate diagram and one short tip. Use Warm cream dot-grid paper, peach and lavender highlighter, oversized hand-lettered title, precise ink diagrams.",
+  "path": "outputs/fractions-v2.png"
+}

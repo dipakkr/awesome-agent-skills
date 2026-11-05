@@ -1,0 +1,22 @@
+[
+  {
+    "title": "The better brief",
+    "brief": "Fictional demonstration cover for a practical guide on writing project briefs; the image is a cover, not a completed guide.",
+    "fictionalDemonstration": true,
+    "brand": null,
+    "logo": null,
+    "inputAssets": [],
+    "requestedFormat": "4:5 portrait document cover",
+    "request": "Use $report-front-page to create the better brief. Fictional demonstration cover for a practical guide on writing project briefs; the image is a cover, not a completed guide."
+  },
+  {
+    "title": "Research to direction",
+    "brief": "Fictional demonstration cover for a workshop document about organizing research observations into a direction.",
+    "fictionalDemonstration": true,
+    "brand": null,
+    "logo": null,
+    "inputAssets": [],
+    "requestedFormat": "4:5 portrait document cover",
+    "request": "Use $report-front-page to create research to direction. Fictional demonstration cover for a workshop document about organizing research observations into a direction."
+  }
+]

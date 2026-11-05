@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Workshop topics",
+    "brief": "Explicit synthetic dataset: hypothetical workshop topic preferences, Research 50%, Writing 30%, Design 20%; totals 100%. Not customer research.",
+    "fictionalDemonstration": true,
+    "brand": null,
+    "logo": null,
+    "inputAssets": [],
+    "requestedFormat": "1:1 square data graphic",
+    "request": "Use $numbers-to-narrative to create workshop topics. Explicit synthetic dataset: hypothetical workshop topic preferences, Research 50%, Writing 30%, Design 20%; totals 100%. Not customer research."
+  },
+  {
+    "title": "A sample time comparison",
+    "brief": "Explicit synthetic dataset: two fictional task durations, Task A 20 minutes, Task B 40 minutes. Difference 20 minutes; no improvement, causation or business result claimed.",
+    "fictionalDemonstration": true,
+    "brand": null,
+    "logo": null,
+    "inputAssets": [],
+    "requestedFormat": "1:1 square data graphic",
+    "request": "Use $numbers-to-narrative to create a sample time comparison. Explicit synthetic dataset: two fictional task durations, Task A 20 minutes, Task B 40 minutes. Difference 20 minutes; no improvement, causation or business result claimed."
+  }
+]

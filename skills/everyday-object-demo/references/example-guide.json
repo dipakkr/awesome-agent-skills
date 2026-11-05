@@ -1,0 +1,43 @@
+{
+  "skill": "everyday-object-demo",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "A desk organiser",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "6cd2765c6b8bd3b2d3be05d1f01cbbb7456f80cba9c32637b5144fa60a2b81b6",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $everyday-object-demo. Create a new output based on the packaged example \"A desk organiser\". Brief: Create a calm space-led ad for a concept walnut desk tray with three compartments, 24 by 16 cm. No logo. Adult home-office audience. Headline: Give the small things a place. CTA: Organise your desk. Pens are props, not included. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A kitchen storage box",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "1519df200fe1b1a7ac4fb45f166c379177389231d68418c934cc51a2ecf62f29",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $everyday-object-demo. Create a new output based on the packaged example \"A kitchen storage box\". Brief: Create a static task-led concept for a concept transparent stackable pantry box with a white lid, 1 litre capacity. Headline: A little order, every day. CTA: Explore storage. Use a bright kitchen, no logo. Do not claim airtightness or food-safety certification. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Bedside carafe",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "79bbae2461aba257d2abe181f7a64c1ffaf5b922e686ac766ff81e80cee14fad",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $everyday-object-demo. Create a new output based on the packaged example \"Bedside carafe\". Brief: Concept clear glass carafe and one tumbler shown as two-piece set; no heat or material certification. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Reading cushion",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "d6eee9de6c3bf7f8fe143066356934df9e033cd59f9266f43e211153dec5b20c",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $everyday-object-demo. Create a new output based on the packaged example \"Reading cushion\". Brief: Concept ochre square cushion, space-led living-room scene; no ergonomic or material claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

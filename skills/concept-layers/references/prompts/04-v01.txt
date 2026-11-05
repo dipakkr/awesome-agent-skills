@@ -1,0 +1,16 @@
+Create a polished finished LinkedIn editorial infographic.
+VISUAL CONTRACT:
+Tall editorial infographic. Warm off-white lightly speckled paper. Large centered headline with thin black introductory words and bold rust-orange key words. Seven broad horizontal pastel bands with a squared left edge and very rounded right end. Each band has a small outlined category capsule overlapping its upper-left edge. Inside each band, three evenly spaced white rounded icon tiles with a short label below. A small simple original line icon illustrates each label. Fine dotted vertical separators group the tiles. Generous space between bands, careful baseline alignment, restrained premium typography. Footer is a small neutral note, never an invented author or logo.
+
+EXACT USER REQUEST:
+Use $concept-layers. Create one infographic titled "The 7-layer indie game stack" with subtitle "From the first idea to player feedback". Use this exact content map:
+Concept | Audience | World | Core loop
+Design | Rules | Levels | Progression
+Build | Code | Tools | Versions
+Art | Characters | Environments | Interface
+Audio | Music | Effects | Mixing
+Release | Testing | Store page | Launch
+Learn | Feedback | Bug reports | Updates
+Palette: Pale cream, lavender, periwinkle, mint and peach; plum headline. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.
+
+Render all supplied text accurately. No extra content. Use original topic-specific icons. Match the supplied visual contract closely. Large portrait canvas, requested 1024 by 1536 pixels for tall layouts, or 1200 by 1500 for the department map. At least 5% edge padding. The text is the primary content, not decoration.
