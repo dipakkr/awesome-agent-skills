@@ -56,6 +56,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Message Thread Film](skills/message-thread-film/SKILL.md) | Turn a four-message script into a paced conversation film with typing beats, directional bubbles and a closing takeaway. Use for fictional scenarios, lessons and product explanations. |
 | [Milestone Track](skills/milestone-track/SKILL.md) | Build an animated four-milestone timeline with aligned chapter cards, dates and explanatory notes. Use for roadmaps, histories and editorial sequences with approved dates. |
 | [Numbers To Narrative](skills/numbers-to-narrative/SKILL.md) | Turn a small supplied dataset into an accurate, clearly labelled feed graphic with units, source and an honest takeaway. |
+| [One Point Story](skills/one-point-story/SKILL.md) | Turn one defensible professional insight into a concise feed graphic with a memorable visual metaphor. |
 | [Opening Line Lab](skills/opening-line-lab/SKILL.md) | Develop ad openings together with the evidence and first scene needed to support each promise, in an editable comparison workbook. |
 | [Outcome Narrative](skills/outcome-narrative/SKILL.md) | Present the situation, intervention, measured result and limitations of a project without hiding attribution or uncertainty. |
 | [Paper Depth Covers](skills/paper-depth-covers/SKILL.md) | Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline. |

@@ -1,0 +1,43 @@
+{
+  "skill": "one-point-story",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Ask a better question",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "c90dec6b01578e2a65a71a8b468e4862e4b65e11daf8a05112f58066ed8935ab",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $one-point-story. Create a new output based on the packaged example \"Ask a better question\". Brief: An illustrative professional learning post about asking a clear question before choosing a tool. No business results or attributed quotation. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Make space for focus",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "184dcb49f10ba36c0438433f9727c499dca8ba5271612ad464c8ca3fcd91080e",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $one-point-story. Create a new output based on the packaged example \"Make space for focus\". Brief: An illustrative workplace insight about reducing attention fragmentation. No evidence or productivity percentage claimed. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Make the next step visible",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "6d48d43fef140a0d291a07def380d004bdb4c6c3c216baad6548add5d1eb3e82",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $one-point-story. Create a new output based on the packaged example \"Make the next step visible\". Brief: Original editorial advice, not a quotation or measured outcome: make the next step visible. Metaphor: one illuminated stair in a quiet structure. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A useful constraint",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "0e9a227e7691a411dd4b36c6e390536a574522fadbcb4aab9d8f65b5c831a489",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $one-point-story. Create a new output based on the packaged example \"A useful constraint\". Brief: Original editorial advice: constraints can help frame creative decisions. No attributed quotation or measured benefit. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

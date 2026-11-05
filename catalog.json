@@ -472,6 +472,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "one-point-story",
+      "name": "One Point Story",
+      "description": "Turn one defensible professional insight into a concise feed graphic with a memorable visual metaphor.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/one-point-story",
+      "publication": "original-mit"
+    },
+    {
       "package": "opening-line-lab",
       "name": "Opening Line Lab",
       "description": "Develop ad openings together with the evidence and first scene needed to support each promise, in an editable comparison workbook.",
@@ -1506,6 +1515,17 @@
     "skills/numbers-to-narrative/references/research.md": "c844086ad74a334cd30edcb361314787b20f1b5edcdbdf4a378943512d9280a0",
     "skills/numbers-to-narrative/references/runtime-brief.json": "843da44acc1ec11b70d6344123b17ad90b1c6777c43d7f9c80d71f8b435615f3",
     "skills/numbers-to-narrative/references/usage-examples.md": "269a242441b68321a0231e8efb7ae474c531398a702be65807a6357419405f0d",
+    "skills/one-point-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/one-point-story/SKILL.md": "7ef18be147d2fd2c757064cfc025dbc9bcbf4300c27fb54db655018ace43b5a3",
+    "skills/one-point-story/examples/gallery/01.webp": "c90dec6b01578e2a65a71a8b468e4862e4b65e11daf8a05112f58066ed8935ab",
+    "skills/one-point-story/examples/gallery/02.webp": "184dcb49f10ba36c0438433f9727c499dca8ba5271612ad464c8ca3fcd91080e",
+    "skills/one-point-story/examples/gallery/03.webp": "6d48d43fef140a0d291a07def380d004bdb4c6c3c216baad6548add5d1eb3e82",
+    "skills/one-point-story/examples/gallery/04.webp": "0e9a227e7691a411dd4b36c6e390536a574522fadbcb4aab9d8f65b5c831a489",
+    "skills/one-point-story/references/example-briefs.json": "e8c06f873d63c253d12d462a7024edf6cccdda5d98198626a3bad4a1f8f41216",
+    "skills/one-point-story/references/example-guide.json": "ac1957f76e566405921f5c7a5e76c73e6580fde3a10d2c04d1d626f272e42a1c",
+    "skills/one-point-story/references/research.md": "ebd3ae2e094c31bf5cc99bf486a78667cbf94afd9e660b2225626c61128ec9e9",
+    "skills/one-point-story/references/runtime-brief.json": "b23b6148f4a65c4adc626a206c6a6d02137747a8c59fd9209ddc0349344a4c3c",
+    "skills/one-point-story/references/usage-examples.md": "23412e1ec3c2078bc52b8cf4de7f983d045bb80b4515e3df2bb81a3f82b79e07",
     "skills/opening-line-lab/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/opening-line-lab/SKILL.md": "91e9a39dccdb0dc9e727869121f22e69341e6b0d72b85d6d1fcaaa9d97ca690b",
     "skills/opening-line-lab/examples/foldwell.json": "c8ee188571836b6f7ac635408a46e2a24032fa74d5c63fbc8551da4a992b8131",
