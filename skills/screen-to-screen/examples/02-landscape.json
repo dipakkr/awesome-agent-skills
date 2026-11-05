@@ -1,0 +1,18 @@
+{
+  "brand": "PRISM",
+  "headline": "A spark. A whole new view.",
+  "ending": "From first spark to shared.",
+  "cta": "Shape your next idea",
+  "url": "prism.example",
+  "item": "A new perspective",
+  "chapters": [
+    "Catch a spark.",
+    "Give your idea a shape.",
+    "Show the bigger picture."
+  ],
+  "accent": "#b9a0ff",
+  "subject": "design",
+  "mode": "handoff",
+  "format": "landscape",
+  "concept": true
+}
