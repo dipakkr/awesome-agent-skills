@@ -84,6 +84,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Screen Showcase Card](skills/screen-showcase-card/SKILL.md) | Show a product idea through polished device and interface compositions with concise copy and believable visual hierarchy. |
 | [Screen Story Film](skills/screen-story-film/SKILL.md) | Turn a product workflow into a focused film with a visible input, transformation and result. |
 | [Screen To Screen](skills/screen-to-screen/SKILL.md) | Carry one idea between phone, laptop and tablet through connected screen transitions and camera movement. |
+| [Sculpted Containers](skills/sculpted-containers/SKILL.md) | Shape a vase or bowl with an editable silhouette, flutes and twist. |
 | [Shape And Type](skills/shape-and-type/SKILL.md) | Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy. |
 | [Sketch To Sell](skills/sketch-to-sell/SKILL.md) | Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request. |
 | [Soft Object Cards](skills/soft-object-cards/SKILL.md) | Build gentle product and habit graphics with soft clay characters, tactile objects and spacious editorial type. |

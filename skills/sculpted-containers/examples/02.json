@@ -1,0 +1,29 @@
+{
+  "name": "Bloom catchall",
+  "mode": "vessel",
+  "height": 42,
+  "profile": [
+    [
+      0,
+      31
+    ],
+    [
+      0.15,
+      34
+    ],
+    [
+      0.55,
+      46
+    ],
+    [
+      1,
+      62
+    ]
+  ],
+  "wall": 3.2,
+  "base": 3.2,
+  "flutes": 9,
+  "amplitude": 4.5,
+  "twist": 12,
+  "color": "#9ca985"
+}
