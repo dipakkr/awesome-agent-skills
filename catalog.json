@@ -252,6 +252,16 @@
       "original": true,
       "path": "skills/cad-engraved-story-cover",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-fashion-product-ads",
+      "name": "Fashion Product Ads",
+      "description": "Create apparel and accessory ads with fresh styling, clear product details and a message shaped around the occasion.",
+      "site": "https://claudeai.directory/skills/fashion-product-ads",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-fashion-product-ads",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -666,7 +676,18 @@
     "skills/cad-engraved-story-cover/examples/gallery/04.webp": "b9b157ea99993a0f057ee330b0b8ed7e5d9c21934d817d4e467cc3d90f645956",
     "skills/cad-engraved-story-cover/references/example-guide.json": "56de32f105de72b78beac2b5ad42dd0d2849931bac7ec8c1500abf8d5e159ebd",
     "skills/cad-engraved-story-cover/references/examples.json": "621f7a79c8689e50fbc70e554fc106ed2a7aa46894f62bd75e1129565c459e44",
-    "skills/cad-engraved-story-cover/references/usage-examples.md": "51d00f9a7a729553d9c6c681982fc8dd4effc59ff546cfe88fb2757a6d71e9c8"
+    "skills/cad-engraved-story-cover/references/usage-examples.md": "51d00f9a7a729553d9c6c681982fc8dd4effc59ff546cfe88fb2757a6d71e9c8",
+    "skills/cad-fashion-product-ads/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-fashion-product-ads/SKILL.md": "e3753b30d144d640cbb5fefbbd1c97b742ca3ec90c6b445c4356704b9297c852",
+    "skills/cad-fashion-product-ads/agents/openai.yaml": "0994798d15a7b763317d8dfc50939de99c0ee0418509aff9b9c96e00c96e4238",
+    "skills/cad-fashion-product-ads/examples/gallery/01.webp": "842aa91b45fb17eafdd5ae038379a26a16f5cc2cdae82d78b705f3acc8d44933",
+    "skills/cad-fashion-product-ads/examples/gallery/02.webp": "2496f38a509a15a2aaca9d724208b3e23fbe8d639910f0b2325de18f5428fb16",
+    "skills/cad-fashion-product-ads/examples/gallery/03.webp": "1c1270c69e6779be0799d204df50edef78b5868acbb3ba19a065164efb6eebfb",
+    "skills/cad-fashion-product-ads/examples/gallery/04.webp": "a4a8f4c41c4be8349cf9e8dd8e62900b70ee436f09116df37c91293819c511ef",
+    "skills/cad-fashion-product-ads/references/example-guide.json": "4bb9cfb235744ff528e6fc876b52cab720fab6ee73ca68a567e9233c8601ec7f",
+    "skills/cad-fashion-product-ads/references/examples.json": "0a8a150c9b33bb2f7526b4b1c8ddaa9cd2d1afbc6dd2b79940627341d1a67fa6",
+    "skills/cad-fashion-product-ads/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
+    "skills/cad-fashion-product-ads/references/usage-examples.md": "4a7d597a4456332463ce26419c0e3c448124a34d6944c670da089005bc9a847d"
   },
   "omitted": [
     {
