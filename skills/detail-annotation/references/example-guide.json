@@ -1,0 +1,43 @@
+{
+  "skill": "detail-annotation",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Reading lamp anatomy",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "27a45d1a74cdb45f0fedcd39535c6a2dc4ec21b84ad973dfe56c23917d6089c7",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $detail-annotation. Create a new output based on the packaged example \"Reading lamp anatomy\". Brief: Fictional demonstration brand Foldlight: concept wired desk lamp; only visible component labels. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Everyday pouch details",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "93b94d6f774cc61260d13ac3e9786032bb4fa18c4eb59b4458d1926e11c70d31",
+      "width": 1536,
+      "height": 1024,
+      "invocation": "Use $detail-annotation. Create a new output based on the packaged example \"Everyday pouch details\". Brief: Fictional demonstration brand Dayfold: conceptual fabric pouch; only visible construction labels. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Watering can details",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "bc2fb7c81bb61300f40083820b35d55ab60e0e957d28a84926982e6c5b923fb0",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $detail-annotation. Create a new output based on the packaged example \"Watering can details\". Brief: Fictional watering-can design with supplied visible features: long spout, top handle and fill opening. No performance, capacity or material claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Headphone stand details",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "deb63be7c0b100ca60cd7763158f32307f42e0a25483d709ead4f68e04652080",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $detail-annotation. Create a new output based on the packaged example \"Headphone stand details\". Brief: Fictional desk stand design with supplied visible features: curved rest, upright stem and flat base. No compatibility, material or stability claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

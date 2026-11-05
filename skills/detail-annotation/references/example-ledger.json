@@ -1,0 +1,33 @@
+{
+  "fictionalDemonstration": true,
+  "examples": {
+    "example-01": [
+      {
+        "label": "Cone shade",
+        "visiblePart": "conical red lamp shade"
+      },
+      {
+        "label": "Round base",
+        "visiblePart": "round red lamp base"
+      },
+      {
+        "label": "Inline switch",
+        "visiblePart": "black cord switch"
+      }
+    ],
+    "example-02": [
+      {
+        "label": "Zip closure",
+        "visiblePart": "top zipper"
+      },
+      {
+        "label": "Front pocket",
+        "visiblePart": "sewn front patch pocket"
+      },
+      {
+        "label": "Carry loop",
+        "visiblePart": "right-hand fabric loop"
+      }
+    ]
+  }
+}

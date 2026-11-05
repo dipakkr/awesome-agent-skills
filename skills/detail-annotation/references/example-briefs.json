@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-01",
+    "title": "Reading lamp anatomy",
+    "brief": "Fictional demonstration brand Foldlight: concept wired desk lamp; only visible component labels.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 1536x1024 pixels. Design one impeccable landscape ecommerce feature graphic on warm off-white. A terracotta red desk lamp centered slightly right, with conical shade, angled stem, heavy round base and black cord leading to a clearly visible inline rocker switch on lower right. Product photographed realistically. Only THREE labels, black clean sans-serif, exact spelling: \"Cone shade\" at upper left with fine leader to shade; \"Round base\" at lower left with fine leader to base; \"Inline switch\" at right with fine leader to visible switch. Generous margins and label whitespace, lines must not cross. No headline, no extra text, no claims, no logos. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create a product-detail image with short factual feature labels and unambiguous leader lines, using supplied facts or clearly labeled conceptual examples."
+  },
+  {
+    "id": "example-02",
+    "title": "Everyday pouch details",
+    "brief": "Fictional demonstration brand Dayfold: conceptual fabric pouch; only visible construction labels.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 1536x1024 pixels. Landscape ecommerce product feature graphic on pale sage background. One large mustard-yellow canvas zip pouch at center, upright three-quarter view with visible long top zipper, short stitched carry loop attached at upper right, and rectangular sewn front patch pocket. THREE black minimal sans-serif labels with thin precise noncrossing leader lines: \"Zip closure\" at upper left pointing to zipper; \"Front pocket\" at lower left pointing to pocket; \"Carry loop\" at upper right pointing to loop. No other words or symbols. Soft editorial studio shadows, credible woven canvas texture, clean well-spaced typography, product fully visible. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create a product-detail image with short factual feature labels and unambiguous leader lines, using supplied facts or clearly labeled conceptual examples."
+  }
+]
