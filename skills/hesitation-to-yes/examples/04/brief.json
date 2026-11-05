@@ -1,0 +1,19 @@
+{
+  "brand": "Episode Notes",
+  "theme": "copper",
+  "claim": "Episode Notes writes a clear episode plan.",
+  "hinge": "our interview notes",
+  "turn": "Now included",
+  "invocation": "/interviews",
+  "prompt": "Use /interviews to build an outline from the supplied interview notes.",
+  "source_label": "Interview notes",
+  "closer": "The supplied details, carried into the draft.",
+  "thesis": "Build the story from what was said.",
+  "cta": "Review the episode outline",
+  "posts": [
+    "The episode plan reads well, but it ignores our interview notes.",
+    "The interesting moments are in our interview notes, not a generic outline.",
+    "I keep rebuilding the plan around our interview notes."
+  ],
+  "data": "data.json"
+}

@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "title": "Linen pouch",
+      "detail": "Natural linen; cold hand wash; one interior pocket.",
+      "status": "Ready"
+    },
+    {
+      "title": "Cork desk tray",
+      "detail": "Warm cork finish; dimensions need confirmation.",
+      "status": "Needs review"
+    },
+    {
+      "title": "Canvas tote",
+      "detail": "Cotton canvas; two handles; natural color.",
+      "status": "Ready"
+    },
+    {
+      "title": "Travel organizer",
+      "detail": "Three compartments; material composition missing.",
+      "status": "Needs review"
+    }
+  ]
+}

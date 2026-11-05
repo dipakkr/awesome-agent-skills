@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "title": "Ask an open question",
+      "detail": "Write a question that invites a detailed answer.",
+      "status": "Ready"
+    },
+    {
+      "title": "Practice a follow-up",
+      "detail": "Use one response to choose the next question.",
+      "status": "Ready"
+    },
+    {
+      "title": "Name the evidence",
+      "detail": "Separate an observation from an assumption.",
+      "status": "Ready"
+    },
+    {
+      "title": "Choose the final exercise",
+      "detail": "The exercise duration still needs a decision.",
+      "status": "Needs review"
+    }
+  ]
+}

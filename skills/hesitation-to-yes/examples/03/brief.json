@@ -1,0 +1,19 @@
+{
+  "brand": "Lessonframe",
+  "theme": "tidal",
+  "claim": "Lessonframe can outline a workshop.",
+  "hinge": "our learning goals",
+  "turn": "Now aligned",
+  "invocation": "/objectives",
+  "prompt": "Use /objectives to build a workshop from the supplied lesson brief.",
+  "source_label": "Learning objectives",
+  "closer": "The supplied details, carried into the draft.",
+  "thesis": "Let the goal shape every activity.",
+  "cta": "Review the workshop",
+  "posts": [
+    "The outline looks useful, but it skips our learning goals.",
+    "Every activity needs to connect to our learning goals.",
+    "I still rewrite the exercise to match our learning goals."
+  ],
+  "data": "data.json"
+}
