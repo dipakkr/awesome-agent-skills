@@ -1,0 +1,17 @@
+{
+  "id": "money-routine",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "f6a082b2b613e110d59dc181280c5afa6e9669ddbfc5d5315fcc065fabeabd83",
+  "bytes": 2010425,
+  "reviewed": true,
+  "review": "Envelope, three blank discs and notebook; no invented return, currency or performance claim.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand POCKET.\nUse case: ads-marketing; Calm Clay OG.\nContext: A fictional personal-planning concept, with no promised financial result.\nArt direction: Warm blush seamless background. A large lavender matte-clay envelope with a tiny friendly face holds three simple blank terracotta discs; one sage clay arch frames the envelope at right. A pale yellow rounded notebook lies low in foreground. Deep aubergine bold sans headline left. Quiet soft material texture; no currency symbols, numeric returns or financial charts.\nExact headline (preserve intentional line breaks): \"Give every plan\na place.\"\nExact small wordmark: \"POCKET\"\nExact supporting line: \"A gentler money routine\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

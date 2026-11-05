@@ -1,0 +1,17 @@
+{
+  "id": "garden-habit",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "36efaa5ebdb05d2a1cece2acf04b01adea7bfe69bd2c43031ec59e62b45f75ac",
+  "bytes": 1827263,
+  "reviewed": true,
+  "review": "Plant, three drops and watering-can action coherent; copy intact and unclipped.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand TEND.\nUse case: ads-marketing; Calm Clay OG.\nContext: A fictional plant-care reminder concept.\nArt direction: Cream backdrop, pale blue tabletop. Center-right original tiny smiling terracotta pot with a lush sculpted green sprout, a rounded lilac watering can tilts to release three clear clay water beads. One pink circular backdrop partially frames plant. Large dark-olive warm serif headline left. Soft matte ceramic-clay materials, tactile studio render, uncluttered playful composition.\nExact headline (preserve intentional line breaks): \"Grow a little,\nevery day.\"\nExact small wordmark: \"TEND\"\nExact supporting line: \"Small rituals. Living things.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

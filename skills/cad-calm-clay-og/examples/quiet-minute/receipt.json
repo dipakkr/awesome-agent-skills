@@ -1,0 +1,17 @@
+{
+  "id": "quiet-minute",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "800c3a7d04663acd3b0313f603ab46c822e8839f39758072621d650185ded2cb",
+  "bytes": 1712656,
+  "reviewed": true,
+  "review": "Soft sleepy clay character, pause device and spacious headline read clearly.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand STILL.\nUse case: ads-marketing; Calm Clay OG.\nContext: A fictional mindful-break app concept.\nArt direction: Warm cream background. Right-side matte lavender pebble character with sleepy curved eyes gently rests on a softly rounded terracotta cushion beside a tilted charcoal phone showing only a large simple pause symbol. One small peach sun and a pale-lilac cloud above. Left-side dark-plum rounded sans headline, ample empty space, tactile clay, tender studio shadows.\nExact headline (preserve intentional line breaks): \"A little room\nto pause.\"\nExact small wordmark: \"STILL\"\nExact supporting line: \"One quiet moment at a time\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}
