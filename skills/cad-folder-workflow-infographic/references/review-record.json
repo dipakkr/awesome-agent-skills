@@ -1,0 +1,83 @@
+[
+  {
+    "id": "01",
+    "title": "A podcast launch workspace",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "2453a1460c440cb7dc9f617ed696d868de36f78098e83c925f85e70de3d4e5b9",
+    "briefsSha256": "07e1106f55d691e8576a60d57b2bab62460cff4f8efb23b3a3bb80ee45c0fead",
+    "output": "examples/outputs/01-v01.png",
+    "sha256": "071d70a178466529210055e47c8c60ee195a2445b5826823c620dad9d9cd1b08",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/01-v01.txt",
+    "promptSha256": "2f4edef6b5b1c03f0fa143a1d50286a574af1925268551ba74dd6044d2997a09",
+    "review": {
+      "id": "01",
+      "path": "outputs/01-v01.png",
+      "outcome": "accepted",
+      "notes": "Six folders and 12 leaf files with 12 aligned purpose descriptions; complete readable names.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "02",
+    "title": "A research project workspace",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "2453a1460c440cb7dc9f617ed696d868de36f78098e83c925f85e70de3d4e5b9",
+    "briefsSha256": "07e1106f55d691e8576a60d57b2bab62460cff4f8efb23b3a3bb80ee45c0fead",
+    "output": "examples/outputs/02-v01.png",
+    "sha256": "9009edd9445724db1ae2a54ae1b9b25f9efe11be98b1b8c019c4b71cabbdf496",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/02-v01.txt",
+    "promptSha256": "bf0611d55b20cafe1c21ece7f6e33f304f60b289613ecd45df80de59f74dd36b",
+    "review": {
+      "id": "02",
+      "path": "outputs/02-v01.png",
+      "outcome": "accepted",
+      "notes": "Six numbered folders, 12 files and 12 descriptions. Tree hierarchy and dotted associations readable.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "03",
+    "title": "A makers market workspace",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "2453a1460c440cb7dc9f617ed696d868de36f78098e83c925f85e70de3d4e5b9",
+    "briefsSha256": "07e1106f55d691e8576a60d57b2bab62460cff4f8efb23b3a3bb80ee45c0fead",
+    "output": "examples/outputs/03-v01.png",
+    "sha256": "857eeb5837a4d4e1b50aebad44c83807d17b27377e77d844c08743c725a221c7",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/03-v01.txt",
+    "promptSha256": "f090a17d0475ec144958250cbf49bccd21183a403f9489937c9387dbfd428208",
+    "review": {
+      "id": "03",
+      "path": "outputs/03-v01.png",
+      "outcome": "accepted",
+      "notes": "Six market folders and 12 files with matching purpose panels and complete readable text.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked."
+    }
+  },
+  {
+    "id": "04",
+    "title": "An online course workspace",
+    "tool": "built-in image_gen.imagegen",
+    "skillSha256": "2453a1460c440cb7dc9f617ed696d868de36f78098e83c925f85e70de3d4e5b9",
+    "briefsSha256": "07e1106f55d691e8576a60d57b2bab62460cff4f8efb23b3a3bb80ee45c0fead",
+    "output": "examples/outputs/04-v02.png",
+    "sha256": "efa303f30a3ae6aa69d025568f59d0f42ed0efb48444ccc653b3d7bdf184b294",
+    "width": 1024,
+    "height": 1536,
+    "prompt": "references/prompts/04-v02.txt",
+    "promptSha256": "fa28d6fa00b8e90da4c727647314c29c83fbc820cadcd61fa91f402ffc022514",
+    "review": {
+      "id": "04",
+      "path": "outputs/04-v02.png",
+      "outcome": "accepted",
+      "notes": "Six full numbered folder names restored; 12 files and matching descriptions preserved.",
+      "reviewMethod": "Direct visual inspection of the native output; text, counts, grouping and edges checked.",
+      "correction": "Restored exact numeric prefixes and hyphens in all six folder names."
+    }
+  }
+]

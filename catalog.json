@@ -262,6 +262,16 @@
       "original": true,
       "path": "skills/cad-fashion-product-ads",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-folder-workflow-infographic",
+      "name": "Folder Workflow Infographic",
+      "description": "Create a LinkedIn workspace infographic that pairs a six-section folder tree with short explanations of what each file contributes to a workflow.",
+      "site": "https://claudeai.directory/skills/folder-workflow-infographic",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-folder-workflow-infographic",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -687,7 +697,27 @@
     "skills/cad-fashion-product-ads/references/example-guide.json": "4bb9cfb235744ff528e6fc876b52cab720fab6ee73ca68a567e9233c8601ec7f",
     "skills/cad-fashion-product-ads/references/examples.json": "0a8a150c9b33bb2f7526b4b1c8ddaa9cd2d1afbc6dd2b79940627341d1a67fa6",
     "skills/cad-fashion-product-ads/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
-    "skills/cad-fashion-product-ads/references/usage-examples.md": "4a7d597a4456332463ce26419c0e3c448124a34d6944c670da089005bc9a847d"
+    "skills/cad-fashion-product-ads/references/usage-examples.md": "4a7d597a4456332463ce26419c0e3c448124a34d6944c670da089005bc9a847d",
+    "skills/cad-folder-workflow-infographic/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-folder-workflow-infographic/SKILL.md": "2453a1460c440cb7dc9f617ed696d868de36f78098e83c925f85e70de3d4e5b9",
+    "skills/cad-folder-workflow-infographic/examples/gallery/01.webp": "898549b5dc45171762a6dab123d83291d7f0b2d6f3e5a2c3820e292fff72bea2",
+    "skills/cad-folder-workflow-infographic/examples/gallery/02.webp": "602b578d3a8a1b4a5b41dab87acc3da6840f011cfdd508c67ad000d8c36ac3b3",
+    "skills/cad-folder-workflow-infographic/examples/gallery/03.webp": "06a48965a237d2e1c122f11f8c05eb199192c92d29ce9a0516957059a8323fe5",
+    "skills/cad-folder-workflow-infographic/examples/gallery/04.webp": "3db6f85f34d05f0168911d5c170b89796df179d282669d206a08372177ba2e35",
+    "skills/cad-folder-workflow-infographic/examples/outputs/01-v01.png": "071d70a178466529210055e47c8c60ee195a2445b5826823c620dad9d9cd1b08",
+    "skills/cad-folder-workflow-infographic/examples/outputs/02-v01.png": "9009edd9445724db1ae2a54ae1b9b25f9efe11be98b1b8c019c4b71cabbdf496",
+    "skills/cad-folder-workflow-infographic/examples/outputs/03-v01.png": "857eeb5837a4d4e1b50aebad44c83807d17b27377e77d844c08743c725a221c7",
+    "skills/cad-folder-workflow-infographic/examples/outputs/04-v02.png": "efa303f30a3ae6aa69d025568f59d0f42ed0efb48444ccc653b3d7bdf184b294",
+    "skills/cad-folder-workflow-infographic/references/example-guide.json": "0fab66cbf9555f0dcfcb64b78186c059acbfcdc5fa2c9ccf20a879fdb2ba3a0c",
+    "skills/cad-folder-workflow-infographic/references/examples.json": "07e1106f55d691e8576a60d57b2bab62460cff4f8efb23b3a3bb80ee45c0fead",
+    "skills/cad-folder-workflow-infographic/references/prompts/01-v01.txt": "2f4edef6b5b1c03f0fa143a1d50286a574af1925268551ba74dd6044d2997a09",
+    "skills/cad-folder-workflow-infographic/references/prompts/02-v01.txt": "bf0611d55b20cafe1c21ece7f6e33f304f60b289613ecd45df80de59f74dd36b",
+    "skills/cad-folder-workflow-infographic/references/prompts/03-v01.txt": "f090a17d0475ec144958250cbf49bccd21183a403f9489937c9387dbfd428208",
+    "skills/cad-folder-workflow-infographic/references/prompts/04-v01.txt": "e7a057aa1195c1d27589f3310d2d3be295d1fbe1a0ece032caee1bf0ee6a5061",
+    "skills/cad-folder-workflow-infographic/references/prompts/04-v02.txt": "fa28d6fa00b8e90da4c727647314c29c83fbc820cadcd61fa91f402ffc022514",
+    "skills/cad-folder-workflow-infographic/references/review-record.json": "85d15da1afd0d3545cd8926c12d202e3749b6adc4c5ff8eea00dc3c8b70a82c7",
+    "skills/cad-folder-workflow-infographic/references/usage-examples.md": "62f1a4ebf780eee0cb8ba6e70446671b54bf2ed3dfa39907b7c54764d2b7bc47",
+    "skills/cad-folder-workflow-infographic/references/worked-examples.md": "b33f7b04b8fa3cc005116b3177f4698f6f73621da3493780f2cbf6cfabc95493"
   },
   "omitted": [
     {
