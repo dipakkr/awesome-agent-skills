@@ -1,0 +1,18 @@
+{
+  "brand": "TENDER",
+  "headline": "Big things start small.",
+  "ending": "Make room for good things.",
+  "cta": "Plant your first idea",
+  "url": "tender.example",
+  "chapters": [
+    "Take the first step.",
+    "Keep going, gently.",
+    "Find your place.",
+    "Watch what happens."
+  ],
+  "accent": "#ee663a",
+  "subject": "seed",
+  "mode": "paper",
+  "format": "square",
+  "concept": true
+}
