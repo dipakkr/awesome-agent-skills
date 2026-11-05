@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comedy 3D Explainer"
+  short_description: "Make funny narrated 3D skits that teach one useful idea"
+  default_prompt: "Use $cad-comedy-3d-explainer to write and render a funny vertical explainer with two original characters, an absurd prop gag, a clear lesson and a callback ending. Deliver the narrated MP4 and editable source."

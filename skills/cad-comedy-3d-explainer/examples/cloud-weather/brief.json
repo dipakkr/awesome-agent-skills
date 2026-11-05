@@ -1,0 +1,145 @@
+{
+  "id": "cloud-weather",
+  "title": "Cloudy with a chance of files",
+  "subtitle": "The roof is not a data center.",
+  "theme": "cobalt",
+  "takeaway": "Cloud storage keeps files on remote computers, accessed online.",
+  "boards": [
+    {
+      "heading": "Not the weather",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "YOUR DEVICE"
+        },
+        {
+          "icon": "database",
+          "label": "REMOTE FILES"
+        }
+      ],
+      "note": "Cloud storage uses remote computers.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Access has conditions",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "DEVICE"
+        },
+        {
+          "icon": "lightning",
+          "label": "INTERNET"
+        },
+        {
+          "icon": "database",
+          "label": "FILES"
+        }
+      ],
+      "note": "Online access needs a working connection.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "I put my laptop on the roof. Better cloud reception.",
+      "board": 0,
+      "shot": "student",
+      "gag": "cloud",
+      "reaction": "proud",
+      "tag": "CONFIDENCE: 100%",
+      "pause": 0.45
+    },
+    {
+      "speaker": "tutor",
+      "text": "Bring it down. You are uploading rain.",
+      "board": 0,
+      "shot": "tutor",
+      "gag": "cloud",
+      "reaction": "deadpan",
+      "tag": "WATER DAMAGE: ALSO 100%",
+      "pause": 0.5
+    },
+    {
+      "speaker": "student",
+      "text": "Wait. The cloud is not actually in the sky?",
+      "board": 0,
+      "shot": "student",
+      "gag": "cloud",
+      "reaction": "shock",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Your files live on remote computers. The internet connects you to them.",
+      "board": 0,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "So my photos have moved out and got their own apartment?",
+      "board": 0,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "proud",
+      "tag": "EMPTY NEST ENERGY",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "An extremely noisy apartment full of servers.",
+      "board": 0,
+      "shot": "board",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.3
+    },
+    {
+      "speaker": "student",
+      "text": "Can I reach them without the internet?",
+      "board": 1,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "think",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Online files need a connection. Download copies ahead of time if you need them offline.",
+      "board": 1,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "Fine. I am still buying my laptop an umbrella.",
+      "board": 1,
+      "shot": "student",
+      "gag": "cloud",
+      "reaction": "proud",
+      "tag": "WEATHERPROOF LOGIC",
+      "pause": 0.5
+    },
+    {
+      "speaker": "tutor",
+      "text": "Start with bringing it inside.",
+      "board": 1,
+      "shot": "tutor",
+      "gag": "cloud",
+      "reaction": "deadpan",
+      "tag": "",
+      "pause": 0.55
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "cookie-disappointment",
+  "title": "Where are my cookies?",
+  "subtitle": "The least delicious browser feature.",
+  "theme": "candy",
+  "takeaway": "Cookies store small bits of browser data. Review your choices.",
+  "boards": [
+    {
+      "heading": "A small browser memory",
+      "nodes": [
+        {
+          "icon": "shop",
+          "label": "WEBSITE"
+        },
+        {
+          "icon": "ticket",
+          "label": "COOKIE"
+        },
+        {
+          "icon": "phone",
+          "label": "BROWSER"
+        }
+      ],
+      "note": "A site can remember a setting or session.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Different purposes",
+      "nodes": [
+        {
+          "icon": "ticket",
+          "label": "PREFERENCES"
+        },
+        {
+          "icon": "gate",
+          "label": "CHOICES"
+        }
+      ],
+      "note": "Some cookies support tracking. Review the options.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "I accepted cookies on twelve websites. Still no snacks.",
+      "board": 0,
+      "shot": "student",
+      "gag": "cookie",
+      "reaction": "shock",
+      "tag": "DELIVERY STATUS: HUNGRY",
+      "pause": 0.4
+    },
+    {
+      "speaker": "tutor",
+      "text": "Browser cookies. Small bits of stored information.",
+      "board": 0,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "So I have been feeding my browser?",
+      "board": 0,
+      "shot": "student",
+      "gag": "cookie",
+      "reaction": "think",
+      "tag": "CHROME HAS NO STOMACH",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Think of a tiny note. A website can remember a setting or your session.",
+      "board": 0,
+      "shot": "board",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "Like: this person is always hungry?",
+      "board": 0,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "proud",
+      "tag": "",
+      "pause": 0.35
+    },
+    {
+      "speaker": "tutor",
+      "text": "More like your language preference. Some cookies also help track activity.",
+      "board": 1,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "So I should actually read the choices?",
+      "board": 1,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "think",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Yes. Cookies have different jobs. They are not all the same.",
+      "board": 1,
+      "shot": "tutor",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "I reject all disappointment.",
+      "board": 1,
+      "shot": "student",
+      "gag": "cookie",
+      "reaction": "proud",
+      "tag": "CONSENT TO SNACKS ONLY",
+      "pause": 0.6
+    },
+    {
+      "speaker": "tutor",
+      "text": "That button is not on the website.",
+      "board": 1,
+      "shot": "tutor",
+      "gag": "cookie",
+      "reaction": "deadpan",
+      "tag": "",
+      "pause": 0.5
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "tiny-change",
+  "title": "Just one tiny change",
+  "subtitle": "A small request with very large shoes.",
+  "theme": "plum",
+  "takeaway": "When work expands, agree the scope, time and price before adding it.",
+  "boards": [
+    {
+      "heading": "The agreed work",
+      "nodes": [
+        {
+          "icon": "ticket",
+          "label": "DELIVERABLE"
+        },
+        {
+          "icon": "clock",
+          "label": "TIME"
+        },
+        {
+          "icon": "book",
+          "label": "PRICE"
+        }
+      ],
+      "note": "Make the starting agreement clear.",
+      "kind": "flow"
+    },
+    {
+      "heading": "A request is a choice",
+      "nodes": [
+        {
+          "icon": "bell",
+          "label": "NEW REQUEST"
+        },
+        {
+          "icon": "gate",
+          "label": "AGREE"
+        },
+        {
+          "icon": "worker",
+          "label": "THEN BUILD"
+        }
+      ],
+      "note": "Revisit time and price when the work changes.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "The client wants one tiny change. Add an entire mobile app.",
+      "board": 0,
+      "shot": "student",
+      "gag": "box",
+      "reaction": "shock",
+      "tag": "TINY. ALLEGEDLY.",
+      "pause": 0.5
+    },
+    {
+      "speaker": "tutor",
+      "text": "That tiny change has its own postcode.",
+      "board": 0,
+      "shot": "tutor",
+      "gag": "box",
+      "reaction": "deadpan",
+      "tag": "",
+      "pause": 0.55
+    },
+    {
+      "speaker": "student",
+      "text": "Should I squeeze it into the original price?",
+      "board": 0,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "think",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "First compare it with the agreed work. Extra features mean extra work.",
+      "board": 0,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "So that is scope creep?",
+      "board": 0,
+      "shot": "student",
+      "gag": "box",
+      "reaction": "shock",
+      "tag": "THE BOX KEEPS GROWING",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Yes. The job expands beyond the original agreement.",
+      "board": 0,
+      "shot": "board",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "I can offer a smaller version, or a new timeline and price.",
+      "board": 1,
+      "shot": "student",
+      "gag": "none",
+      "reaction": "think",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "tutor",
+      "text": "Then agree the change before building it.",
+      "board": 1,
+      "shot": "wide",
+      "gag": "none",
+      "reaction": "neutral",
+      "tag": "",
+      "pause": 0.2
+    },
+    {
+      "speaker": "student",
+      "text": "Perfect. I have one tiny request. A bigger desk.",
+      "board": 1,
+      "shot": "student",
+      "gag": "box",
+      "reaction": "proud",
+      "tag": "NOW A REAL ESTATE PROJECT",
+      "pause": 0.5
+    },
+    {
+      "speaker": "tutor",
+      "text": "That is a separate project.",
+      "board": 1,
+      "shot": "tutor",
+      "gag": "box",
+      "reaction": "deadpan",
+      "tag": "",
+      "pause": 0.65
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "original": true,
+  "source": "Adapted from our MIT-licensed cad-3d-dialogue-explainer geometry/audio pipeline. Original comedy scripts, props, reactions, timing controls and stage design.",
+  "voiceProviderTested": "OpenAI Speech",
+  "voices": [
+    "marin",
+    "cedar"
+  ],
+  "unverifiedLiveProviders": [
+    "ElevenLabs",
+    "Fish Audio"
+  ],
+  "reviewedAt": "2026-10-29",
+  "thirdPartyRuntime": "Pinned dependencies installed separately under their own licenses; no node_modules, browser or credentials bundled.",
+  "verification": "Author-executed, not independent audience/customer testing."
+}
