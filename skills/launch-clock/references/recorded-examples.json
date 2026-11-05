@@ -1,0 +1,318 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $launch-clock to create \"A good conversation starts here\" for the fictional After Hours. Use examples/01.json as the exact content brief. Follow the ink palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "countdown",
+      "sourceSha256": "273193dcc0eeaee2aaf8f64936c349709025681a432855affc283a3863d32525",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "11d85c0e0c38d41a95fe4efb3aa68a091281d74e4c18bb4947ee921f69d73093",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        6.5,
+        9.966666666666667
+      ],
+      "posterTime": 2,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "cd0021554c27f6edc370b487ff8c647e03274f6ec741bd91efe0e428271bbede",
+          "bytes": 260
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "2ebbe347bf9c624ef3d69528df858d2997eca7f50628bfc80abe3d788cd94c52",
+          "bytes": 170205
+        },
+        "poster.png": {
+          "sha256": "9fe5c8df234a8f72906ee0b5367b02b4e71c391400ce812b4a7f2b5b0f1af21b",
+          "bytes": 85492
+        },
+        "preview.html": {
+          "sha256": "8979161d9d5ee1a412dcd4a7b2c060f56a8ac7362790581cb71d4b2a8d938e81",
+          "bytes": 558
+        },
+        "review-01.png": {
+          "sha256": "a17203ab3c0530fe85ba680eae67054aeba81946222759c911da3c0b4c290940",
+          "bytes": 87374
+        },
+        "review-02.png": {
+          "sha256": "310014702d7086001d208f1d694fd85c878d965dc94358a474bfbec4e7fe6d70",
+          "bytes": 86841
+        },
+        "review-03.png": {
+          "sha256": "1ce12b49cdd2b749c8a93fa4c1e53ecd504bd341042343501119e08086de5af7",
+          "bytes": 85140
+        },
+        "review-04.png": {
+          "sha256": "af1ef115887452b5d24d59b265700db7a791c2d564930d6bcf5d92214f642666",
+          "bytes": 82135
+        },
+        "review-05.png": {
+          "sha256": "ea30716be332526b3e16cf90d33f09f704bbde6287b50c6f1f698090519fc50a",
+          "bytes": 78637
+        }
+      },
+      "countdownBoundary": {
+        "beforeZero": 1,
+        "atZero": 0,
+        "last": 0,
+        "zeroHoldSeconds": 2
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $launch-clock to create \"Make room for the next idea\" for the fictional Field Assembly. Use examples/02.json as the exact content brief. Follow the chalk palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "countdown",
+      "sourceSha256": "ed53162618ea9984508429902f74a057c755aed8bd94d091b8348a1e3cfd6d75",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "11d85c0e0c38d41a95fe4efb3aa68a091281d74e4c18bb4947ee921f69d73093",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        7.800000000000001,
+        11.966666666666667
+      ],
+      "posterTime": 2,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "345dabb8ec6a64edf0ef80cd87ffbf3874443af6ec9e1f6eefaa05e887d6af15",
+          "bytes": 262
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "8355f208975a1bded6008f81257c02c83f749ac3e88d487d2e3285940912f8be",
+          "bytes": 178632
+        },
+        "poster.png": {
+          "sha256": "69e4d29554ce268ec9b67d780a3bb27bf223d849c72e799432a27ba9e5dfac9b",
+          "bytes": 84449
+        },
+        "preview.html": {
+          "sha256": "f162ca453744588611312d6f470037fb5a01e681b0e57a721b337f7405ac3f01",
+          "bytes": 550
+        },
+        "review-01.png": {
+          "sha256": "d41c3eccd86cf195a71465ce23c567b78d2970b7fe3fb65ce955989df98667af",
+          "bytes": 83216
+        },
+        "review-02.png": {
+          "sha256": "45ec79c7963f0c2f52928cb4c44b60da9b05df8ef6c3a9576935f2ed5ae4c4ec",
+          "bytes": 82828
+        },
+        "review-03.png": {
+          "sha256": "21754f3a2b89090977a7afece033f9755db0b7ca8a9adf7c23beedf907232388",
+          "bytes": 84216
+        },
+        "review-04.png": {
+          "sha256": "bbed00a7bcec3759eb18caa0f82d25b522829d56b00c132a6b1a48bc17798e29",
+          "bytes": 81076
+        },
+        "review-05.png": {
+          "sha256": "cc669e076f61cc6092f26f701c669701d731c8e0a0b2ebd81bad6a173a82e3e9",
+          "bytes": 76936
+        }
+      },
+      "countdownBoundary": {
+        "beforeZero": 1,
+        "atZero": 0,
+        "last": 0,
+        "zeroHoldSeconds": 2
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 360,
+        "seconds": 12,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $launch-clock to create \"A little pause before we grow\" for the fictional Garden Sessions. Use examples/03.json as the exact content brief. Follow the rose palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "countdown",
+      "sourceSha256": "2a87a05647d11b29ae4d6b263ed10167ca0855dc81be5cd9b35f6e63d97d6b5b",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "11d85c0e0c38d41a95fe4efb3aa68a091281d74e4c18bb4947ee921f69d73093",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        5.2,
+        7.966666666666667
+      ],
+      "posterTime": 2,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "729df9282c0dc12cefa7e535f76f138c24d0272b9c8b30202d684c2e3109551d",
+          "bytes": 271
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "d93d082c2511d36d3b2573195c75b7f0de9fb33af507c36ad1adeb86e5609d7c",
+          "bytes": 102822
+        },
+        "poster.png": {
+          "sha256": "25d14ed89aa1ab0c64f575f782a31d2b6a8c83eb6771bf0b8d29c387f182a511",
+          "bytes": 78707
+        },
+        "preview.html": {
+          "sha256": "fecff0637eedbca980043077a9a1296a37654d07740b2968bcbcbcba1f17f324",
+          "bytes": 554
+        },
+        "review-01.png": {
+          "sha256": "d5749c422c0b58eeeca52d3947a0ee652e9eb9d77238be1bf4214524ec1e2769",
+          "bytes": 82033
+        },
+        "review-02.png": {
+          "sha256": "6ead0f1106c7bfc00991a0c19ff20d6d2ebe9147f73de03699c34f4f4ee00814",
+          "bytes": 81001
+        },
+        "review-03.png": {
+          "sha256": "43f80f95fd66b506322cc3e6224b842dead9144687b1afa56b1707f1f0f25786",
+          "bytes": 78183
+        },
+        "review-04.png": {
+          "sha256": "9b00251c06f4fca6298f7f228dc5c7a246ea146e26d2885f89aaed908d0d8755",
+          "bytes": 76032
+        },
+        "review-05.png": {
+          "sha256": "78c59b72759685ff2f4eabff898d207cf2286d85fc06bf84b9d7070e9af9b6c8",
+          "bytes": 75397
+        }
+      },
+      "countdownBoundary": {
+        "beforeZero": 1,
+        "atZero": 0,
+        "last": 0,
+        "zeroHoldSeconds": 2
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 240,
+        "seconds": 8,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $launch-clock to create \"Good questions start something\" for the fictional Signal Room. Use examples/04.json as the exact content brief. Follow the cobalt palette, keep the disclosure visible, render the full film and review transitions, text and the ending before delivery.",
+    "report": {
+      "mode": "countdown",
+      "sourceSha256": "4b403349bba870f9370f83576d950aaa275609acfe4924fa43baa65a4374dddc",
+      "rendererSha256": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+      "engineSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "11d85c0e0c38d41a95fe4efb3aa68a091281d74e4c18bb4947ee921f69d73093",
+      "reviewTimes": [
+        0,
+        0.8,
+        2.8,
+        9.1,
+        13.966666666666667
+      ],
+      "posterTime": 2,
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "6c58bf486930265e37ffbee40a0beb6029a2651f4b76a0ebbfcb44c5fe589ca1",
+          "bytes": 269
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "44d169ace6763b62d430bb8becb3522faedc17657fd41149e90c7771a0cd8b13",
+          "bytes": 213520
+        },
+        "poster.png": {
+          "sha256": "21d6f2de1539f99cd90199176bb1956874e26a0c37f580cfddbb68b00bfaa0c2",
+          "bytes": 85906
+        },
+        "preview.html": {
+          "sha256": "9c5994dd9fae2526192139f2b77f0517ca253bfac91d8b41845f907855b18812",
+          "bytes": 556
+        },
+        "review-01.png": {
+          "sha256": "1e5c3daa9f1dc064d255b047634989959ff994869edd9735a08f94ed06fc2a77",
+          "bytes": 87840
+        },
+        "review-02.png": {
+          "sha256": "12bfd3b32a86a025c933b70c3cf552b1bd2e86694fe84d59f183f98efe402b03",
+          "bytes": 87414
+        },
+        "review-03.png": {
+          "sha256": "4d0f8e9dbc1586fa2d65680a280e049d2dd700f749fff5ed559bc85782fc2117",
+          "bytes": 85654
+        },
+        "review-04.png": {
+          "sha256": "4a2a5acf43c446d841261802fa2294e157fac631eaa74eebaed173fa6810dcab",
+          "bytes": 84940
+        },
+        "review-05.png": {
+          "sha256": "899e617c17fd0bede3597c88b1637e2e620cd60f29af2101ce792b7904f713b1",
+          "bytes": 81265
+        }
+      },
+      "countdownBoundary": {
+        "beforeZero": 1,
+        "atZero": 0,
+        "last": 0,
+        "zeroHoldSeconds": 2
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 420,
+        "seconds": 14,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]

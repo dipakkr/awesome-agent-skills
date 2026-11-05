@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch Clock"
+  short_description: "Render original countdowns with editable inputs"
+  default_prompt: "Use $launch-clock to turn my brief into a polished motion piece and deliver the actual film plus editable source."
