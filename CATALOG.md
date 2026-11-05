@@ -18,6 +18,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Client Offer Builder](skills/client-offer-builder/SKILL.md) | Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions. |
 | [Clip Assembler](skills/clip-assembler/SKILL.md) | Turn approved artwork and clips into a short MP4 and optional GIF with an editable timeline and measured export report. |
 | [Collection Thumbnails](skills/collection-thumbnails/SKILL.md) | Create a text-free square collection image for a small Amazon Store tile, with a clear product family and space for native link text. |
+| [Color Atmospheres](skills/color-atmospheres/SKILL.md) | Create atmospheric brand and launch graphics with sculptural light, rich gradients and carefully placed typography. |
 | [Comic Lab Scenes](skills/comic-lab-scenes/SKILL.md) | Turn one useful idea into a funny 3D skit: a confident misunderstanding, a deadpan robot, an absurd prop and a callback ending. |
 | [Concept Layers](skills/concept-layers/SKILL.md) | Create a LinkedIn infographic that organizes a tool stack, capability stack or operating system into pastel horizontal layers with labelled icon tiles. |
 | [Drawn Lessons](skills/drawn-lessons/SKILL.md) | Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats. |

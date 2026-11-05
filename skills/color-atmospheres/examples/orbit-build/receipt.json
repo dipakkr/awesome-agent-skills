@@ -1,0 +1,17 @@
+{
+  "id": "orbit-build",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "8c1bdf4757b220ccf9508dae640915b7aeca1990018ef0901087528b09852d4d",
+  "bytes": 1967176,
+  "reviewed": true,
+  "review": "Two iridescent rings and orb form a clear asymmetric composition; headline legible.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand ORBIT.\nUse case: ads-marketing; Luminous Gradient OG.\nContext: A fictional developer-tool concept cover.\nArt direction: Near-black background with three carefully composed iridescent torus sculptures on right: one huge electric-blue open ring, a smaller emerald loop and a pearlescent purple orb, dramatic rim lighting and deep realistic soft shadow. Bold white geometric sans headline left, single tiny lime directional stroke. Precise premium 3D render, controlled glow, no company logos.\nExact headline (preserve intentional line breaks): \"Build beyond\nthe obvious.\"\nExact small wordmark: \"ORBIT\"\nExact supporting line: \"A playground for new possibilities\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

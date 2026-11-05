@@ -1,0 +1,17 @@
+{
+  "id": "aura-horizons",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "50c33cfe403cdabeaef0b25923631bd18b13a38c79182d840374653bc8a4d853",
+  "bytes": 2326020,
+  "reviewed": true,
+  "review": "Warm tactile satin folds frame quiet burgundy copy area; readable serif hierarchy.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand AURA.\nUse case: ads-marketing; Luminous Gradient OG.\nContext: A fictional design-publication launch cover.\nArt direction: Macro sculptural satin folds in peach, hot pink and amber occupy upper-left and right edges like a softly lit landscape. Deep burgundy calm negative space near lower-center supports very large ivory editorial serif headline, left aligned. Warm cinematic light, fine fabric-like microtexture, no objects or people, elegant small AURA wordmark top-left.\nExact headline (preserve intentional line breaks): \"Small ideas.\nWide horizons.\"\nExact small wordmark: \"AURA\"\nExact supporting line: \"A journal for curious minds\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}
