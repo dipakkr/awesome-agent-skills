@@ -1,0 +1,43 @@
+{
+  "skill": "clean-sku-shot",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Amber glass fragrance",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "5bdec5a1877002e88d9fa69ad824d8a385dd1a76c4f7d8fe5043246056053880",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $clean-sku-shot. Create a new output based on the packaged example \"Amber glass fragrance\". Brief: Fictional demonstration brand Still Acre: a concept amber glass fragrance vessel; no formulation, volume or performance claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Portable reading lamp",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "9f7e4c864a04a2830370364737dc50f40318e84f31054542b1027a6ff3fd4954",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $clean-sku-shot. Create a new output based on the packaged example \"Portable reading lamp\". Brief: Fictional demonstration brand Foldlight: a conceptual compact lamp, no battery or technical specifications. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Sculpted water carafe",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "ed013f90a5daf404fdc9d9d277804cef2807bc352226f2a14fb38b87014e572a",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $clean-sku-shot. Create a new output based on the packaged example \"Sculpted water carafe\". Brief: Fictional unbranded smoke-green glass water carafe. No volume, material certification or performance claims; no actual SKU reference. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Folded leather card sleeve",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "22eab28aece0a6981f9c25d5dab21da4edb9cc24875b5f53fc976ead910af54e",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $clean-sku-shot. Create a new output based on the packaged example \"Folded leather card sleeve\". Brief: Fictional unbranded burgundy card sleeve, empty; no material certification, capacity or durability claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-01",
+    "title": "Amber glass fragrance",
+    "brief": "Fictional demonstration brand Still Acre: a concept amber glass fragrance vessel; no formulation, volume or performance claims.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      2048,
+      2048
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 2048x2048 pixels. A single sophisticated amber-brown rectangular glass fragrance bottle with rounded shoulders and an oversized matte olive cylindrical cap. No writing or logo. Three-quarter view at eye level, object fills65percent of a square canvas, entire bottle and cap visible. Warm ivory seamless background, grounded soft contact shadow cast toward lower right, subtle amber refraction, believable glass thickness, meticulous luxury studio product photography. No props, no hands. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create clean, consistent product-gallery hero images for a Shopify store from a supplied SKU photo or an explicitly conceptual product brief."
+  },
+  {
+    "id": "example-02",
+    "title": "Portable reading lamp",
+    "brief": "Fictional demonstration brand Foldlight: a conceptual compact lamp, no battery or technical specifications.",
+    "fictionalDemonstration": true,
+    "productReference": null,
+    "mode": "concept",
+    "requestedDimensions": [
+      2048,
+      2048
+    ],
+    "prompt": "Use case: product-mockup. Create one independent finished raster image. Requested dimensions: 2048x2048 pixels. One cream powder-coated portable table lamp with a short cylindrical stem, wide low mushroom shade and simple circular base. All lamp parts visible. Front-on view slightly above tabletop, product occupies65percent of square image. Deep warm taupe seamless studio backdrop, warm pool of light beneath the shade, subtle rim light, realistic brushed metal material. No cable, no props, no writing, no logo. This is an original fictional demonstration product, not a real SKU or endorsement. No watermark. Do not create a contact sheet or collage of alternatives.",
+    "usage": "Create clean, consistent product-gallery hero images for a Shopify store from a supplied SKU photo or an explicitly conceptual product brief."
+  }
+]
