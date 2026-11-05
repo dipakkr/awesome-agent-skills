@@ -75,6 +75,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Ranked Bars Animation](skills/ranked-bars-animation/SKILL.md) | Animate four values into a horizontal bar chart with a visible zero baseline, fixed scale, exact final labels and source note. Use for a single comparison, not a ranking race over time. |
 | [Reading Room Brief](skills/reading-room-brief/SKILL.md) | Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes. |
 | [Recommendation Room](skills/recommendation-room/SKILL.md) | Build a recommendation-first decision deck with a clear issue, supported analysis, tradeoffs and an owned next step. |
+| [Release Story Deck](skills/release-story-deck/SKILL.md) | Introduce a product through the customer problem, a focused demonstration and a practical launch plan. |
 | [Report Front Page](skills/report-front-page/SKILL.md) | Create the opening cover graphic for a useful LinkedIn document, guide or carousel using a clear reader promise. |
 | [Shape And Type](skills/shape-and-type/SKILL.md) | Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy. |
 | [Sketch To Sell](skills/sketch-to-sell/SKILL.md) | Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request. |

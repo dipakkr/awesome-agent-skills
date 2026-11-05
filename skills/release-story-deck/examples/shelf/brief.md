@@ -1,0 +1,7 @@
+# Shelf: a library for your team
+
+A concept reference library for creative studios.
+
+Audience: Product teams
+
+Make a new product launch deck using this example concept. Do not invent shipped features, customer logos, performance gains or launch dates. Mark conceptual screens as concepts.

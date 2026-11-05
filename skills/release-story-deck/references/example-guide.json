@@ -1,0 +1,34 @@
+{
+  "skill": "release-story-deck",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "Relay: make the handoff clear",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "e60dd04fed399b86c890aa1ca379dda3ce7d303879abdf3038e62a4a568c2519",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $release-story-deck. Create a new output based on the packaged example \"Relay: make the handoff clear\". Brief: Prism Relay \u00b7 A concept workspace for small product teams. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Shelf: a library for your team",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "0edb6098cbfa41d821ca0672cd453d6f3d92a0af3b6ec12e6739954ffd5190a0",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $release-story-deck. Create a new output based on the packaged example \"Shelf: a library for your team\". Brief: Library Pop \u00b7 A concept reference library for creative studios. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Tide: plan a calmer week",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "a0003e184a1f6ed9cb24ba9fc973901f3b874df27c3caae2c85ad72cf3b02214",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $release-story-deck. Create a new output based on the packaged example \"Tide: plan a calmer week\". Brief: Coastal Rhythm \u00b7 A concept weekly planner for independent teams. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

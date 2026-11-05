@@ -1,0 +1,21 @@
+{
+  "title": "Relay: make the handoff clear",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "170b3501b3effd08ca64a3a18f44a64eb4dc5da454d7de946acbd9f0129ba13d",
+  "outputs": [
+    {
+      "file": "relay.html",
+      "sha256": "e9f1a70c2ea600c4034998d5c8e389d288b4309ac322ee64cc545926731a9e06",
+      "bytes": 2592817
+    },
+    {
+      "file": "relay.pptx",
+      "sha256": "0d9aba2d0284fb54bc6553543a19ef899147108ff8742fde72431338ecb2052f",
+      "bytes": 1810596
+    }
+  ]
+}

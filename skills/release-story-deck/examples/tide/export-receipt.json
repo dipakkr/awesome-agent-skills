@@ -1,0 +1,21 @@
+{
+  "title": "Tide: plan a calmer week",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "a324fa7a223e10d05b3255d0fdb85424004e5942074d44426c08d3e027629828",
+  "outputs": [
+    {
+      "file": "tide.html",
+      "sha256": "b4331e7a4677d228ab83ca7b2296e459606209b869b8e8e8d15354318d56ca78",
+      "bytes": 8262692
+    },
+    {
+      "file": "tide.pptx",
+      "sha256": "9925a9eac005fa89dbd4f703363866183d279dcc740ed4faa5f41fdbc1fca59c",
+      "bytes": 3107649
+    }
+  ]
+}
