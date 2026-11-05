@@ -59,6 +59,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [One Point Story](skills/one-point-story/SKILL.md) | Turn one defensible professional insight into a concise feed graphic with a memorable visual metaphor. |
 | [Opening Line Lab](skills/opening-line-lab/SKILL.md) | Develop ad openings together with the evidence and first scene needed to support each promise, in an editable comparison workbook. |
 | [Outcome Narrative](skills/outcome-narrative/SKILL.md) | Present the situation, intervention, measured result and limitations of a project without hiding attribution or uncertainty. |
+| [Pages Coming Together](skills/pages-coming-together/SKILL.md) | Gather three source sections into a paginated document with controlled paper-stack motion. |
 | [Paper Depth Covers](skills/paper-depth-covers/SKILL.md) | Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline. |
 | [Pen And Page](skills/pen-and-page/SKILL.md) | Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request. |
 | [Punchy Photo Cards](skills/punchy-photo-cards/SKILL.md) | Create expressive social-share artwork with photographic cutouts, oversized type and confident graphic shapes. |

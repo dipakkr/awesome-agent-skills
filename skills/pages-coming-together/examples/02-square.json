@@ -1,0 +1,25 @@
+{
+  "mode": "documents",
+  "format": "square",
+  "brand": "MEMO",
+  "headline": "Bring the pieces together.",
+  "ending": "A clearer story on every page.",
+  "cta": "Create your next brief",
+  "item": "Research memo",
+  "labels": [
+    "Question",
+    "Evidence",
+    "Conclusion"
+  ],
+  "details": [
+    "The question worth asking",
+    "What the sources tell us",
+    "What we can say with confidence"
+  ],
+  "accent": "#92702b",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 1,
+  "source": "Illustrative example. Not measured product performance."
+}
