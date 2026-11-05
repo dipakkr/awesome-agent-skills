@@ -1,0 +1,29 @@
+{
+  "brand": "Signal Course",
+  "title": "Learning over four weeks",
+  "subtitle": "An illustrative course sequence with equal spacing.",
+  "theme": "cobalt",
+  "source": "Illustrative sequence · fictional example · intervals not to scale",
+  "events": [
+    {
+      "date": "Week 1",
+      "label": "Ask better questions",
+      "detail": "Find the useful unknown."
+    },
+    {
+      "date": "Week 2",
+      "label": "Gather evidence",
+      "detail": "Capture real examples."
+    },
+    {
+      "date": "Week 3",
+      "label": "Build an argument",
+      "detail": "Connect evidence to claims."
+    },
+    {
+      "date": "Week 4",
+      "label": "Share the result",
+      "detail": "Explain the limitations."
+    }
+  ]
+}

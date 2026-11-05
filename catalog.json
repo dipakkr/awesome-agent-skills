@@ -454,6 +454,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "milestone-track",
+      "name": "Milestone Track",
+      "description": "Build an animated four-milestone timeline with aligned chapter cards, dates and explanatory notes. Use for roadmaps, histories and editorial sequences with approved dates.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/milestone-track",
+      "publication": "original-mit"
+    },
+    {
       "package": "numbers-to-narrative",
       "name": "Numbers To Narrative",
       "description": "Turn a small supplied dataset into an accurate, clearly labelled feed graphic with units, source and an honest takeaway.",
@@ -1467,6 +1476,24 @@
     "skills/message-thread-film/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
     "skills/message-thread-film/scripts/engine.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/message-thread-film/scripts/render.py": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+    "skills/milestone-track/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/milestone-track/SKILL.md": "ec085f5b2197bda29f133cc552c15f383875d67d512bc2c16995279c4b4a9926",
+    "skills/milestone-track/agents/openai.yaml": "9310e769988e7683d27ab943567df6d40d2354ef6255fac32665e1d0b2d48a0b",
+    "skills/milestone-track/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/milestone-track/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/milestone-track/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/milestone-track/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/milestone-track/config.json": "3871ff0aeeac9ad828d241b32b388f09210d48b5664456f9e8e862416b90144e",
+    "skills/milestone-track/examples/01.json": "96b6001911e81e42cf483b4eea1530497478a3dbe3d398cd186b316181d045e4",
+    "skills/milestone-track/examples/02.json": "d689e7b3f8b419e33e2a1e0649df6ff1ccaa9d742162dedde90a8ece6d31cb40",
+    "skills/milestone-track/examples/03.json": "d08b1993fe8266003497517c14f5495c9aab65b9e67781e361bb5e795e2ddd6b",
+    "skills/milestone-track/examples/04.json": "6763775614ff45701353dfaba0648610120a0759bebc1e048b80323984ef4ce4",
+    "skills/milestone-track/references/examples.md": "17763e64531912e2a0f84c0737ae40e5afe846d233ed7ea2937f2fce2169b833",
+    "skills/milestone-track/references/inputs.md": "7e1581bd0b99f55902bf2093d5f5990fb2e07652582116a3e551e07445ebedbb",
+    "skills/milestone-track/references/provenance.md": "953698262273f7cf5ba1ad2f5311cf457b7f448db0850f53b6cad55f2c468f39",
+    "skills/milestone-track/references/recorded-examples.json": "c8498b110f16c518ee64c339b398a65be24678ccbd946f3d01c0503046584b3f",
+    "skills/milestone-track/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
+    "skills/milestone-track/scripts/render.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/numbers-to-narrative/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/numbers-to-narrative/SKILL.md": "c21d1dc917921d986dfa33b59cb3085f9bb5cb1ffdf1959bf6668a05648f522b",
     "skills/numbers-to-narrative/examples/gallery/01.webp": "123966d7d9326e81ac4e8385d3d597172b3eeb10d907494d78c327a667fba441",
@@ -6796,6 +6823,182 @@
     },
     {
       "path": "skills/message-thread-film/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/01/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/02/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/03/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/review-01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/review-02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/review-03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/review-04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/milestone-track/examples/recorded/04/review-05.png",
       "reason": "rendered example; see website"
     },
     {

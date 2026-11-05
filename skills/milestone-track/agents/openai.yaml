@@ -1,0 +1,4 @@
+interface:
+  display_name: "Milestone Track"
+  short_description: "Create editable timeline with recorded examples"
+  default_prompt: "Use $milestone-track to turn my brief into an original motion piece and deliver the rendered files plus editable inputs."

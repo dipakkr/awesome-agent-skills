@@ -1,0 +1,29 @@
+{
+  "brand": "Field Journal",
+  "title": "A season in four chapters",
+  "subtitle": "Editorial milestones, spaced by sequence.",
+  "theme": "chalk",
+  "source": "Illustrative sequence · fictional example · intervals not to scale",
+  "events": [
+    {
+      "date": "March",
+      "label": "The first sketch",
+      "detail": "Collect observations."
+    },
+    {
+      "date": "April",
+      "label": "A working idea",
+      "detail": "Test one small version."
+    },
+    {
+      "date": "June",
+      "label": "Out in the field",
+      "detail": "Bring the idea to users."
+    },
+    {
+      "date": "August",
+      "label": "A new edition",
+      "detail": "Use what you learned."
+    }
+  ]
+}
