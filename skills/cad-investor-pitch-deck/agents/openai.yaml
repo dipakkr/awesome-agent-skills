@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investor Pitch Deck"
+  short_description: "Create editable investor presentations from your brief"
+  default_prompt: "Use $cad-investor-pitch-deck to make a presentation for my audience using my brief and optional assets."

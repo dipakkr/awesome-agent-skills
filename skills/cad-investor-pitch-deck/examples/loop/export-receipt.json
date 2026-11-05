@@ -1,0 +1,21 @@
+{
+  "title": "Loop: reusable packaging operations",
+  "slideCount": 6,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "301bdc4952e1140e11a01840456f25290d418b635e731a7eb5128a7d762275c2",
+  "outputs": [
+    {
+      "file": "loop.html",
+      "sha256": "7a1c6a84daf0c910733756c593a59832b4ef20ba35b6c6cfb2812fd1af28e33c",
+      "bytes": 2715049
+    },
+    {
+      "file": "loop.pptx",
+      "sha256": "fb6b6c789616ea50ee9c473501a36f446fd1f7d1f4e9c06c1a6f34cb11be5cb8",
+      "bytes": 1931992
+    }
+  ]
+}

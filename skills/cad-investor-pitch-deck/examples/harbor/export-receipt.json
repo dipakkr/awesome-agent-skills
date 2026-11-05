@@ -1,0 +1,21 @@
+{
+  "title": "Harbor: wholesale reorder planning",
+  "slideCount": 6,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "3ba21aed0d581a08122c0b6d67c49acfbb2db5966f3aaccba84060d3310afe94",
+  "outputs": [
+    {
+      "file": "harbor.html",
+      "sha256": "e6692307a39ca4f33203b46131935e8d5be82c11993ca0df1b4d612a7a9e39a8",
+      "bytes": 2926834
+    },
+    {
+      "file": "harbor.pptx",
+      "sha256": "5ba1c22a269ff2f6be4bb4ebefa884743bab09a83639e67ed4bf759f5f64713d",
+      "bytes": 2138488
+    }
+  ]
+}

@@ -332,6 +332,16 @@
       "original": true,
       "path": "skills/cad-illustrated-study-notes",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-investor-pitch-deck",
+      "name": "Investor Pitch Deck",
+      "description": "Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone.",
+      "site": "https://claudeai.directory/skills/investor-pitch-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-investor-pitch-deck",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -863,7 +873,34 @@
     "skills/cad-illustrated-study-notes/examples/water-cycle/image.png": "41aeb4bfc38e835306ebbf041646bf100b769d20a357663ae623a32e4748b876",
     "skills/cad-illustrated-study-notes/examples/water-cycle/prompt.txt": "953ee07f7bda94e2836fbd650ec6488b3e50303a781ae5a6f8b836ab8be85d5c",
     "skills/cad-illustrated-study-notes/examples/water-cycle/receipt.json": "75184274cac8b7c044598f846a025c4127be0bdb5801e00e1c57176cf5c77c4c",
-    "skills/cad-illustrated-study-notes/references/usage.md": "cdf46c0dd6972d0cc70d03fc9feee5f8fd3d3a348d330d2912030262689df7a7"
+    "skills/cad-illustrated-study-notes/references/usage.md": "cdf46c0dd6972d0cc70d03fc9feee5f8fd3d3a348d330d2912030262689df7a7",
+    "skills/cad-investor-pitch-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-investor-pitch-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-investor-pitch-deck/README.md": "8c827e1e7370c50b4b6f6c7235be23ec078c6b0fc3cdf64dd70de62efa5965bd",
+    "skills/cad-investor-pitch-deck/SKILL.md": "deded46dfede8339001a726cdc598b5c99e4f1573df94e59af1bd4e774379034",
+    "skills/cad-investor-pitch-deck/agents/openai.yaml": "a14491d458a686b90cd3c79bb2044f33dc4037d5bfd4c1cc3c278fae0aacdfe9",
+    "skills/cad-investor-pitch-deck/examples/bench/assets/redesign-bench.png": "d8d7abfef5b7478c1bc45eeae1348dcc360ee0a6ac9d76cf1c93c8dacb59cea7",
+    "skills/cad-investor-pitch-deck/examples/bench/brief.md": "ea6923b94ae042a271ed68b7032b2974c75b4766e4aaf6ec2994b18a63cc7716",
+    "skills/cad-investor-pitch-deck/examples/bench/deck.json": "5e36e7bbdfb93b3576a2316e77972ad98f8a598bb8745988504e20f25c9ca8d0",
+    "skills/cad-investor-pitch-deck/examples/bench/export-receipt.json": "adcd2ec4498e35e2a0f892b899bb3a47f294175567eb08121712d1e9f6a9f3d2",
+    "skills/cad-investor-pitch-deck/examples/gallery/01.webp": "cd3eddc49ef39dbcda07f9fa1f6e6e3d92e64c5c0ba42749c84f1e0171fa837a",
+    "skills/cad-investor-pitch-deck/examples/gallery/02.webp": "c170fa724f24be60d11918840c915af615bac1cf3c2aebd51a89b85a114b79dc",
+    "skills/cad-investor-pitch-deck/examples/gallery/03.webp": "bc8c7b00dd5f2548218386fee7d3a9f43724264a354f0c15903efc0fc1ac01ba",
+    "skills/cad-investor-pitch-deck/examples/harbor/assets/redesign-harbor.png": "157b6f561eee6600d77a3febacf6fd43135f1deb0e584308693b2c78191d2cb3",
+    "skills/cad-investor-pitch-deck/examples/harbor/brief.md": "e38597a9d828467ac43bd623faef25ec8a3d8fe4a303d8141ea7b0aa791b6f93",
+    "skills/cad-investor-pitch-deck/examples/harbor/deck.json": "3ba21aed0d581a08122c0b6d67c49acfbb2db5966f3aaccba84060d3310afe94",
+    "skills/cad-investor-pitch-deck/examples/harbor/export-receipt.json": "d6b6db1b3c2342e9dd74d4fe5b7d09a1d15d713d2fe7b2779a608584d3854702",
+    "skills/cad-investor-pitch-deck/examples/loop/assets/redesign-loop.png": "d4fb4073d7e78a9060551437f8bd8ae8e66ed2501ab8aaf2dcbacb9bdd326ef4",
+    "skills/cad-investor-pitch-deck/examples/loop/brief.md": "2cff8f1f2d0defdf46ada0fcaf209045770ea507520d3231cc772c9a2b163316",
+    "skills/cad-investor-pitch-deck/examples/loop/deck.json": "301bdc4952e1140e11a01840456f25290d418b635e731a7eb5128a7d762275c2",
+    "skills/cad-investor-pitch-deck/examples/loop/export-receipt.json": "9ec69ad48c170264b79de21338dc3ba6d68a4e9d5d2b4d0c4cc9840615faec05",
+    "skills/cad-investor-pitch-deck/references/design.md": "0eb421c31738dfca167c43a8885b90ec720c85a46091d1f599877c67141cea60",
+    "skills/cad-investor-pitch-deck/references/example-guide.json": "457b39bebfff6e4a06bbae131074dc8c25fd2c2fd4396ee056a722006e2b2e09",
+    "skills/cad-investor-pitch-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-investor-pitch-deck/references/usage-examples.md": "8a6792e01413b89ce717eb7311880e59e5caa1836b9d82729c591a926fd81273",
+    "skills/cad-investor-pitch-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-investor-pitch-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-investor-pitch-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12"
   },
   "omitted": [
     {
@@ -2684,6 +2721,30 @@
     },
     {
       "path": "skills/cad-hook-proof-lab/examples/relaydesk/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-investor-pitch-deck/examples/bench/bench.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-investor-pitch-deck/examples/bench/bench.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-investor-pitch-deck/examples/harbor/harbor.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-investor-pitch-deck/examples/harbor/harbor.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-investor-pitch-deck/examples/loop/loop.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-investor-pitch-deck/examples/loop/loop.pptx",
       "reason": "rendered example; see website"
     }
   ]
