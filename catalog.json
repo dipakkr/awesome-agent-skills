@@ -742,6 +742,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "shape-shift-cuts",
+      "name": "Shape Shift Cuts",
+      "description": "Join three typographic compositions with a diagonal polygon reveal and staggered perspective tile flips.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/shape-shift-cuts",
+      "publication": "original-mit"
+    },
+    {
       "package": "sketch-to-sell",
       "name": "Sketch To Sell",
       "description": "Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request.",
@@ -2245,6 +2254,26 @@
     "skills/shape-and-type/references/example-guide.json": "1f3354fe7d2816b41bcc76bfec9bfb0adbec42cd7f5f36d43cc9b9877093bebf",
     "skills/shape-and-type/references/examples.json": "184469c980ed2f6913d825f197d3d7c008b698808d53adcf95d1b244a01d0f26",
     "skills/shape-and-type/references/usage-examples.md": "018065ce341cd42deb235e70444fd09b71ea4c37ae2fa65a0aa86f51789d206a",
+    "skills/shape-shift-cuts/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/shape-shift-cuts/SKILL.md": "8e3b77f93e9185aa16ccad5d3c9017819d911771a90d9e3cd974af51ecdc752f",
+    "skills/shape-shift-cuts/examples/01-landscape.json": "974f1fed3867e127259acba1e31fc113457de15c4f67c48c8a03fff2d89952fd",
+    "skills/shape-shift-cuts/examples/02-square.json": "45ab9bce5ba2534576eb22c8de0188bc106d9217554834f80e981d77d3576705",
+    "skills/shape-shift-cuts/references/art-direction.md": "de8df5296c970207cdd3d9780fe8a7084371040cf240c6774e75ce760bb4f4a4",
+    "skills/shape-shift-cuts/references/input.md": "5ea98d051a8889daa8751c8fad843c9df3f4ae35ec30bd09f4751edf84bc7292",
+    "skills/shape-shift-cuts/references/music.md": "2a12d57079b43772a2c052f9e0772aa286a79d25817aac84d23e0e578b994368",
+    "skills/shape-shift-cuts/references/quickstart.md": "3feb6abe686b4e25253077924545f66f34bf5209e8377643f50fa4a4ade9a620",
+    "skills/shape-shift-cuts/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/shape-shift-cuts/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/shape-shift-cuts/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/shape-shift-cuts/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/shape-shift-cuts/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/shape-shift-cuts/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/shape-shift-cuts/renderer/render.mjs": "89fc664908b199ec1e8e2cacb87286d021a33fd7d30ee84088ddf2cd93c137ba",
+    "skills/shape-shift-cuts/renderer/src/Film.jsx": "f0b773dc45b6ac66116107615428edbde4c7b02efe5dd2a4d1ef9a40959c50f2",
+    "skills/shape-shift-cuts/renderer/src/Transitions.jsx": "b5c3b05d37246d1f24344d5add29bb168f17ec64f87340754857f6bf4955ff93",
+    "skills/shape-shift-cuts/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
+    "skills/shape-shift-cuts/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
+    "skills/shape-shift-cuts/renderer/src/model.mjs": "a518bc3b90101d5db97ecb293d5f5a4412318b97b221e46ff147be98039ae670",
     "skills/sketch-to-sell/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/sketch-to-sell/SKILL.md": "0743d9c94223a5792d36a91d8104893d381cae3c332d8d5357525b8e7183f40d",
     "skills/sketch-to-sell/examples/gallery/01.webp": "e534ad73523ba8ec39c1dd72304e0ccbb7f7be882ab3503cedbe9dd631aefb89",
@@ -10939,6 +10968,62 @@
     },
     {
       "path": "skills/sculpted-containers/examples/recorded/02/turntable.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/MUSIC-CREDITS.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/prompt.txt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/shape-shift-cuts/examples/recorded/02-square/storyboard.json",
       "reason": "rendered example; see website"
     },
     {
