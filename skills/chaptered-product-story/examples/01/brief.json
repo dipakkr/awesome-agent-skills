@@ -1,0 +1,49 @@
+{
+  "brand": "Fieldnote",
+  "theme": "ink",
+  "title": "keep the work connected.",
+  "promise": "From scattered notes to a clear next step.",
+  "cta": "Make the next step clear.",
+  "domain": "fieldnote.example / Fictional concept",
+  "kind": "concept",
+  "audio": "original-pulse",
+  "disclosure": "Fictional product concept. Original interfaces and music. No live integration.",
+  "chapters": [
+    {
+      "label": "Capture",
+      "headline": "Keep the source in view.",
+      "detail": "Collect the context before writing the recommendation.",
+      "proof": "Original notes stay beside the work.",
+      "screen": "screen-1.png",
+      "source": "Original authored Fieldnote concept interface, screen 1; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Shape",
+      "headline": "Give the idea a structure.",
+      "detail": "Turn the selected notes into a brief that can be reviewed.",
+      "proof": "A draft, ready for your judgment.",
+      "screen": "screen-2.png",
+      "source": "Original authored Fieldnote concept interface, screen 2; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Share",
+      "headline": "Move forward with context.",
+      "detail": "Package the decision and its open questions together.",
+      "proof": "A clear handoff, with sources attached.",
+      "screen": "screen-3.png",
+      "source": "Original authored Fieldnote concept interface, screen 3; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    }
+  ]
+}

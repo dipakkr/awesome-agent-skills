@@ -67,6 +67,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "chaptered-product-story",
+      "name": "Chaptered Product Story",
+      "description": "Create a complete product launch film with kinetic type, numbered feature chapters, moving interface close-ups and an original instrumental soundtrack.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/chaptered-product-story",
+      "publication": "original-mit"
+    },
+    {
       "package": "client-offer-builder",
       "name": "Client Offer Builder",
       "description": "Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions.",
@@ -475,6 +484,34 @@
     "skills/change-in-numbers/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
     "skills/change-in-numbers/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/change-in-numbers/renderer/src/model.mjs": "5edf7bec6ecd77083afeba7af47f9f8aa12f8fd917f8ab92ade627d7e43bf632",
+    "skills/chaptered-product-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/chaptered-product-story/SKILL.md": "4e98c1e52fe01b2f5f8f31b03c959caaf1268dcbfec7700f75f24077e026e9f8",
+    "skills/chaptered-product-story/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/chaptered-product-story/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/chaptered-product-story/examples/01/brief.json": "715cc6a3c07a0e2dbe938250a9ddc8760d5b15f725612451afc645a7efc82f24",
+    "skills/chaptered-product-story/examples/01/prompt.txt": "1fc1ee3dcc0f0b887082d81879ef2ccbdb5037918e044454fd1a690588f573ac",
+    "skills/chaptered-product-story/examples/01/screen-1.png": "b7dab344f57a929e2ff4aba20ba30a613a7ab30be81949a04d5035ba24df7289",
+    "skills/chaptered-product-story/examples/01/screen-2.png": "de34d4a163495f0cfe951d10324bcb69af94a3d0ae7f31a1a7a12f05845988cd",
+    "skills/chaptered-product-story/examples/01/screen-3.png": "b5d21667245dd02c007a4683a418ddca1862a8e095c0cce88f3623f18c95a7b9",
+    "skills/chaptered-product-story/examples/02/brief.json": "cc9401aee9f54e43eddaeb844b10e144640c8de945ce6004509234b83ff33d63",
+    "skills/chaptered-product-story/examples/02/prompt.txt": "01060f5b2ca09df879798efc95090c9cbcafa1cd214511d705511f35d3284038",
+    "skills/chaptered-product-story/examples/02/screen-1.png": "708c54fe68b530b8b27275bb1b3447a33bca7413f0412de6de6538bf240ed8b7",
+    "skills/chaptered-product-story/examples/02/screen-2.png": "4fa32f93a04e34fa5122d2e5cb345979cff746ec0f39f5e9bbecb71fc9b1e0b9",
+    "skills/chaptered-product-story/examples/02/screen-3.png": "58c343450e6a1a3c96cc025acc0b134d1c0e528e4277ee9c2d1de8fd6cd69721",
+    "skills/chaptered-product-story/examples/03/brief.json": "d4795b46bca9f0aebd4cf9062c3228854334331087ecc9d0a910be9d9fd06c12",
+    "skills/chaptered-product-story/examples/03/prompt.txt": "57555bde30192d24d615f3b7446ba92cbbf8222c144b521f79ba3ccadd1ccbd3",
+    "skills/chaptered-product-story/examples/03/screen-1.png": "50cd72bbd675d5e291edb084c0cc6bf006d60ef0a2899ac6b419f16522b29e6f",
+    "skills/chaptered-product-story/examples/03/screen-2.png": "c68259e1b7eee60b4c02fe16f2c8d5a6e18bdada48b0b6fed9819b2254e71e9d",
+    "skills/chaptered-product-story/examples/03/screen-3.png": "6096cb9a23c3d666e14aab8a5ae28b513cf0fd4e60b9b97569996906e11586c3",
+    "skills/chaptered-product-story/examples/04/brief.json": "406bb9da0afc180eb3d1d5946a90159f49133a7b7f7cbb0546d539b9c2de0667",
+    "skills/chaptered-product-story/examples/04/prompt.txt": "0270d5fc96608ca2fabb1a992c45aeeec38d9b3986652c129f05828995ab787e",
+    "skills/chaptered-product-story/examples/04/screen-1.png": "20389737eb9b917393dacb3a8d4acc11ee41a272c0af8c4197af1fec205543db",
+    "skills/chaptered-product-story/examples/04/screen-2.png": "fefad8887502892769d1b8d0a4740a438c4e42645aba4fdaa3006e2e98e8f08b",
+    "skills/chaptered-product-story/examples/04/screen-3.png": "272dcb72af39177b05413b5b9518d810562409f4bfd1a18e92eafaa2b0c09cfe",
+    "skills/chaptered-product-story/references/examples.md": "48b9025c1ce0cdfff9c1d574561a40d0575c5ee5dd276dbfaf5f79842f85f83d",
+    "skills/chaptered-product-story/references/origin.md": "9e24103bc167e9be79fc73a942b131309a3536950a898c64f34a19add66118e3",
+    "skills/chaptered-product-story/references/schema.md": "53bee026cb72ed24b96f64cb499d191c958e4ec9a8aa602a79b65b0f0df96268",
+    "skills/chaptered-product-story/scripts/render.py": "80b0f5b5ed1cd5f769da14fc8c9f68e217d97be574b23a319e85e0d8c267d9c0",
     "skills/client-offer-builder/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/client-offer-builder/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/client-offer-builder/README.md": "c6b1935b024d2b767d260a5fedb7b46be02a98882a5436880e5e9536650cebc5",
@@ -1140,6 +1177,486 @@
     },
     {
       "path": "skills/change-in-numbers/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/gallery-poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/review-18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/screens/1.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/screens/2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/screens/3.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/01/recorded/soundtrack.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/gallery-poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/review-18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/screens/1.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/screens/2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/screens/3.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/02/recorded/soundtrack.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/gallery-poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/review-18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/screens/1.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/screens/2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/screens/3.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/03/recorded/soundtrack.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/encode.log",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/gallery-poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/review-18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/screens/1.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/screens/2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/screens/3.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/chaptered-product-story/examples/04/recorded/soundtrack.wav",
       "reason": "rendered example; see website"
     },
     {

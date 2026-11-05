@@ -1,0 +1,49 @@
+{
+  "brand": "Trailcase",
+  "theme": "forest",
+  "title": "turn a trip into a plan.",
+  "promise": "Collect the places. Shape the days. Keep room to wander.",
+  "cta": "Give the journey a shape.",
+  "domain": "trailcase.example / Fictional concept",
+  "kind": "concept",
+  "audio": "original-pulse",
+  "disclosure": "Fictional product concept. Original interfaces and music. No live integration.",
+  "chapters": [
+    {
+      "label": "Save",
+      "headline": "Keep the places together.",
+      "detail": "Collect ideas with the details that matter to this trip.",
+      "proof": "A place, a reason and a useful note.",
+      "screen": "screen-1.png",
+      "source": "Original authored Trailcase concept interface, screen 1; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Arrange",
+      "headline": "Give each day some room.",
+      "detail": "Build an itinerary that leaves space for the unexpected.",
+      "proof": "A plan to review, not a promise.",
+      "screen": "screen-2.png",
+      "source": "Original authored Trailcase concept interface, screen 2; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    },
+    {
+      "label": "Pack",
+      "headline": "Leave with the details.",
+      "detail": "Bring the itinerary, reminders and open questions together.",
+      "proof": "Everything to check before setting off.",
+      "screen": "screen-3.png",
+      "source": "Original authored Trailcase concept interface, screen 3; not a live product.",
+      "focus": [
+        0.5,
+        0.48
+      ]
+    }
+  ]
+}
