@@ -1,4 +1,0 @@
-interface:
-  display_name: "Bold Cutout OG"
-  short_description: "Create original bold cutout og images from your brief"
-  default_prompt: "Use $cad-bold-cutout-og to create an original social-share image for my subject. Use my exact headline, audience and optional brand assets. Choose a fresh composition within this visual style. Generate the image with my connected image tool, review it at thumbnail size, and deliver the image, editable brief and exact prompt."

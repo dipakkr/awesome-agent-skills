@@ -1,0 +1,190 @@
+[
+  {
+    "id": "01",
+    "title": "The community garden team",
+    "subtitle": "18 roles across 6 working groups",
+    "groups": [
+      [
+        "Planning",
+        "Site planner",
+        "Budget keeper",
+        "Season coordinator"
+      ],
+      [
+        "Growing",
+        "Seed starter",
+        "Bed steward",
+        "Compost lead"
+      ],
+      [
+        "Care",
+        "Watering lead",
+        "Tool keeper",
+        "Path steward"
+      ],
+      [
+        "Community",
+        "Volunteer host",
+        "Workshop guide",
+        "Neighbour liaison"
+      ],
+      [
+        "Sharing",
+        "Harvest coordinator",
+        "Recipe curator",
+        "Donation lead"
+      ],
+      [
+        "Learning",
+        "Soil observer",
+        "Record keeper",
+        "Review facilitator"
+      ]
+    ],
+    "palette": "Forest green headline accent; lavender, peach, mint, blush, blue, violet cards",
+    "invocation": "Use $team-atlas. Create one infographic titled \"The community garden team\" with subtitle \"18 roles across 6 working groups\". Use this exact content map:\nPlanning | Site planner | Budget keeper | Season coordinator\nGrowing | Seed starter | Bed steward | Compost lead\nCare | Watering lead | Tool keeper | Path steward\nCommunity | Volunteer host | Workshop guide | Neighbour liaison\nSharing | Harvest coordinator | Recipe curator | Donation lead\nLearning | Soil observer | Record keeper | Review facilitator\nPalette: Forest green headline accent; lavender, peach, mint, blush, blue, violet cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the community garden team infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "02",
+    "title": "The indie film crew",
+    "subtitle": "18 roles across 6 departments",
+    "groups": [
+      [
+        "Story",
+        "Writer",
+        "Researcher",
+        "Script editor"
+      ],
+      [
+        "Production",
+        "Producer",
+        "Coordinator",
+        "Location scout"
+      ],
+      [
+        "Camera",
+        "Cinematographer",
+        "Camera assistant",
+        "Lighting lead"
+      ],
+      [
+        "Sound",
+        "Sound recordist",
+        "Boom operator",
+        "Sound editor"
+      ],
+      [
+        "Art",
+        "Production designer",
+        "Costume designer",
+        "Props coordinator"
+      ],
+      [
+        "Post",
+        "Editor",
+        "Colourist",
+        "Music supervisor"
+      ]
+    ],
+    "palette": "Coral headline accent; soft lavender, apricot, mint, pink, blue, plum cards",
+    "invocation": "Use $team-atlas. Create one infographic titled \"The indie film crew\" with subtitle \"18 roles across 6 departments\". Use this exact content map:\nStory | Writer | Researcher | Script editor\nProduction | Producer | Coordinator | Location scout\nCamera | Cinematographer | Camera assistant | Lighting lead\nSound | Sound recordist | Boom operator | Sound editor\nArt | Production designer | Costume designer | Props coordinator\nPost | Editor | Colourist | Music supervisor\nPalette: Coral headline accent; soft lavender, apricot, mint, pink, blue, plum cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the indie film crew infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "03",
+    "title": "The online course team",
+    "subtitle": "18 roles across 6 workstreams",
+    "groups": [
+      [
+        "Research",
+        "Learner researcher",
+        "Interview lead",
+        "Needs analyst"
+      ],
+      [
+        "Curriculum",
+        "Course architect",
+        "Lesson planner",
+        "Assessment designer"
+      ],
+      [
+        "Production",
+        "Presenter",
+        "Video editor",
+        "Slide designer"
+      ],
+      [
+        "Experience",
+        "Accessibility reviewer",
+        "Platform builder",
+        "QA tester"
+      ],
+      [
+        "Community",
+        "Discussion host",
+        "Support lead",
+        "Feedback coordinator"
+      ],
+      [
+        "Improvement",
+        "Learning analyst",
+        "Content updater",
+        "Review facilitator"
+      ]
+    ],
+    "palette": "Cobalt headline accent; lavender, peach, mint, pink, sky, lilac cards",
+    "invocation": "Use $team-atlas. Create one infographic titled \"The online course team\" with subtitle \"18 roles across 6 workstreams\". Use this exact content map:\nResearch | Learner researcher | Interview lead | Needs analyst\nCurriculum | Course architect | Lesson planner | Assessment designer\nProduction | Presenter | Video editor | Slide designer\nExperience | Accessibility reviewer | Platform builder | QA tester\nCommunity | Discussion host | Support lead | Feedback coordinator\nImprovement | Learning analyst | Content updater | Review facilitator\nPalette: Cobalt headline accent; lavender, peach, mint, pink, sky, lilac cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the online course team infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  },
+  {
+    "id": "04",
+    "title": "The small shop team",
+    "subtitle": "18 roles across 6 business areas",
+    "groups": [
+      [
+        "Products",
+        "Buyer",
+        "Supplier liaison",
+        "Quality reviewer"
+      ],
+      [
+        "Store",
+        "Merchandiser",
+        "Listing writer",
+        "Store builder"
+      ],
+      [
+        "Marketing",
+        "Campaign planner",
+        "Content creator",
+        "Email specialist"
+      ],
+      [
+        "Customers",
+        "Support advisor",
+        "Returns coordinator",
+        "Community host"
+      ],
+      [
+        "Operations",
+        "Inventory planner",
+        "Order coordinator",
+        "Delivery liaison"
+      ],
+      [
+        "Management",
+        "Bookkeeper",
+        "Performance analyst",
+        "Business planner"
+      ]
+    ],
+    "palette": "Rust headline accent; lavender, peach, mint, rose, powder blue, lilac cards",
+    "invocation": "Use $team-atlas. Create one infographic titled \"The small shop team\" with subtitle \"18 roles across 6 business areas\". Use this exact content map:\nProducts | Buyer | Supplier liaison | Quality reviewer\nStore | Merchandiser | Listing writer | Store builder\nMarketing | Campaign planner | Content creator | Email specialist\nCustomers | Support advisor | Returns coordinator | Community host\nOperations | Inventory planner | Order coordinator | Delivery liaison\nManagement | Bookkeeper | Performance analyst | Business planner\nPalette: Rust headline accent; lavender, peach, mint, rose, powder blue, lilac cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+    "brief": "Original illustrative the small shop team infographic for a professional feed. No performance or vendor claims.",
+    "usage": "Replace the topic and content map in the example invocation. Retain the skill layout and review every label before posting."
+  }
+]

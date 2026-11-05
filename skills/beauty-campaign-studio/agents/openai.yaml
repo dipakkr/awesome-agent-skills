@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beauty Campaign Studio"
+  short_description: "Beauty ads from your own products and brand"
+  default_prompt: "Use $beauty-campaign-studio to create fresh ad concepts from my product, audience and brand inputs."

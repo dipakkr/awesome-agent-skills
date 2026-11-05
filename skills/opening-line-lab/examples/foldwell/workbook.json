@@ -1,0 +1,101 @@
+{
+  "title": "Opening Line Lab",
+  "brand": "Foldwell / packing cube prototype",
+  "purpose": "Put every opening beside the scene and evidence that must support it.",
+  "accent": "coral",
+  "disclosure": "FICTIONAL WORKED EXAMPLE. All products, feedback and constraints here are synthetic. No campaign has run and no performance result is claimed.",
+  "sources": [
+    {
+      "id": "P1",
+      "label": "Fictional product brief",
+      "text": "A fictional packing cube has a labeled divider and two zipped compartments. No tested time saving, capacity gain or durability claim is supplied.",
+      "locator": "Synthetic input / product brief / paragraph 1"
+    },
+    {
+      "id": "R1",
+      "label": "Positive feedback",
+      "text": "I could see which side held the clean shirts.",
+      "locator": "Synthetic input / feedback.csv / row 1"
+    },
+    {
+      "id": "R2",
+      "label": "Mixed feedback",
+      "text": "The divider helped, but the cube felt bulky in my small bag.",
+      "locator": "Synthetic input / feedback.csv / row 2"
+    },
+    {
+      "id": "R3",
+      "label": "Unresolved buyer question",
+      "text": "Will it fit my 18 litre backpack?",
+      "locator": "Synthetic input / feedback.csv / row 3"
+    },
+    {
+      "id": "A1",
+      "label": "Production inventory",
+      "text": "One prototype, one phone, one tabletop and one editor are available. No customer testimonial footage is licensed.",
+      "locator": "Synthetic input / inventory / paragraph 1"
+    }
+  ],
+  "cards": [
+    {
+      "id": "H1",
+      "title": "Let the feature carry the opening",
+      "status": "Ready",
+      "decision": "Show where each shirt goes.",
+      "fields": {
+        "Opening line": "Show where each shirt goes.",
+        "Implied promise": "The viewer can inspect two zipped compartments.",
+        "First frame": "Open the prototype and move a shirt into each labeled compartment.",
+        "Proof beat": "Show the real feature without a cut that changes its state. Use synthetic records where relevant.",
+        "Transition": "Invite the viewer to inspect the product details.",
+        "Test note": "Draft only. Keep the body identical if comparing openings."
+      },
+      "next": "Read aloud, check silent comprehension and capture the proof beat.",
+      "evidence": [
+        "P1",
+        "A1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "H2",
+      "title": "Name the unresolved check",
+      "status": "Explore",
+      "decision": "Before packing a small bag, what do you need to check?",
+      "fields": {
+        "Opening line": "Before packing a small bag, what do you need to check?",
+        "Implied promise": "The ad will name a relevant check, not guarantee compatibility.",
+        "First frame": "Place the question beside the product, without implying a passing test.",
+        "Proof beat": "Will it fit my 18 litre backpack?",
+        "Transition": "Invite inspection of verified specifications; do not imply the answer is yes.",
+        "Test note": "Use only after the answer and matching footage exist."
+      },
+      "next": "Replace the question with a demonstrated answer once verified.",
+      "evidence": [
+        "R3",
+        "P1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "H3",
+      "title": "A number the evidence cannot carry",
+      "status": "Hold",
+      "decision": "Pack twice as much in half the time.",
+      "fields": {
+        "Opening line": "Pack twice as much in half the time.",
+        "Implied promise": "A quantified improvement for every user.",
+        "First frame": "No valid comparison footage supplied.",
+        "Proof beat": "Missing controlled measurement.",
+        "Transition": "Replace with the feature inspection line.",
+        "Rejection reason": "The numerical promise exceeds the evidence; attention does not justify it."
+      },
+      "next": "Discard this draft from the production shortlist.",
+      "evidence": [
+        "P1",
+        "R2"
+      ],
+      "note": ""
+    }
+  ]
+}

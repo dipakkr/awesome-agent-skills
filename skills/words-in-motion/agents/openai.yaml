@@ -1,0 +1,4 @@
+interface:
+  display_name: "Words In Motion"
+  short_description: "Render an editable kinetic headline reel locally"
+  default_prompt: "Use $words-in-motion to make a film from my brief and review its motion and copy."

@@ -1,0 +1,43 @@
+{
+  "skill": "paper-depth-covers",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Room to think",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "78c52e724014e925b5e6e2acc46591831e47fc0b024838c671824b5317577ea1",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $paper-depth-covers. Create a new output based on the packaged example \"Room to think\". Brief: A quiet-focus editorial cover, an original metaphor rather than a product claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Ideas cross the gap",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "866f227cf1e70ddaa9c13fffb6a5ede9bf9637aec6cf6d67b0dad48cdbfcd9d3",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $paper-depth-covers. Create a new output based on the packaged example \"Ideas cross the gap\". Brief: A collaboration article cover using a paper bridge as a metaphor. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A growing community",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "05003c71b923f89599ea07e389c7f7227344590462b7861489d529ac9d80bf6c",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $paper-depth-covers. Create a new output based on the packaged example \"A growing community\". Brief: A community newsletter cover, not a photograph of a real place. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Follow the rhythm",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "f350d2db47c0ceff6a2827e85bf261735828a87b83168e978026e104c9f5283b",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $paper-depth-covers. Create a new output based on the packaged example \"Follow the rhythm\". Brief: An abstract music-event cover with no invented event details. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

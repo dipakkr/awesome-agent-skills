@@ -1,4 +1,0 @@
-interface:
-  display_name: "Freelance Proposal Deck"
-  short_description: "Create editable proposal presentations from your brief"
-  default_prompt: "Use $cad-freelance-proposal-deck to make a presentation for my audience using my brief and optional assets."

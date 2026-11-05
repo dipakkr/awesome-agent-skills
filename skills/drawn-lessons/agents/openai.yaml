@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drawn Lessons"
+  short_description: "Create editable doodle presentations from your brief"
+  default_prompt: "Use $drawn-lessons to make a presentation for my audience using my brief and optional assets."

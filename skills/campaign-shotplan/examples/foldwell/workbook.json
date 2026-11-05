@@ -1,0 +1,104 @@
+{
+  "title": "Campaign Shotplan",
+  "brand": "Foldwell / packing cube prototype",
+  "purpose": "Give the production team a feasible route, a proof beat and a clear acceptance check.",
+  "accent": "lavender",
+  "disclosure": "FICTIONAL WORKED EXAMPLE. All products, feedback and constraints here are synthetic. No campaign has run and no performance result is claimed.",
+  "sources": [
+    {
+      "id": "P1",
+      "label": "Fictional product brief",
+      "text": "A fictional packing cube has a labeled divider and two zipped compartments. No tested time saving, capacity gain or durability claim is supplied.",
+      "locator": "Synthetic input / product brief / paragraph 1"
+    },
+    {
+      "id": "R1",
+      "label": "Positive feedback",
+      "text": "I could see which side held the clean shirts.",
+      "locator": "Synthetic input / feedback.csv / row 1"
+    },
+    {
+      "id": "R2",
+      "label": "Mixed feedback",
+      "text": "The divider helped, but the cube felt bulky in my small bag.",
+      "locator": "Synthetic input / feedback.csv / row 2"
+    },
+    {
+      "id": "R3",
+      "label": "Unresolved buyer question",
+      "text": "Will it fit my 18 litre backpack?",
+      "locator": "Synthetic input / feedback.csv / row 3"
+    },
+    {
+      "id": "A1",
+      "label": "Production inventory",
+      "text": "One prototype, one phone, one tabletop and one editor are available. No customer testimonial footage is licensed.",
+      "locator": "Synthetic input / inventory / paragraph 1"
+    }
+  ],
+  "cards": [
+    {
+      "id": "B1",
+      "title": "One feature, one continuous proof",
+      "status": "Ready",
+      "decision": "A 15-second review cut built from the available product or demo workspace.",
+      "fields": {
+        "Viewer takeaway": "Show where each shirt goes.",
+        "Execution route": "Direct demonstration with on-screen labels.",
+        "Beat schedule": "0-3s: orient the viewer. 3-10s: demonstrate the feature. 10-15s: show the product-detail next step. Total: 15s.",
+        "Asset inventory": "One prototype, one phone, one tabletop and one editor are available. No customer testimonial footage is licensed. Demonstration footage is planned, not captured.",
+        "Owner": "Unassigned producer / editor.",
+        "Acceptance check": "Feature remains visible; wording stays within P1; captions work muted; no identifiable customer data.",
+        "Fallback": "A labeled still-image animatic for review if recording is unavailable."
+      },
+      "next": "Capture the demonstration; Ready applies to the plan, not to finished media.",
+      "evidence": [
+        "P1",
+        "A1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "B2",
+      "title": "Do not stage a customer endorsement",
+      "status": "Hold",
+      "decision": "A testimonial route is not supported by the current assets.",
+      "fields": {
+        "Viewer takeaway": "Would imply a real customer experience if presented as testimony.",
+        "Execution route": "Rejected testimonial concept.",
+        "Beat schedule": "Not scheduled; no authorized performance or script.",
+        "Asset inventory": "No licensed testimonial recording or approved customer quotation supplied.",
+        "Owner": "Unassigned producer.",
+        "Acceptance check": "Do not turn synthetic feedback into a real testimonial.",
+        "Fallback": "Use the direct product demonstration without a customer persona."
+      },
+      "next": "Remove the testimonial route or obtain an authorized real account and review its exact claim.",
+      "evidence": [
+        "A1",
+        "R1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "B3",
+      "title": "Capture the missing compatibility check",
+      "status": "Explore",
+      "decision": "Fit in a small backpack",
+      "fields": {
+        "Viewer takeaway": "Show a verified capability only after testing it.",
+        "Execution route": "A short inspection insert, conditional on a successful check.",
+        "Beat schedule": "Proposed 5-second insert replaces part of the 3-10s beat; total stays 15s.",
+        "Asset inventory": "Will it fit my 18 litre backpack?",
+        "Owner": "Unassigned product reviewer.",
+        "Acceptance check": "Document the actual outcome; a failure must change the script.",
+        "Fallback": "Omit the compatibility claim and retain the narrower feature story."
+      },
+      "next": "Resolve the buyer question before writing the insert as a fact.",
+      "evidence": [
+        "P1",
+        "R3"
+      ],
+      "note": ""
+    }
+  ]
+}

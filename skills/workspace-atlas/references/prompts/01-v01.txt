@@ -1,0 +1,15 @@
+Create a polished finished LinkedIn editorial infographic.
+VISUAL CONTRACT:
+Tall 2:3 infographic on warm white. Large black editorial serif heading, smaller gray subtitle. Left half is a precise folder tree: one root folder, six numbered subfolders, two leaf files per subfolder, fine gray tree connectors and small blue folder/document icons. Filenames in compact readable dark navy monospaced type. Right half has six aligned pale-blue rounded panels, each containing the two short purpose descriptions corresponding to the files on the left. Fine dotted horizontal leader lines link each filename to its corresponding description. Every row aligns exactly. Tiny coral accents, clear generous spacing, no ornamental logos or fake affiliations. This is an illustrative workspace map, not a claim of included executable files.
+
+EXACT USER REQUEST:
+Use $workspace-atlas. Create one infographic titled "A podcast launch workspace" with subtitle "12 files from idea to first episode". Use this exact content map:
+01-direction | audience.md|Define the listener | promise.md|Explain the show
+02-format | structure.md|Shape each episode | schedule.md|Choose a cadence
+03-content | topics.md|Build a topic list | outline.md|Plan the first episode
+04-production | recording.md|Prepare the session | editing.md|Guide the edit
+05-launch | show-page.md|Introduce the podcast | announce.md|Write the launch note
+06-learning | feedback.md|Collect listener notes | review.md|Choose what improves
+Palette: Warm white, navy text, blue folders, ice-blue panels, coral accent. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.
+
+Render all supplied text accurately. No extra content. Use original topic-specific icons. Match the supplied visual contract closely. Large portrait canvas, requested 1024 by 1536 pixels for tall layouts, or 1200 by 1500 for the department map. At least 5% edge padding. The text is the primary content, not decoration.

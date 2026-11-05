@@ -1,0 +1,4 @@
+interface:
+  display_name: "Merchant Intake"
+  short_description: "Turn business notes into a reusable store brief"
+  default_prompt: "Use $merchant-intake to organize my store idea and product facts into a reusable brief."

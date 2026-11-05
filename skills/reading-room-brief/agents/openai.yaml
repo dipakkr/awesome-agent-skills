@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reading Room Brief"
+  short_description: "Create editable article presentations from your brief"
+  default_prompt: "Use $reading-room-brief to make a presentation for my audience using my brief and optional assets."

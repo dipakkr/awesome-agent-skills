@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soft Object Cards"
+  short_description: "Create original calm clay og images from your brief"
+  default_prompt: "Use $soft-object-cards to create an original social-share image for my subject. Use my exact headline, audience and optional brand assets. Choose a fresh composition within this visual style. Generate the image with my connected image tool, review it at thumbnail size, and deliver the image, editable brief and exact prompt."

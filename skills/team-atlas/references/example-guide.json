@@ -1,0 +1,43 @@
+{
+  "skill": "team-atlas",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "The community garden team",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "552bf79d0d9fe0ddd3e67d4a61a08c495d69f5b9227ececc2d4327ac5bec4f9e",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $team-atlas. Create one infographic titled \"The community garden team\" with subtitle \"18 roles across 6 working groups\". Use this exact content map:\nPlanning | Site planner | Budget keeper | Season coordinator\nGrowing | Seed starter | Bed steward | Compost lead\nCare | Watering lead | Tool keeper | Path steward\nCommunity | Volunteer host | Workshop guide | Neighbour liaison\nSharing | Harvest coordinator | Recipe curator | Donation lead\nLearning | Soil observer | Record keeper | Review facilitator\nPalette: Forest green headline accent; lavender, peach, mint, blush, blue, violet cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "The indie film crew",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "824c2b5122ce6ef9855f8ee3b5d878e2cc24809573220f9cbe8f23a193ac6229",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $team-atlas. Create one infographic titled \"The indie film crew\" with subtitle \"18 roles across 6 departments\". Use this exact content map:\nStory | Writer | Researcher | Script editor\nProduction | Producer | Coordinator | Location scout\nCamera | Cinematographer | Camera assistant | Lighting lead\nSound | Sound recordist | Boom operator | Sound editor\nArt | Production designer | Costume designer | Props coordinator\nPost | Editor | Colourist | Music supervisor\nPalette: Coral headline accent; soft lavender, apricot, mint, pink, blue, plum cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "The online course team",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "ee9163aa4cdb9785f86b1829547a2c1c1b60a9fccedae313d6f19870b1563fbc",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $team-atlas. Create one infographic titled \"The online course team\" with subtitle \"18 roles across 6 workstreams\". Use this exact content map:\nResearch | Learner researcher | Interview lead | Needs analyst\nCurriculum | Course architect | Lesson planner | Assessment designer\nProduction | Presenter | Video editor | Slide designer\nExperience | Accessibility reviewer | Platform builder | QA tester\nCommunity | Discussion host | Support lead | Feedback coordinator\nImprovement | Learning analyst | Content updater | Review facilitator\nPalette: Cobalt headline accent; lavender, peach, mint, pink, sky, lilac cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    },
+    {
+      "title": "The small shop team",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "e8e97ebe12311293d4f789122a0b836ebbb6e44879af64b4a2e839bf6341df6d",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $team-atlas. Create one infographic titled \"The small shop team\" with subtitle \"18 roles across 6 business areas\". Use this exact content map:\nProducts | Buyer | Supplier liaison | Quality reviewer\nStore | Merchandiser | Listing writer | Store builder\nMarketing | Campaign planner | Content creator | Email specialist\nCustomers | Support advisor | Returns coordinator | Community host\nOperations | Inventory planner | Order coordinator | Delivery liaison\nManagement | Bookkeeper | Performance analyst | Business planner\nPalette: Rust headline accent; lavender, peach, mint, rose, powder blue, lilac cards. Use the skill's layout. No logo, author attribution or CTA. Keep every item legible and preserve the exact counts.",
+      "invocationProvenance": "authored-before-generation"
+    }
+  ]
+}

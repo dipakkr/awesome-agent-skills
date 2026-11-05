@@ -1,0 +1,32 @@
+{
+  "skill": "talking-models",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "id": "caching",
+      "prompt": "Use $talking-models to explain caching in a short vertical Instagram video. Use original Milo and Pip characters, the mint room, natural two-voice dialogue and an evolving whiteboard. Start with a beginner question, teach one analogy, state its limitation, and end with a light joke. Follow examples/caching/brief.json for this recorded example. Generate the audio with my configured provider, time captions from the real audio, render the MP4 and keep all editable source. Do not copy the supplied reference characters, restaurant analogy, wording or watermark.",
+      "brief": "examples/caching/brief.json",
+      "output": "examples/caching/recorded/film.mp4"
+    },
+    {
+      "id": "webhooks",
+      "prompt": "Use $talking-models to explain webhooks in a short vertical Instagram video. Use original Milo and Pip characters, the peach room, natural two-voice dialogue and an evolving whiteboard. Start with a beginner question, teach one analogy, state its limitation, and end with a light joke. Follow examples/webhooks/brief.json for this recorded example. Generate the audio with my configured provider, time captions from the real audio, render the MP4 and keep all editable source. Do not copy the supplied reference characters, restaurant analogy, wording or watermark.",
+      "brief": "examples/webhooks/brief.json",
+      "output": "examples/webhooks/recorded/film.mp4"
+    },
+    {
+      "id": "rate-limits",
+      "prompt": "Use $talking-models to explain rate limits in a short vertical Instagram video. Use original Milo and Pip characters, the violet room, natural two-voice dialogue and an evolving whiteboard. Start with a beginner question, teach one analogy, state its limitation, and end with a light joke. Follow examples/rate-limits/brief.json for this recorded example. Generate the audio with my configured provider, time captions from the real audio, render the MP4 and keep all editable source. Do not copy the supplied reference characters, restaurant analogy, wording or watermark.",
+      "brief": "examples/rate-limits/brief.json",
+      "output": "examples/rate-limits/recorded/film.mp4"
+    },
+    {
+      "id": "job-queues",
+      "prompt": "Use $talking-models to explain job queues in a short vertical Instagram video. Use original Milo and Pip characters, the night room, natural two-voice dialogue and an evolving whiteboard. Start with a beginner question, teach one analogy, state its limitation, and end with a light joke. Follow examples/job-queues/brief.json for this recorded example. Generate the audio with my configured provider, time captions from the real audio, render the MP4 and keep all editable source. Do not copy the supplied reference characters, restaurant analogy, wording or watermark.",
+      "brief": "examples/job-queues/brief.json",
+      "output": "examples/job-queues/recorded/film.mp4"
+    }
+  ],
+  "verification": "Author-executed real voice generation, local renders, sampled shot review and local transcript comparison; not independent customer testing."
+}

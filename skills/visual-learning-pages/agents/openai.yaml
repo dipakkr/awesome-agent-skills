@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Learning Pages"
+  short_description: "Create readable handwritten learning images"
+  default_prompt: "Use $visual-learning-pages to turn my source into an original handwritten learning image."

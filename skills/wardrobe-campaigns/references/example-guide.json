@@ -1,0 +1,43 @@
+{
+  "skill": "wardrobe-campaigns",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "One overshirt, weekday context",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "842aa91b45fb17eafdd5ae038379a26a16f5cc2cdae82d78b705f3acc8d44933",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $wardrobe-campaigns. Create a new output based on the packaged example \"One overshirt, weekday context\". Brief: Build an occasion-led campaign for a fictional navy cotton overshirt, with two chest pockets and horn-colour buttons. Adult commuters; quiet grey palette; no logo or discount. Headline: One layer. Many plans. CTA: Find your layer. Treat the product as a concept. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Graphic tote drop",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "2496f38a509a15a2aaca9d724208b3e23fbe8d639910f0b2325de18f5428fb16",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $wardrobe-campaigns. Create a new output based on the packaged example \"Graphic tote drop\". Brief: Make a playful detail-led campaign for a concept canvas tote with an original concept orange sun print on one side. Student audience; cobalt background. Headline: Carry a little colour. CTA: See the tote. No model, no logo, no unprovided capacity claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Sculptural cuff",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "1c1270c69e6779be0799d204df50edef78b5868acbb3ba19a065164efb6eebfb",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $wardrobe-campaigns. Create a new output based on the packaged example \"Sculptural cuff\". Brief: Concept single unbranded silver cuff; detail-led accessory campaign, no purity or origin claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Ribbed scarf",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "a4a8f4c41c4be8349cf9e8dd8e62900b70ee436f09116df37c91293819c511ef",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $wardrobe-campaigns. Create a new output based on the packaged example \"Ribbed scarf\". Brief: Concept burgundy ribbed scarf; quiet winter styling, no fabric or warmth-performance claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Listing Copywriter"
+  short_description: "Create sourced listings and draft Shopify exports"
+  default_prompt: "Use $listing-copywriter to prepare product listings from my store brief."

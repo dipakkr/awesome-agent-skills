@@ -1,48 +1,48 @@
 # Skill source index
 
-Preview outputs, download a packaged skill and find usage examples on its website page.
+Choose a workflow, then open its instructions and supporting source files.
 
-| Skill | Source | Website | Source status |
-| --- | --- | --- | --- |
-| 3D Dialogue Explainer | [Files](skills/cad-3d-dialogue-explainer/SKILL.md) | [Preview and download](https://claudeai.directory/skills/3d-dialogue-explainer) | Original / MIT |
-| Active Recall Sheets | [Files](skills/cad-active-recall-sheets/SKILL.md) | [Preview and download](https://claudeai.directory/skills/active-recall-sheets) | Original / MIT |
-| Ad Motion Export | [Files](skills/cad-ad-motion-export/SKILL.md) | [Preview and download](https://claudeai.directory/skills/ad-motion-export) | Original / MIT |
-| Ad Production Blueprint | [Files](skills/cad-ad-production-blueprint/SKILL.md) | [Preview and download](https://claudeai.directory/skills/ad-production-blueprint) | Original / MIT |
-| Amazon A+ Brand Story | [Files](skills/cad-amazon-aplus-brand-story/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-aplus-brand-story) | Original / MIT |
-| Amazon Feature Infographic | [Files](skills/cad-amazon-feature-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-feature-infographic) | Original / MIT |
-| Amazon Packaging Detail | [Files](skills/cad-amazon-packaging-detail/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-packaging-detail) | Original / MIT |
-| Amazon Product Comparison | [Files](skills/cad-amazon-product-comparison/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-product-comparison) | Original / MIT |
-| Amazon Store Collection Tile | [Files](skills/cad-amazon-store-collection-tile/SKILL.md) | [Preview and download](https://claudeai.directory/skills/amazon-store-collection-tile) | Original / MIT |
-| Article Briefing Deck | [Files](skills/cad-article-briefing-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/article-briefing-deck) | Original / MIT |
-| Beauty Product Ads | [Files](skills/cad-beauty-product-ads/SKILL.md) | [Preview and download](https://claudeai.directory/skills/beauty-product-ads) | Original / MIT |
-| Bold Cutout OG | [Files](skills/cad-bold-cutout-og/SKILL.md) | [Preview and download](https://claudeai.directory/skills/bold-cutout-og) | Original / MIT |
-| Brand Strategy Deck | [Files](skills/cad-brand-strategy-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/brand-strategy-deck) | Original / MIT |
-| Calm Clay OG | [Files](skills/cad-calm-clay-og/SKILL.md) | [Preview and download](https://claudeai.directory/skills/calm-clay-og) | Original / MIT |
-| Case Study Results Deck | [Files](skills/cad-case-study-results-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/case-study-results-deck) | Original / MIT |
-| Comedy 3D Explainer | [Files](skills/cad-comedy-3d-explainer/SKILL.md) | [Preview and download](https://claudeai.directory/skills/comedy-3d-explainer) | Original / MIT |
-| Commercial Doodle Ad | [Files](skills/cad-commercial-doodle-ad/SKILL.md) | [Preview and download](https://claudeai.directory/skills/commercial-doodle-ad) | Original / MIT |
-| Consulting Decision Deck | [Files](skills/cad-consulting-decision-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/consulting-decision-deck) | Original / MIT |
-| Creative Experiment Planner | [Files](skills/cad-creative-experiment-planner/SKILL.md) | [Preview and download](https://claudeai.directory/skills/creative-experiment-planner) | Original / MIT |
-| Customer Evidence Board | [Files](skills/cad-customer-evidence-board/SKILL.md) | [Preview and download](https://claudeai.directory/skills/customer-evidence-board) | Original / MIT |
-| Department Map Infographic | [Files](skills/cad-department-map-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/department-map-infographic) | Original / MIT |
-| Doodle Explainer Deck | [Files](skills/cad-doodle-explainer-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/doodle-explainer-deck) | Original / MIT |
-| Ecommerce Product Listing | [Files](skills/cad-ecommerce-product-listing/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
-| Ecommerce Store Brief | [Files](skills/cad-ecommerce-store-brief/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
-| Engraved Story Cover | [Files](skills/cad-engraved-story-cover/SKILL.md) | [Preview and download](https://claudeai.directory/skills/engraved-story-cover) | Original / MIT |
-| Fashion Product Ads | [Files](skills/cad-fashion-product-ads/SKILL.md) | [Preview and download](https://claudeai.directory/skills/fashion-product-ads) | Original / MIT |
-| Folder Workflow Infographic | [Files](skills/cad-folder-workflow-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/folder-workflow-infographic) | Original / MIT |
-| Freelance Proposal Deck | [Files](skills/cad-freelance-proposal-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/freelance-proposal-deck) | Original / MIT |
-| Geometric Share Card | [Files](skills/cad-geometric-share-card/SKILL.md) | [Preview and download](https://claudeai.directory/skills/geometric-share-card) | Original / MIT |
-| Handwritten Notes Document | [Files](skills/cad-handwritten-notes-document/SKILL.md) | [Preview and download](https://claudeai.directory/skills/handwritten-notes-document) | Original / MIT |
-| Home Product Demo Ads | [Files](skills/cad-home-product-ads/SKILL.md) | [Preview and download](https://claudeai.directory/skills/home-product-ads) | Original / MIT |
-| Hook & Proof Lab | [Files](skills/cad-hook-proof-lab/SKILL.md) | [Preview and download](https://claudeai.directory/skills/hook-proof-lab) | Original / MIT |
-| Illustrated Study Notes | [Files](skills/cad-illustrated-study-notes/SKILL.md) | [Preview and download](https://claudeai.directory/skills/illustrated-study-notes) | Original / MIT |
-| Investor Pitch Deck | [Files](skills/cad-investor-pitch-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/investor-pitch-deck) | Original / MIT |
-| Isometric Workflow Scene | [Files](skills/cad-isometric-workflow-scene/SKILL.md) | [Preview and download](https://claudeai.directory/skills/isometric-workflow-scene) | Original / MIT |
-| Motion · Kinetic Typography | [Files](skills/cad-kinetic-headline-reel/SKILL.md) | [Preview and download](https://claudeai.directory/skills/kinetic-headline-reel) | Original / MIT |
-| Layered Paper Cover | [Files](skills/cad-layered-paper-cover/SKILL.md) | [Preview and download](https://claudeai.directory/skills/layered-paper-cover) | Original / MIT |
-| Layered Stack Infographic | [Files](skills/cad-layered-stack-infographic/SKILL.md) | [Preview and download](https://claudeai.directory/skills/layered-stack-infographic) | Original / MIT |
-| LinkedIn Company Culture Image | [Files](skills/cad-linkedin-company-culture-image/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-company-culture-image) | Original / MIT |
-| LinkedIn Data Story | [Files](skills/cad-linkedin-data-story/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-data-story) | Original / MIT |
-| LinkedIn Document Cover | [Files](skills/cad-linkedin-document-cover/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-document-cover) | Original / MIT |
-| LinkedIn Event Promo | [Files](skills/cad-linkedin-event-promo/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-event-promo) | Original / MIT |
+| Skill | What it helps you do |
+| --- | --- |
+| [Beauty Campaign Studio](skills/beauty-campaign-studio/SKILL.md) | Create beauty ads around your product, audience and offer, from a quiet fragrance hero to a colourful everyday routine. |
+| [Benefit Panels](skills/benefit-panels/SKILL.md) | Turn verified product attributes into a readable secondary listing graphic with concise callouts. |
+| [Brand Shelf Story](skills/brand-shelf-story/SKILL.md) | Create a cohesive visual scene for a brand narrative using supplied positioning and honest product context. |
+| [Buyer Choice Table](skills/buyer-choice-table/SKILL.md) | Build a neutral same-brand comparison from supplied specifications without unsupported superiority claims. |
+| [Campaign Shotplan](skills/campaign-shotplan/SKILL.md) | Translate a supported creative idea and real asset inventory into a production handoff with shot beats, missing assets and acceptance checks. |
+| [Campaign Testbench](skills/campaign-testbench/SKILL.md) | Turn a creative question into a controlled test backlog with explicit variables, measurement rules and inconclusive outcomes. |
+| [Client Offer Builder](skills/client-offer-builder/SKILL.md) | Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions. |
+| [Clip Assembler](skills/clip-assembler/SKILL.md) | Turn approved artwork and clips into a short MP4 and optional GIF with an editable timeline and measured export report. |
+| [Collection Thumbnails](skills/collection-thumbnails/SKILL.md) | Create a text-free square collection image for a small Amazon Store tile, with a clear product family and space for native link text. |
+| [Comic Lab Scenes](skills/comic-lab-scenes/SKILL.md) | Turn one useful idea into a funny 3D skit: a confident misunderstanding, a deadpan robot, an absurd prop and a callback ending. |
+| [Concept Layers](skills/concept-layers/SKILL.md) | Create a LinkedIn infographic that organizes a tool stack, capability stack or operating system into pastel horizontal layers with labelled icon tiles. |
+| [Drawn Lessons](skills/drawn-lessons/SKILL.md) | Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats. |
+| [Everyday Object Demo](skills/everyday-object-demo/SKILL.md) | Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details. |
+| [Funding Story](skills/funding-story/SKILL.md) | Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone. |
+| [Gathering Announcement](skills/gathering-announcement/SKILL.md) | Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials. |
+| [Identity Playbook](skills/identity-playbook/SKILL.md) | Present positioning, visual principles, voice and applications as one coherent brand direction with editable guidance. |
+| [Ink Cut Covers](skills/ink-cut-covers/SKILL.md) | Turn a story or article into an original ink engraving with a strong metaphor, detailed hatching and room for editorial typography. |
+| [Listing Copywriter](skills/listing-copywriter/SKILL.md) | Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger. |
+| [Memory Drills](skills/memory-drills/SKILL.md) | Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key. |
+| [Merchant Intake](skills/merchant-intake/SKILL.md) | Turn an ecommerce founder's conversation and supplied product information into a reusable store brief, sourced product facts, missing-input list and next steps for preparing listings and launch work. |
+| [Numbers To Narrative](skills/numbers-to-narrative/SKILL.md) | Turn a small supplied dataset into an accurate, clearly labelled feed graphic with units, source and an honest takeaway. |
+| [Opening Line Lab](skills/opening-line-lab/SKILL.md) | Develop ad openings together with the evidence and first scene needed to support each promise, in an editable comparison workbook. |
+| [Outcome Narrative](skills/outcome-narrative/SKILL.md) | Present the situation, intervention, measured result and limitations of a project without hiding attribution or uncertainty. |
+| [Paper Depth Covers](skills/paper-depth-covers/SKILL.md) | Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline. |
+| [Pen And Page](skills/pen-and-page/SKILL.md) | Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request. |
+| [Punchy Photo Cards](skills/punchy-photo-cards/SKILL.md) | Create expressive social-share artwork with photographic cutouts, oversized type and confident graphic shapes. |
+| [Reading Room Brief](skills/reading-room-brief/SKILL.md) | Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes. |
+| [Recommendation Room](skills/recommendation-room/SKILL.md) | Build a recommendation-first decision deck with a clear issue, supported analysis, tradeoffs and an owned next step. |
+| [Report Front Page](skills/report-front-page/SKILL.md) | Create the opening cover graphic for a useful LinkedIn document, guide or carousel using a clear reader promise. |
+| [Shape And Type](skills/shape-and-type/SKILL.md) | Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy. |
+| [Sketch To Sell](skills/sketch-to-sell/SKILL.md) | Create expressive commercial doodle images, or turn a sequence into a long scrolling or paginated PDF. Choose the format in your request. |
+| [Soft Object Cards](skills/soft-object-cards/SKILL.md) | Build gentle product and habit graphics with soft clay characters, tactile objects and spacious editorial type. |
+| [Talking Models](skills/talking-models/SKILL.md) | Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions. |
+| [Team Atlas](skills/team-atlas/SKILL.md) | Create a LinkedIn department or capability map with six grouped role cards arranged around a central topic symbol and color-coded connectors. |
+| [Team Values Card](skills/team-values-card/SKILL.md) | Create a square company-culture post from an approved value, working habit or team story. |
+| [Tiny Workspaces](skills/tiny-workspaces/SKILL.md) | Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts. |
+| [Unboxing Inventory](skills/unboxing-inventory/SKILL.md) | Show the exact package contents in a clear secondary listing image, with quantities and packaging grounded in supplied facts. |
+| [Visual Learning Pages](skills/visual-learning-pages/SKILL.md) | Create illustrated handwritten study sheets from your chapters, class notes or topics. |
+| [Voice Of Buyer](skills/voice-of-buyer/SKILL.md) | Turn mixed customer feedback and product facts into a source-linked browser board of supported messages, contradictions and research gaps. |
+| [Wardrobe Campaigns](skills/wardrobe-campaigns/SKILL.md) | Create apparel and accessory ads with fresh styling, clear product details and a message shaped around the occasion. |
+| [Words In Motion](skills/words-in-motion/SKILL.md) | Turn three short teaching points into a typographic reel with staggered words, a highlight wipe and a drawn underline. Use for creator lessons, launch teasers and concise social tips. |
+| [Workspace Atlas](skills/workspace-atlas/SKILL.md) | Create a LinkedIn workspace infographic that pairs a six-section folder tree with short explanations of what each file contributes to a workflow. |

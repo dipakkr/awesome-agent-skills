@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clip Assembler"
+  short_description: "Turn approved artwork and clips into MP4 and GIF"
+  default_prompt: "Use $clip-assembler to assemble my ad assets into a short video with an editable timeline."

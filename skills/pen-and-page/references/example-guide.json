@@ -1,0 +1,43 @@
+{
+  "skill": "pen-and-page",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Start with one clear idea",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "2d652c9b6858fa79ae5ef5d4a135927ee2d7a74378a9a8c8d759a3dbd68e75f4",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $pen-and-page. Create a new output based on the packaged example \"Start with one clear idea\". Brief: First original launch-notebook page: audience, useful promise and real example. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Make the first version tangible",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "70df179e88434e510105c5081f9fb9a54ba399c98749754c270356f1c0917e42",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $pen-and-page. Create a new output based on the packaged example \"Make the first version tangible\". Brief: Second launch-notebook page: show real work, explain the steps and check the journey. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Listen, learn, improve",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "588c12e968fa57bf7caf8f1587e957ab454988a63466ac9c2c3005e2a1957e65",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $pen-and-page. Create a new output based on the packaged example \"Listen, learn, improve\". Brief: Third launch-notebook page: share context, ask a useful question and choose a next change. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A meeting that moves work forward",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "cdacb7443752421a8837aeb765bf9434d2cb32a9c95b5e3297880dd30a8a2406",
+      "width": 1024,
+      "height": 1536,
+      "invocation": "Use $pen-and-page. Create a new output based on the packaged example \"A meeting that moves work forward\". Brief: An original general meeting guide with Before, During and After steps in blue pen and amber. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

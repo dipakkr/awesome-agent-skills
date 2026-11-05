@@ -1,0 +1,38 @@
+{
+  "skill": "comic-lab-scenes",
+  "distinctOutputs": 5,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "id": "cloud-weather",
+      "prompt": "Use $comic-lab-scenes to make a funny vertical 3D explainer about cloud weather. Use a confident wrong assumption, a physical prop gag, a clear correction and a callback. Render the complete narrated MP4 with two original characters, reaction cuts, readable captions and editable source. This worked example follows examples/cloud-weather/brief.json. Generate matching speech with my configured provider and keep the AI voice disclosure.",
+      "brief": "examples/cloud-weather/brief.json",
+      "output": "examples/cloud-weather/recorded/film.mp4"
+    },
+    {
+      "id": "cookie-disappointment",
+      "prompt": "Use $comic-lab-scenes to make a funny vertical 3D explainer about cookie disappointment. Use a confident wrong assumption, a physical prop gag, a clear correction and a callback. Render the complete narrated MP4 with two original characters, reaction cuts, readable captions and editable source. This worked example follows examples/cookie-disappointment/brief.json. Generate matching speech with my configured provider and keep the AI voice disclosure.",
+      "brief": "examples/cookie-disappointment/brief.json",
+      "output": "examples/cookie-disappointment/recorded/film.mp4"
+    },
+    {
+      "id": "apology-automation",
+      "prompt": "Use $comic-lab-scenes to make a funny vertical 3D explainer about apology automation. Use a confident wrong assumption, a physical prop gag, a clear correction and a callback. Render the complete narrated MP4 with two original characters, reaction cuts, readable captions and editable source. This worked example follows examples/apology-automation/brief.json. Generate matching speech with my configured provider and keep the AI voice disclosure.",
+      "brief": "examples/apology-automation/brief.json",
+      "output": "examples/apology-automation/recorded/film.mp4"
+    },
+    {
+      "id": "tiny-change",
+      "prompt": "Use $comic-lab-scenes to make a funny vertical 3D explainer about tiny change. Use a confident wrong assumption, a physical prop gag, a clear correction and a callback. Render the complete narrated MP4 with two original characters, reaction cuts, readable captions and editable source. This worked example follows examples/tiny-change/brief.json. Generate matching speech with my configured provider and keep the AI voice disclosure.",
+      "brief": "examples/tiny-change/brief.json",
+      "output": "examples/tiny-change/recorded/film.mp4"
+    },
+    {
+      "id": "ai-evals",
+      "prompt": "Read comic-lab-scenes/SKILL.md and create a funny narrated vertical 3D reel titled \"What is AI Evals?\" for founders and marketers new to AI. Use Milo and Pip, a self-awarded diploma joke, a practical customer-support example, clear scoring criteria, inspection of failures and a callback ending. Explain that passing a test set is not a guarantee. Follow examples/ai-evals/brief.json for this worked example; generate fresh matching narration using my configured provider. Render the complete MP4 and deliver the readable script, editable brief, captions, poster and source.",
+      "brief": "examples/ai-evals/brief.json",
+      "output": "examples/ai-evals/recorded/film.mp4"
+    }
+  ],
+  "verification": "Author-executed real speech generation and local renders; not independent customer testing."
+}

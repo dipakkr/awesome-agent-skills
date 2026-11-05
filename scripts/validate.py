@@ -9,9 +9,16 @@ from sync import safe, SKIP_DIRS
 root = Path(__file__).resolve().parents[1]
 catalog = json.loads((root / 'catalog.json').read_text())
 errors = []
+for name in ('public-names.json', 'private-names.json'):
+    if (root / name).exists():
+        errors.append('Keep the maintainer name map outside this repository')
 if not catalog.get('publicReleaseReady'):
     errors.append('The catalogue is not cleared for public release')
 packages = [s['package'] for s in catalog['skills']]
+if any(name.startswith('cad-') for name in packages):
+    errors.append('Use independent repository package names')
+if any('site' in skill or 'source_package' in skill for skill in catalog['skills']):
+    errors.append('Do not publish the per-skill website/source crosswalk')
 if len(packages) != len(set(packages)):
     errors.append('Duplicate skill package')
 for relative, digest in catalog['files'].items():

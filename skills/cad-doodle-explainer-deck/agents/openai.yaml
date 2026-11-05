@@ -1,4 +1,0 @@
-interface:
-  display_name: "Doodle Explainer Deck"
-  short_description: "Create editable doodle presentations from your brief"
-  default_prompt: "Use $cad-doodle-explainer-deck to make a presentation for my audience using my brief and optional assets."

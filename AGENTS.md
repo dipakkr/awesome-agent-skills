@@ -1,20 +1,10 @@
 # Repository instructions
 
-- Use Deepak Kumar <raj.deeepak@gmail.com> as both commit author and committer.
-- Do not add Codex, OpenAI, AI co-author trailers or generated-by attribution.
-- Keep skill source here and link to website pages for previews and downloads.
-- Preserve third-party notices and the publication status recorded in catalog.json.
-- Read LICENSING.md and exclude adapted packages with unresolved rights.
-- While this is an imported collection, update the authoring sources in the
-  website workspace and run scripts/sync.py with --workspace; do not overwrite local edits.
-- Run scripts/validate.py after updates and scripts/sync.py --check when the
-  website workspace is available. Do not claim structural checks prove runtime
-  behavior across all skills and agent environments.
-
-## Adding skills
-
-- Start each addition on a dedicated branch and include one skill per pull request.
-- Include its source files, catalogue record, hashes and website link together.
-- Run standalone validation before committing; review the diff before merging.
-- Merge the pull request before starting the next skill addition.
-- Keep every commit authored and committed by Deepak; omit AI attribution.
+- Keep this repository public with full original source, as explicitly requested by the owner.
+- Use Deepak Kumar <raj.deeepak@gmail.com> as author and committer. Do not add AI co-author or generated-by trailers.
+- Give skills independent public names. Keep any authoring-source mapping outside the repository.
+- Avoid per-skill commercial demo links. A general publisher link is allowed.
+- Preserve third-party credits, notices and historical provenance. Do not claim naming prevents source reuse or identification.
+- Exclude adapted packages with unresolved redistribution rights.
+- Add one skill per branch/PR, validate it, then merge before the next addition.
+- Validate source structure/hashes and verify the generated catalogue. Describe runtime tests separately.

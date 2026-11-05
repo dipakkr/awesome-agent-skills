@@ -1,8 +1,0 @@
-{
-  "key": "fractions",
-  "title": "Equivalent fractions \u00b7 recall sheet",
-  "source": "Original elementary arithmetic brief; verified by cross multiplication.",
-  "copy": "Exact title: \"Equivalent fractions\". Subtitle: \"Recall it before you reveal it\". Three numbered questions with spacious empty ruled answer areas:\n1. Complete: 1/2 = __/6\n2. Complete: 2/3 = __/9\n3. Why is 1/2 not equal to 1/4?\nVisual exercise: Two equal-length empty fraction bars: one divided into two equal cells and one divided into six equal cells. Small instruction: Shade equivalent amounts. No cells prefilled.\nAt the bottom a separated pale answer panel below a dotted horizontal divider. Exact panel header: \"Cover before answering\". Answers numbered to match:\n1. 3/6.\n2. 6/9.\n3. The same whole is split into more parts; one part is smaller.",
-  "invocation": "Use $cad-active-recall-sheets to explain equivalent fractions for a beginner. Include three retrieval questions, blank writing space and a covered answer panel. Use Warm cream dot-grid paper, peach and lavender highlighter, oversized hand-lettered title, precise ink diagrams.",
-  "path": "outputs/fractions-v1.png"
-}

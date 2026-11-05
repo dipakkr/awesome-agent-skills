@@ -1,4 +1,0 @@
-interface:
-  display_name: "3D Dialogue Explainer"
-  short_description: "Make voiced 3D lessons with editable scenes and captions"
-  default_prompt: "Use $cad-3d-dialogue-explainer to turn my topic into an original vertical lesson with two characters, a progressive diagram, narration and a complete local MP4."

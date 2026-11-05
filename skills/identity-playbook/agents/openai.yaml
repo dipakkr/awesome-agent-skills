@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identity Playbook"
+  short_description: "Create editable brand presentations from your brief"
+  default_prompt: "Use $identity-playbook to make a presentation for my audience using my brief and optional assets."
