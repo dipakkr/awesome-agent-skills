@@ -1,0 +1,43 @@
+{
+  "skill": "cad-geometric-share-card",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Make space for ideas",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-geometric-share-card. Create a new output based on the packaged example \"Make space for ideas\". Brief: A concept share card for a creativity article, with no brand or product claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A simpler start",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "d17d928b2e7819ad9c5ed6a07136296022e6c369461f3f4f880fbc0eaf9485af",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-geometric-share-card. Create a new output based on the packaged example \"A simpler start\". Brief: A concept share card for an onboarding guide. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Build a little every day",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "5bbfa23b937df0e9c1591c5383bb6c4b91afaffea3e2c9c45d33044413e87b49",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-geometric-share-card. Create a new output based on the packaged example \"Build a little every day\". Brief: A concept share card for a practice journal, without an outcome promise. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Bring the pieces together",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "ed2e04730c9988ec068665d435dd606d93590f12230a3d1d634d84b6d0474b03",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $cad-geometric-share-card. Create a new output based on the packaged example \"Bring the pieces together\". Brief: A concept share card for a collaboration workshop; no invented schedule or credentials. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

@@ -282,6 +282,16 @@
       "original": true,
       "path": "skills/cad-freelance-proposal-deck",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-geometric-share-card",
+      "name": "Geometric Share Card",
+      "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
+      "site": "https://claudeai.directory/skills/geometric-share-card",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-geometric-share-card",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -751,7 +761,16 @@
     "skills/cad-freelance-proposal-deck/references/usage-examples.md": "97079fb3befd6d19a508df954dde3c3e7a2bde6f13ee83d838eb4c73476f41c7",
     "skills/cad-freelance-proposal-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/cad-freelance-proposal-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
-    "skills/cad-freelance-proposal-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12"
+    "skills/cad-freelance-proposal-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/cad-geometric-share-card/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-geometric-share-card/SKILL.md": "6b9499a80afd3bd8472be99d2e3c1ae2cecb6664bf837388194f66edd0744ce1",
+    "skills/cad-geometric-share-card/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
+    "skills/cad-geometric-share-card/examples/gallery/02.webp": "d17d928b2e7819ad9c5ed6a07136296022e6c369461f3f4f880fbc0eaf9485af",
+    "skills/cad-geometric-share-card/examples/gallery/03.webp": "5bbfa23b937df0e9c1591c5383bb6c4b91afaffea3e2c9c45d33044413e87b49",
+    "skills/cad-geometric-share-card/examples/gallery/04.webp": "ed2e04730c9988ec068665d435dd606d93590f12230a3d1d634d84b6d0474b03",
+    "skills/cad-geometric-share-card/references/example-guide.json": "53e4d1c30cd5df464f34c26b9d760785031ee9c2bd5242d9caf003a577dace74",
+    "skills/cad-geometric-share-card/references/examples.json": "184469c980ed2f6913d825f197d3d7c008b698808d53adcf95d1b244a01d0f26",
+    "skills/cad-geometric-share-card/references/usage-examples.md": "a1e7bc2aedf16098dee7628053a243a886474008b0c6850e9452680327914943"
   },
   "omitted": [
     {
