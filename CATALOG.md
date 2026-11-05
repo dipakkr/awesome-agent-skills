@@ -45,3 +45,4 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | LinkedIn Company Culture Image | [Files](skills/cad-linkedin-company-culture-image/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-company-culture-image) | Original / MIT |
 | LinkedIn Data Story | [Files](skills/cad-linkedin-data-story/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-data-story) | Original / MIT |
 | LinkedIn Document Cover | [Files](skills/cad-linkedin-document-cover/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-document-cover) | Original / MIT |
+| LinkedIn Event Promo | [Files](skills/cad-linkedin-event-promo/SKILL.md) | [Preview and download](https://claudeai.directory/skills/linkedin-event-promo) | Original / MIT |
