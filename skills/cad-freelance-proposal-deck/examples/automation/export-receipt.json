@@ -1,0 +1,21 @@
+{
+  "title": "An automation project proposal",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "e1b9b0483435612a9f15c6031e2097ef17751416869d2280911212dfe0bd52d3",
+  "outputs": [
+    {
+      "file": "automation.html",
+      "sha256": "e99c9ea7e394e8db1ac00d6beff2bf46814c6ea616d1642d42365469c517c96a",
+      "bytes": 31656
+    },
+    {
+      "file": "automation.pptx",
+      "sha256": "f30acca7241dc2d55a4b72ac588cbef27c4893a3e65f31461570795ee3811dca",
+      "bytes": 43872
+    }
+  ]
+}

@@ -272,6 +272,16 @@
       "original": true,
       "path": "skills/cad-folder-workflow-infographic",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-freelance-proposal-deck",
+      "name": "Freelance Proposal Deck",
+      "description": "Create a client-specific proposal for Upwork or direct work that connects the brief, relevant samples, milestones and useful questions.",
+      "site": "https://claudeai.directory/skills/freelance-proposal-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-freelance-proposal-deck",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -717,7 +727,31 @@
     "skills/cad-folder-workflow-infographic/references/prompts/04-v02.txt": "fa28d6fa00b8e90da4c727647314c29c83fbc820cadcd61fa91f402ffc022514",
     "skills/cad-folder-workflow-infographic/references/review-record.json": "85d15da1afd0d3545cd8926c12d202e3749b6adc4c5ff8eea00dc3c8b70a82c7",
     "skills/cad-folder-workflow-infographic/references/usage-examples.md": "62f1a4ebf780eee0cb8ba6e70446671b54bf2ed3dfa39907b7c54764d2b7bc47",
-    "skills/cad-folder-workflow-infographic/references/worked-examples.md": "b33f7b04b8fa3cc005116b3177f4698f6f73621da3493780f2cbf6cfabc95493"
+    "skills/cad-folder-workflow-infographic/references/worked-examples.md": "b33f7b04b8fa3cc005116b3177f4698f6f73621da3493780f2cbf6cfabc95493",
+    "skills/cad-freelance-proposal-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-freelance-proposal-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-freelance-proposal-deck/README.md": "a727d441dd960f396b29162c7b4789e401d1e445731c6856033b057e60b9e32b",
+    "skills/cad-freelance-proposal-deck/SKILL.md": "d03d53e2b626d2bee79bc1e0231859f18b5004215b4e874ec0569ced96c98629",
+    "skills/cad-freelance-proposal-deck/agents/openai.yaml": "e8f7e022c32b61d9a4fc9c479ed7ac2a671f53393e7410645c2d8a360e7efbf4",
+    "skills/cad-freelance-proposal-deck/examples/automation/brief.md": "261e0f1a0601afebf83081b4fe4968e277cdad1a3e2245503d131de026d33e15",
+    "skills/cad-freelance-proposal-deck/examples/automation/deck.json": "e1b9b0483435612a9f15c6031e2097ef17751416869d2280911212dfe0bd52d3",
+    "skills/cad-freelance-proposal-deck/examples/automation/export-receipt.json": "462c160839f089d64996fe964cc9fae1d31758ddeaa6f7d2d158628633001001",
+    "skills/cad-freelance-proposal-deck/examples/copy/brief.md": "2e683669f0c9465c1eca7a633f947c05faca8bbcdb87890f5203ef94e7be8346",
+    "skills/cad-freelance-proposal-deck/examples/copy/deck.json": "d23e26556af40eeb690dd185ba86d20eec3de7dd22ba7e3403fde93c16e3bb01",
+    "skills/cad-freelance-proposal-deck/examples/copy/export-receipt.json": "1a64bf0d86535749a1fe560f52fb0c98a1a7878ffb29f7db49a987aa455610b8",
+    "skills/cad-freelance-proposal-deck/examples/gallery/01.webp": "0c50d6a94393db750be4ad2e58056ea5a8343660831f2144fbedff7efd2f4cfc",
+    "skills/cad-freelance-proposal-deck/examples/gallery/02.webp": "c8da92f9f8154dad416d2773b1ac59deeaa9888c7491d0d0d9519b4bd1c46d7e",
+    "skills/cad-freelance-proposal-deck/examples/gallery/03.webp": "867f5012e908054000c78e3a05a18c77344da0aa3c1ba24bb5aed61c77def45d",
+    "skills/cad-freelance-proposal-deck/examples/landing/brief.md": "058d2157691b0fa5f09180cc42bb215bb404c129fb69bcd0bc75b96366673a6a",
+    "skills/cad-freelance-proposal-deck/examples/landing/deck.json": "902d8df0135c28220bf4cc50ded5e3c1ec359d0c9216c9fbb5a75e31d20f5fd7",
+    "skills/cad-freelance-proposal-deck/examples/landing/export-receipt.json": "20b25ae98f0c3384629f34a79685626f53670ff5cf63166fbc60b8ec1c8579a1",
+    "skills/cad-freelance-proposal-deck/references/design.md": "6e80ff66dfde940f86888eab159c3929b15d4bc34bd9c6e6e54c7dab5af6ae92",
+    "skills/cad-freelance-proposal-deck/references/example-guide.json": "665bbc5c8952430e6c4089f307a6e2fbf3a7149f162fed777e0cf524a514229d",
+    "skills/cad-freelance-proposal-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-freelance-proposal-deck/references/usage-examples.md": "97079fb3befd6d19a508df954dde3c3e7a2bde6f13ee83d838eb4c73476f41c7",
+    "skills/cad-freelance-proposal-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-freelance-proposal-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-freelance-proposal-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12"
   },
   "omitted": [
     {
@@ -2502,6 +2536,30 @@
     },
     {
       "path": "skills/cad-doodle-explainer-deck/examples/meetings/meetings.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-freelance-proposal-deck/examples/automation/automation.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-freelance-proposal-deck/examples/automation/automation.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-freelance-proposal-deck/examples/copy/copy.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-freelance-proposal-deck/examples/copy/copy.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-freelance-proposal-deck/examples/landing/landing.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-freelance-proposal-deck/examples/landing/landing.pptx",
       "reason": "rendered example; see website"
     }
   ]
