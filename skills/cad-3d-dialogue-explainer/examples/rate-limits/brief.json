@@ -1,0 +1,155 @@
+{
+  "id": "rate-limits",
+  "title": "Why rate limits exist",
+  "subtitle": "The turnstile, not the finish line.",
+  "theme": "violet",
+  "takeaway": "Rate limits control request traffic. Back off and retry later.",
+  "boards": [
+    {
+      "heading": "Too many at once",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "REQUESTS"
+        },
+        {
+          "icon": "gate",
+          "label": "SERVICE"
+        }
+      ],
+      "note": "A service has finite capacity.",
+      "kind": "flow"
+    },
+    {
+      "heading": "A fair entry rate",
+      "nodes": [
+        {
+          "icon": "ticket",
+          "label": "REQUEST"
+        },
+        {
+          "icon": "gate",
+          "label": "LIMIT"
+        },
+        {
+          "icon": "worker",
+          "label": "SERVICE"
+        }
+      ],
+      "note": "Think of a turnstile at a busy venue.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Wait, then try again",
+      "nodes": [
+        {
+          "icon": "gate",
+          "label": "429"
+        },
+        {
+          "icon": "clock",
+          "label": "BACK OFF"
+        },
+        {
+          "icon": "ticket",
+          "label": "RETRY"
+        }
+      ],
+      "note": "Follow Retry-After when it is provided.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Keep traffic steady",
+      "nodes": [
+        {
+          "icon": "ticket",
+          "label": "REQUESTS"
+        },
+        {
+          "icon": "clock",
+          "label": "PACE"
+        },
+        {
+          "icon": "worker",
+          "label": "SERVICE"
+        }
+      ],
+      "note": "Spread out requests. Avoid retry storms.",
+      "kind": "flow"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "Pip, my app says too many requests. Did I break the internet?",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Probably not. The service is limiting how quickly requests can arrive.",
+      "board": 0,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "Like a bouncer outside a club?",
+      "board": 1,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "More like a turnstile. It lets people through at a manageable pace.",
+      "board": 1,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "So everybody gets a chance, and the room does not fill at once.",
+      "board": 1,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Exactly. Limits help protect capacity. Different services use different rules.",
+      "board": 1,
+      "shot": "board"
+    },
+    {
+      "speaker": "student",
+      "text": "Should I keep pressing the button faster?",
+      "board": 2,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Please do not. A four twenty-nine response means too many requests.",
+      "board": 2,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Wait before retrying. Follow Retry-After if the response provides it.",
+      "board": 2,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "And spread out the requests instead of sending one giant burst.",
+      "board": 3,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Yes. Add backoff, and avoid making every retry happen at the same instant.",
+      "board": 3,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "The internet needs a queue. My coffee shop would understand.",
+      "board": 3,
+      "shot": "student"
+    }
+  ]
+}

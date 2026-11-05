@@ -4,6 +4,16 @@
   "publicReleaseReady": true,
   "skills": [
     {
+      "package": "cad-3d-dialogue-explainer",
+      "name": "3D Dialogue Explainer",
+      "description": "Teach one idea through an original 3D student and robot tutor, two voices, a changing whiteboard and readable captions.",
+      "site": "https://claudeai.directory/skills/3d-dialogue-explainer",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-3d-dialogue-explainer",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -25,6 +35,31 @@
     }
   ],
   "files": {
+    "skills/cad-3d-dialogue-explainer/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-3d-dialogue-explainer/PROVENANCE.json": "4900350596afad0ca3d0993540d2fa8f425419e581864332213bd31467bfad98",
+    "skills/cad-3d-dialogue-explainer/SKILL.md": "c1bb3a3cb382f659aeab96ac0fcd862bbd7bc98fbe6b26b260c3bcc98dcc6b8a",
+    "skills/cad-3d-dialogue-explainer/agents/openai.yaml": "6e55e8e0c8a319e8d3b270e49d6523661497961247514ca3618eaa22df35e8d4",
+    "skills/cad-3d-dialogue-explainer/examples/caching/brief.json": "6a73338ec3bbce4bc3ae817b1799815c4db43133cb8113e9233c157aa75f70e2",
+    "skills/cad-3d-dialogue-explainer/examples/caching/prompt.txt": "e06c5b40bd7b9fa371b486526d645f3203e88f67cd6e98960414fa688db36efb",
+    "skills/cad-3d-dialogue-explainer/examples/job-queues/brief.json": "87ece949d0875869559fed670dea8a19c599180727387c8a4d21790c8557074e",
+    "skills/cad-3d-dialogue-explainer/examples/job-queues/prompt.txt": "75e051fb8828e062c3126f958d8b58400fbf6253e7134d32473400ef87a40edc",
+    "skills/cad-3d-dialogue-explainer/examples/rate-limits/brief.json": "ea92f64bbbbb63d4cc30dffed3f90390473030af39a346a611c99103eaa87549",
+    "skills/cad-3d-dialogue-explainer/examples/rate-limits/prompt.txt": "091c19c70aaf93dca48c1a9eef9094882877a4b1b3ca86ee979e4d23c2838b60",
+    "skills/cad-3d-dialogue-explainer/examples/webhooks/brief.json": "a2c96dbb88a839399a27297694e9dad91dbdf2f4b59523bc1fef841b1ec042df",
+    "skills/cad-3d-dialogue-explainer/examples/webhooks/prompt.txt": "7cadaa2271612e9a13f2a443d5c51ea6b5596c309726b14ac55e9a11a39568fd",
+    "skills/cad-3d-dialogue-explainer/references/audio-setup.md": "9a7b4dcb1edb1bde1bb9aade6295ec79547a4cf3c102d8604f154f15896f2f3e",
+    "skills/cad-3d-dialogue-explainer/references/example-guide.json": "9512177e80e09e5f14f95be53a3057e54fde011dd844c680820b2667567a231e",
+    "skills/cad-3d-dialogue-explainer/references/input-contract.md": "4279d98d23356fa70eab9dec91dc8c90cdffaa3f5320194074c0d4bd0dd2cb5c",
+    "skills/cad-3d-dialogue-explainer/references/sources.md": "12435d90fb98d44bfef16fe3e1956c67f0402bba8bc4727e603f30735dd86c16",
+    "skills/cad-3d-dialogue-explainer/references/usage-examples.md": "8181e256d311f921cdf6aa147f33f5aa08310cbfc365f86426fb03fe71f36e91",
+    "skills/cad-3d-dialogue-explainer/renderer/.gitignore": "f882c12167df13dc3e11d3ec889787ee6bef8a44fcb07ca7fdc7a7eb98d1d937",
+    "skills/cad-3d-dialogue-explainer/renderer/package-lock.json": "01ebdec5d0474d65d58d6e0e2cf72cb9b33a2ed8a171198939a42902e58e5243",
+    "skills/cad-3d-dialogue-explainer/renderer/package.json": "cc1ca3eca7c6eb7b1219a65cadcbc0a0de1936be00e0a50f13a50255ea26dd37",
+    "skills/cad-3d-dialogue-explainer/renderer/public/.gitkeep": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "skills/cad-3d-dialogue-explainer/renderer/render.mjs": "4818229b396e04b4a3e8a5371d1d58b1e0958ab8f73166e4e60ceeee815b42a0",
+    "skills/cad-3d-dialogue-explainer/renderer/src/Film.jsx": "9374c3b0bf9304f089bda2f7eda765eb6b12c4fa82cda81c54b8793add8df264",
+    "skills/cad-3d-dialogue-explainer/renderer/src/index.jsx": "31d2fe19165c34d0dde46dcc9ce04dd4c182f45796732065c2b26ef24b83bba0",
+    "skills/cad-3d-dialogue-explainer/scripts/prepare.py": "9b806d248e9ae922fff73270107d12c4f4c4042c533b55763f13c1f416101774",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -38,5 +73,790 @@
     "skills/cad-ecommerce-store-brief/references/example-briefs.md": "7a211388fee002088f21401e11c7cb20f69cb81099298447b91d207c5dc394d5",
     "skills/cad-ecommerce-store-brief/references/workspace.md": "3ea6cf723d54e0b9d61cfa1015ba5412ee42ac49451c46bf51cc40079e827ae0"
   },
-  "omitted": []
+  "omitted": [
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/10.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/10.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/11.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/11.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/12.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/12.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/13.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/audio/13.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/12.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/13.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/14.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/review/15.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/caching/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/10.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/10.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/11.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/11.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/12.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/audio/12.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/12.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/13.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/review/14.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/job-queues/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/10.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/10.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/11.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/audio/11.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/12.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/review/13.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/rate-limits/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/00.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/00.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/01.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/01.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/02.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/02.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/03.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/03.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/04.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/04.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/05.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/05.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/06.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/06.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/07.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/07.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/08.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/08.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/09.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/09.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/10.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/10.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/11.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/11.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/12.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/audio/12.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/captions.srt",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/00.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/01.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/02.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/03.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/04.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/06.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/07.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/08.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/09.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/10.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/11.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/12.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/13.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/review/14.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/timeline.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-3d-dialogue-explainer/examples/webhooks/recorded/voice.wav",
+      "reason": "rendered example; see website"
+    }
+  ]
 }

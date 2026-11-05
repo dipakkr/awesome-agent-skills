@@ -1,0 +1,161 @@
+{
+  "id": "job-queues",
+  "title": "What is a job queue?",
+  "subtitle": "Take a ticket. Let a worker handle it.",
+  "theme": "night",
+  "takeaway": "A queue holds work until a worker can process it.",
+  "boards": [
+    {
+      "heading": "Do everything now?",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "APP"
+        },
+        {
+          "icon": "worker",
+          "label": "BIG TASK"
+        }
+      ],
+      "note": "Some tasks take longer than a click.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Write a ticket",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "REQUEST"
+        },
+        {
+          "icon": "tray",
+          "label": "QUEUE"
+        },
+        {
+          "icon": "worker",
+          "label": "WORKER"
+        }
+      ],
+      "note": "The queue holds work until it is picked up.",
+      "kind": "queue"
+    },
+    {
+      "heading": "One job, one result",
+      "nodes": [
+        {
+          "icon": "ticket",
+          "label": "JOB ID"
+        },
+        {
+          "icon": "worker",
+          "label": "PROCESS"
+        },
+        {
+          "icon": "book",
+          "label": "RESULT"
+        }
+      ],
+      "note": "Retries need safe, repeatable handling.",
+      "kind": "flow"
+    },
+    {
+      "heading": "Work can wait its turn",
+      "nodes": [
+        {
+          "icon": "phone",
+          "label": "APP"
+        },
+        {
+          "icon": "tray",
+          "label": "QUEUE"
+        },
+        {
+          "icon": "worker",
+          "label": "WORKERS"
+        }
+      ],
+      "note": "Useful for reports, emails and background tasks.",
+      "kind": "queue"
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "student",
+      "text": "Pip, generating this report freezes my app. Why?",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "It is trying to finish a slow job while you are waiting.",
+      "board": 0,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "student",
+      "text": "Like a cafe making every drink before taking the next order?",
+      "board": 0,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Exactly. Instead, write a ticket and put it in a queue.",
+      "board": 1,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "The cashier can take another order while the barista works.",
+      "board": 1,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Your app submits a job. A worker picks it up when it has capacity.",
+      "board": 1,
+      "shot": "board"
+    },
+    {
+      "speaker": "student",
+      "text": "So the report becomes instant?",
+      "board": 1,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "No. The work still takes time. Your app just does not have to stand there waiting.",
+      "board": 2,
+      "shot": "wide"
+    },
+    {
+      "speaker": "student",
+      "text": "What if a worker stops halfway through?",
+      "board": 2,
+      "shot": "student"
+    },
+    {
+      "speaker": "tutor",
+      "text": "The job may be retried. Design it so a repeat does not create a second result.",
+      "board": 2,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "student",
+      "text": "And more workers can help when the line gets long.",
+      "board": 3,
+      "shot": "wide"
+    },
+    {
+      "speaker": "tutor",
+      "text": "Yes, within the capacity of the systems they depend on.",
+      "board": 3,
+      "shot": "tutor"
+    },
+    {
+      "speaker": "student",
+      "text": "Good. My app can finally stop staring at the coffee machine.",
+      "board": 3,
+      "shot": "student"
+    }
+  ]
+}
