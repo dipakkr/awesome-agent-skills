@@ -1,0 +1,25 @@
+{
+  "mode": "documents",
+  "format": "landscape",
+  "brand": "FOLIO",
+  "headline": "Good ideas deserve a structure.",
+  "ending": "From notes to something useful.",
+  "cta": "Build your next document",
+  "item": "Project brief",
+  "labels": [
+    "Context",
+    "Direction",
+    "Next steps"
+  ],
+  "details": [
+    "What brought us here",
+    "What we are working toward",
+    "What happens after this"
+  ],
+  "accent": "#3f5bb6",
+  "ink": "#16191f",
+  "concept": true,
+  "brandKind": "fictional",
+  "variant": 0,
+  "source": "Illustrative example. Not measured product performance."
+}
