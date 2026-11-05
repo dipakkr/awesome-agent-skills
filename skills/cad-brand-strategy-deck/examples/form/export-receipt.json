@@ -1,0 +1,21 @@
+{
+  "title": "FORM: objects for everyday rituals",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "9a86cb86d2153b9edc5b957dda3b0331e589db8a82a806dc2a872f2ca7061dce",
+  "outputs": [
+    {
+      "file": "form.html",
+      "sha256": "9bd07dc8ba5da45dc0dd40246aab553e8f366b6f906f733951d32fb3e1c9d445",
+      "bytes": 7002050
+    },
+    {
+      "file": "form.pptx",
+      "sha256": "7f258f3df638d2b5034983c93ea3a1ffb5a0d6f60152a33532b835b11279b345",
+      "bytes": 2557713
+    }
+  ]
+}

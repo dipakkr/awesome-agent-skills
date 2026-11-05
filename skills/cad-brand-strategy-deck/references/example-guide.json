@@ -1,0 +1,34 @@
+{
+  "skill": "cad-brand-strategy-deck",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "ROAM: coffee for the long way",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "753a333ce66f5f7a00e2ee4a30ee4d296c5c9fe8b23dcd54fc2b4cf1a7669203",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-brand-strategy-deck. Create a new output based on the packaged example \"ROAM: coffee for the long way\". Brief: Roam Press \u00b7 Coffee for the long way. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "FORM: objects for everyday rituals",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "1c670eafb62288397731d03f22482c137cde4c31322b09b0f640748805eb8097",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-brand-strategy-deck. Create a new output based on the packaged example \"FORM: objects for everyday rituals\". Brief: Form Gallery \u00b7 Objects for everyday rituals. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Morrow: a good morning nearby",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "e7e2ba26757b9c6e7c4bb27f37867bf752c6a743ca72c1f5ff870f37d04d68f6",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $cad-brand-strategy-deck. Create a new output based on the packaged example \"Morrow: a good morning nearby\". Brief: Morning Market \u00b7 A good morning, nearby. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
