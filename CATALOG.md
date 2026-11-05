@@ -44,6 +44,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Interface Layers](skills/interface-layers/SKILL.md) | Separate interface layers in perspective, explain their roles and reassemble the product. |
 | [Kit On Display](skills/kit-on-display/SKILL.md) | Create a top-down bundle image that accurately shows the item list, quantities and relative scale, without implying decorative props are included. |
 | [Launch Clock](skills/launch-clock/SKILL.md) | Create a branded opening countdown with an exact clock, animated progress ring and a readable ending. Use for video intros, event cues and stream openings. |
+| [Liftoff Sequence](skills/liftoff-sequence/SKILL.md) | Build anticipation through technical drawings, rocket assembly, countdown, ignition and payload deployment. |
 | [Listing Copywriter](skills/listing-copywriter/SKILL.md) | Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger. |
 | [Memory Drills](skills/memory-drills/SKILL.md) | Create handwritten practice sheets with retrieval questions, writing space and an aligned answer key. |
 | [Merchant Intake](skills/merchant-intake/SKILL.md) | Turn an ecommerce founder's conversation and supplied product information into a reusable store brief, sourced product facts, missing-input list and next steps for preparing listings and launch work. |

@@ -364,6 +364,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "liftoff-sequence",
+      "name": "Liftoff Sequence",
+      "description": "Build anticipation through technical drawings, rocket assembly, countdown, ignition and payload deployment.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/liftoff-sequence",
+      "publication": "original-mit"
+    },
+    {
       "package": "listing-copywriter",
       "name": "Listing Copywriter",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -1238,6 +1247,27 @@
     "skills/launch-clock/references/reference-license.txt": "33d6cd35a20903b5e968a76a1e584a7aeae2c83e3e58ea58ecc50b889b83e668",
     "skills/launch-clock/scripts/engine.py": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
     "skills/launch-clock/scripts/render.py": "4c890b010c550dcdf7927e4b8d417c5369b30e381b49701e14480d9f0b1f4f7a",
+    "skills/liftoff-sequence/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/liftoff-sequence/SKILL.md": "309805ca887a1e67b4294859d3aa27e57c2a840e04a0fb55b3cc2f4ac9a4c24e",
+    "skills/liftoff-sequence/examples/01-landscape.json": "24a4811bcd9886cfd90da206a1eeee6d73412f0ec08476f91dd16d5a0317400f",
+    "skills/liftoff-sequence/examples/01-portrait.json": "795826c7519f42a5ac7f6e8ebee7548b41a201ea567ae6fde33ea5c72fc54a9b",
+    "skills/liftoff-sequence/examples/01-square.json": "d9cf744874f25ab483cada82013336f4500d03e12bb2c6cb25489f6dceb5538d",
+    "skills/liftoff-sequence/examples/02-landscape.json": "2aa2ccbe3c4c989df26303d3e90c57a3d23183b603378d1556980a5e03d559a4",
+    "skills/liftoff-sequence/references/direction.md": "9ec0cf4ebc309fbd921d3c84483c2c4d87b9502bc04e54adff66cae4cb1866a1",
+    "skills/liftoff-sequence/references/input.md": "fccb6da68e283aaf6934792a803b11400981abfc786d7179832b349e2efdba05",
+    "skills/liftoff-sequence/renderer/compose-score.mjs": "c0f16b09e286f715369303c40f8e98d9dc19cdbe5cbef761c1b236859be0a4e8",
+    "skills/liftoff-sequence/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/liftoff-sequence/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/liftoff-sequence/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/liftoff-sequence/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/liftoff-sequence/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/liftoff-sequence/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/liftoff-sequence/renderer/render.mjs": "4691e1cf677e884e8ceaca112bcd66c8473fcdecca8deaf274e36639a5a5f956",
+    "skills/liftoff-sequence/renderer/src/Film.jsx": "37af34b1e8514973ab5883da198c67276ebfa0aecd9807d1f4a69910be9d1d11",
+    "skills/liftoff-sequence/renderer/src/Paper.jsx": "2cfd5c36646184c0e3748436e0d97ac9884c7a813d3c6a99bd9532614a20cb29",
+    "skills/liftoff-sequence/renderer/src/Rocket.jsx": "c57ae4bafba81a503bf21c13a0a07607ccad226ad665c96217ef96d8f04451e0",
+    "skills/liftoff-sequence/renderer/src/index.jsx": "2376ba32de0e4fa58899a919062f6f04128f5f09ee465e8d477e03c01b68084f",
+    "skills/liftoff-sequence/renderer/src/model.mjs": "d83ac95c4a581d2b557fd33e2d857d332a4e2eff6b7af9785898e0d2e7841939",
     "skills/listing-copywriter/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/listing-copywriter/SKILL.md": "c6ca637c8869980275bab5a5119eb65a0cacdda4b9ffc91a2729282600df98be",
     "skills/listing-copywriter/agents/openai.yaml": "0eb16b6f926d2c195e4ca8eb647a93cdd23ed56748f033365a53f37551af9aa7",
@@ -4663,6 +4693,598 @@
     },
     {
       "path": "skills/launch-clock/examples/recorded/04/review-05.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/00-blueprint.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/01-assembly.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/02-countdown.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/03-ignition.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/04-flight.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/05-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/review/06-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/19.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-landscape/transitions/20.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/00-blueprint.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/01-assembly.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/02-countdown.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/03-ignition.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/04-flight.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/05-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/review/06-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/19.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-portrait/transitions/20.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/00-blueprint.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/01-assembly.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/02-countdown.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/03-ignition.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/04-flight.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/05-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/review/06-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/19.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/01-square/transitions/20.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/00-blueprint.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/01-assembly.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/02-countdown.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/03-ignition.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/04-flight.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/05-orbit.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/review/06-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/18.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/19.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/liftoff-sequence/examples/recorded/02-landscape/transitions/20.jpg",
       "reason": "rendered example; see website"
     },
     {

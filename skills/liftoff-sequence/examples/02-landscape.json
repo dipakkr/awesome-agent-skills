@@ -1,0 +1,18 @@
+{
+  "brand": "RELAY",
+  "headline": "A better signal starts here.",
+  "ending": "Connect to a wider world.",
+  "cta": "Make your next connection",
+  "url": "relay.example",
+  "chapters": [
+    "Bring the system together.",
+    "All signals ready.",
+    "Send it beyond the horizon.",
+    "Go further, together."
+  ],
+  "accent": "#ffc96b",
+  "subject": "satellite",
+  "mode": "rocket",
+  "format": "landscape",
+  "concept": true
+}
