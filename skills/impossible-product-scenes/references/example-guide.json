@@ -1,0 +1,43 @@
+{
+  "skill": "impossible-product-scenes",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "Cloud walk",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "914131202a2e07979bbd526ca6cbedd3b47da8d8f71af892620412ba28e9da4d",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $impossible-product-scenes. Create a new output based on the packaged example \"Cloud walk\". Brief: Fictional cream sneaker in a surreal cloud landscape, no performance claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Tea planet",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "ba449bb7eb784b05395c4e1c7be4b45d24d0ff76da33a117dcf57376dec8ce2a",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $impossible-product-scenes. Create a new output based on the packaged example \"Tea planet\". Brief: Fictional unbranded matcha tea cup as a small planet; illustration of a ritual, no health claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Paper sea perfume",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "d0fcbbed9e278a8987258358a88326b74b9117a6a7a9974264396b2087444877",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $impossible-product-scenes. Create a new output based on the packaged example \"Paper sea perfume\". Brief: Fictional unbranded perfume bottle on a giant folded-paper wave. Impossible setting only; no scent or efficacy claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Clock garden",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "28cd42d8de41b975ba171417f569b7818b4a1628be048b65c84a45c3f590c328",
+      "width": 1254,
+      "height": 1254,
+      "invocation": "Use $impossible-product-scenes. Create a new output based on the packaged example \"Clock garden\". Brief: Fictional unbranded tabletop clock nested inside a giant open flower. Surreal scale metaphor, not a product function or durability claim. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
