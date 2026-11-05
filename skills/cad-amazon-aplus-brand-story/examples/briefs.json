@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "title": "Quiet desk",
+    "brief": "Fictional paper-goods concept: quiet workspace, graphite and warm ivory. No brand history or environmental claim.",
+    "prompt": "Landscape 3:2 premium editorial product scene for a fictional paper-goods brand story. Warm ivory plaster studio with late afternoon soft window light, one closed graphite linen notebook and a folded ivory paper sheet arranged on low monolithic travertine blocks on the right half. Sophisticated tactile material close-up and calm architectural composition, asymmetric shadows, restrained graphite ivory beige palette, left third luminous negative space for future native text outside artwork. Eye-level three-quarter composition, refined sharp product details. No visible writing, lettering, logo, badge, sustainability symbol, people or watermark. Do not imply a real brand or factory.",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  },
+  {
+    "id": "02",
+    "title": "Morning ceramics",
+    "brief": "Fictional ceramic-homeware concept: warm orange and pale blue, a cheerful breakfast scene without claims.",
+    "prompt": "Landscape 3:2 editorial still-life for a fictional ceramic homeware brand narrative. A pale sky-blue tabletop and warm orange curved backdrop, carefully arranged unbranded butter-yellow ceramic pitcher and two small cobalt cups clustered lower left, delicate curved shadows and natural daylight. An orange linen napkin folded at base adds texture. Wide quiet sky-blue negative space on upper right, playful restrained art direction, a tactile close view and clear geometric composition materially different from a desk scene. No food, people, writing, logos, badges, watermarks or marketing text. Concept collection not real product photography.",
+    "fictionalDemo": true,
+    "inputs": [],
+    "status": "planned"
+  }
+]
