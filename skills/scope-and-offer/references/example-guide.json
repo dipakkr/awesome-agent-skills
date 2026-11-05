@@ -1,0 +1,34 @@
+{
+  "skill": "scope-and-offer",
+  "distinctOutputs": 3,
+  "fourOutputStandardMet": false,
+  "examples": [
+    {
+      "title": "North: a focused website sprint",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "bbf2b016eca04d4eabaa7c809677165daac45a23301f7c398fc6a26129c237b3",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $scope-and-offer. Create a new output based on the packaged example \"North: a focused website sprint\". Brief: North Monograph \u00b7 Concept proposal for an independent architecture practice. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Signal: a useful content system",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "2f470ecd7022c79b746838a6d85f89741b5fe51bc3b5a5eca7750f553d160cc5",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $scope-and-offer. Create a new output based on the packaged example \"Signal: a useful content system\". Brief: Signal Studio \u00b7 Concept content service for a small specialist consultancy. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Plain: a useful onboarding service",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "e6b7ab3fe3c4ff083f63672982478bad0b78fabc90c27532b9e4b5fb03de0001",
+      "width": 1280,
+      "height": 720,
+      "invocation": "Use $scope-and-offer. Create a new output based on the packaged example \"Plain: a useful onboarding service\". Brief: Human Onboarding \u00b7 Concept onboarding design service for a subscription business. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}

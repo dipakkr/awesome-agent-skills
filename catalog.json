@@ -688,6 +688,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "scope-and-offer",
+      "name": "Scope And Offer",
+      "description": "Turn a client brief into a scoped service offer with outcomes, deliverables, milestones and a clear next decision.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/scope-and-offer",
+      "publication": "original-mit"
+    },
+    {
       "package": "shape-and-type",
       "name": "Shape And Type",
       "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
@@ -2088,6 +2097,32 @@
     "skills/schedule-shuffle/renderer/src/common.jsx": "4e7f337785c841e3f7470049e1a505cc7663f41b7ee746ecab6a04465778f11c",
     "skills/schedule-shuffle/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/schedule-shuffle/renderer/src/model.mjs": "40dcca80614f4480bd25944c8cebf5b0b56f074e96b6ccb410e4ee2a74cd16b1",
+    "skills/scope-and-offer/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/scope-and-offer/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/scope-and-offer/README.md": "75a6bf6ceaeb15e0cce92db9f74f3d4bf18d3027db62ecc2c64645242c342d1c",
+    "skills/scope-and-offer/SKILL.md": "03fbd226e02fa18863f132249dbdac6b5863b1b2507832923e597627b7ee2631",
+    "skills/scope-and-offer/agents/openai.yaml": "34d2ee779d4eaecb891d30866bee70e4af881f92a04e2e6009356d634ec1b779",
+    "skills/scope-and-offer/examples/gallery/01.webp": "bbf2b016eca04d4eabaa7c809677165daac45a23301f7c398fc6a26129c237b3",
+    "skills/scope-and-offer/examples/gallery/02.webp": "2f470ecd7022c79b746838a6d85f89741b5fe51bc3b5a5eca7750f553d160cc5",
+    "skills/scope-and-offer/examples/gallery/03.webp": "e6b7ab3fe3c4ff083f63672982478bad0b78fabc90c27532b9e4b5fb03de0001",
+    "skills/scope-and-offer/examples/north/assets/redesign-north.png": "044bbb3a1ca5a510ec23daffe343b5dca8c077c2214f8b74c8e647614fbe88a9",
+    "skills/scope-and-offer/examples/north/brief.md": "86b770ff511006744bef5736b8f7243c8cd55cb81f8dd19b8ed0158961809183",
+    "skills/scope-and-offer/examples/north/deck.json": "ab3430ad2ea84099f812ced6c3a0a20ddad4b14f9d829698ec30d142f6ddcbbd",
+    "skills/scope-and-offer/examples/north/export-receipt.json": "4b6640f2c79b2a4375526c59f9eebb587616c62f692191ebdac24d76058b8e81",
+    "skills/scope-and-offer/examples/plain/assets/redesign-plain.png": "7f55dc0cc62e763bc4c53e0da9f1c5d297d6b2d433018718e04ff4ad81bb13e6",
+    "skills/scope-and-offer/examples/plain/brief.md": "b7c82ca183fa3e86478df3674292dd2b936415bdebea62689f344928ce6def71",
+    "skills/scope-and-offer/examples/plain/deck.json": "ac545d1c516e3a25714ea083c5311b5d20365a2bd7c53939079acd0739f184c6",
+    "skills/scope-and-offer/examples/plain/export-receipt.json": "913be8e8cc65e671351e2bd9f510c2fb2dde588ff1b549fa65b7d65bc76a793f",
+    "skills/scope-and-offer/examples/signal/brief.md": "2b06749fccf5d415f6c9b1b39b04c6d78ad95d0a8a960f12a205fe7c7108f205",
+    "skills/scope-and-offer/examples/signal/deck.json": "cc5daa54540545d27bfa4e61f244c09a35cb9d51b63ed1a172e2c155462794a9",
+    "skills/scope-and-offer/examples/signal/export-receipt.json": "4882c0342226de4d630cdde9f864facb9c91704cd1a96d9d40b2a53eb341483b",
+    "skills/scope-and-offer/references/design.md": "a18880e5b73cb6aa798455e357bc027968fdac9d0b3725d61d4953d1daf41fb0",
+    "skills/scope-and-offer/references/example-guide.json": "a2c1e12b86d824d2c8ed7c3e99fe1a77b18adc2571bfe5a1b0ecc04919fa8fac",
+    "skills/scope-and-offer/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/scope-and-offer/references/usage-examples.md": "2cd798c160ff2196bca5fa5267ce082915569877fa1cf239f7434656d66e555b",
+    "skills/scope-and-offer/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/scope-and-offer/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/scope-and-offer/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/shape-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/shape-and-type/SKILL.md": "04cb5c211c6d3b9d7352eefb051e068894ab47c2aeead54fb1605650daa55052",
     "skills/shape-and-type/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
@@ -9775,6 +9810,30 @@
     },
     {
       "path": "skills/schedule-shuffle/examples/recorded/02-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/scope-and-offer/examples/north/north.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/scope-and-offer/examples/north/north.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/scope-and-offer/examples/plain/plain.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/scope-and-offer/examples/plain/plain.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/scope-and-offer/examples/signal/signal.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/scope-and-offer/examples/signal/signal.pptx",
       "reason": "rendered example; see website"
     },
     {

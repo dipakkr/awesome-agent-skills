@@ -1,0 +1,770 @@
+{
+  "title": "North: a focused website sprint",
+  "font": "Arial",
+  "disclosure": "Fictional example. Adapt to your own brief.",
+  "design": {
+    "name": "North Monograph",
+    "grammar": "Architectural model photography, monograph serif type, precise folio marks and measured plan diagrams.",
+    "audience": "Agencies and service businesses"
+  },
+  "slides": [
+    {
+      "background": "#253A34",
+      "objects": [
+        {
+          "kind": "image",
+          "src": "assets/redesign-north.png",
+          "x": 440,
+          "y": 0,
+          "w": 840,
+          "h": 720,
+          "alt": "Original concept artwork: north"
+        },
+        {
+          "kind": "rect",
+          "x": 0,
+          "y": 0,
+          "w": 440,
+          "h": 720,
+          "fill": "#253A34",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "NORTH / DESIGN PRACTICE",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A clearer\nsite.\nA focused\nsprint.",
+          "x": 50,
+          "y": 165,
+          "w": 620,
+          "h": 330,
+          "size": 75,
+          "color": "#F1E9D7",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Digital craft for\nphysical spaces.",
+          "x": 54,
+          "y": 565,
+          "w": 350,
+          "h": 85,
+          "size": 27,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 54,
+          "y": 109,
+          "w": 55,
+          "h": 3,
+          "fill": "#E0B65F",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Fictional example / Scope And Offer",
+          "x": 53,
+          "y": 698,
+          "w": 1000,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Concept proposal for an independent architecture practice.\n\nOnly show genuine credentials and approved commercial terms. Illustrative schedules are not contractual promises."
+    },
+    {
+      "background": "#253A34",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "NORTH MONOGRAPH / THE IDEA",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Make the practice easy to understand and the next enquiry easy to start.",
+          "x": 52,
+          "y": 96,
+          "w": 1130,
+          "h": 162,
+          "size": 45,
+          "color": "#F1E9D7",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#F1E9D7",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "NORTH MONOGRAPH",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "02",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "01",
+          "x": 55.0,
+          "y": 264,
+          "w": 333.3333333333333,
+          "h": 95,
+          "size": 72,
+          "color": "#E0B65F",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 55.0,
+          "y": 374,
+          "w": 338.3333333333333,
+          "h": 1,
+          "fill": "#F1E9D7",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Story",
+          "x": 55.0,
+          "y": 402,
+          "w": 338.3333333333333,
+          "h": 75,
+          "size": 29,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Positioning, page structure and project narratives.",
+          "x": 55.0,
+          "y": 490,
+          "w": 333.3333333333333,
+          "h": 137,
+          "size": 25,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "02",
+          "x": 428.3333333333333,
+          "y": 264,
+          "w": 333.3333333333333,
+          "h": 95,
+          "size": 72,
+          "color": "#E0B65F",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 428.3333333333333,
+          "y": 374,
+          "w": 338.3333333333333,
+          "h": 1,
+          "fill": "#F1E9D7",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Design",
+          "x": 428.3333333333333,
+          "y": 402,
+          "w": 338.3333333333333,
+          "h": 75,
+          "size": 29,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Responsive layouts for five agreed page types.",
+          "x": 428.3333333333333,
+          "y": 490,
+          "w": 333.3333333333333,
+          "h": 137,
+          "size": 25,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "03",
+          "x": 801.6666666666666,
+          "y": 264,
+          "w": 333.3333333333333,
+          "h": 95,
+          "size": 72,
+          "color": "#E0B65F",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 801.6666666666666,
+          "y": 374,
+          "w": 338.3333333333333,
+          "h": 1,
+          "fill": "#F1E9D7",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "Handoff",
+          "x": 801.6666666666666,
+          "y": 402,
+          "w": 338.3333333333333,
+          "h": 75,
+          "size": 29,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Component notes and an editable content guide.",
+          "x": 801.6666666666666,
+          "y": 490,
+          "w": 333.3333333333333,
+          "h": 137,
+          "size": 25,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Deliverables should be priced only after scope and responsibilities are agreed.",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Walk through the scope and dependencies. Do not promise a business result.\n\nOnly show genuine credentials and approved commercial terms. Illustrative schedules are not contractual promises."
+    },
+    {
+      "background": "#253A34",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "NORTH MONOGRAPH / THE CONTEXT",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "A delivery plan you can review.",
+          "x": 52,
+          "y": 96,
+          "w": 1130,
+          "h": 145,
+          "size": 55,
+          "color": "#F1E9D7",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#F1E9D7",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "NORTH MONOGRAPH",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "03",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#F1E9D7",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 53,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 143,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 233,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 323,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 413,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 503,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 593,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 683,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 773,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 863,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 953,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 1043,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 1133,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 1223,
+          "y": 270,
+          "w": 1,
+          "h": 300,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 53,
+          "y": 270,
+          "w": 1170,
+          "h": 1,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 53,
+          "y": 360,
+          "w": 1170,
+          "h": 1,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 53,
+          "y": 450,
+          "w": 1170,
+          "h": 1,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 53,
+          "y": 540,
+          "w": 1170,
+          "h": 1,
+          "fill": "#40574D",
+          "radius": 0
+        },
+        {
+          "kind": "rect",
+          "x": 75,
+          "y": 285,
+          "w": 335,
+          "h": 9,
+          "fill": "#E0B65F",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "01 / Align",
+          "x": 75,
+          "y": 318,
+          "w": 330,
+          "h": 75,
+          "size": 34,
+          "color": "#F1E9D7",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Agree audience, content and approval owner.",
+          "x": 75,
+          "y": 407,
+          "w": 320,
+          "h": 132,
+          "size": 27,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 460,
+          "y": 335,
+          "w": 335,
+          "h": 9,
+          "fill": "#E0B65F",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "02 / Make",
+          "x": 460,
+          "y": 368,
+          "w": 330,
+          "h": 75,
+          "size": 34,
+          "color": "#F1E9D7",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Review one direction, then the core pages.",
+          "x": 460,
+          "y": 457,
+          "w": 320,
+          "h": 132,
+          "size": 27,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 845,
+          "y": 385,
+          "w": 335,
+          "h": 9,
+          "fill": "#E0B65F",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "03 / Handoff",
+          "x": 845,
+          "y": 418,
+          "w": 330,
+          "h": 75,
+          "size": 34,
+          "color": "#F1E9D7",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Check content, responsive behavior and handover.",
+          "x": 845,
+          "y": 507,
+          "w": 320,
+          "h": 132,
+          "size": 27,
+          "color": "#F1E9D7",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Indicative stages. Duration depends on the agreed scope and review availability.",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#FFFFFF",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Assign an approval owner to each stage and define a feedback round.\n\nOnly show genuine credentials and approved commercial terms. Illustrative schedules are not contractual promises."
+    },
+    {
+      "background": "#F1E9D7",
+      "objects": [
+        {
+          "kind": "text",
+          "text": "NORTH MONOGRAPH",
+          "x": 52,
+          "y": 34,
+          "w": 1000,
+          "h": 28,
+          "size": 15,
+          "color": "#253A34",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "image",
+          "src": "assets/redesign-north.png",
+          "x": 720,
+          "y": 110,
+          "w": 510,
+          "h": 510,
+          "alt": "Original concept artwork: north"
+        },
+        {
+          "kind": "text",
+          "text": "Agree the pages.\nThen set the date.",
+          "x": 55,
+          "y": 129,
+          "w": 650,
+          "h": 240,
+          "size": 60,
+          "color": "#253A34",
+          "font": "Georgia",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Development, photography and ongoing maintenance are outside this example scope.",
+          "x": 60,
+          "y": 420,
+          "w": 590,
+          "h": 190,
+          "size": 30,
+          "color": "#253A34",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "rect",
+          "x": 52,
+          "y": 659,
+          "w": 1176,
+          "h": 1,
+          "fill": "#253A34",
+          "radius": 0
+        },
+        {
+          "kind": "text",
+          "text": "NORTH MONOGRAPH",
+          "x": 52,
+          "y": 679,
+          "w": 950,
+          "h": 28,
+          "size": 15,
+          "color": "#253A34",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "04",
+          "x": 1170,
+          "y": 679,
+          "w": 60,
+          "h": 28,
+          "size": 15,
+          "color": "#253A34",
+          "font": "Courier New",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "kind": "text",
+          "text": "Next: confirm scope, responsibilities, commercial terms and start date.",
+          "x": 53,
+          "y": 638,
+          "w": 1150,
+          "h": 18,
+          "size": 12,
+          "color": "#182A35",
+          "font": "Arial",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "notes": "Use this as the next discussion, not as an executed contract.\n\nOnly show genuine credentials and approved commercial terms. Illustrative schedules are not contractual promises."
+    }
+  ]
+}

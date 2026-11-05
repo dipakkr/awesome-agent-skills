@@ -1,0 +1,21 @@
+{
+  "title": "Signal: a useful content system",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "75542f6972a6d9929376a6c0c18efd2df47a8e46dd47d81a015ada16906b7b5b",
+  "outputs": [
+    {
+      "file": "signal.html",
+      "sha256": "a7640d105c4ca9a2e4541cde2e8e1fffa67135464c5f9ae5cec467797450df02",
+      "bytes": 26114
+    },
+    {
+      "file": "signal.pptx",
+      "sha256": "62707c56052d156b7a4ec5e30eace1a1cc923f8b601553aa511c0472199bc44d",
+      "bytes": 42683
+    }
+  ]
+}
