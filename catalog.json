@@ -362,6 +362,16 @@
       "original": true,
       "path": "skills/cad-kinetic-headline-reel",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-layered-paper-cover",
+      "name": "Layered Paper Cover",
+      "description": "Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline.",
+      "site": "https://claudeai.directory/skills/layered-paper-cover",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-layered-paper-cover",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -946,7 +956,16 @@
     "skills/cad-kinetic-headline-reel/references/example-guide.json": "8fc85b56cade7e410709d8cee6d586fc5927a70d9a468b7de2e53ed74cc8d62e",
     "skills/cad-kinetic-headline-reel/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
     "skills/cad-kinetic-headline-reel/references/usage-examples.md": "0829989429c4ff081dd1f93b2492663a4910c9689ec143254555c1064fff644e",
-    "skills/cad-kinetic-headline-reel/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51"
+    "skills/cad-kinetic-headline-reel/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
+    "skills/cad-layered-paper-cover/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-layered-paper-cover/SKILL.md": "8d1eb48a8135f85a621e7e1361e1bc33f8b1db77e6a45ab64bfbea5ddba40b94",
+    "skills/cad-layered-paper-cover/examples/gallery/01.webp": "78c52e724014e925b5e6e2acc46591831e47fc0b024838c671824b5317577ea1",
+    "skills/cad-layered-paper-cover/examples/gallery/02.webp": "866f227cf1e70ddaa9c13fffb6a5ede9bf9637aec6cf6d67b0dad48cdbfcd9d3",
+    "skills/cad-layered-paper-cover/examples/gallery/03.webp": "05003c71b923f89599ea07e389c7f7227344590462b7861489d529ac9d80bf6c",
+    "skills/cad-layered-paper-cover/examples/gallery/04.webp": "f350d2db47c0ceff6a2827e85bf261735828a87b83168e978026e104c9f5283b",
+    "skills/cad-layered-paper-cover/references/example-guide.json": "e9962caa8911e031ed37fd20dc70f9f759218073aa98e0f06eb0e5c9ca055b3c",
+    "skills/cad-layered-paper-cover/references/examples.json": "bf59fc0eb69f698252b7fcda5aac26049bf730ce9d9d32b0aa5b47679e3b5e40",
+    "skills/cad-layered-paper-cover/references/usage-examples.md": "062d7ee22071eccd84c71831544e69e00c2805b58dd4a1bf090f4fb5efae9610"
   },
   "omitted": [
     {

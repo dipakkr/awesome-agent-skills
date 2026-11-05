@@ -40,3 +40,4 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Investor Pitch Deck | [Files](skills/cad-investor-pitch-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/investor-pitch-deck) | Original / MIT |
 | Isometric Workflow Scene | [Files](skills/cad-isometric-workflow-scene/SKILL.md) | [Preview and download](https://claudeai.directory/skills/isometric-workflow-scene) | Original / MIT |
 | Motion · Kinetic Typography | [Files](skills/cad-kinetic-headline-reel/SKILL.md) | [Preview and download](https://claudeai.directory/skills/kinetic-headline-reel) | Original / MIT |
+| Layered Paper Cover | [Files](skills/cad-layered-paper-cover/SKILL.md) | [Preview and download](https://claudeai.directory/skills/layered-paper-cover) | Original / MIT |
