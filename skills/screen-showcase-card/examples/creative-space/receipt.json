@@ -1,0 +1,17 @@
+{
+  "id": "creative-space",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "0768e5f8bfd3017e88acda02f9c2952e5e5b29029fb9414c59d4a5e6beebed9e",
+  "bytes": 1531194,
+  "reviewed": true,
+  "review": "Readable Shape/Colour/Share labels, original sculptural canvas, clear headline; concept UI only.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand FORMKIT.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional collaborative design workspace concept.\nArt direction: Pale lavender background with one oversized angled white creative-canvas window on right. On the canvas: an original composition of coral sphere, cobalt arch and yellow stepped blocks. Three small floating tool chips labeled exactly Shape, Colour, Share. A neat black cursor arrow beside a corner. Large black condensed headline left and small FORMKIT wordmark. Premium product art, tactile clay meets crisp interface, no unreadable microtext.\nExact headline (preserve intentional line breaks): \"Give ideas\na place.\"\nExact small wordmark: \"FORMKIT\"\nExact supporting line: \"Sketch. Arrange. Share.\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}

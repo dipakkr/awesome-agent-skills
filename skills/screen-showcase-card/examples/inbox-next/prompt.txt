@@ -1,0 +1,9 @@
+Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand RELAY.
+Use case: ads-marketing; Screen Showcase Card.
+Context: A fictional shared-inbox product concept.
+Art direction: Deep slate navy scene. Right half has one glossy dark desktop inbox window with three clearly separated message cards labelled exactly New, Assigned, Resolved; use simple avatar circles and horizontal lines instead of gibberish text. A small tilted phone repeats one cyan message bubble in foreground. Large white sans headline left, small cyan RELAY wordmark. Cool rim light, restrained cyan-green highlights, polished product staging with no invented metrics.
+Exact headline (preserve intentional line breaks): "Every message.
+A next step."
+Exact small wordmark: "RELAY"
+Exact supporting line: "Give conversations a clear direction"
+Use only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot.

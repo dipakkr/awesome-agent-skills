@@ -1,0 +1,17 @@
+{
+  "id": "inbox-next",
+  "tool": "built-in image_gen",
+  "model": "not exposed",
+  "width": 1672,
+  "height": 941,
+  "sha256": "c2979657ca30eaa0ef784d18c296de77af89bf8a1763350428c8c14466a9f5b0",
+  "bytes": 1676028,
+  "reviewed": true,
+  "review": "Readable New/Assigned/Resolved labels, coherent device scene and message emphasis; fictional faces/UI.",
+  "steps": [
+    {
+      "action": "generate",
+      "prompt": "Create ONE finished premium landscape social-share / OG marketing graphic, approximately 16:9. Original fictional brand RELAY.\nUse case: ads-marketing; Product Interface OG.\nContext: A fictional shared-inbox product concept.\nArt direction: Deep slate navy scene. Right half has one glossy dark desktop inbox window with three clearly separated message cards labelled exactly New, Assigned, Resolved; use simple avatar circles and horizontal lines instead of gibberish text. A small tilted phone repeats one cyan message bubble in foreground. Large white sans headline left, small cyan RELAY wordmark. Cool rim light, restrained cyan-green highlights, polished product staging with no invented metrics.\nExact headline (preserve intentional line breaks): \"Every message.\nA next step.\"\nExact small wordmark: \"RELAY\"\nExact supporting line: \"Give conversations a clear direction\"\nUse only the specified visible text and any UI labels explicitly listed above. Excellent typography, readable at thumbnail size, clear focal point, generous edge-safe margins. Original art direction, no recognizable existing brand logos, no watermarks, no collage of multiple designs, no unrequested claims. Deliver the complete composed artwork, not a wireframe or template screenshot."
+    }
+  ]
+}
