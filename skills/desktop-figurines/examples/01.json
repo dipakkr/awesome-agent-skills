@@ -1,0 +1,8 @@
+{
+  "name": "Pip desk robot",
+  "mode": "robot",
+  "height": 90,
+  "head_scale": 1.05,
+  "eye_spacing": 14,
+  "color": "#839caa"
+}

@@ -184,6 +184,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "desktop-figurines",
+      "name": "Desktop Figurines",
+      "description": "Create chunky robot and mushroom figures with recessed details and a flat pedestal.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/desktop-figurines",
+      "publication": "original-mit"
+    },
+    {
       "package": "drawn-lessons",
       "name": "Drawn Lessons",
       "description": "Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats.",
@@ -779,6 +788,15 @@
     "skills/desk-lettering/requirements.txt": "38410d214d0006a6c3c33746864e51560efdd8d5b5f8d99165373efde3d5f10a",
     "skills/desk-lettering/scripts/allowed-modes.json": "b3c801d847babc29e4e39255db0b6649ca5c89d94e51a4d8d78210783d2fdab6",
     "skills/desk-lettering/scripts/model_engine.py": "3086620459f57cd12ff61f594636ab29b8d0ad1adb13aebf4e2145c0c81583fc",
+    "skills/desktop-figurines/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/desktop-figurines/SKILL.md": "e312e6868e05f9c833669717108dfc000791abc264ac79c57c90512a815afe41",
+    "skills/desktop-figurines/assets/preview.html": "d0493113883e73a7998af5aba381641ca92e1a041e740ce4342771a125e3599c",
+    "skills/desktop-figurines/examples/01.json": "90aee1c72ac08820bb3d24d0f039882d1a9ba05bb59103b23d46f12402ccd0e2",
+    "skills/desktop-figurines/examples/02.json": "baa50100241944ed3929ae607a101da0a402689693393ed1188926ef1601623b",
+    "skills/desktop-figurines/references/examples.md": "8c14f1cc49759eba19783dda6ffcd682dc98dced5ca8b2932f68c78aad802187",
+    "skills/desktop-figurines/requirements.txt": "38410d214d0006a6c3c33746864e51560efdd8d5b5f8d99165373efde3d5f10a",
+    "skills/desktop-figurines/scripts/allowed-modes.json": "eee1a7f92bbb370351ebcaffe06b8a0f90ce056d5052896d2cee220cec59b965",
+    "skills/desktop-figurines/scripts/model_engine.py": "3086620459f57cd12ff61f594636ab29b8d0ad1adb13aebf4e2145c0c81583fc",
     "skills/drawn-lessons/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/drawn-lessons/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
     "skills/drawn-lessons/README.md": "29ee9f303aed765170f877b3c6e0b76da20c6c0958c80edb5b499fcc01146e91",
@@ -3028,6 +3046,94 @@
     },
     {
       "path": "skills/desk-lettering/examples/recorded/02/turntable.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/checks.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/model.3mf",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/model.stl",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/parameters.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/receipt.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/review-0.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/review-2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/review-4.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/01/turntable.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/checks.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/model.3mf",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/model.stl",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/parameters.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/receipt.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/review-0.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/review-2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/review-4.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/desktop-figurines/examples/recorded/02/turntable.mp4",
       "reason": "rendered example; see website"
     },
     {
