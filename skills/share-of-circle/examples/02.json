@@ -1,0 +1,22 @@
+{
+  "brand": "Open Library",
+  "title": "Three shelves, one collection",
+  "subtitle": "Fictional catalogue shares used to explain a whole.",
+  "theme": "ink",
+  "source": "Illustrative data · fictional example · not measured results",
+  "center": "Collection",
+  "items": [
+    {
+      "label": "Stories",
+      "value": 45
+    },
+    {
+      "label": "Ideas",
+      "value": 35
+    },
+    {
+      "label": "Reference",
+      "value": 20
+    }
+  ]
+}

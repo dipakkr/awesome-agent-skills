@@ -1,0 +1,310 @@
+[
+  {
+    "index": "01",
+    "prompt": "Use $share-of-circle to create \"One week, three kinds of work\" for the fictional Field Studio. Use examples/01.json as the exact content brief. Follow the chalk direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "radial",
+      "sourceSha256": "4c375b7fe2409f75527f6601b5a839e38c56d4baaae83911961ff630c21f6ecb",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "9aaea4fa5533dc545a12b60f0ada20db1fddcf237f4756115d0982de0f177c50",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "3504dd36f2aec2de891d3b4229561286a0527992ac499251a9f2f8e6d3c6271d",
+          "bytes": 459
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "9f5bc29db07600494970e916f6c65b53a2cb54316527f359b89d052a2c78dfb1",
+          "bytes": 216901
+        },
+        "poster.png": {
+          "sha256": "c371db0c7ea196b5e58625be4c4ef9be2336495dd9628282c0ce29581c2b529a",
+          "bytes": 100929
+        },
+        "preview.html": {
+          "sha256": "7956fd23258e519eccd77c1a4fc5c7e08f82f935597f8eca4688e4bd547b7042",
+          "bytes": 591
+        },
+        "review-01.png": {
+          "sha256": "8595dc574f11bd702e1d7336b3138e3780f41533f22360201a8a84053fba36a4",
+          "bytes": 93326
+        },
+        "review-02.png": {
+          "sha256": "058fd4f2e4310626cc099f141a855d005354966d150304fb2bfd68238828a3b2",
+          "bytes": 92756
+        },
+        "review-03.png": {
+          "sha256": "c01310d4805ff3915dcc2c0ff745821a3d59e55a0d4af46befe04b522e8cc340",
+          "bytes": 99266
+        },
+        "review-04.png": {
+          "sha256": "c371db0c7ea196b5e58625be4c4ef9be2336495dd9628282c0ce29581c2b529a",
+          "bytes": 100929
+        },
+        "review-05.png": {
+          "sha256": "c371db0c7ea196b5e58625be4c4ef9be2336495dd9628282c0ce29581c2b529a",
+          "bytes": 100929
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "02",
+    "prompt": "Use $share-of-circle to create \"Three shelves, one collection\" for the fictional Open Library. Use examples/02.json as the exact content brief. Follow the ink direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "radial",
+      "sourceSha256": "c147db1e115aa6e2d9c7f46aa319b5c7042407bbe35d9c4fe6501decfdf37f21",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "9aaea4fa5533dc545a12b60f0ada20db1fddcf237f4756115d0982de0f177c50",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "c8568e7bdde07b07dac38666a2b06fb28df34ffaf5ac73764c29ead0dc3b5b87",
+          "bytes": 461
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "67523ad01f8479375d099eed8ac40b12b850a69db3fc2689a7412edf87fe377f",
+          "bytes": 220810
+        },
+        "poster.png": {
+          "sha256": "e1a327655997e76ec6a510f66c7016ac741d04db1dca3b3bb581f8e8e74439d4",
+          "bytes": 102776
+        },
+        "preview.html": {
+          "sha256": "2edeea9c67ba709a8fe3601d8fe81cb545e26a45981ad1bbcfd7d71b6e992c8c",
+          "bytes": 591
+        },
+        "review-01.png": {
+          "sha256": "7ecb81f694d710f2630a037db0a28a0bf8f99a0f90bb67fabaf50f962a7ca930",
+          "bytes": 96060
+        },
+        "review-02.png": {
+          "sha256": "af2e141c5c17778553a1bd2e87a713655702605fec2fd391c50015343d514ba2",
+          "bytes": 95682
+        },
+        "review-03.png": {
+          "sha256": "1577bae6c87543767f04aa0151797f5add046d8320204aba080b2bced55fe930",
+          "bytes": 100894
+        },
+        "review-04.png": {
+          "sha256": "e1a327655997e76ec6a510f66c7016ac741d04db1dca3b3bb581f8e8e74439d4",
+          "bytes": 102776
+        },
+        "review-05.png": {
+          "sha256": "e1a327655997e76ec6a510f66c7016ac741d04db1dca3b3bb581f8e8e74439d4",
+          "bytes": 102776
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "03",
+    "prompt": "Use $share-of-circle to create \"How the space is shared\" for the fictional Civic Garden. Use examples/03.json as the exact content brief. Follow the rose direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "radial",
+      "sourceSha256": "48bd553ca7129aad42eb7ca239c4efe90d2772e95b2ef3344709c0a49afb5952",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "9aaea4fa5533dc545a12b60f0ada20db1fddcf237f4756115d0982de0f177c50",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "99a051d0d74907e4543444b5b72b80ec82556305f6d591d6ec1a2aa30535e5b0",
+          "bytes": 455
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "93146e26e6448deb63f0a3e36b08511936720540116a2d8660b9f9faf5b7b7a3",
+          "bytes": 209222
+        },
+        "poster.png": {
+          "sha256": "a974d319542fd87277ed5ca3f902198d74f1b838456263136fa4cfefaebc94d8",
+          "bytes": 94935
+        },
+        "preview.html": {
+          "sha256": "4c1616216d0c5ff63329153187dc41a9ccf17ddbb879db6b035faaabd35ceafd",
+          "bytes": 579
+        },
+        "review-01.png": {
+          "sha256": "711c298f5e23a32ff5e37309abeeddc41be1c1541c32e2489412314550d3cfdb",
+          "bytes": 89198
+        },
+        "review-02.png": {
+          "sha256": "d6fb0c0154eff667e7c7a3059630eea6373eb49e769669803155b36a07bc4f43",
+          "bytes": 88910
+        },
+        "review-03.png": {
+          "sha256": "93ca79aeaae6891acf1311142818b5d572401c32740c47858ff350dbd5499dff",
+          "bytes": 95136
+        },
+        "review-04.png": {
+          "sha256": "a974d319542fd87277ed5ca3f902198d74f1b838456263136fa4cfefaebc94d8",
+          "bytes": 94935
+        },
+        "review-05.png": {
+          "sha256": "a974d319542fd87277ed5ca3f902198d74f1b838456263136fa4cfefaebc94d8",
+          "bytes": 94935
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  },
+  {
+    "index": "04",
+    "prompt": "Use $share-of-circle to create \"A sample response breakdown\" for the fictional Signal Survey. Use examples/04.json as the exact content brief. Follow the cobalt direction, keep the source disclosure visible, and render the complete silent motion piece with a poster and editable source. Inspect the entrance, reading hold and ending.",
+    "report": {
+      "edition": 2,
+      "mode": "radial",
+      "sourceSha256": "cd5505b568b0070ed2483527c02fe1e5b75db2ac4d8e0612257bfd33bf86f090",
+      "rendererSha256": "b4b179dd0d00af84ec910fc68a3850b48c9bc742a6c189612469c5e8c0a5796c",
+      "configSha256": "9aaea4fa5533dc545a12b60f0ada20db1fddcf237f4756115d0982de0f177c50",
+      "inputAssets": {},
+      "fonts": {
+        "DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+        "DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+      },
+      "reviewTimes": [
+        0,
+        0.75,
+        2.5,
+        6.2,
+        9.966666666666667
+      ],
+      "silence": true,
+      "authoredExample": true,
+      "decode": "pass",
+      "files": {
+        "brief.json": {
+          "sha256": "2ae9198b7e96de019e09f62fac2956665a7ae201a9aad235345167844d951412",
+          "bytes": 462
+        },
+        "encode.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "film.mp4": {
+          "sha256": "22dab00ed58c56e2a3acd6f09561ee3c7f010b6f50879dd2566532566ea69bad",
+          "bytes": 243366
+        },
+        "poster.png": {
+          "sha256": "f1ee52c14bb539cf293e63a29d48f043783a221f50f92e9446836f19af892b05",
+          "bytes": 108293
+        },
+        "preview.html": {
+          "sha256": "dffb6909075a4dceb1d8fd83a833c211b6b35964649eddc35ecf6ec61a435e74",
+          "bytes": 587
+        },
+        "review-01.png": {
+          "sha256": "885553255d0207d87862d688f2045e01a80c84bcc831932cb4dcefd25f67225b",
+          "bytes": 102359
+        },
+        "review-02.png": {
+          "sha256": "138f4cc5f7dda8aae8c66ff07f28c330f77d2410a00b92eff94d9457d8fd6e77",
+          "bytes": 101778
+        },
+        "review-03.png": {
+          "sha256": "a4fa736fbeacafaf25781f6410537ddc874ad0c580c00ad87c0b142a61c7f3f2",
+          "bytes": 106616
+        },
+        "review-04.png": {
+          "sha256": "f1ee52c14bb539cf293e63a29d48f043783a221f50f92e9446836f19af892b05",
+          "bytes": 108293
+        },
+        "review-05.png": {
+          "sha256": "f1ee52c14bb539cf293e63a29d48f043783a221f50f92e9446836f19af892b05",
+          "bytes": 108293
+        }
+      },
+      "video": {
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "frames": 300,
+        "seconds": 10,
+        "codec": "h264",
+        "decode": "pass"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "brand": "Civic Garden",
+  "title": "How the space is shared",
+  "subtitle": "Illustrative area allocation for a concept garden.",
+  "theme": "rose",
+  "source": "Illustrative data · fictional example · not measured results",
+  "center": "Site area",
+  "items": [
+    {
+      "label": "Planting",
+      "value": 60
+    },
+    {
+      "label": "Paths",
+      "value": 25
+    },
+    {
+      "label": "Gathering",
+      "value": 15
+    }
+  ]
+}
