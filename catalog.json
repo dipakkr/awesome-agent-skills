@@ -517,6 +517,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "painted-steps",
+      "name": "Painted Steps",
+      "description": "Explain a supplied process with translucent colour washes, fine ink drawings and short accurate labels in a clear reading order.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/painted-steps",
+      "publication": "original-mit"
+    },
+    {
       "package": "paper-depth-covers",
       "name": "Paper Depth Covers",
       "description": "Build a tactile editorial cover from cut-paper shapes, controlled depth and one clear metaphor, using your own subject and optional headline.",
@@ -1623,6 +1632,15 @@
     "skills/painted-entrance/renderer/src/Pixel.jsx": "34a93c326031ff2448a29283ac5c8f2d68a42fc8604f473681465256dd8a5ca4",
     "skills/painted-entrance/renderer/src/index.jsx": "adfc0080af2f45dde7300439b43e35f27b83a7ce0a551816b97b701d2c5b47bc",
     "skills/painted-entrance/renderer/src/model.mjs": "2cd2f0718c70a763b46256729513ad39a1d6c6c62bc7f3adbc3f2952339ac107",
+    "skills/painted-steps/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/painted-steps/SKILL.md": "c9a71b52fdf6d9052369d2dfc384396c030be8aa6e2b479306883c5edf9fec2d",
+    "skills/painted-steps/examples/gallery/01.webp": "48e22dd9b39e84abb0a690eba99c64cb5466e04c5a2e9941d19b37080f958563",
+    "skills/painted-steps/examples/gallery/02.webp": "30ca5317a374f204410326ebd7ca42486817a8cfade5b7b89df20462ccda7879",
+    "skills/painted-steps/examples/gallery/03.webp": "f5ff3fab9f3a4252d637137516b4135b793c97b1cb53b81838be26c607756ad4",
+    "skills/painted-steps/examples/gallery/04.webp": "01f3350a204dbde4a45fb94d1d0670793c022a3623f7e52a9d3d2b2dc699c27e",
+    "skills/painted-steps/references/example-guide.json": "1c392b82d81399f7e59ba08ebef2c365e7eb0fe031666989ba27c0c1e35d8b7c",
+    "skills/painted-steps/references/examples.json": "a6e41212edf8e8b6c26c80fc1c3158dffe03532efd0a17ebcf87fa59400742a3",
+    "skills/painted-steps/references/usage-examples.md": "5d795cfa8bc26b35291811267f7eaeab308fab3dce1ee711e301f114011ebda9",
     "skills/paper-depth-covers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/paper-depth-covers/SKILL.md": "5be52ee3292b6a31b39162485222fd2fa2b25da0943134ecd872a716a8344718",
     "skills/paper-depth-covers/examples/gallery/01.webp": "78c52e724014e925b5e6e2acc46591831e47fc0b024838c671824b5317577ea1",

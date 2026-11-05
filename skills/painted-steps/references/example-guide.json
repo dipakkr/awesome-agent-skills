@@ -1,0 +1,43 @@
+{
+  "skill": "painted-steps",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "A thoughtful cup",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "48e22dd9b39e84abb0a690eba99c64cb5466e04c5a2e9941d19b37080f958563",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $painted-steps. Create a new output based on the packaged example \"A thoughtful cup\". Brief: An original three-step illustration of a simple tea ritual, without brewing-time or health claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "From order to doorstep",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "30ca5317a374f204410326ebd7ca42486817a8cfade5b7b89df20462ccda7879",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $painted-steps. Create a new output based on the packaged example \"From order to doorstep\". Brief: A proposed shop fulfilment flow: check the order, pack it, send it. Not a claim that an actual order was delivered. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Make the handoff clear",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "f5ff3fab9f3a4252d637137516b4135b793c97b1cb53b81838be26c607756ad4",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $painted-steps. Create a new output based on the packaged example \"Make the handoff clear\". Brief: A suggested team handoff: gather notes, agree the next step, share the brief. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A small creative loop",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "01f3350a204dbde4a45fb94d1d0670793c022a3623f7e52a9d3d2b2dc699c27e",
+      "width": 1672,
+      "height": 941,
+      "invocation": "Use $painted-steps. Create a new output based on the packaged example \"A small creative loop\". Brief: An original creative workflow: sketch, try, review, then repeat. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
