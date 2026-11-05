@@ -1,0 +1,22 @@
+{
+  "brand": "BYTE",
+  "headline": "Small idea. Real momentum.",
+  "ending": "Make your next small thing.",
+  "cta": "Start a new project",
+  "url": "byte.example",
+  "chapters": [
+    "An idea is enough to start.",
+    "Give it a little structure.",
+    "From prompt to first preview."
+  ],
+  "accent": "#ffd17a",
+  "subject": "site",
+  "files": [
+    "index.html",
+    "style.css",
+    "app.js"
+  ],
+  "mode": "pixel",
+  "format": "landscape",
+  "concept": true
+}

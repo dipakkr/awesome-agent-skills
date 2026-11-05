@@ -859,6 +859,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "terminal-showtime",
+      "name": "Terminal Showtime",
+      "description": "Turn a short product idea into a pixel terminal promo with typed input, file assembly and a visual result.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/terminal-showtime",
+      "publication": "original-mit"
+    },
+    {
       "package": "tiny-workspaces",
       "name": "Tiny Workspaces",
       "description": "Show a product idea, workspace or service as an original isometric miniature scene with readable stations, consistent perspective and supplied facts.",
@@ -2571,6 +2580,30 @@
     "skills/team-values-card/references/research.md": "55d1c5258be294b234611296b36dc9b0e28bea15647dc865a160089dca8a278a",
     "skills/team-values-card/references/runtime-brief.json": "76b8cfb97901d96767725d22af63a335fb2587eef3d8d7cf12ff4aa28a95c0bf",
     "skills/team-values-card/references/usage-examples.md": "885044e1e0f52a415bfe3b685a8254bbded915beada868016f92a39664dae29a",
+    "skills/terminal-showtime/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/terminal-showtime/SKILL.md": "69236833459e3d7f4eaf772fd5aaac6e851bfde0f74cceaa98d985d0e54486a6",
+    "skills/terminal-showtime/examples/01-landscape.json": "c76b45a6776c5f55de847d85138fea506e2c1ad11b7ec5f86f4bdce173684531",
+    "skills/terminal-showtime/examples/01-portrait.json": "a163246a712df358c125d976bac467f1b488f1731b452014b7d60c2cf9201626",
+    "skills/terminal-showtime/examples/01-square.json": "c9798f3e4c61658e6958ba0b5d7509606ea57144abf7d6da66305341ce5cd6cb",
+    "skills/terminal-showtime/examples/02-landscape.json": "3c74b8c6c82bd3f78769f46ac5ef306ae9b365578af0f4de9b68d0e198039dd5",
+    "skills/terminal-showtime/references/audio.md": "bc8e9382a15f3f81052e514aac2f4734ae7330fbaeabd7dbc75e8b4f2e697a61",
+    "skills/terminal-showtime/references/direction.md": "a14a8b9cfd2cedaedf6536a8b2178520bd7dbe45c7bf4f3613881de6822e69d6",
+    "skills/terminal-showtime/references/input.md": "f73383f804aba5e7799f548746d3a1efc6b0853d6528815e2339c3e6dd69b989",
+    "skills/terminal-showtime/renderer/compose-score.mjs": "87d40f710baa0e6e596e4a2300ece3823475daf30ab91695851df43f24293695",
+    "skills/terminal-showtime/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/terminal-showtime/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/terminal-showtime/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/terminal-showtime/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/terminal-showtime/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/terminal-showtime/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/terminal-showtime/renderer/public/coast.png": "86ff37face51418b69298862b53d7b242761857c3c366a3c85ccbdb19c2a7a1e",
+    "skills/terminal-showtime/renderer/public/studio.png": "125eb1025e6a9699873dfaa13e25e05b6da9f7b05428221575617c23d14627ac",
+    "skills/terminal-showtime/renderer/render.mjs": "3c99aafa4fc92024b36d77670c150180a0cac7eb7669a47101890fcc8914774d",
+    "skills/terminal-showtime/renderer/src/Brush.jsx": "4e1087df26cbab4190508731bb3a545dc4623553f0c4b71c4bf6ebb8813d4eb6",
+    "skills/terminal-showtime/renderer/src/Film.jsx": "5dbb3de4953bb74e609e25e426b6416fdf589b57aa89531cbec2355a8a5a0357",
+    "skills/terminal-showtime/renderer/src/Pixel.jsx": "34a93c326031ff2448a29283ac5c8f2d68a42fc8604f473681465256dd8a5ca4",
+    "skills/terminal-showtime/renderer/src/index.jsx": "adfc0080af2f45dde7300439b43e35f27b83a7ce0a551816b97b701d2c5b47bc",
+    "skills/terminal-showtime/renderer/src/model.mjs": "2cd2f0718c70a763b46256729513ad39a1d6c6c62bc7f3adbc3f2952339ac107",
     "skills/tiny-workspaces/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/tiny-workspaces/SKILL.md": "4e9b86801fb7454d0c038a476f174d3fdb3a4f607c6893fffb19bf7d54dab504",
     "skills/tiny-workspaces/examples/gallery/01.webp": "3f8edca0547b8c13e23056fa524de52a893c5142e083da2bd7b78633c07e9805",
@@ -12710,6 +12743,470 @@
     },
     {
       "path": "skills/task-loop-gif/examples/welcome/output/workflow.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/review/00-boot.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/review/01-command.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/review/02-build.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/review/03-gallery.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/review/04-ship.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/review/00-boot.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/review/01-command.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/review/02-build.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/review/03-gallery.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/review/04-ship.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-portrait/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/review/00-boot.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/review/01-command.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/review/02-build.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/review/03-gallery.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/review/04-ship.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/01-square/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/review/00-boot.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/review/01-command.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/review/02-build.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/review/03-gallery.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/review/04-ship.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/terminal-showtime/examples/recorded/02-landscape/transitions/14.jpg",
       "reason": "rendered example; see website"
     },
     {
