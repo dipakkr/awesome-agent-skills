@@ -1,0 +1,18 @@
+{
+  "brand": "Form Library",
+  "title": "A collection with character",
+  "subtitle": "Original concept artwork for a fictional brand library.",
+  "cta": "Open this collection",
+  "theme": "paper",
+  "disclosure": "Illustrative concept \u00b7 fictional brand",
+  "filters": [
+    "All work",
+    "Brand worlds",
+    "Recent"
+  ],
+  "media": [
+    "../assets/media/brand-morrow.jpg",
+    "../assets/media/brand-form.jpg",
+    "../assets/media/brand-roam.jpg"
+  ]
+}

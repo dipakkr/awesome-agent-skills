@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gallery In Perspective"
+  short_description: "Render an editable tilted media wall locally"
+  default_prompt: "Use $gallery-in-perspective to make a film from my brief and review its motion and copy."

@@ -283,6 +283,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "gallery-in-perspective",
+      "name": "Gallery In Perspective",
+      "description": "Reveal a media library over a tilted moving wall, select a collection and expand one asset into a detail panel. Use for portfolio launches, ecommerce lookbooks and creative libraries.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/gallery-in-perspective",
+      "publication": "original-mit"
+    },
+    {
       "package": "gathering-announcement",
       "name": "Gathering Announcement",
       "description": "Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials.",
@@ -1027,6 +1036,35 @@
     "skills/gadget-in-action/references/examples.json": "d69d8a846420cf350a8dd6733e2787d0362c2a0a53c91bd70b49dbe8b1b1137a",
     "skills/gadget-in-action/references/formats.md": "83da1fadea72ee48477bcf898698d99e1789321f59c143db2c6e3e87586389d6",
     "skills/gadget-in-action/references/usage-examples.md": "836612bfd88a5d1356b756aa7edcee725de1b211dcff0bb56587e1e174970143",
+    "skills/gallery-in-perspective/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/gallery-in-perspective/SKILL.md": "e2878ca65b45f02c994be5a75f41f7ccdc91ef7d5192fc07271542c5ddfbb74a",
+    "skills/gallery-in-perspective/agents/openai.yaml": "6eb6b91406b5417c719c0258276140802922426525e44ca0af9f4403f801a75f",
+    "skills/gallery-in-perspective/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/gallery-in-perspective/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/gallery-in-perspective/assets/fonts/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/gallery-in-perspective/assets/fonts/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/gallery-in-perspective/assets/media/brand-form.jpg": "45a73f8735293dd169cc08aab3bb93654aae607807c64e1ef61de0bae4b17cce",
+    "skills/gallery-in-perspective/assets/media/brand-morrow.jpg": "232d5377e9c95751bec1ed99b0534b83e4248b47600f208199d5141df36f98e4",
+    "skills/gallery-in-perspective/assets/media/brand-roam.jpg": "876481aeb7134515e6f1219e6002e158b47c12cf577cf78d3fedf8963f24aa15",
+    "skills/gallery-in-perspective/assets/media/story-fox-1.jpg": "6c54bc7c2d300a776a22ec28ddc9c7a9e00a8c23a3a5b48bb6c0a417492192b6",
+    "skills/gallery-in-perspective/assets/media/story-fox-2.jpg": "6df88aaf468945a90a82ee2c1b2df633dec7d8da7f9f3091ac0248cafbf0b0b7",
+    "skills/gallery-in-perspective/assets/media/story-fox-3.jpg": "7ac5de006a81c98cd955b7a9b65e6dd6074c6e528c5738aabc2be15282e0f4e4",
+    "skills/gallery-in-perspective/assets/media/story-robot-1.jpg": "72fcaf024d9cbe7c253c1786158add68135dcfb866c2bc9e84b62601fbaab7b1",
+    "skills/gallery-in-perspective/assets/media/story-robot-2.jpg": "5fe169c274a5ab490df61a3e58c9b1cab538004dea540539bf05b056aa9e4077",
+    "skills/gallery-in-perspective/assets/media/story-robot-3.jpg": "583084ae8d3a4282733341589848d49007dafccf3341d68492033915d2905de7",
+    "skills/gallery-in-perspective/assets/media/story-whale-1.jpg": "d9f74015499dfdaf684ebfd594d1a299238ab86471aec1dc810b625d1c02a818",
+    "skills/gallery-in-perspective/assets/media/story-whale-2.jpg": "58b144d7a1c79dd2213c9e6474f2d9ff427c465d0c9b226ccb52fc926c137837",
+    "skills/gallery-in-perspective/assets/media/story-whale-3.jpg": "5af0c8017092af6ed262a590f26571252e366f0af0cdbddfb5ce79b52dc0e49a",
+    "skills/gallery-in-perspective/config.json": "6a5990d58f45ff6f1f8f9b2c747ddc40e354c5812e96f4a42dcfeadd9d59fef6",
+    "skills/gallery-in-perspective/examples/01.json": "5c8e179707f464cb2917979bab0e729f2abca53f7bb0b3dc6d1f03980df1a387",
+    "skills/gallery-in-perspective/examples/02.json": "28ad85846e7a194038bcdf36bb912f861e8fd877968b90c74ce74acc597ea3fa",
+    "skills/gallery-in-perspective/examples/03.json": "98d234d0f3aeb2689e87676fd029d5923d4f0bef31f2218127755357b3950246",
+    "skills/gallery-in-perspective/examples/04.json": "965e757f00f1b2cb14afcf8d626042faa50f982b8f2909fd4b1d25b8f3230f74",
+    "skills/gallery-in-perspective/references/credits.md": "b5211e82fc02c439bdea8bb7fc56ee0b2e93313c29ac0a7523f95537fc9224f6",
+    "skills/gallery-in-perspective/references/example-guide.json": "98a0e5d1c5d58c0f6fc9af69cd8b90aa208a444ef596ee5077da70ffb41104a2",
+    "skills/gallery-in-perspective/references/schema.md": "ff5def2b28cb939a74cab9da5974a65eb8e30461f84becb36e312013add99521",
+    "skills/gallery-in-perspective/references/usage-examples.md": "e488552bbfd454378d1cfab32aa6e33a539e864590bd88766859d347180804a4",
+    "skills/gallery-in-perspective/scripts/render.py": "69051efa4624f15156f73f879c309f3d9e892bebafb55f39bb7ec6d86e541c51",
     "skills/gathering-announcement/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/gathering-announcement/SKILL.md": "977b4a714e98d8a9f4b5735d2f947bf93a6ac0e80e34dfb2bbb0fa10c553d51f",
     "skills/gathering-announcement/examples/gallery/01.webp": "41c531e3323e7dff718231f04dc663bd4fc5c17b72a03bf00ea40d8a30ba0cfa",
@@ -3779,6 +3817,182 @@
     },
     {
       "path": "skills/funding-story/examples/loop/loop.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/01/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/02/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/03/review-5.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/catalog-cover.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/review-1.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/review-2.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/review-3.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/review-4.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/gallery-in-perspective/examples/recorded/04/review-5.jpg",
       "reason": "rendered example; see website"
     },
     {
