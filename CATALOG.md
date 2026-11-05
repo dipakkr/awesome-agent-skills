@@ -27,6 +27,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Desktop Figurines](skills/desktop-figurines/SKILL.md) | Create chunky robot and mushroom figures with recessed details and a flat pedestal. |
 | [Detail Annotation](skills/detail-annotation/SKILL.md) | Create a product-detail image with short factual feature labels and unambiguous leader lines, using supplied facts or clearly labeled conceptual examples. |
 | [Drawn Lessons](skills/drawn-lessons/SKILL.md) | Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats. |
+| [Edit Room Sequence](skills/edit-room-sequence/SKILL.md) | Sort illustrated media tiles into editing tracks and play the assembled visual sequence. |
 | [Everyday Object Demo](skills/everyday-object-demo/SKILL.md) | Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details. |
 | [Funding Story](skills/funding-story/SKILL.md) | Shape a concise investor narrative around the problem, solution, market assumptions, evidence, business model and next funding milestone. |
 | [Gathering Announcement](skills/gathering-announcement/SKILL.md) | Build a clear LinkedIn Event cover around the supplied topic, schedule and host without inventing speaker credentials. |
