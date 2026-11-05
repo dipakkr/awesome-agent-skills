@@ -1,0 +1,18 @@
+{
+  "brand": "POSTBIRD",
+  "headline": "A little hello goes far.",
+  "ending": "Good words bring us together.",
+  "cta": "Send a little kindness",
+  "url": "postbird.example",
+  "chapters": [
+    "Give your words wings.",
+    "Some things are worth the trip.",
+    "A message finds its home.",
+    "Connection takes root."
+  ],
+  "accent": "#dd4d63",
+  "subject": "letter",
+  "mode": "paper",
+  "format": "landscape",
+  "concept": true
+}

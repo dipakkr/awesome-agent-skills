@@ -535,6 +535,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "paper-stage-story",
+      "name": "Paper Stage Story",
+      "description": "Tell a short brand story with an original paper courier, tactile scenery and a visible transformation.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/paper-stage-story",
+      "publication": "original-mit"
+    },
+    {
       "package": "pen-and-page",
       "name": "Pen And Page",
       "description": "Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request.",
@@ -1650,6 +1659,27 @@
     "skills/paper-depth-covers/references/example-guide.json": "3bc3729249557181f0ddcd482bb69ae5cdd85c3ef543236d1d93588b9a794b98",
     "skills/paper-depth-covers/references/examples.json": "bf59fc0eb69f698252b7fcda5aac26049bf730ce9d9d32b0aa5b47679e3b5e40",
     "skills/paper-depth-covers/references/usage-examples.md": "af8e7b10e79957da39cf4b83ced041f0d31d701c22ae2bfd52a3cbb7df7d2d02",
+    "skills/paper-stage-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/paper-stage-story/SKILL.md": "9bbbb2ccb1aeaeb663667e7771f29cd4e191ed4d90b309877b1ce768f443c8e8",
+    "skills/paper-stage-story/examples/01-landscape.json": "f7865a579b722cb1b74e97594ad433fa18f2548792b35d8cca5ca5ff16e2967e",
+    "skills/paper-stage-story/examples/01-portrait.json": "d77b13daaba996ccb5bbb4b3496e22d44359a3483639b64b129d6e1793595e6d",
+    "skills/paper-stage-story/examples/01-square.json": "65e92a179e0d5df27da03d814203a487c4d7813f851905e84b03182b644e0f99",
+    "skills/paper-stage-story/examples/02-landscape.json": "57e8fda93b598aa116362e8d85b7075fa4930c10227a3e1854cc07085ec2a2a5",
+    "skills/paper-stage-story/references/direction.md": "ced165011e9d106111cc7d9d3a1ba0c908b4729ce8add4bf4de32d6484fcf0a5",
+    "skills/paper-stage-story/references/input.md": "7d63868c36a7d608cf611799d7b6dc339704ea9e32d16c051ba72b8693f84c19",
+    "skills/paper-stage-story/renderer/compose-score.mjs": "c0f16b09e286f715369303c40f8e98d9dc19cdbe5cbef761c1b236859be0a4e8",
+    "skills/paper-stage-story/renderer/package-lock.json": "296dff71f5d697726c2719532c1531414b9b018919aa01ea9c28ca4021c28911",
+    "skills/paper-stage-story/renderer/package.json": "97b70d2742044a3c4eb9b69eea9b0d7f796762dbd36312774724dd921cdb5ff3",
+    "skills/paper-stage-story/renderer/public/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "skills/paper-stage-story/renderer/public/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "skills/paper-stage-story/renderer/public/DM-Serif-OFL.txt": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "skills/paper-stage-story/renderer/public/DM-Serif.ttf": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "skills/paper-stage-story/renderer/render.mjs": "4691e1cf677e884e8ceaca112bcd66c8473fcdecca8deaf274e36639a5a5f956",
+    "skills/paper-stage-story/renderer/src/Film.jsx": "37af34b1e8514973ab5883da198c67276ebfa0aecd9807d1f4a69910be9d1d11",
+    "skills/paper-stage-story/renderer/src/Paper.jsx": "2cfd5c36646184c0e3748436e0d97ac9884c7a813d3c6a99bd9532614a20cb29",
+    "skills/paper-stage-story/renderer/src/Rocket.jsx": "c58d38271ccd31812081548c7d0155a328e865d45ee766209dd2dab4eb5ebb31",
+    "skills/paper-stage-story/renderer/src/index.jsx": "2376ba32de0e4fa58899a919062f6f04128f5f09ee465e8d477e03c01b68084f",
+    "skills/paper-stage-story/renderer/src/model.mjs": "d83ac95c4a581d2b557fd33e2d857d332a4e2eff6b7af9785898e0d2e7841939",
     "skills/pen-and-page/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/pen-and-page/SKILL.md": "22fd59ac9637a5926cf0e90b133a7da003f98e5db8fa5e7fd714a651e535d9a1",
     "skills/pen-and-page/examples/gallery/01.webp": "2d652c9b6858fa79ae5ef5d4a135927ee2d7a74378a9a8c8d759a3dbd68e75f4",
@@ -7587,6 +7617,534 @@
     },
     {
       "path": "skills/painted-entrance/examples/recorded/02-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/review/00-spark.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/review/01-journey.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/review/02-weather.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/review/03-arrival.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/review/04-change.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/review/05-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-landscape/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/review/00-spark.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/review/01-journey.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/review/02-weather.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/review/03-arrival.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/review/04-change.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/review/05-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-portrait/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/review/00-spark.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/review/01-journey.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/review/02-weather.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/review/03-arrival.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/review/04-change.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/review/05-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/01-square/transitions/17.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/brief.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/film.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/render-report.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/review/00-spark.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/review/01-journey.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/review/02-weather.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/review/03-arrival.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/review/04-change.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/review/05-close.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/score.wav",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/score.wav.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/storyboard.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/00.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/01.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/02.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/03.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/04.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/05.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/06.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/07.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/08.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/09.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/10.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/11.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/12.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/13.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/14.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/15.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/16.jpg",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/paper-stage-story/examples/recorded/02-landscape/transitions/17.jpg",
       "reason": "rendered example; see website"
     },
     {
