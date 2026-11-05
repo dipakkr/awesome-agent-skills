@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gadget In Action"
+  short_description: "Tech accessory ads grounded in real features"
+  default_prompt: "Use $gadget-in-action to create fresh ad concepts from my product, audience and brand inputs."

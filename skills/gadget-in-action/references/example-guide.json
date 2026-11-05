@@ -1,0 +1,43 @@
+{
+  "skill": "gadget-in-action",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "title": "A folding phone stand",
+      "preview": "examples/gallery/01.webp",
+      "sha256": "d75082b39b18454f6429a038edc9c33fc99cb5324c35c265d3a8fc555f1daa6a",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $gadget-in-action. Create a new output based on the packaged example \"A folding phone stand\". Brief: Create a use-case image for a concept aluminium folding phone stand. Approved facts: adjustable hinge and cable slot. No phone included. Audience: home-office workers. Headline: Make room for your call. CTA: See the stand. No logo; graphite and warm white. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "A cable organiser",
+      "preview": "examples/gallery/02.webp",
+      "sha256": "edd33ffbda74b86a239fbd74c9feef37bf991aa81c9960b8a512359b26d24e73",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $gadget-in-action. Create a new output based on the packaged example \"A cable organiser\". Brief: Create a macro feature ad for a concept set of three silicone cable clips. Approved facts: three slots per clip, removable adhesive pads. Audience: gamers. Headline: Less cable chaos. CTA: Tidy your setup. Lime and charcoal; no logo. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Headphone travel case",
+      "preview": "examples/gallery/03.webp",
+      "sha256": "077f42e28043163033cc50a732376628cd4c0f56476079acdb6e55d5f454e8d3",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $gadget-in-action. Create a new output based on the packaged example \"Headphone travel case\". Brief: Concept hard-shell headphone storage case, no included headphones or protection rating claims. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    },
+    {
+      "title": "Desk mat",
+      "preview": "examples/gallery/04.webp",
+      "sha256": "f12085d62400d4cb7230b8433b53f49e27fbacc900f2a33137dadf70ba644451",
+      "width": 1122,
+      "height": 1402,
+      "invocation": "Use $gadget-in-action. Create a new output based on the packaged example \"Desk mat\". Brief: Concept deep green desk mat, workspace accessory; keyboard is contextual prop, not included. Read the supplied example source and style instructions, preserve the pattern, and adapt the content to my subject. Ask me for required source assets that are missing. Return the actual deliverable and check it against the brief.",
+      "invocationProvenance": "suggested-after-existing-run"
+    }
+  ]
+}
