@@ -724,6 +724,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "sculpted-containers",
+      "name": "Sculpted Containers",
+      "description": "Shape a vase or bowl with an editable silhouette, flutes and twist.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/sculpted-containers",
+      "publication": "original-mit"
+    },
+    {
       "package": "shape-and-type",
       "name": "Shape And Type",
       "description": "Create a bold social-share graphic with one exact headline, playful geometric symbolism and a repeatable visual hierarchy.",
@@ -2218,6 +2227,15 @@
     "skills/screen-to-screen/renderer/src/Handoff.jsx": "58488593a7696ea8fb6a7311066c6ad32b723b4cdc84cb5f295c16d3ce98f54c",
     "skills/screen-to-screen/renderer/src/index.jsx": "b0ae03484d7eedc0fbcb96124b1642a8ad32b973103537a88ee018de241e9eb5",
     "skills/screen-to-screen/renderer/src/model.mjs": "1998794521c2ded0499c2f7eab8ab46edb2c1a8857c8bcda4d7714cbbf357eb8",
+    "skills/sculpted-containers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/sculpted-containers/SKILL.md": "64d1e7f16d879f5ae3c58a03ec29ce94e77352355e7af67d71b19cb875540d81",
+    "skills/sculpted-containers/assets/preview.html": "d0493113883e73a7998af5aba381641ca92e1a041e740ce4342771a125e3599c",
+    "skills/sculpted-containers/examples/01.json": "c5a0173f3b308bea4ba960393f1bc83dfeb4f94c7da6942770a1aa72c2cc3c68",
+    "skills/sculpted-containers/examples/02.json": "a4fde889ebaa33f549b6757daf667c9f9008a5c2f44a8adce33245efa9ce20b4",
+    "skills/sculpted-containers/references/examples.md": "94bac14b3bef68d5e20a641575c8bc718165192de34af7bc94200c04998d4447",
+    "skills/sculpted-containers/requirements.txt": "38410d214d0006a6c3c33746864e51560efdd8d5b5f8d99165373efde3d5f10a",
+    "skills/sculpted-containers/scripts/allowed-modes.json": "2293885a16a7e25413096f5532f10ab11936ccb47d40fb081fa83e252179d8e8",
+    "skills/sculpted-containers/scripts/model_engine.py": "3086620459f57cd12ff61f594636ab29b8d0ad1adb13aebf4e2145c0c81583fc",
     "skills/shape-and-type/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/shape-and-type/SKILL.md": "04cb5c211c6d3b9d7352eefb051e068894ab47c2aeead54fb1605650daa55052",
     "skills/shape-and-type/examples/gallery/01.webp": "5b165a9861629addbbffe2232c1b0e146e43d4e3e25c06c76e7495ccccc0e3ff",
@@ -10833,6 +10851,94 @@
     },
     {
       "path": "skills/screen-to-screen/examples/recorded/source-dark-v1/src/model.mjs",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/checks.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/model.3mf",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/model.stl",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/parameters.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/receipt.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/review-0.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/review-2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/review-4.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/01/turntable.mp4",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/checks.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/model.3mf",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/model.stl",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/parameters.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/poster.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/preview.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/receipt.json",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/review-0.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/review-2.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/review-4.png",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/sculpted-containers/examples/recorded/02/turntable.mp4",
       "reason": "rendered example; see website"
     },
     {

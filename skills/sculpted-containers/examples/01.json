@@ -1,0 +1,37 @@
+{
+  "name": "Orbit spiral vase",
+  "mode": "vessel",
+  "height": 142,
+  "profile": [
+    [
+      0,
+      24
+    ],
+    [
+      0.12,
+      27
+    ],
+    [
+      0.4,
+      39
+    ],
+    [
+      0.65,
+      31
+    ],
+    [
+      0.85,
+      22
+    ],
+    [
+      1,
+      25
+    ]
+  ],
+  "wall": 3.2,
+  "base": 3.2,
+  "flutes": 18,
+  "amplitude": 2,
+  "twist": 72,
+  "color": "#c47b60"
+}
