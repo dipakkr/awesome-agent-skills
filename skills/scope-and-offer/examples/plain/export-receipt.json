@@ -1,0 +1,21 @@
+{
+  "title": "Plain: a useful onboarding service",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "aa6d7c1f2e098b0ed5fb3213aa582c4978fc16692f00d4cd7548f49436826399",
+  "outputs": [
+    {
+      "file": "plain.html",
+      "sha256": "8fcefa351ff730370683d9d729ce04581f3c109b0a01fbb6eb6e8e534ffcc3b3",
+      "bytes": 8857323
+    },
+    {
+      "file": "plain.pptx",
+      "sha256": "7e3e608b6205add91785e5254752dfb33b4dc72d8acdc6634b6288daf7a245e3",
+      "bytes": 2175142
+    }
+  ]
+}

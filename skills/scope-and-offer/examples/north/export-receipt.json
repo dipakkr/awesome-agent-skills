@@ -1,0 +1,21 @@
+{
+  "title": "North: a focused website sprint",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "d1548f954db433ae0255cbd12ce50e99014949747dc4356e4846d92f80e34137",
+  "outputs": [
+    {
+      "file": "north.html",
+      "sha256": "949866b78b3116a257a7c63e51935b8f7a0ec4e7021982077840dade66e81fa4",
+      "bytes": 7131771
+    },
+    {
+      "file": "north.pptx",
+      "sha256": "511254fdedcc22c969fdc9121babab7ce9e64fa87755977daf01915a4778e4f5",
+      "bytes": 2630197
+    }
+  ]
+}

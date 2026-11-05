@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scope And Offer"
+  short_description: "Create editable services presentations from your brief"
+  default_prompt: "Use $scope-and-offer to make a presentation for my audience using my brief and optional assets."
