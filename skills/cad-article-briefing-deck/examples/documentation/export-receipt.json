@@ -1,0 +1,21 @@
+{
+  "title": "Documentation as a shared habit",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "a2d034f4263aceef950df1c4b1ff64324686ef9e387ce4e01553e2cb2f0e8ecd",
+  "outputs": [
+    {
+      "file": "documentation.html",
+      "sha256": "4a3292babca886aa6dfd80d91f5a8c314ac0571c4c0e8f021c2ef3c393744f33",
+      "bytes": 27974
+    },
+    {
+      "file": "documentation.pptx",
+      "sha256": "0708cb414068120e1b93c2e151a2db88c4c8a8300663550086550e86e63378ee",
+      "bytes": 43216
+    }
+  ]
+}

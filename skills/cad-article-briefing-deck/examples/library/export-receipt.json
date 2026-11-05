@@ -1,0 +1,21 @@
+{
+  "title": "A library beyond the shelves",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "935dc0d21f6369fa90edfe8678c3bb735fa3db6d433200b30a1c7df9429d4736",
+  "outputs": [
+    {
+      "file": "library.html",
+      "sha256": "be2e801e503763ada22c4279751e422bd4dc6ff34144eb145a686a20329eadb3",
+      "bytes": 7442973
+    },
+    {
+      "file": "library.pptx",
+      "sha256": "3dc23196783de21060315116012c749edd077035a283dfa14d513dc9a5293db3",
+      "bytes": 2772471
+    }
+  ]
+}

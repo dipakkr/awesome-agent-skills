@@ -94,6 +94,16 @@
       "publication": "original-mit"
     },
     {
+      "package": "cad-article-briefing-deck",
+      "name": "Article Briefing Deck",
+      "description": "Convert a supplied article into a readable thesis, evidence map, implications and discussion deck with traceable notes.",
+      "site": "https://claudeai.directory/skills/article-briefing-deck",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-article-briefing-deck",
+      "publication": "original-mit"
+    },
+    {
       "package": "cad-ecommerce-product-listing",
       "name": "Ecommerce Product Listing",
       "description": "Create evidence-grounded ecommerce product listings from a shared store brief or supplied product facts, with variant-preserving draft Shopify CSV exports and a reviewable claim ledger.",
@@ -229,6 +239,35 @@
     "skills/cad-amazon-store-collection-tile/references/example-guide.json": "55260093584c4a1cb3c1f886d4155905da65b59cb969bc4acc308c76465a4587",
     "skills/cad-amazon-store-collection-tile/references/placement.md": "ef7bd74136bba7afc9594e51530f30ebc1bd1d3811ab2f9b5688b766a8b5f2dc",
     "skills/cad-amazon-store-collection-tile/references/usage-examples.md": "098a3f7e9db696fac0000748f6e1202f5453481fcab885bdb0653164ef55954e",
+    "skills/cad-article-briefing-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-article-briefing-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/cad-article-briefing-deck/README.md": "94d2d25fd4c392b59ca114c07ef25c038f3a5aa02b4dd611a62ca07b5ffd0a84",
+    "skills/cad-article-briefing-deck/SKILL.md": "f5bc2b2dda6f760ff5c64d72c9ae4f41ddf9952e998c6675fe2aec6275dd44b6",
+    "skills/cad-article-briefing-deck/agents/openai.yaml": "62010fbde2f73decf5ac890add2b68c17aaa0a4c845301e02028579c25efde97",
+    "skills/cad-article-briefing-deck/examples/documentation/brief.md": "1d311f6cbfdf73a0775c0f4b1fbed5ee3b8ec1fba7c73a2d8596f21edeba15ac",
+    "skills/cad-article-briefing-deck/examples/documentation/deck.json": "a2d034f4263aceef950df1c4b1ff64324686ef9e387ce4e01553e2cb2f0e8ecd",
+    "skills/cad-article-briefing-deck/examples/documentation/export-receipt.json": "2388424749a62ff005d3a251bcef8a51908a8028b8687686acb75f5cf2988273",
+    "skills/cad-article-briefing-deck/examples/documentation/source.md": "681434edbbddf17aed67adfe1fad4242ded1d7ab157834d727e6fa545ba68799",
+    "skills/cad-article-briefing-deck/examples/gallery/01.webp": "d94a0cb8e5a1d2fdb305c772a918fc6597cc39bf2ffc130d7ced71c2ad4d6eac",
+    "skills/cad-article-briefing-deck/examples/gallery/02.webp": "92b86a47783298e83100d08ac2c649725118ba627d1f8de14f765b80c157d507",
+    "skills/cad-article-briefing-deck/examples/gallery/03.webp": "fea08f82d7cb1f14114d6345a9e0c75bd47434f4cbe9d682f57c45deafb3a4ed",
+    "skills/cad-article-briefing-deck/examples/library/assets/redesign-library.png": "0e30367b4d4c407fbadf3939089a1530d2af897505f2670fd44db86d39d0f7e9",
+    "skills/cad-article-briefing-deck/examples/library/brief.md": "535464a5aa4359d6837f2e8f9ba3ed030149c4c813a68ac0ab73afc7efc598b9",
+    "skills/cad-article-briefing-deck/examples/library/deck.json": "935dc0d21f6369fa90edfe8678c3bb735fa3db6d433200b30a1c7df9429d4736",
+    "skills/cad-article-briefing-deck/examples/library/export-receipt.json": "285df146ac62d8d46960f0eb5a8987a17445a0d7e698e1c2be771d9aaae361db",
+    "skills/cad-article-briefing-deck/examples/library/source.md": "30b86eeb27ac0e319bff3eebc92fd022833a165b40d4f33c8ef01f55745e95c8",
+    "skills/cad-article-briefing-deck/examples/repair/assets/redesign-repair.png": "3103f93721bc23327772030f4079bd84c0065ef62884dda4d6d94f7a47307551",
+    "skills/cad-article-briefing-deck/examples/repair/brief.md": "4b048f81f14d917788cf8e4ee1bd85a8a939038332ca5f5aef03c03567776e4d",
+    "skills/cad-article-briefing-deck/examples/repair/deck.json": "8df7e2f49cec6554b820f925a838c4f656a7a5deac7e0ecf545b30b7e011191e",
+    "skills/cad-article-briefing-deck/examples/repair/export-receipt.json": "3085658b0cccabce9f516c3e79aaccc18a8f2a94667d2ac169e2f3a27de88640",
+    "skills/cad-article-briefing-deck/examples/repair/source.md": "6bec55da5c856ed8b84358551358c4687fafc89feb42cf565eef9cc32ff94262",
+    "skills/cad-article-briefing-deck/references/design.md": "89024e51c00befb1437fefa0a348c0414b5cb5c491dba99f0f1803ebe1c7e812",
+    "skills/cad-article-briefing-deck/references/example-guide.json": "6d1a03e416d897db6ba5f45c1f0be7c24c17e2045b4802d5a8031eae819bdd7b",
+    "skills/cad-article-briefing-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/cad-article-briefing-deck/references/usage-examples.md": "7120346371a99396540c7d440ecb68b939ecd51475142aede3e8dc1522eb22d4",
+    "skills/cad-article-briefing-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/cad-article-briefing-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/cad-article-briefing-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/cad-ecommerce-product-listing/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/cad-ecommerce-product-listing/SKILL.md": "0003b393d9a050c174a4e6763b88196044226ebc978e95b0e6c87c3c9d392fd7",
     "skills/cad-ecommerce-product-listing/agents/openai.yaml": "325a74c3a7779e3b827215c9ae57b64fc38a548cb6512cc550a090cdea142e18",
@@ -1033,6 +1072,30 @@
     },
     {
       "path": "skills/cad-ad-production-blueprint/examples/relaydesk/index.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-article-briefing-deck/examples/documentation/documentation.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-article-briefing-deck/examples/documentation/documentation.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-article-briefing-deck/examples/library/library.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-article-briefing-deck/examples/library/library.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-article-briefing-deck/examples/repair/repair.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-article-briefing-deck/examples/repair/repair.pptx",
       "reason": "rendered example; see website"
     }
   ]
