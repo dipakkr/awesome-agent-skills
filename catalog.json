@@ -292,6 +292,16 @@
       "original": true,
       "path": "skills/cad-geometric-share-card",
       "publication": "original-mit"
+    },
+    {
+      "package": "cad-handwritten-notes-document",
+      "name": "Handwritten Notes Document",
+      "description": "Turn your notes into an illustrated handwritten page, a long scrolling document or a paginated PDF. Choose the format in your request.",
+      "site": "https://claudeai.directory/skills/handwritten-notes-document",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/cad-handwritten-notes-document",
+      "publication": "original-mit"
     }
   ],
   "files": {
@@ -770,7 +780,17 @@
     "skills/cad-geometric-share-card/examples/gallery/04.webp": "ed2e04730c9988ec068665d435dd606d93590f12230a3d1d634d84b6d0474b03",
     "skills/cad-geometric-share-card/references/example-guide.json": "53e4d1c30cd5df464f34c26b9d760785031ee9c2bd5242d9caf003a577dace74",
     "skills/cad-geometric-share-card/references/examples.json": "184469c980ed2f6913d825f197d3d7c008b698808d53adcf95d1b244a01d0f26",
-    "skills/cad-geometric-share-card/references/usage-examples.md": "a1e7bc2aedf16098dee7628053a243a886474008b0c6850e9452680327914943"
+    "skills/cad-geometric-share-card/references/usage-examples.md": "a1e7bc2aedf16098dee7628053a243a886474008b0c6850e9452680327914943",
+    "skills/cad-handwritten-notes-document/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/cad-handwritten-notes-document/SKILL.md": "52aac60b0dcef492cf5707169693b60900942f5f682bba579ed0403c63fae5a1",
+    "skills/cad-handwritten-notes-document/examples/gallery/01.webp": "2d652c9b6858fa79ae5ef5d4a135927ee2d7a74378a9a8c8d759a3dbd68e75f4",
+    "skills/cad-handwritten-notes-document/examples/gallery/02.webp": "70df179e88434e510105c5081f9fb9a54ba399c98749754c270356f1c0917e42",
+    "skills/cad-handwritten-notes-document/examples/gallery/03.webp": "588c12e968fa57bf7caf8f1587e957ab454988a63466ac9c2c3005e2a1957e65",
+    "skills/cad-handwritten-notes-document/examples/gallery/04.webp": "cdacb7443752421a8837aeb765bf9434d2cb32a9c95b5e3297880dd30a8a2406",
+    "skills/cad-handwritten-notes-document/references/example-guide.json": "5a95012d5ba42ec9ade5e96603722113b33c6148e9a83ed0d3135ea583331406",
+    "skills/cad-handwritten-notes-document/references/usage-examples.md": "85040a9b8dbf1aeb0fa5db2811a6a7330f151a227d709dda368e5ccceeb37f76",
+    "skills/cad-handwritten-notes-document/requirements.txt": "6ab81a090bf98b550e46c9841944255f245fd3b2c5cf25997c609836cc5b18c7",
+    "skills/cad-handwritten-notes-document/scripts/export_notes.py": "1d2e2d5caf8e293277a6ae47f054083d05b49f4381513a13ad26f673978a84d2"
   },
   "omitted": [
     {
@@ -2580,6 +2600,10 @@
     {
       "path": "skills/cad-freelance-proposal-deck/examples/landing/landing.pptx",
       "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/cad-handwritten-notes-document/validation.json",
+      "reason": "runtime/cache"
     }
   ]
 }
