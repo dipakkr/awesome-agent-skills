@@ -1,0 +1,18 @@
+{
+  "brand": "RELAY",
+  "headline": "Keep your idea moving.",
+  "ending": "Pick up where you left off.",
+  "cta": "Find your flow",
+  "url": "relay.example",
+  "item": "The next good idea",
+  "chapters": [
+    "Capture a thought.",
+    "Make room for detail.",
+    "Bring it to the room."
+  ],
+  "accent": "#a3f969",
+  "subject": "notes",
+  "mode": "handoff",
+  "format": "square",
+  "concept": true
+}
