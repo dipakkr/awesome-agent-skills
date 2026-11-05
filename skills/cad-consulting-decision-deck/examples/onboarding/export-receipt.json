@@ -1,0 +1,21 @@
+{
+  "title": "Fix the step that stalls setup",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "bb3c4cdb91324f4b8adffd00aeff1764ec64b47402161d8f8d1759d11febd5fa",
+  "outputs": [
+    {
+      "file": "onboarding.html",
+      "sha256": "ab97c93a7452883e582f417adaecb5cb527906082224b80f60030bfa53834493",
+      "bytes": 28028
+    },
+    {
+      "file": "onboarding.pptx",
+      "sha256": "dfb4fb73e433ba740b5345bb9fb83099974caf5ade437fb6bb22d6e0f8286386",
+      "bytes": 43199
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Test a narrower inventory buffer",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "eb1ba3e493240555786982615b8c946dd35b176a57c888e7a46533e499da7289",
+  "outputs": [
+    {
+      "file": "inventory.html",
+      "sha256": "7f1bb2268d2370b623cd2399378100a454316ff5c9f7c023ed9cb5d74b17d8b3",
+      "bytes": 29997
+    },
+    {
+      "file": "inventory.pptx",
+      "sha256": "87f001b478651d9a839ec1095e7ccacd03a29a04ed3d59a2955f9a6f71dd94b2",
+      "bytes": 43458
+    }
+  ]
+}
