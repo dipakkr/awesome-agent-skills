@@ -1,0 +1,25 @@
+{
+  "brand": "Lesson House",
+  "title": "Practice with a purpose",
+  "subtitle": "A four-part structure for a short workshop.",
+  "theme": "cobalt",
+  "source": "Illustrative concept · fictional brand",
+  "steps": [
+    {
+      "label": "Observe",
+      "detail": "Start with one concrete example."
+    },
+    {
+      "label": "Explain",
+      "detail": "Name the principle behind it."
+    },
+    {
+      "label": "Try",
+      "detail": "Apply it to a new situation."
+    },
+    {
+      "label": "Reflect",
+      "detail": "Describe what changed and why."
+    }
+  ]
+}

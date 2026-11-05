@@ -1,0 +1,25 @@
+{
+  "brand": "Studio Practice",
+  "title": "From brief to first draft",
+  "subtitle": "Keep the review decision visible at every stage.",
+  "theme": "rose",
+  "source": "Illustrative concept · fictional brand",
+  "steps": [
+    {
+      "label": "Understand",
+      "detail": "Name the audience and intended action."
+    },
+    {
+      "label": "Explore",
+      "detail": "Sketch two genuinely different routes."
+    },
+    {
+      "label": "Build",
+      "detail": "Develop the selected direction."
+    },
+    {
+      "label": "Review",
+      "detail": "Check the result against the brief."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steps In Sequence"
+  short_description: "Create editable process flow with recorded examples"
+  default_prompt: "Use $steps-in-sequence to turn my brief into an original motion piece and deliver the rendered files plus editable inputs."
