@@ -1,0 +1,224 @@
+{
+  "skill": "little-team-story",
+  "distinctOutputs": 4,
+  "fourOutputStandardMet": true,
+  "examples": [
+    {
+      "index": "01",
+      "title": "Meet your store crew",
+      "invocation": "Use $little-team-story to make \"Meet your store crew\" for the fictional brand Cartnote. Use examples/01.json as the exact input, the paper palette and the CTA \"Explore the workflow\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/01.json",
+      "output": "examples/recorded/01/film.mp4",
+      "render": {
+        "mode": "crew",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 24.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "a28bb4ffc18af5cc685a40a376c10a8a776e4b2289fc56e34ee79325a02dd1fd",
+        "rendererSha256": "0a882728f0413344bf15b499bf32a851bdc901c148781df9643f16e657d1ac6d",
+        "inputAssets": {},
+        "textFitChecks": 258,
+        "files": {
+          "brief.json": {
+            "sha256": "a28bb4ffc18af5cc685a40a376c10a8a776e4b2289fc56e34ee79325a02dd1fd",
+            "bytes": 437
+          },
+          "film.mp4": {
+            "sha256": "10d0310214510fa1cd6a746f686f69f7943ab9001634e2858490337c212aecba",
+            "bytes": 303190
+          },
+          "poster.png": {
+            "sha256": "b975d3ea151237b1f25b5de5c1b25143d46f771675543b599591fa51a0f6569e",
+            "bytes": 32250
+          },
+          "review-1.jpg": {
+            "sha256": "dc108d59d2a2afd54035974e0585c6ed66c2a76ccce6b78e7582376d49fc2c76",
+            "bytes": 52415
+          },
+          "review-2.jpg": {
+            "sha256": "cd5134f18718b43bbec40ad6c45dc4386219df0cd7816b73d58ea9b7747d8782",
+            "bytes": 58141
+          },
+          "review-3.jpg": {
+            "sha256": "0423426ad10401cedd090414c471a592da17ae9991e936ed824995affddcd49f",
+            "bytes": 62357
+          },
+          "review-4.jpg": {
+            "sha256": "072af958a2bf797617e0338e0248d68615c37e0ee91de53f51b1830341cb73a8",
+            "bytes": 58730
+          },
+          "review-5.jpg": {
+            "sha256": "654bd4cb80fa565ab507141a1533a53dac6bb2b5c192e42826d8200cee35a013",
+            "bytes": 55550
+          }
+        }
+      }
+    },
+    {
+      "index": "02",
+      "title": "Meet your design crew",
+      "invocation": "Use $little-team-story to make \"Meet your design crew\" for the fictional brand Margin Studio. Use examples/02.json as the exact input, the lavender palette and the CTA \"Explore the studio\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/02.json",
+      "output": "examples/recorded/02/film.mp4",
+      "render": {
+        "mode": "crew",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 24.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "ecde0c5b05dd27aeb0bd98350fbe9eb9488145fb1e73113d198fcff3d057a247",
+        "rendererSha256": "0a882728f0413344bf15b499bf32a851bdc901c148781df9643f16e657d1ac6d",
+        "inputAssets": {},
+        "textFitChecks": 258,
+        "files": {
+          "brief.json": {
+            "sha256": "ecde0c5b05dd27aeb0bd98350fbe9eb9488145fb1e73113d198fcff3d057a247",
+            "bytes": 446
+          },
+          "film.mp4": {
+            "sha256": "5650403afb3a52dd8b7f1181ac00ea5a1b358df138f658afbcb482c6ad5149d1",
+            "bytes": 301282
+          },
+          "poster.png": {
+            "sha256": "859e8a61d769eb9582286aff435f43662ee8de27a43ef8176a742e004b4330c8",
+            "bytes": 32285
+          },
+          "review-1.jpg": {
+            "sha256": "05d6eb4cfc31c8751de5b4ca062728623a05b902e45da53d8d7216f1e4ba83b3",
+            "bytes": 54295
+          },
+          "review-2.jpg": {
+            "sha256": "4da7ca62f6cfd6670be888e7752869f8c1f81920c6672b0842ae06d71b75aa0e",
+            "bytes": 58388
+          },
+          "review-3.jpg": {
+            "sha256": "f432333beff9cca01fe4c4867f180734fb8fc0044c4de900bee9472b3a727c5a",
+            "bytes": 61420
+          },
+          "review-4.jpg": {
+            "sha256": "5c65352e8760ba57e9598bfba6307c51ff661fc8ab6ab9972e8533baabdb3278",
+            "bytes": 59021
+          },
+          "review-5.jpg": {
+            "sha256": "1bf4790f1d50a5134628e634b89bb4fed29957386e7e6d235857b65f77082ad7",
+            "bytes": 59767
+          }
+        }
+      }
+    },
+    {
+      "index": "03",
+      "title": "Meet your project crew",
+      "invocation": "Use $little-team-story to make \"Meet your project crew\" for the fictional brand Fieldwork. Use examples/03.json as the exact input, the night palette and the CTA \"Explore the workspace\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/03.json",
+      "output": "examples/recorded/03/film.mp4",
+      "render": {
+        "mode": "crew",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 24.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "c6408e9f1d0b6e1a08b5ab8ac052078b4ceeee916e16472692c7d701e570e6bf",
+        "rendererSha256": "0a882728f0413344bf15b499bf32a851bdc901c148781df9643f16e657d1ac6d",
+        "inputAssets": {},
+        "textFitChecks": 259,
+        "files": {
+          "brief.json": {
+            "sha256": "c6408e9f1d0b6e1a08b5ab8ac052078b4ceeee916e16472692c7d701e570e6bf",
+            "bytes": 444
+          },
+          "film.mp4": {
+            "sha256": "23b6ddec8ecbf7f7d60c31b94c223380e746e2f7d95707c9ea455b7afc9929ac",
+            "bytes": 309519
+          },
+          "poster.png": {
+            "sha256": "f5b7c8888014895a1b28ed6f7ee82f54dd808e68b375884bc1b9c219e0e07104",
+            "bytes": 36967
+          },
+          "review-1.jpg": {
+            "sha256": "b3223e66870e5cdaae3be6c45cf3f2c8f462c978a4864e244983af5bae3c90ef",
+            "bytes": 62290
+          },
+          "review-2.jpg": {
+            "sha256": "96fa49708cc11af8d21f2e76eb996b19ba00039be7d7305d0ebb0a0f920fedf4",
+            "bytes": 64466
+          },
+          "review-3.jpg": {
+            "sha256": "14de1e6452a8f9df69a157570a70ff7664e9e8631c98dbc7ca2045654e032bd8",
+            "bytes": 70515
+          },
+          "review-4.jpg": {
+            "sha256": "2202d04c51b525bfcc074163ac1b3f269fd6b0dd8402a67faa912eaed59afbe0",
+            "bytes": 67559
+          },
+          "review-5.jpg": {
+            "sha256": "880e1d694c13dfd66e1018021939893948d1c624224410c71d50fcf82415e9f4",
+            "bytes": 65344
+          }
+        }
+      }
+    },
+    {
+      "index": "04",
+      "title": "Meet your teaching crew",
+      "invocation": "Use $little-team-story to make \"Meet your teaching crew\" for the fictional brand Lesson Lab. Use examples/04.json as the exact input, the ocean palette and the CTA \"Explore the lesson flow\". Render the complete silent film, poster and editable inputs locally. Keep the supplied illustrative disclosure.",
+      "input": "examples/04.json",
+      "output": "examples/recorded/04/film.mp4",
+      "render": {
+        "mode": "crew",
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 24.0,
+        "audio": false,
+        "decode": "pass",
+        "briefSha256": "8e809fffd092b7b1f96f4304f6c89a2a097a58df35aac63a27c79f8b032c5278",
+        "rendererSha256": "0a882728f0413344bf15b499bf32a851bdc901c148781df9643f16e657d1ac6d",
+        "inputAssets": {},
+        "textFitChecks": 259,
+        "files": {
+          "brief.json": {
+            "sha256": "8e809fffd092b7b1f96f4304f6c89a2a097a58df35aac63a27c79f8b032c5278",
+            "bytes": 441
+          },
+          "film.mp4": {
+            "sha256": "07db467281c54a33509df0325a9461f458d00b220ebfa01196a3edd967ae16b0",
+            "bytes": 309788
+          },
+          "poster.png": {
+            "sha256": "5b016408759ada4f1ef8b32fa17206f253c267b0cec0426a2f78e48576e9915e",
+            "bytes": 31732
+          },
+          "review-1.jpg": {
+            "sha256": "baa544dc63bc2731c014031683620018d7f170dc590b3386a08232dca3dd9826",
+            "bytes": 56279
+          },
+          "review-2.jpg": {
+            "sha256": "2e97eef2485dba1c1bbaa16085cba7219e44ca0ae6660271b04838b5c912f9cb",
+            "bytes": 58160
+          },
+          "review-3.jpg": {
+            "sha256": "069d7ed44c1c34ce070c20c03db8bbb1aae63d68dc6b826e922ae55e1bdbf975",
+            "bytes": 62873
+          },
+          "review-4.jpg": {
+            "sha256": "e582e93cd92d435f612d9a4cd87709384c96be7f1752037ce498c1e95df76146",
+            "bytes": 60266
+          },
+          "review-5.jpg": {
+            "sha256": "b5153a26ca817987f04244c24216980795b2c8444db49524e18d47b974c0a349",
+            "bytes": 58458
+          }
+        }
+      }
+    }
+  ],
+  "verification": "Author-executed; no independent agent reuse claimed"
+}

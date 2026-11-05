@@ -1,0 +1,4 @@
+interface:
+  display_name: "Little Team Story"
+  short_description: "Render an editable workflow crew launch locally"
+  default_prompt: "Use $little-team-story to make a film from my brief and review its motion and copy."
