@@ -319,6 +319,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "impossible-product-scenes",
+      "name": "Impossible Product Scenes",
+      "description": "Build a playful campaign around one impossible scene while keeping the product legible and believable.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/impossible-product-scenes",
+      "publication": "original-mit"
+    },
+    {
       "package": "ink-cut-covers",
       "name": "Ink Cut Covers",
       "description": "Turn a story or article into an original ink engraving with a strong metaphor, detailed hatching and room for editorial typography.",
@@ -1133,6 +1142,16 @@
     "skills/identity-playbook/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/identity-playbook/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
     "skills/identity-playbook/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/impossible-product-scenes/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/impossible-product-scenes/SKILL.md": "a4685caf4dfa5aff8c093ba72c7f0a7f4a46072105b120c77b8ef062649edf76",
+    "skills/impossible-product-scenes/examples/gallery/01.webp": "914131202a2e07979bbd526ca6cbedd3b47da8d8f71af892620412ba28e9da4d",
+    "skills/impossible-product-scenes/examples/gallery/02.webp": "ba449bb7eb784b05395c4e1c7be4b45d24d0ff76da33a117dcf57376dec8ce2a",
+    "skills/impossible-product-scenes/examples/gallery/03.webp": "d0fcbbed9e278a8987258358a88326b74b9117a6a7a9974264396b2087444877",
+    "skills/impossible-product-scenes/examples/gallery/04.webp": "28cd42d8de41b975ba171417f569b7818b4a1628be048b65c84a45c3f590c328",
+    "skills/impossible-product-scenes/references/example-guide.json": "84c767d3201bdfd938e147531ef3da39071b5353ddcc98c5242d9e4992bb174c",
+    "skills/impossible-product-scenes/references/examples.json": "71fd2e0ebf9e73a48f70e1497763fd2880e5df652fabc6da69367345532be6b7",
+    "skills/impossible-product-scenes/references/research.md": "deccfa1f39c26c3dc889d886507b6145896db52a3a5894e88525500911eb67f2",
+    "skills/impossible-product-scenes/references/usage-examples.md": "24560b2fe3a2a6df8e0b1e582982628836913ac7a4bb073a72e84a971485ec1d",
     "skills/ink-cut-covers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/ink-cut-covers/SKILL.md": "758c396a119c0d0ffcd3d94682a294479f5e9a17fd22a85316df8f6e840f6187",
     "skills/ink-cut-covers/examples/gallery/01.webp": "e2d306e2740023144e03e62408a9076bc789fd9cf51b1f58792322bbbb0ecc33",
