@@ -1,0 +1,21 @@
+{
+  "title": "Shelf: a library for your team",
+  "slideCount": 4,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "sourceSha256": "89107e445d7fbc35635a47d4e2fc802766143d2bc37f8ed55cfaecfe48ad004c",
+  "outputs": [
+    {
+      "file": "shelf.html",
+      "sha256": "01562926fc9b8a50084915541f259cfba993c497f9fca3dd3edde114ac973ce0",
+      "bytes": 28209
+    },
+    {
+      "file": "shelf.pptx",
+      "sha256": "7d79e31f278a1247004f6247763ced470625ab7cabf79b99090f73fa316e1ad5",
+      "bytes": 43184
+    }
+  ]
+}

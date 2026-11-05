@@ -643,6 +643,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "release-story-deck",
+      "name": "Release Story Deck",
+      "description": "Introduce a product through the customer problem, a focused demonstration and a practical launch plan.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/release-story-deck",
+      "publication": "original-mit"
+    },
+    {
       "package": "report-front-page",
       "name": "Report Front Page",
       "description": "Create the opening cover graphic for a useful LinkedIn document, guide or carousel using a clear reader promise.",
@@ -1966,6 +1975,32 @@
     "skills/recommendation-room/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
     "skills/recommendation-room/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
     "skills/recommendation-room/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
+    "skills/release-story-deck/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/release-story-deck/PROVENANCE.md": "03c895d9db3dc18cbc7ddc8e4151c5cd52d99323317a7fb1f4d1f1046164323a",
+    "skills/release-story-deck/README.md": "b0f806a74d291dbb0a9afa75a731a0a2c08657bdf09c2f90485d3c7acf500dea",
+    "skills/release-story-deck/SKILL.md": "b1c6ff11058bc86164d306dea693728f0bf4525f60715144e9ce31684e66e28a",
+    "skills/release-story-deck/agents/openai.yaml": "0fff3dafc06023b85caa2199510378d6dc4858df370a854888712c26d24c994e",
+    "skills/release-story-deck/examples/gallery/01.webp": "e60dd04fed399b86c890aa1ca379dda3ce7d303879abdf3038e62a4a568c2519",
+    "skills/release-story-deck/examples/gallery/02.webp": "0edb6098cbfa41d821ca0672cd453d6f3d92a0af3b6ec12e6739954ffd5190a0",
+    "skills/release-story-deck/examples/gallery/03.webp": "a0003e184a1f6ed9cb24ba9fc973901f3b874df27c3caae2c85ad72cf3b02214",
+    "skills/release-story-deck/examples/relay/assets/redesign-relay.png": "3d5576b734133131b6556a666b4f9b74282f5fb5e06d75b504d91e4806066c65",
+    "skills/release-story-deck/examples/relay/brief.md": "1cac7da7609beb7a29bde77b120d00b985971434dec1852046561e8723eac113",
+    "skills/release-story-deck/examples/relay/deck.json": "bd0c5bcc347bb4cf465c47898355ac8d737723aacb47ba60accfd5c1cc9b2556",
+    "skills/release-story-deck/examples/relay/export-receipt.json": "faacefb5256d10786e1a9bdd8f389c1bb43d1747b897d8a88a38aac5d5db4770",
+    "skills/release-story-deck/examples/shelf/brief.md": "81bfcc118c64939da6d098505a62558847a90cd380aa683e4ff5993cbf7504d3",
+    "skills/release-story-deck/examples/shelf/deck.json": "d6716ac42afd35f67338d7ed4289d76ed2dc3563c9f9848d77bb3d62a193c1e3",
+    "skills/release-story-deck/examples/shelf/export-receipt.json": "b2e3bcbcdf78bbe47989b6e02f47f9ad5d404eec192cb6a8dccf42b6ccd4c82b",
+    "skills/release-story-deck/examples/tide/assets/redesign-tide.png": "43a3a412923a394a957c7d996a7f858df5db24ea5b11783dcc5b4f1832d76ddf",
+    "skills/release-story-deck/examples/tide/brief.md": "9418bbc593451e20d9c28debcd2df73d41ef12e0120391ab39e15d13ed25027c",
+    "skills/release-story-deck/examples/tide/deck.json": "ec534380479c16e56113d6f679855a90b3af1c2d7d27e76f2b0687b28ef0c1bc",
+    "skills/release-story-deck/examples/tide/export-receipt.json": "361d4cd3918ad69bee66e158cb19b9f2b8e366f355ab9d20bb7748c90b189b87",
+    "skills/release-story-deck/references/design.md": "3530006cb68f3fc193ea998e0533cb7d3cac9a3a9a239af6a26c27aeb8075372",
+    "skills/release-story-deck/references/example-guide.json": "dac649aa5d61ee200679f991b1ff9e85877f34d54f52c4bb4fa36cd1d411bb06",
+    "skills/release-story-deck/references/schema.md": "9df82f549ceeeb94bdfda80ab80cff72da4fb4f3e7ca6fc738d8631430779bba",
+    "skills/release-story-deck/references/usage-examples.md": "6273a3b4a6c1e69913e24436c60bca5a96679a0e696603d61987c82520c2e3ea",
+    "skills/release-story-deck/scripts/render_deck.py": "495965970a6e179a750f28b386a049c31fa009e77bd2528ceb6057d9c1cd403a",
+    "skills/release-story-deck/scripts/requirements.txt": "a1cff9c6212734675b73d4c045e09b17c0b98be22bf9fc8173c7a451f4aedea0",
+    "skills/release-story-deck/scripts/viewer.html": "e139ecbf368fe97b295fe4b9eed5c2b31f080e10e9e5fb12942f10a524b32e12",
     "skills/report-front-page/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/report-front-page/SKILL.md": "0c015dc72c0905b0cd9e659eedbd181f56972edd7fd54364587979238480f529",
     "skills/report-front-page/examples/gallery/01.webp": "6a61aa41bf1a2ae80ee0c0e7a36948fdf1d2ab3612a5a907db5eb1240e655d78",
@@ -9304,6 +9339,30 @@
     },
     {
       "path": "skills/recommendation-room/examples/support/support.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/release-story-deck/examples/relay/relay.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/release-story-deck/examples/relay/relay.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/release-story-deck/examples/shelf/shelf.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/release-story-deck/examples/shelf/shelf.pptx",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/release-story-deck/examples/tide/tide.html",
+      "reason": "rendered example; see website"
+    },
+    {
+      "path": "skills/release-story-deck/examples/tide/tide.pptx",
       "reason": "rendered example; see website"
     },
     {
