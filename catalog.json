@@ -148,6 +148,15 @@
       "publication": "original-mit"
     },
     {
+      "package": "component-study",
+      "name": "Component Study",
+      "description": "Create an elegant exploded product concept poster from your approved component list, preserving part count and making the relationship between pieces readable.",
+      "kind": "catalogue",
+      "original": true,
+      "path": "skills/component-study",
+      "publication": "original-mit"
+    },
+    {
       "package": "concept-layers",
       "name": "Concept Layers",
       "description": "Create a LinkedIn infographic that organizes a tool stack, capability stack or operating system into pastel horizontal layers with labelled icon tiles.",
@@ -697,6 +706,15 @@
     "skills/comic-lab-scenes/renderer/src/Film.jsx": "0b73c04b74d38d40b7d67e7137afe907f5309f71695da2434570c954323348b5",
     "skills/comic-lab-scenes/renderer/src/index.jsx": "67b94858eafb1243a66bc53299dd7b0eab176d7bab5cbe880d28437cec4cbf22",
     "skills/comic-lab-scenes/scripts/prepare.py": "2227e138de7195bf1fbdce87915752e3b6e860674087360269caca1d9bd2a29b",
+    "skills/component-study/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
+    "skills/component-study/SKILL.md": "3f351386d2936b1f4f4cb1d64d15e0ceccaae4179fe29abfe35f2c7198b32bef",
+    "skills/component-study/examples/gallery/01.webp": "ad86a41de2de80e04d2d2e8bd6156140a5b8d0c920bcc11202f2224b66c793a3",
+    "skills/component-study/examples/gallery/02.webp": "3a99100eb104c63022d16e4a6bf743735e891fae638207070cf89a5ef62b0ddc",
+    "skills/component-study/examples/gallery/03.webp": "8abe5307de819262154f8e461b830dbdddd17e0676025119842435fc78e3aeeb",
+    "skills/component-study/examples/gallery/04.webp": "24b12d7db84773f30077de00d17697c2ffde3e254d272187cfd4d69d6c7e1cb5",
+    "skills/component-study/references/example-guide.json": "a25781a71211f48c3e1b97ce616366fd8485665e85400dbebf9f194d6a707bdf",
+    "skills/component-study/references/examples.json": "b1805255ddcb85b499fafa0cf0fad810559bcf8cfa57c1bee73f72c176c88c3e",
+    "skills/component-study/references/usage-examples.md": "641b1c7cd04c46c3ca3bbddc56b1219b4c1425afa1426a196f7eaee380139be7",
     "skills/concept-layers/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
     "skills/concept-layers/SKILL.md": "cf8692ec6d14fe98e03d25fbf2ebf1617fa1edff41634c77f2a93a923bf4fa4e",
     "skills/concept-layers/examples/gallery/01.webp": "316fc1bf8dd1a8c03c28433b61b684dc694b45252b35607033efdfefb2f9185c",

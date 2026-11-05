@@ -20,6 +20,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Collection Thumbnails](skills/collection-thumbnails/SKILL.md) | Create a text-free square collection image for a small Amazon Store tile, with a clear product family and space for native link text. |
 | [Color Atmospheres](skills/color-atmospheres/SKILL.md) | Create atmospheric brand and launch graphics with sculptural light, rich gradients and carefully placed typography. |
 | [Comic Lab Scenes](skills/comic-lab-scenes/SKILL.md) | Turn one useful idea into a funny 3D skit: a confident misunderstanding, a deadpan robot, an absurd prop and a callback ending. |
+| [Component Study](skills/component-study/SKILL.md) | Create an elegant exploded product concept poster from your approved component list, preserving part count and making the relationship between pieces readable. |
 | [Concept Layers](skills/concept-layers/SKILL.md) | Create a LinkedIn infographic that organizes a tool stack, capability stack or operating system into pastel horizontal layers with labelled icon tiles. |
 | [Drawn Lessons](skills/drawn-lessons/SKILL.md) | Explain a habit, process or tricky idea through original ink illustrations and short, editable teaching beats. |
 | [Everyday Object Demo](skills/everyday-object-demo/SKILL.md) | Turn home and kitchen products into clear ad concepts that show their place, purpose and useful details. |
