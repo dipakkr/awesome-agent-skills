@@ -23,5 +23,6 @@ Preview outputs, download a packaged skill and find usage examples on its websit
 | Commercial Doodle Ad | [Files](skills/cad-commercial-doodle-ad/SKILL.md) | [Preview and download](https://claudeai.directory/skills/commercial-doodle-ad) | Original / MIT |
 | Consulting Decision Deck | [Files](skills/cad-consulting-decision-deck/SKILL.md) | [Preview and download](https://claudeai.directory/skills/consulting-decision-deck) | Original / MIT |
 | Creative Experiment Planner | [Files](skills/cad-creative-experiment-planner/SKILL.md) | [Preview and download](https://claudeai.directory/skills/creative-experiment-planner) | Original / MIT |
+| Customer Evidence Board | [Files](skills/cad-customer-evidence-board/SKILL.md) | [Preview and download](https://claudeai.directory/skills/customer-evidence-board) | Original / MIT |
 | Ecommerce Product Listing | [Files](skills/cad-ecommerce-product-listing/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
 | Ecommerce Store Brief | [Files](skills/cad-ecommerce-store-brief/SKILL.md) | [Preview and download](https://claudeai.directory/skills/for/ecommerce-founders) | Original / MIT |
