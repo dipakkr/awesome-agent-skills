@@ -1,0 +1,11 @@
+Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.
+Style: Cool blue and sage, fine graphite graph paper, handwritten uppercase header, clean numbered callouts. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.
+Exact title: "The water cycle". Exact subtitle: "Water moves. It does not disappear.". Body copy (verbatim):
+Evaporation: liquid water becomes water vapor.
+Condensation: water vapor becomes liquid droplets.
+Precipitation: rain or snow falls from clouds.
+Runoff: water flows over land.
+Infiltration: water enters the ground.
+Small sticky note copy: "A simplified model: real water takes many paths.".
+Diagram: A large blue and sage landscape diagram with lake, mountain, cloud, rain, and soil. Label arrows with the five process names. Evaporation points upward from lake, precipitation downward from cloud, runoff downhill, infiltration into soil. This is a simplified model.
+All text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.

@@ -1,0 +1,10 @@
+Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.
+Style: Ivory ruled paper, rose and amber accents, expressive brush heading, tidy handwritten body. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.
+Exact title: "Build a clear paragraph". Exact subtitle: "One idea, developed with care.". Body copy (verbatim):
+Point: state the main idea.
+Support: add an example or evidence.
+Explain: show why the support matters.
+Link: connect to the next idea.
+Small sticky note copy: "This is a useful scaffold, not a rule for every paragraph.".
+Diagram: Four offset pastel index cards stacked down the page and connected by pen arrows: Point, Support, Explain, Link. Next to them a tiny book, speech bubble, lightbulb and bridge. Plenty of generous writing space and an editorial notebook hierarchy.
+All text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.

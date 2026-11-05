@@ -1,0 +1,14 @@
+{
+  "key": "water-cycle",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: Cool blue and sage, fine graphite graph paper, handwritten uppercase header, clean numbered callouts. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"The water cycle\". Exact subtitle: \"Water moves. It does not disappear.\". Body copy (verbatim):\nEvaporation: liquid water becomes water vapor.\nCondensation: water vapor becomes liquid droplets.\nPrecipitation: rain or snow falls from clouds.\nRunoff: water flows over land.\nInfiltration: water enters the ground.\nSmall sticky note copy: \"A simplified model: real water takes many paths.\".\nDiagram: A large blue and sage landscape diagram with lake, mountain, cloud, rain, and soil. Label arrows with the five process names. Evaporation points upward from lake, precipitation downward from cloud, runoff downhill, infiltration into soil. This is a simplified model.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle",
+  "path": "outputs/water-cycle-v1.png",
+  "sha256": "41aeb4bfc38e835306ebbf041646bf100b769d20a357663ae623a32e4748b876",
+  "width": 1055,
+  "height": 1491,
+  "review": [
+    "Five definitions and directional arrows agree; simplified-model qualification retained.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}

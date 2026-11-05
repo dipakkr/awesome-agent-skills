@@ -1,0 +1,9 @@
+Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.
+Style: Warm cream dot-grid paper, peach and lavender highlighter, oversized hand-lettered title, precise ink diagrams. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.
+Exact title: "Equivalent fractions". Exact subtitle: "Different numbers. The same amount.". Body copy (verbatim):
+Multiply the numerator and denominator by the same nonzero number.
+1/2 = 2/4 = 4/8
+The whole must stay the same size.
+Small sticky note copy: "Changing only the denominator changes the value.".
+Diagram: Three perfectly equal-length horizontal fraction strips stacked vertically: first divided into exactly 2 equal parts with 1 shaded; second into exactly 4 with 2 shaded; third into exactly 8 with 4 shaded. Shaded regions align at the halfway point. Labels 1/2, 2/4, 4/8. Separate small worked calculation 2/3 = 4/6 with multiply-by-2 arrows at top and bottom.
+All text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.

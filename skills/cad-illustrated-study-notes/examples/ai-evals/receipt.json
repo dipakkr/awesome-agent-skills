@@ -1,0 +1,14 @@
+{
+  "key": "ai-evals",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: White faint graph paper, navy ink with lime and lilac accents, compact handwritten headline, generous whitespace. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"What are AI evals?\". Exact subtitle: \"Test the task. Inspect the failures.\". Body copy (verbatim):\nEvals are structured tests of an AI system.\nChoose realistic cases and clear success criteria.\nRun the system, score outputs, inspect failures.\nRepeat after changes.\nSmall sticky note copy: \"One good answer is not enough evidence.\".\nDiagram: A four-node process map Cases \u2192 Run \u2192 Score \u2192 Review. Original small ink illustrations of a test-card stack, simple robot, checklist and magnifying glass. A small loop arrow from Review back to Cases, clearly separate from main arrow path.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "https://developers.openai.com/api/docs/guides/evaluation-best-practices",
+  "path": "outputs/ai-evals-v1.png",
+  "sha256": "8660f5d31bae0aff446f9b2ca97d8a9d4b06d4bed49a8886bb2a21bbef68ddde",
+  "width": 1086,
+  "height": 1448,
+  "review": [
+    "All four facts, correct Cases \u2192 Run \u2192 Score \u2192 Review order and return arrow; evidence caution retained.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}

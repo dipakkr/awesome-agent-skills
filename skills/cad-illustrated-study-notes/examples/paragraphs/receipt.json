@@ -1,0 +1,14 @@
+{
+  "key": "paragraphs",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: scientific-educational. Create one polished portrait notebook study-sheet image, approximately A4 proportions, high resolution. Flat frontal page filling the image, not a photo on a desk. Original educational artwork for a reusable skill catalogue.\nStyle: Ivory ruled paper, rose and amber accents, expressive brush heading, tidy handwritten body. Neat readable pen handwriting, elegant marker emphasis, small meaningful doodles, generous margins. No logos, fake source page numbers, watermarks or decorative objects outside the paper.\nExact title: \"Build a clear paragraph\". Exact subtitle: \"One idea, developed with care.\". Body copy (verbatim):\nPoint: state the main idea.\nSupport: add an example or evidence.\nExplain: show why the support matters.\nLink: connect to the next idea.\nSmall sticky note copy: \"This is a useful scaffold, not a rule for every paragraph.\".\nDiagram: Four offset pastel index cards stacked down the page and connected by pen arrows: Point, Support, Explain, Link. Next to them a tiny book, speech bubble, lightbulb and bridge. Plenty of generous writing space and an editorial notebook hierarchy.\nAll text must be correctly spelled and comfortably readable. Keep visual relationships mathematically and conceptually correct. Do not add other facts or paragraphs. Keep diagram label counts exact. Make it feel like carefully authored study notes, not a corporate infographic.",
+  "source": "Original writing exercise; a useful scaffold, not a universal writing rule.",
+  "path": "outputs/paragraphs-v1.png",
+  "sha256": "19a293efa75190713db912e61763edede34989c507a89b678223e2f0b69f6aab",
+  "width": 1055,
+  "height": 1491,
+  "review": [
+    "Point, support, explain and link meanings preserved; optional-scaffold qualification retained.",
+    "Visible copy, spacing, clipping and unrequested branding reviewed at native aspect ratio."
+  ]
+}

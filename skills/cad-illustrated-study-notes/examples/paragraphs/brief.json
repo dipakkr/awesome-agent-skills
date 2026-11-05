@@ -1,0 +1,8 @@
+{
+  "key": "paragraphs",
+  "title": "Build a clear paragraph \u00b7 study notes",
+  "source": "Original writing exercise; a useful scaffold, not a universal writing rule.",
+  "copy": "Exact title: \"Build a clear paragraph\". Exact subtitle: \"One idea, developed with care.\". Body copy (verbatim):\nPoint: state the main idea.\nSupport: add an example or evidence.\nExplain: show why the support matters.\nLink: connect to the next idea.\nSmall sticky note copy: \"This is a useful scaffold, not a rule for every paragraph.\".\nDiagram: Four offset pastel index cards stacked down the page and connected by pen arrows: Point, Support, Explain, Link. Next to them a tiny book, speech bubble, lightbulb and bridge. Plenty of generous writing space and an editorial notebook hierarchy.",
+  "invocation": "Use $cad-illustrated-study-notes to explain build a clear paragraph for a beginner. Include an accurate diagram and one short tip. Use Ivory ruled paper, rose and amber accents, expressive brush heading, tidy handwritten body.",
+  "path": "outputs/paragraphs-v1.png"
+}

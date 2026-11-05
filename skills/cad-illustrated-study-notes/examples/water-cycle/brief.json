@@ -1,0 +1,8 @@
+{
+  "key": "water-cycle",
+  "title": "The water cycle \u00b7 study notes",
+  "source": "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle",
+  "copy": "Exact title: \"The water cycle\". Exact subtitle: \"Water moves. It does not disappear.\". Body copy (verbatim):\nEvaporation: liquid water becomes water vapor.\nCondensation: water vapor becomes liquid droplets.\nPrecipitation: rain or snow falls from clouds.\nRunoff: water flows over land.\nInfiltration: water enters the ground.\nSmall sticky note copy: \"A simplified model: real water takes many paths.\".\nDiagram: A large blue and sage landscape diagram with lake, mountain, cloud, rain, and soil. Label arrows with the five process names. Evaporation points upward from lake, precipitation downward from cloud, runoff downhill, infiltration into soil. This is a simplified model.",
+  "invocation": "Use $cad-illustrated-study-notes to explain the water cycle for a beginner. Include an accurate diagram and one short tip. Use Cool blue and sage, fine graphite graph paper, handwritten uppercase header, clean numbered callouts.",
+  "path": "outputs/water-cycle-v1.png"
+}
