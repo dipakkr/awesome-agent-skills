@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
+  <title>Agent Skills Directory</title>
+  <desc>Reusable workflows for images, motion, presentations and practical documents.</desc>
+  <rect width="1200" height="420" rx="16" fill="#141C24"/>
+  <path d="M714 0V420" stroke="#2C3742"/>
+  <path d="M48 56h18v18H48zM72 56h18v18H72zM48 80h18v18H48z" fill="#E4B896"/>
+  <path d="M72 80h18v18H72z" fill="#455767"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="110" y="82" fill="#C1CBD2" font-size="13" letter-spacing="2.5">A LIBRARY FOR MAKING</text>
+    <text x="48" y="184" fill="#F6F2E9" font-size="66" font-weight="700" letter-spacing="-2">Agent Skills</text>
+    <text x="48" y="257" fill="#E4B896" font-size="66" font-weight="700" letter-spacing="-2">Directory.</text>
+    <text x="51" y="309" fill="#AFBEC9" font-size="19">A brief. A workflow. Something you can use.</text>
+    <path d="M50 352H664" stroke="#34414D"/>
+    <text x="50" y="382" fill="#91A2AF" font-size="12" letter-spacing="1.5">EXPLORE / ADAPT / MAKE</text>
+    <text x="664" y="382" text-anchor="end" fill="#91A2AF" font-size="12">SKILL.md + source</text>
+    <text x="758" y="64" fill="#91A2AF" font-size="12" letter-spacing="2">CHOOSE YOUR NEXT OUTPUT</text>
+    <g>
+      <rect x="754" y="94" width="402" height="60" rx="8" fill="#1D2832"/>
+      <text x="775" y="131" fill="#7F94A4" font-size="13">01</text>
+      <text x="816" y="131" fill="#F6F2E9" font-size="19">Images &amp; visual stories</text>
+      <path d="M1120 118l7 7-7 7" stroke="#E4B896" stroke-width="2"/>
+      <rect x="754" y="164" width="402" height="60" rx="8" fill="#1D2832"/>
+      <text x="775" y="201" fill="#7F94A4" font-size="13">02</text>
+      <text x="816" y="201" fill="#F6F2E9" font-size="19">Video &amp; motion</text>
+      <path d="M1120 188l7 7-7 7" stroke="#E4B896" stroke-width="2"/>
+      <rect x="754" y="234" width="402" height="60" rx="8" fill="#1D2832"/>
+      <text x="775" y="271" fill="#7F94A4" font-size="13">03</text>
+      <text x="816" y="271" fill="#F6F2E9" font-size="19">Decks &amp; presentations</text>
+      <path d="M1120 258l7 7-7 7" stroke="#E4B896" stroke-width="2"/>
+      <rect x="754" y="304" width="402" height="60" rx="8" fill="#1D2832"/>
+      <text x="775" y="341" fill="#7F94A4" font-size="13">04</text>
+      <text x="816" y="341" fill="#F6F2E9" font-size="19">Documents &amp; learning</text>
+      <path d="M1120 328l7 7-7 7" stroke="#E4B896" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
