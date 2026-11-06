@@ -32,7 +32,7 @@ def safe(relative):
                 relative.suffix.lower() in {'.pem', '.key', '.p12', '.pfx'})
 
 
-def public_bytes(data, relative, mapping, originals):
+def public_bytes(data, relative, mapping, originals, identity):
     # Keep historical evidence and third-party attribution byte-for-byte.
     lower = relative.name.lower()
     if any(word in lower for word in ('license', 'licence', 'copyright', 'ofl', 'provenance', 'receipt', 'manifest')):
@@ -41,13 +41,19 @@ def public_bytes(data, relative, mapping, originals):
         text = data.decode('utf-8')
     except UnicodeDecodeError:
         return data
-    for source, identity in sorted(mapping.items(), key=lambda item: len(item[0]), reverse=True):
-        text = text.replace(source, identity['package'])
+    for source, replacement in sorted(mapping.items(), key=lambda item: len(item[0]), reverse=True):
+        text = text.replace(source, replacement['package'])
     for source, record in sorted(originals.items(), key=lambda item: len(item[1]['name']), reverse=True):
         text = text.replace(record['name'], mapping[source]['name'])
     # Generic publisher references are fine; remove direct product/demo routing.
     text = re.sub(r'https?://(?:www\.)?claudeai\.directory/(?:skills|studio)/[^\s\)\]\"<>]+',
                   'https://claudeai.directory/skills', text)
+    if relative.as_posix() == 'SKILL.md':
+        text = re.sub(r'^# [^\r\n]+', '# ' + identity['name'], text, count=1, flags=re.M)
+        if identity.get('description'):
+            text = re.sub(r'^description: [^\r\n]+', 'description: ' + json.dumps(identity['description']), text, count=1, flags=re.M)
+        if identity.get('introduction'):
+            text = re.sub(r'(^# [^\n]+\n\n)[\s\S]*?(?=\n\n)', lambda match: match.group(1) + identity['introduction'], text, count=1, flags=re.M)
     return text.encode('utf-8')
 
 
@@ -76,7 +82,7 @@ def plan(workspace, selected, mapping):
         record['source_package'] = record['package']
         record['package'] = identity['package']
         record['name'] = identity['name']
-        record['description'] = record['description'].replace(original_records[record['source_package']]['name'], identity['name'])
+        record['description'] = identity.get('description') or record['description'].replace(original_records[record['source_package']]['name'], identity['name'])
         record.pop('site', None)
     eligible = {record['package'] for record in records}
     if selected - eligible:
@@ -108,7 +114,7 @@ def plan(workspace, selected, mapping):
                 if reason:
                     omitted.append({'path': target, 'reason': reason})
                 else:
-                    files[target] = public_bytes(path.read_bytes(), relative, mapping, original_records)
+                    files[target] = public_bytes(path.read_bytes(), relative, mapping, original_records, mapping[source_name])
         if record['original']:
             # The owner's open-source direction applies to our original packages.
             # Preserve all nested third-party notices; change only our root licence.

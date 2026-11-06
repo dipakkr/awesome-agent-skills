@@ -1,11 +1,11 @@
 ---
 name: chaptered-product-story
-description: Reproduce the legacy Product Chapters v1 examples only when explicitly requested. New launch-film requests use cad-launch-video.
+description: "Reproduce the legacy 40-second chaptered product-film examples when explicitly requested, using supplied facts and screen captures."
 ---
 
-# Product Chapters
+# Chaptered Product Story
 
-Legacy workflow retained to reproduce the earlier examples. For new launch-video requests, use [Launch Video](../cad-launch-video/SKILL.md). The user rejected these examples as below the reference quality; do not use them as the default launch-film workflow or relabel them as new Launch Video results.
+A legacy workflow for reproducing the bundled chaptered-film composition. Use it when this specific format is requested. Its earlier samples were not accepted as a default for new launch films. For a different launch-story format, see [Flagship Introduction](../flagship-introduction/SKILL.md). Keep the two workflows and their results distinct.
 
 Make a finished launch film, not a planning worksheet. Start from the user's actual product, approved facts and available media. When asked for an example without a product, create an explicitly fictional concept. Do not replace a requested real product with one of the sample brands.
 
