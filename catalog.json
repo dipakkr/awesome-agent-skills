@@ -69,7 +69,7 @@
     {
       "package": "chaptered-product-story",
       "name": "Chaptered Product Story",
-      "description": "Create a complete product launch film with kinetic type, numbered feature chapters, moving interface close-ups and an original instrumental soundtrack.",
+      "description": "Reproduce the legacy 40-second chaptered product-film examples when explicitly requested, using supplied facts and screen captures.",
       "kind": "catalogue",
       "original": true,
       "path": "skills/chaptered-product-story",
@@ -1043,7 +1043,7 @@
     "skills/change-in-numbers/renderer/src/index.jsx": "b4a9a0c77c3a9ea46b5e5d9e1c61f55a0ee03a94287cee012d5a77fbad197285",
     "skills/change-in-numbers/renderer/src/model.mjs": "5edf7bec6ecd77083afeba7af47f9f8aa12f8fd917f8ab92ade627d7e43bf632",
     "skills/chaptered-product-story/LICENSE.txt": "0c1e51586ca764dbe0145c5f478ac2a57f98b8ce6c0e0d239e809dd04233be72",
-    "skills/chaptered-product-story/SKILL.md": "4e98c1e52fe01b2f5f8f31b03c959caaf1268dcbfec7700f75f24077e026e9f8",
+    "skills/chaptered-product-story/SKILL.md": "dbf46329675dbe8e6acf57b1f12fc759434e1c3fca41f7ee37ebddfc47be28bc",
     "skills/chaptered-product-story/assets/fonts/DM-Sans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
     "skills/chaptered-product-story/assets/fonts/DM-Sans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
     "skills/chaptered-product-story/examples/01/brief.json": "715cc6a3c07a0e2dbe938250a9ddc8760d5b15f725612451afc645a7efc82f24",

@@ -11,7 +11,7 @@ Choose a workflow, then open its instructions and supporting source files.
 | [Campaign Shotplan](skills/campaign-shotplan/SKILL.md) | Translate a supported creative idea and real asset inventory into a production handoff with shot beats, missing assets and acceptance checks. |
 | [Campaign Testbench](skills/campaign-testbench/SKILL.md) | Turn a creative question into a controlled test backlog with explicit variables, measurement rules and inconclusive outcomes. |
 | [Change In Numbers](skills/change-in-numbers/SKILL.md) | Regroup quantified tokens and reconcile before-and-after values into an exact time-saving calculation. |
-| [Chaptered Product Story](skills/chaptered-product-story/SKILL.md) | Create a complete product launch film with kinetic type, numbered feature chapters, moving interface close-ups and an original instrumental soundtrack. |
+| [Chaptered Product Story](skills/chaptered-product-story/SKILL.md) | Reproduce the legacy 40-second chaptered product-film examples when explicitly requested, using supplied facts and screen captures. |
 | [Checklist Canvas](skills/checklist-canvas/SKILL.md) | Create a clean LinkedIn checklist or learning graphic with twelve numbered ideas, simple line icons and a three-by-four editorial grid. |
 | [Clean Sku Shot](skills/clean-sku-shot/SKILL.md) | Create clean, consistent product-gallery hero images for a Shopify store from a supplied SKU photo or an explicitly conceptual product brief. |
 | [Click To Finish](skills/click-to-finish/SKILL.md) | Animate a cursor click, button compression and confirmation that folds into a branded call to action. |

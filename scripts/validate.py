@@ -37,6 +37,9 @@ for skill in catalog['skills']:
     body = path.read_text() if path.exists() else ''
     if not re.search(r'^name:\s*' + re.escape(skill['package']) + r'\s*$', body, re.M):
         errors.append(f'Entrypoint name mismatch: {skill["package"]}')
+    heading = re.search(r'^# (.+)$', body, re.M)
+    if not heading or heading.group(1) != skill['name']:
+        errors.append(f'Heading mismatch: {skill["package"]}')
     if not re.search(r'^description:\s*\S', body, re.M):
         errors.append(f'Missing description: {skill["package"]}')
     if skill['original'] and not (root / skill['path'] / 'LICENSE.txt').is_file():
