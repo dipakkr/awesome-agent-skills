@@ -1,35 +1,96 @@
-# Awesome Agent Skills
+<p align="center">
+  <img src="assets/readme-hero.svg" alt="Agent Skills Directory. Reusable workflows for images, video, presentations and documents." width="1200" />
+</p>
 
-Reusable workflows for making images, videos, presentations, learning material
-and practical business documents with AI agents.
+<h1 align="center">Agent Skills Directory</h1>
 
-[Browse all skills](CATALOG.md) · [Get started](#get-started) · [Contribute](CONTRIBUTING.md) · [MIT licence](LICENSE)
+<p align="center">
+  Reusable instructions, scripts and templates for making things with AI agents.<br />
+  Find a workflow, bring your own brief, and make it yours.
+</p>
 
-A skill gives your agent a repeatable way to handle a particular job. Each folder
-contains its instructions, supporting references and any scripts, templates or
-editable examples needed for that workflow. The full reusable source is public.
+<p align="center">
+  <a href="CATALOG.md"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdipakkr%2Fawesome-agent-skills%2Fmain%2Fcatalog.json&amp;query=%24.skills.length&amp;label=skills&amp;style=flat-square&amp;color=e4b896&amp;labelColor=1d2832" alt="Skills in the catalog" /></a>
+  <a href="https://github.com/dipakkr/awesome-agent-skills/stargazers"><img src="https://img.shields.io/github/stars/dipakkr/awesome-agent-skills?style=flat-square&amp;color=e4b896&amp;labelColor=1d2832" alt="GitHub stars" /></a>
+  <a href="https://github.com/dipakkr/awesome-agent-skills/forks"><img src="https://img.shields.io/github/forks/dipakkr/awesome-agent-skills?style=flat-square&amp;color=95b9ad&amp;labelColor=1d2832" alt="GitHub forks" /></a>
+  <a href="https://github.com/dipakkr/awesome-agent-skills/commits/main"><img src="https://img.shields.io/github/last-commit/dipakkr/awesome-agent-skills?style=flat-square&amp;label=updated&amp;color=95b9ad&amp;labelColor=1d2832" alt="Last updated" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-e4b896?style=flat-square&amp;labelColor=1d2832" alt="MIT license" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-95b9ad?style=flat-square&amp;labelColor=1d2832" alt="Pull requests welcome" /></a>
+</p>
 
-## Sponsor
+<p align="center">
+  <a href="CATALOG.md"><strong>Browse skills</strong></a> &nbsp;·&nbsp;
+  <a href="#get-started">Get started</a> &nbsp;·&nbsp;
+  <a href="#what-would-you-like-to-make">Explore categories</a> &nbsp;·&nbsp;
+  <a href="CONTRIBUTING.md">Contribute</a>
+</p>
 
-**[ToolJunction](https://tooljunction.io)** supports this collection.
-Discover AI tools, startup credits and perks for your next project.
+A skill is a repeatable workflow your agent can read and follow. Each folder
+contains a `SKILL.md` entry point, plus the supporting source needed for that
+job. Browse by what you want to make, then read the skill's requirements before
+running it. Tool access and setup vary by workflow.
 
-[Explore ToolJunction →](https://tooljunction.io)
+## Supported by
+
+<table>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://tooljunction.io"><img src="assets/tooljunction-logo.png" width="190" alt="ToolJunction" /></a>
+    </td>
+    <td>
+      <strong><a href="https://tooljunction.io">ToolJunction</a></strong><br />
+      Discover AI tools, startup credits and perks for your next project.<br />
+      <a href="https://tooljunction.io">Explore ToolJunction →</a>
+    </td>
+  </tr>
+</table>
 
 ## What would you like to make?
 
-| Make something | Start with |
-| --- | --- |
-| Product and campaign images | [Benefit Panels](skills/benefit-panels/SKILL.md), [Wardrobe Campaigns](skills/wardrobe-campaigns/SKILL.md), [Punchy Photo Cards](skills/punchy-photo-cards/SKILL.md) |
-| Videos and motion | [Talking Models](skills/talking-models/SKILL.md), [Words In Motion](skills/words-in-motion/SKILL.md), [Clip Assembler](skills/clip-assembler/SKILL.md) |
-| Presentations and proposals | [Funding Story](skills/funding-story/SKILL.md), [Recommendation Room](skills/recommendation-room/SKILL.md), [Client Offer Builder](skills/client-offer-builder/SKILL.md) |
-| Learning material | [Memory Drills](skills/memory-drills/SKILL.md), [Visual Learning Pages](skills/visual-learning-pages/SKILL.md), [Drawn Lessons](skills/drawn-lessons/SKILL.md) |
-| Business and ecommerce documents | [Merchant Intake](skills/merchant-intake/SKILL.md), [Listing Copywriter](skills/listing-copywriter/SKILL.md), [Voice Of Buyer](skills/voice-of-buyer/SKILL.md) |
-| Diagrams and visual explanations | [Team Atlas](skills/team-atlas/SKILL.md), [Concept Layers](skills/concept-layers/SKILL.md), [Workspace Atlas](skills/workspace-atlas/SKILL.md) |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="skills/benefit-panels/SKILL.md"><img src="assets/category-images.svg" width="440" alt="Images &amp; campaigns" /></a><br />
+      <a href="skills/benefit-panels/SKILL.md">Benefit Panels</a><br />
+      <a href="skills/wardrobe-campaigns/SKILL.md">Wardrobe Campaigns</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="skills/talking-models/SKILL.md"><img src="assets/category-motion.svg" width="440" alt="Video &amp; motion" /></a><br />
+      <a href="skills/talking-models/SKILL.md">Talking Models</a><br />
+      <a href="skills/words-in-motion/SKILL.md">Words In Motion</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="skills/funding-story/SKILL.md"><img src="assets/category-decks.svg" width="440" alt="Decks &amp; proposals" /></a><br />
+      <a href="skills/funding-story/SKILL.md">Funding Story</a><br />
+      <a href="skills/client-offer-builder/SKILL.md">Client Offer Builder</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="skills/memory-drills/SKILL.md"><img src="assets/category-learning.svg" width="440" alt="Learning &amp; notes" /></a><br />
+      <a href="skills/memory-drills/SKILL.md">Memory Drills</a><br />
+      <a href="skills/drawn-lessons/SKILL.md">Drawn Lessons</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="skills/merchant-intake/SKILL.md"><img src="assets/category-business.svg" width="440" alt="Business &amp; commerce" /></a><br />
+      <a href="skills/merchant-intake/SKILL.md">Merchant Intake</a><br />
+      <a href="skills/listing-copywriter/SKILL.md">Listing Copywriter</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="skills/team-atlas/SKILL.md"><img src="assets/category-diagrams.svg" width="440" alt="Diagrams &amp; explainers" /></a><br />
+      <a href="skills/team-atlas/SKILL.md">Team Atlas</a><br />
+      <a href="skills/concept-layers/SKILL.md">Concept Layers</a>
+    </td>
+  </tr>
+</table>
 
 **[See the complete collection →](CATALOG.md)**
 
 ## Get started
+
+| ① Pick a skill | ② Bring your brief | ③ Make it yours |
+| --- | --- | --- |
+| Browse the [catalog](CATALOG.md) and read its requirements. | Share your goal, source files and constraints. | Follow the workflow, review the output, and adapt it. |
 
 Clone the repository, or download its ZIP using GitHub's **Code** menu:
 
@@ -84,7 +145,6 @@ criteria. Check the result against your source material before publishing it.
 
 Reusable example briefs and source assets are included where available. Large
 rendered demo exports are omitted. The source index is text-only.
-For a visual browsing experience, visit [Claude Directory](https://claudeai.directory).
 
 ## Explore a skill folder
 
